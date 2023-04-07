@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       562e9ea2-c89f-4382-885a-b0f60241b82c
+:END:
+#+TITLE: 386BSD
+#+FILETAGS: :i386:bsd:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-06
+
+*386BSD* -- дистрибутив [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]], перенесённый на микропроцессоры семества [[id:f76b3972-3740-4068-aade-3f0053eec075][i386]].
+Его прямыми потомками являются операционные системы [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]] и [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]].

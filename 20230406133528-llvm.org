@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       35d4f6e3-59f6-4388-a66d-54374aa389d2
+:END:
+#+TITLE: LLVM
+#+filetags: :programming-tool:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-06
+
+*LLVM* -- проект по разработке инструментов программирования. Расшифровывается
+как Low Level Virtual Machine.
+
+* Resources
+
+- [[https://llvm.org/][LLVM Home Page]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3267f0c3-c098-4f10-b66f-3ed5053e22a1
+:END:
+#+TITLE: Perl
+#+FILETAGS: :perl:programming-language:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-07
+
+*Perl* -- язык программирования, обычно используемый для написания скриптов.
+Когда-то был основным языком в веб-разработке.
+
+* Resources
+
+- [[https://www.perl.org/][Perl Home Page]]

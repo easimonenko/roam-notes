@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c039655d-7ac0-4b66-8ba5-dcc0e006c4fb
+:END:
+#+TITLE: Common Lisp
+#+FILETAGS: :common-lisp:lisp:programming-language:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-07
+
+*Common Lisp* -- стандартизованный вариант языка [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]].
+
+* Resources
+
+- [[https://lisp-lang.org/][Common Lisp Site]]

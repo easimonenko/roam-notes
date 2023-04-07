@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e377aca0-10e7-4369-bacf-8226e256b753
+:END:
+#+TITLE: Redox
+#+FILETAGS: :kernel:unix:rust:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-04
+
+*Redox* -- [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобная [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], написанная на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Её цель
+создание микроядра и полного набора приложений.
+
+* Resources
+
+- [[https://www.redox-os.org/][Redox Home Page]]
+- [[https://gitlab.redox-os.org/redox-os/redox/][Redox Sources]]

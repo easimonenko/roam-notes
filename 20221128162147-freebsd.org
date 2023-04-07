@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ea6dfd3d-03ee-46de-b055-f8488a8e9213
+:END:
+#+TITLE: FreeBSD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-28
+
+*FreeBSD* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] семейства [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]]. Является развитием [[id:562e9ea2-c89f-4382-885a-b0f60241b82c][386BSD]].
+
+* Resources
+
+- [[https://www.freebsd.org/][FreeBSD Home Page]]

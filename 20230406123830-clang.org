@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0ef6ebbe-ddf0-44c0-a081-8c1a0ac0fe56
+:END:
+#+TITLE: CLang
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-06
+
+*CLang* -- набор компиляторов языков программирования [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]], Objective-C,
+OpenCL, CUDA и RenderScript, разрабатываемый в рамках проекта [[id:35d4f6e3-59f6-4388-a66d-54374aa389d2][LLVM]].
+
+* Resources
+
+- [[https://clang.llvm.org/][CLang Home Page]]

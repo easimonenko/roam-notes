@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3f3186cc-0b9d-4172-af60-8a8656b2c9c1
+:END:
+#+TITLE: Debian
+#+FILETAGS: :linux:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-07
+
+*Debian* -- популятный дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]]. У него собственный менеджер
+пакетов *dpkg* собственный инструмент управления зависимостями пакетов *apt*.
+
+* Resources
+
+- [[https://www.debian.org/][Debian Home Page]]

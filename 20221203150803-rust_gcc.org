@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bd6b56fd-3447-4b84-9bdc-287a354c6302
+:END:
+#+TITLE: Rust GCC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-03
+
+*Rust GCC* -- проект по разработке фронтенда к [[id:a0092b10-7454-4551-945c-c5ea9b14bdd3][GCC]] для языка программирования [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]].
+
+* Resources
+
+- [[https://rust-gcc.github.io/][Home Page of GCC Front-End For Rust Project]]
+- [[https://github.com/Rust-GCC][Project on GitHub for GCC Front-End for Rust]]
+- [[https://github.com/Rust-GCC/gccrs][Sources for GCC Front-End for Rust]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       41c05c9e-07d2-4974-9586-4f237a6ad0e2
+:END:
+#+TITLE: Intel 80386
+#+FILETAGS: :i386:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-06
+
+*Intel 80386* -- 32-разрядный микропроцессор компании Intel, начавший очередное
+поколение, основанное на архитектуре микропроцессора Intel 80286.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1e56e54e-eca0-4f07-862d-0e586b2b2865
+:END:
+#+TITLE: Виртуальная частная сеть (Virtual Private Network)
+#+FILETAGS: :vpn:networking:
+#+ROAM_ALIAS: VPN
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-03
+
+*Виртуальная частная сеть* (Virtual Private Network) -- организация частной сети поверх общедоступной.
+
+* References
+
+- [[https://en.wikipedia.org/wiki/Virtual_private_network][Virtual private network / Wikipedia (en)]]
+- [[https://ru.wikipedia.org/wiki/VPN][Виртуальная частная сеть (VPN) / Wikipedia (ru)]]

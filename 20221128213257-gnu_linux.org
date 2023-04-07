@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       608e9bf8-da7a-4156-b4c8-089f57f5d143
+:END:
+#+TITLE: GNU/Linux
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-28
+
+*GNU/Linux* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], основанная системном и прикладном
+программом обеспечении проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]] и [[id:fa77e564-c904-4405-baf5-7071f2296cec][ядра Linux]].
+
+* References
+
+- [[https://www.gnu.org/gnu/linux-and-gnu.en.html][Linux and the GNU System]]

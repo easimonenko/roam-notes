@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       f76b3972-3740-4068-aade-3f0053eec075
+:END:
+#+TITLE: i386
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-06
+
+*i386* -- семейство микропроцессоров 32-разрядной архитектуры, основателем
+которого стал [[id:41c05c9e-07d2-4974-9586-4f237a6ad0e2][Intel 80386]]. Это семейство включает в себя различные
+32-разрядные микропроцессоры как самой компании Intel (вплоть до Pentium-M,
+Atom и Core Solo и Core Duo), так и от других производителей, таких как AMD,
+VIA, Transmeta.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       26f873b6-fbe8-4667-9275-aa7141f431ba
+:END:
+#+TITLE: Emacs Lisp
+#+FILETAGS: :emacs:programming-language:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-07
+
+*Emacs Lisp* -- язык программирования, являющийся центральной частью [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]].
+Является разновидностью [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]], имеет много общего с [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]].

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ce679fa3-32dc-44ff-876d-b5f150096992
+:END:
+#+TITLE: Язык программирования C (C Programming Language)
+#+FILETAGS: :programming-language:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-06
+
+*Язык программирования C* -- простой, низкоуровневый язык программирования,
+программы на котором компилируются в непосредственно исполняемый машинный код.
+
+Название произносится как "си".
+
+Компиляторы: [[id:a0092b10-7454-4551-945c-c5ea9b14bdd3][GCC]], [[id:0ef6ebbe-ddf0-44c0-a081-8c1a0ac0fe56][CLang]]

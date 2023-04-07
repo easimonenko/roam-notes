@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       bbb4f4e6-770e-4c43-838d-e2a300848c75
+:END:
+#+TITLE: org-mode
+#+FILETAGS: :org-mode:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-03
+
+*org-mode* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для ведения заметок, написание документов,
+вычисляемых заметок (notebooks), литературного программирования, ведения списков
+to-do, планирования проектов и много другого, используя простую текстовую
+систему.
+
+* Resources
+
+- [[https://orgmode.org/][org-mode Home Page]]

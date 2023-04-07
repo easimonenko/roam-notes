@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       28c07d0a-c59c-428c-9c2f-6754726996cc
+:END:
+#+TITLE: Zettelkasten
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-29
+
+*Zettelkasten* -- метод ведения заметок, когда заметки логически связываются
+друг с другом, образуя сеть. Придуман и применялся германским учёным Луманом.
+
+* Software
+
+- [[id:be3b2c1d-d3b3-4a10-be44-9fd9c3044c41][org-roam]]​: GNU Emacs mode based on org-mode.
+
+* Resources
+
+- [[https://habr.com/ru/post/508672/][Zettelkasten: как один немецкий учёный стал невероятно продуктивным - Хабр]]

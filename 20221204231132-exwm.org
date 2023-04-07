@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b08e3319-155f-4583-adce-530ba99fb2ec
+:END:
+#+TITLE: EXWM
+#+filetags: :x-window-system:emacs:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-04
+
+*EXWM* -- [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][Emacs]] X Window Manager, оконный менеджер для [[id:c1bd534d-6859-442d-80c0-95850d68c907][X Window System]] на базе
+[[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]]. EXWM использует XELB (X protocol Emacs Binding).
+
+* Tutorials
+
+- [[https://www.youtube.com/watch?v=f7xB2fFk1tQ][Emacs Desktop Environment #1 - Getting Started with EXWM / YouTube]]
+
+* Resources
+
+- [[https://github.com/ch11ng/exwm][EXWM Sources / GitHub]]
+- [[https://github.com/ch11ng/exwm/wiki][EXWM User Guide]]
+- [[https://github.com/ch11ng/xelb][XELB Sources / GitHub]]

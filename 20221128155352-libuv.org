@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       e07038a2-3359-4f8b-bafd-b8006cae1fd3
+:END:
+#+TITLE: libuv
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-28
+
+*libuv* -- многоплатформенная библиотека для осуществления ввода-вывода в асинхронном стиле.
+
+Язык реализации: [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
+[[id:d08deb6c-1afb-4740-8d10-dc38c43460b0][Thread safe]]: none.
+
+Operating Systems:
+- [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]]: implements over [[id:3c0713c8-1011-467f-b63c-38bb3e7119c9][epoll]].
+- [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]]: implements over [[id:955cd385-8abe-46ab-9bf1-e2e249de5a86][kqueue]].
+
+Data Structures:
+- [[id:21e23316-b3ec-4d7f-a114-42e6a42a7470][Splay Tree]]
+
+* Resources
+
+- [[https://libuv.org/][libuv Home Page]]
+- [[http://docs.libuv.org/en/v1.x/][libuv Documentation]]
+- [[https://nikhilm.github.io/uvbook/][An Introduction to libuv]]

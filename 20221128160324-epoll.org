@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3c0713c8-1011-467f-b63c-38bb3e7119c9
+:END:
+#+TITLE: epoll
+#+FILETAGS: :linux:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-28
+
+*epoll* -- системный вызов [[id:fa77e564-c904-4405-baf5-7071f2296cec][ядра Linux]] для механизма масштабируемого
+ввода-вывода, основанного на уведомлениях о событиях. Появился в ядре
+начиная с версии 2.5.44.
+
+* Resources
+
+- [[https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tree/fs/eventpoll.c][Linux epoll source]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0aface9b-cca1-4f54-b505-678db917b047
+:END:
+#+TITLE: tinc
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-03
+
+*tinc* -- программное обеспечения сервера для организации [[id:1e56e54e-eca0-4f07-862d-0e586b2b2865][виртуальной частной сети]].
+
+License: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2
+Programming Language: [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]
+
+* Resources
+
+- [[https://www.tinc-vpn.org/][tinc Home Page]]
+- [[https://www.tinc-vpn.org/repository/][tinc Sources]]

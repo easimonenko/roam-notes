@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       712a249d-e77c-418e-ad95-dd24162c0764
+:END:
+#+TITLE: OpenBSD
+#+FILETAGS: :unix:operating-system:bsd:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-06
+
+*OpenBSD* -- [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобная [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] семейства [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]]. Является
+ответвлением от [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]].
+
+* Resources
+
+- [[https://www.openbsd.org/][OpenBSD Home Page]]

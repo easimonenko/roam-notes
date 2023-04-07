@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       70387987-1589-4241-b49a-f1e7d3df0743
+:END:
+#+TITLE: GNU
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-03
+
+*GNU* -- рекурсивный акроним для "GNU's Not Unix". Это проект по разработке
+и название свободной [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобной [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][лицензией GNU GPL]].
+
+* Resources
+
+- [[https://www.gnu.org/][Home Page of GNU Operating System]]
+
+* See also
+
+- [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]]

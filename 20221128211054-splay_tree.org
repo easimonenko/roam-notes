@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       21e23316-b3ec-4d7f-a114-42e6a42a7470
+:END:
+#+TITLE: Splay Tree
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-28
+
+*Splay Tree* -- двоичное дерево поиска (binary search tree) с дополнительным
+свойством, таким ято к недавно полученным элементам можно было быстро получить
+доступ снова.
+
+По-русски также называется скошенное дерево, раскидистое дерево, расширяющееся дерево.
+
+* References
+
+- [[https://en.wikipedia.org/wiki/Splay_tree][Splay Tree / Wikipedia (en)]]
+- [[https://ru.wikipedia.org/wiki/Splay-дерево][Splay-дерево / Wikipedia (ru)]]
+- Data Structures and Problem solving using C++, 2nd edition / Mark Allen Weiss. ISBN 0-201-61250-X
+- Организация структур данных и решение задач на C++ / Уайс Марк Аллен. ISBN 978-5-9790-0074-9

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       fa77e564-c904-4405-baf5-7071f2296cec
+:END:
+#+TITLE: Ядро Linux (Linux Kernel)
+#+FILETAGS: :operating system:kernel:linux:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-28
+
+*Ядро Linux* или просто ядро (kernel) -- ядро [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобной [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]].
+
+Лицензия: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]]
+
+* Resources
+
+- [[https://www.kernel.org/][Linux Kernel Sources]]

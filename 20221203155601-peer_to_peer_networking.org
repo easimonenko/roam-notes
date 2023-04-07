@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ea8f17a8-e200-42db-8c1b-8aa02d4c1107
+:END:
+#+TITLE: Peer-to-Peer Networking
+#+FILETAGSs: :networking:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-03
+
+*Peer-to-Peer Networking* (P2P сети) -- сетевое взаимодействие хостов напрямую,
+один к одному.
+
+* References
+
+- A Definition of Peer-to-Peer Networking for the Classification of Peer-to-Peer
+  Architectures and Applications / Ruediger Schollmeier [[doi:10.1109/P2P.2001.990434][DOI: 10.1109/P2P.2001.990434]]

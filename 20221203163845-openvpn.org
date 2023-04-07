@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0d0b43d6-ec41-4514-ad43-2140a241a7fa
+:END:
+#+TITLE: OpenVPN
+#+FILETAGS: :vpn:networking:
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-12-03
+
+*OpenVPN* -- программное обеспечение сервера для организации [[id:1e56e54e-eca0-4f07-862d-0e586b2b2865][виртульной частной сети]].
+
+* Resources
+
+- [[https://openvpn.net/][OpenVPN Company Home Page]]
+- [[https://github.com/OpenVPN][OpenVPN Company on GitHub]]
+- [[https://github.com/OpenVPN/openvpn][OpenVPN Sources on GitHub]]
+
+* References
+
+- [[https://en.wikipedia.org/wiki/OpenVPN][OpenVPN / Wikipedia (en)]]
+- [[https://ru.wikipedia.org/wiki/OpenVPN][OpenVPN / Wikipedia (ru)]]
