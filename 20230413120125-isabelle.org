@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1ce22d76-f9fe-4c08-a833-55dbbf40e223
+:END:
+#+TITLE: Isabelle
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-13
+
+*Isabelle* -- универсальный [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощник в доказательстве]].
+
+* Resources
+
+- [[https://www.cl.cam.ac.uk/research/hvg/Isabelle/][Isabelle Home Page]]

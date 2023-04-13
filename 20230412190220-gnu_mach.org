@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0fdb5324-83dd-49e9-b6aa-98c3a8acd09a
+:END:
+#+TITLE: GNU Mach
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-12
+
+*GNU Mach* -- микроядро операционной системы GNU/Hurd проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].
+
+* Resources
+
+- [[https://www.gnu.org/software/hurd/microkernel/mach/gnumach.html][GNU Mach Home Page]]
+- [[https://ftp.gnu.org/gnu/gnumach/][GNU Mach FTP Server]]

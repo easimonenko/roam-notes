@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f30a559e-f6ca-4940-a6ff-20cdcf22e7f8
+:END:
+#+TITLE: GNU Hurd
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-12
+
+*GNU Hurd* -- ядро [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Это ядро основано на микроядре [[id:0fdb5324-83dd-49e9-b6aa-98c3a8acd09a][GNU Mach]].
+
+* Resources
+
+- [[https://www.gnu.org/software/hurd/][GNU Hurd Kernel Home Page]]
+- [[https://ftp.gnu.org/gnu/hurd/][GNU Hurd FTP Server]]

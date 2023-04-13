@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e3f6ef10-bb16-46fd-a0b4-be60da3208fa
+:END:
+#+TITLE: seL4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-13
+
+*seL4* -- [[id:2fae1661-578e-4cc3-bfc3-3882b563b34f][микроядро]], реализующее интерфейс микроядер семейства L4 и прошедщее
+формальную верификацию. Собственно ядро написано на [[id:ce679fa3-32dc-44ff-876d-b5f150096992][языке C]], а формальная
+верификация проведена с использованием [[id:1ce22d76-f9fe-4c08-a833-55dbbf40e223][Isabelle]].
+
+* Resources
+
+- [[https://sel4.systems/][seL4 Home Page]]
+- [[https://github.com/seL4/seL4][seL4 GitHub Repository]]
+
+* References
+
+- [[doi:10.1145/2560537][Comprehensive Formal Verification of an OS Microkernel]]

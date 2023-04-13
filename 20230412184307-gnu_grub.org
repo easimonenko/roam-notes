@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       de9cf7c2-2343-4226-9fcc-1663047d024a
+:END:
+#+TITLE: GNU GRUB
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-12
+
+*GNU GRUB* -- загрузчик операционных систем проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Расшифровывается
+как *GRand Unified Bootloader*. Заменил собой оригинальный GRUB (так называемый
+GRUB Legacy). Умеет загружать непосредственно [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] и [[id:1cf387f2-2fe8-49a2-89cb-6ccc98c255a1][GNU/Hurd]], а также
+запускать загрузчики других [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционных систем]].
+
+* Resources
+
+- [[https://www.gnu.org/software/grub/][GNU GRUB Home Page]]
+- [[https://ftp.gnu.org/gnu/grub/][GNU GRUB FTP Server]]
+- [[https://git.savannah.gnu.org/git/grub.git][GNU GRUB Git Repository]]

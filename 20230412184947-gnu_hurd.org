@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1cf387f2-2fe8-49a2-89cb-6ccc98c255a1
+:END:
+#+TITLE: GNU/Hurd
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-12
+
+*GNU/Hurd* -- операционная система проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]] с ядром [[id:f30a559e-f6ca-4940-a6ff-20cdcf22e7f8][Hurd]].
+
+* Resources
+
+- [[https://www.gnu.org/software/hurd/][GNU Hurd Kernel Home Page]]
