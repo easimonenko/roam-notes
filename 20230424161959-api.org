@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       656e1c2e-4186-43be-ace8-afce1862dac1
+:END:
+#+TITLE: API
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-24
+
+*API* (Application Programming Interface) -- прикладной программный интерфейс.
+Набор функций, доступных программисту для использования при разработке своих
+программ. Чаще всего ассоциируется с системным API, например:
+
+- *WinAPI* -- API операционной системы Windows.
+- *POSIX* -- стандартизованный API [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобных ОС.

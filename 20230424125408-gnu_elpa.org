@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       49d272a4-4da4-4979-a26f-3e6ea29f91fb
+:END:
+#+TITLE: GNU ELPA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-24
+
+*GNU ELPA* (GNU Emacs Lisp Package Archive) -- репозиторий пакетов для [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]]
+проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Содержит пакеты с полностью свободным кодом, одобренные управляющими
+этим репозиторием. Является репозиторием по умолчанию.
+
+У GNU ELPA существует дополняющий репозиторий [[id:415426d9-318f-4a5d-bf58-e17fe4e36816][NonGNU ELPA]].
+
+* Resources
+
+- [[https://elpa.gnu.org/][GNU ELPA Home Page]]
+- [[https://git.savannah.gnu.org/cgit/emacs/elpa.git/plain/README][GNU ELPA Rules]]

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       a9978507-5554-4da8-af06-3405b1fea691
+:END:
+#+TITLE: MELPA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-24
+
+*MELPA* (Milkypostman’s Emacs Lisp Package Archive) -- популярный репозиторий
+пакетов для [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]]. Существует в двух вариантах: основной и стабильный
+(stable). В первом случае новый пакет формируется для каждого коммита в
+репозиторий исходных текстов, во втором -- только когда в репозитории появляется
+новый тег. В первом варианте пакетов значитально больше, но наиболее популятные
+есть и там, и там.
+
+Другие репозитории пакетов для GNU EMacs:
+
+- [[id:49d272a4-4da4-4979-a26f-3e6ea29f91fb][GNU ELPA]]
+- [[id:415426d9-318f-4a5d-bf58-e17fe4e36816][NonGNU ELPA]]
+
+* Resources
+
+- [[https://melpa.org/][MELPA Home Page]]
+- [[https://stable.melpa.org/][MELPA Stable Home Page]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       415426d9-318f-4a5d-bf58-e17fe4e36816
+:END:
+#+TITLE: NonGNU ELPA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-24
+
+*NonGNU ELPA* (NonGNU Emacs Lisp Package Archive) -- репозиторий пакетов для
+[[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], дополняющий архив GNU ELPA. Чтобы пакет мог быть добавлен в
+этот репозиторий, он должен удовлетворять правилам архива и быть одобренным
+управляющими этого архива.
+
+* Resources
+
+- [[https://elpa.nongnu.org/][NonGNU ELPA Home Page]]
+- [[https://git.savannah.gnu.org/cgit/emacs/nongnu.git/plain/README.org][NonGNU ELPA Rules]]

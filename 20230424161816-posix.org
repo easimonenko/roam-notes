@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       927f09f9-d4df-4398-9372-6f8c38823dfe
+:END:
+#+TITLE: POSIX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-24
+
+*POSIX* (Portable Operating System Interface) -- стандарт на системный [[id:656e1c2e-4186-43be-ace8-afce1862dac1][API]],
+предоставляемый операционными системами типа [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]], но не только.

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5c6b9453-80d8-4906-8906-17bda969660e
+:END:
+#+TITLE: Embox
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-24
+
+*Embox* -- монолитная операционная система, реализующая [[id:927f09f9-d4df-4398-9372-6f8c38823dfe][POSIX]] и стремящаяся
+на прикладном уровне быть совместимой с [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]].
+
+Основное применение для:
+
+- встраиваемые системы
+- облачные приложения
+
+* Resources
+
+- [[https://embox.github.io/][Embox Home Page]]
+- [[https://github.com/embox/embox][Embox GitHub Repository]]
