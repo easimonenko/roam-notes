@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a48628a3-d792-47a0-af2c-7fe671c1d03d
+:END:
+#+TITLE: LSP Mode
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-29
+
+*LSP Mode* -- режим для [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], добавляющий поддержку протокола
+языковых серверов [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]]. Представлен в виде пакета lsp-mode. Имеет альтернативу
+в лице [[id:3d9a6fad-8da8-4225-91c6-50468a2c3606][Eglot]].
+
+* Resources
+
+- [[https://emacs-lsp.github.io/lsp-mode/][LSP Mode Home Page]]
+- [[https://github.com/emacs-lsp/lsp-mode/][LSP Mode GitHub Repository]]

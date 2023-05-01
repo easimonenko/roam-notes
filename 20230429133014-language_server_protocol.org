@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       cc2d2189-c8fb-4988-a556-aa9584a70a83
+:END:
+#+TITLE: Language Server Protocol
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-04-29
+
+*Language Server Protocol* (LSP) -- протокол для языковых серверов, разработанный
+компанией Microsoft для унификации инструментов программирования. Используя один и
+тот же LSP сервер можно иметь поддержку языка программирования в разных средах и
+редакторах кода.
