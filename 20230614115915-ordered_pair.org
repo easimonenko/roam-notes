@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       59a01232-f015-4e43-b63f-e26bbf5ef346
+:END:
+#+TITLE: Упорядоченная пара (Ordered Pair)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-06-14
+
+*Упорядоченная пара* (Ordered Pair) -- частный случай кортежа, состоящего из
+двух элементов.
+
+* References
+
+- [[https://en.wikipedia.org/wiki/Ordered_pair][Ordered pair / Wikipedia (EN)]]

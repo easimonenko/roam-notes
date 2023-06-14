@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4c3ad8ca-58ef-4133-ab6a-38c9b36bb8d5
+:END:
+#+TITLE: Неупорядоченная пара (Unordered Pair)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-06-14
+
+*Неупорядоченная пара* (Unordered Pair) -- совокупность из двух сущностей,
+формально множество из двух элементов.
+
+* References
+
+- [[https://en.wikipedia.org/wiki/Unordered_pair][Unordered pair / Wikipedia (EN)]]
