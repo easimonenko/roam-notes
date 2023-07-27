@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       99dfefd3-0bb5-4023-88a1-6d6a2b2e8379
+:END:
+#+TITLE: Графовая нейронная сеть (Graph Neural Network)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-07-06
+
+*Графовая нейронная сеть* (Graph Neural Network, GNN) -- класс искусственных
+нейронных сетей, предназначенных для [[id:c76f4f6f-b849-4b9a-8c87-306489bccc61][обработки данных]], представимых в виде [[id:e080209a-0e6b-43f9-80ef-3bb9cf0a7375][графа]].
+
+* References
+
+- [[https://en.wikipedia.org/wiki/Graph_neural_network][Graph Neural Network / Wikipedia (EN)]]
+- [[https://habr.com/ru/companies/vk/articles/557280/][Что такое графовые нейронные сети / Хабр]]
+- [[https://habr.com/ru/articles/491576/][Трансформеры как графовые нейронные сети / Хабр]]

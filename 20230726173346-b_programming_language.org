@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       033085b5-6cf3-48ed-a2d6-4570e3e742e1
+:END:
+#+TITLE: Язык программирования B (B Programming Language)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-07-26
+
+*Язык программирования B* -- простой бестиповый интерпретируемый язык
+программирования. Бестиповость здесь означает, что язык обрабатывает данные
+одного типа: машинного слова, которое интерпретируется либо как число, либо как
+адрес.
+
+На основе синтаксиса языка B был разработан компилируемый статически
+типизированный [[id:ce679fa3-32dc-44ff-876d-b5f150096992][язык C]].
+
+* References
+
+- [[https://www.bell-labs.com/usr/dmr/www/kbman.pdf][Users reference to B / K. Thompson]]
+- [[https://www.bell-labs.com/usr/dmr/www/btut.pdf][A Tutorial Introduction to the Language B / B. W. Kernighan]]
+- [[https://www.bell-labs.com/usr/dmr/www/bintro.html][The Programming Language B / S. C. Johnson, B. W. Kernighan]]

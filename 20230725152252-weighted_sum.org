@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       5caf0fd5-6965-432f-a53a-e376510429ce
+:END:
+#+TITLE: Взвешенная сумма (Weighted Sum)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-07-25
+
+*Взвешенная сумма* (Weighted Sum) -- в отличие от простой суммы значений здесь
+каждое значение домножается на так называемый вес (weight). Т.е. пусть $x_i$ --
+набор значений, а $w_i$ -- те самые веса, $1 \le i \le n$, тогда взвешенная
+сумма $W$ определяется так:
+
+\begin{equation}
+W = \sum_{i = 1}^{n} w_i \cdot x_i
+\end{equation}
