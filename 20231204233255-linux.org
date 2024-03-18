@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       663bfb6b-e0c2-4d22-be34-652132ebbac9
+:END:
+#+TITLE: Linux
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2023-12-04
+
+**Linux** может означать как [[id:fa77e564-c904-4405-baf5-7071f2296cec][ядро Linux]], так и операционную систему [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]].

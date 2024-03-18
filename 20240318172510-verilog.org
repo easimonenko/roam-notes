@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8e308b66-c084-40af-a400-f87d873f6812
+:END:
+#+TITLE: Verilog
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-18
+
+*Verilog HDL* (Verilog Hardware Description Language) -- один из двух самых распространённых языков описания
+конфигурации FPGA.
+
+Другим распространённым языком аналогичного назначения является [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].

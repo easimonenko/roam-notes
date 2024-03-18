@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       662ebbde-7dec-4240-a232-b5a0dafb6185
+:END:
+#+TITLE: VHDL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-18
+
+*VHDL* (Very high speed integrated circuits Hardware Description Language) -- язык описания аппаратуры интегральных
+схем.
+
+См. также Verilog HDL.

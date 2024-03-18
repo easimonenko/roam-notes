@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       791f1323-1033-43ff-94b0-70d04e00ece5
+:END:
+#+TITLE: Yosys
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-18
+
+*Yosys* (Yosys Open Synthesis Suite) -- синтезатор для RTL.
+
+* Resources
+
+- [[https://yosyshq.net/yosys/][Yosys Home Page]]
+- [[https://github.com/YosysHQ/yosys][Yosys GitHub]]

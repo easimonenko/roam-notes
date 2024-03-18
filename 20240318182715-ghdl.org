@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a2e0dd74-02d3-4fe3-b491-d29d96d57755
+:END:
+#+TITLE: GHDL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-18
+
+*GHDL* -- проект по разработке свободных инструментов для [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].
+
+GHDL включает в себя:
+
+- [[https://github.com/ghdl/ghdl][GHDL]]: анализатор, компилятор, симулятор и синтезатор для VHDL.
+- [[https://github.com/ghdl/ghdl-language-server][GHDL Language Server Protocol]]: [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]] сервер для VHDL и расширение для Visual Studio Code.
+- [[https://github.com/ghdl/ghdl-yosys-plugin][GHDL Yosys Plugin]]: VHDL синтезатор на базе GHDL и [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]].
