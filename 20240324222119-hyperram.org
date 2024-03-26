@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a56d5e8f-7788-4b63-8605-03d39331858a
+:END:
+#+TITLE: HyperRAM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-24
+
+*HyperRAM* -- высокоскоростная [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][RAM]] с шиной HyperBus компании Cypress Semiconductor (ныне поглощена компанией
+Infineon Technologies). Представляет из себя микросхему CMOS внутренне работающую как [[id:46dff65f-189e-4ad4-a449-14849993babb][DRAM]], а внешне как [[id:8c5b7889-057d-43b5-9070-32906a60d40a][SRAM]],
+за счёт внутренней схемы обновления содержимого.
+
+* Resources
+
+- [[https://www.infineon.com/cms/en/product/memories/psram-pseudostatic-dram/][PSRAM – Pseudostatic RAM]]
+- [[https://github.com/MJoergen/HyperRAM][HyperRAM controller for FPGA written in VHDL]]

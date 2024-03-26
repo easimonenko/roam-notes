@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5abfa913-146c-44fb-b0da-82980ba450bb
+:END:
+#+TITLE: Hardware Description Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-26
+
+*Hardware Description Language* (HDL) -- язык описания аппаратуры. К HDL относятся [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] и [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].

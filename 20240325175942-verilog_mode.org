@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8c3d2be0-27b9-405e-9f84-ecdc3a59e17a
+:END:
+#+TITLE: verilog-mode
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-25
+
+*verilog-mode* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для файлов [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]].
+
+* Resources
+
+- [[https://www.veripool.org/verilog-mode/][Home page]]
+- [[https://elpa.gnu.org/packages/verilog-mode.html][GNU ELPA page]]

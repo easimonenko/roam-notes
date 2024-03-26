@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c6f2897c-e9a9-4700-b0be-059df1df94e3
+:END:
+#+TITLE: Icarus Verilog
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-26
+
+*Icarus Verilog* -- свободный компилятор для [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]].
+
+* Resources
+
+- [[https://steveicarus.github.io/iverilog/][Home Page]]
+- [[https://github.com/steveicarus/iverilog][GitHub Page]]

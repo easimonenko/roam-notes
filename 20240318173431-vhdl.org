@@ -8,6 +8,6 @@
 #+DATE: 2024-03-18
 
 *VHDL* (Very high speed integrated circuits Hardware Description Language) -- язык описания аппаратуры интегральных
-схем.
+схем. Т.е. является языком [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]].
 
-См. также Verilog HDL.
+См. также [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog HDL]].

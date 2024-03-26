@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       72c72c08-681f-4e21-9ca4-eec10be92809
+:END:
+#+TITLE: Verilator
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-26
+
+*Verilator* -- свободный компилятор, симулятор и линтер для [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]].
+
+* Resources
+
+- [[https://github.com/verilator/verilator][GitHub Page]]

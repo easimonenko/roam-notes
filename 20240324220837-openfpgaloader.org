@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       477d761c-116b-4ded-bfe6-d1cf28b47cf4
+:END:
+#+TITLE: openFPGALoader
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-24
+
+*openFPGALoader* -- универсальная утилита для записи прошивок в [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] различных производителей.
+
+* Resources
+
+- [[https://trabucayre.github.io/openFPGALoader/][Home Page]]
+- [[https://github.com/trabucayre/openFPGALoader][GitHub Paga]]
