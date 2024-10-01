@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       47cde226-c2de-42a9-87e2-73df92be0eac
+:END:
+#+TITLE: IP-камера (IP Camera)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-09-29
+
+*IP-камера (IP Camera)* -- цифровая видеокамера, передающая видеопоток по сети Ethernet с использованием протокола IP.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/IP-камера][Wikipedia (RU)]]
+- [[https://en.wikipedia.org/wiki/IP_camera][Wikipedia (EN)]]

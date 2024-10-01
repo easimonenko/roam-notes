@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       930f2ec5-7984-411d-858e-97571ec87649
+:END:
+#+TITLE: Buildroot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-09-29
+
+*Buildroot* -- инструментарий для кросс-компиляции систем на базе [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]].
+
+* Resources
+
+- [[https://buildroot.org/][Buildroot Home Page]]

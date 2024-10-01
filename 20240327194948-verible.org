@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bf0f45cb-83c7-441e-b4cf-463db573181d
+:END:
+#+TITLE: Verible
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-03-27
+
+*Verible* -- свободный набор инструментов для [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] от организации ChipsAlliance. Включает в себя:
+линтер, форматер и сервер [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]].
+
+* Resources
+
+- [[https://chipsalliance.github.io/verible/][Home Page]]
+- [[https://github.com/chipsalliance/verible][GitHub Page]]

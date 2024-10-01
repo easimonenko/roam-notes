@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2d959026-94b9-4769-a939-253cbef1b7a1
+:END:
+#+TITLE: MIPS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-09-29
+
+*MIPS* -- одна из самых распространённых архитектур для микропроцессоров. Изначальное является сокращением от названия проекта
+Стэнфордского университета Microprocessor without Interlocked Pipeline Stages.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/MIPS_(архитектура)][Wikipedia (RU)]]

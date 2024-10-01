@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d60573e4-0481-4246-9be9-e10c33125d05
+:END:
+#+TITLE: ARM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-09-29
+
+*ARM* -- одна из самых массовых архитектур как для процессоров, так и для микроконтроллеров. Название появилось как сокращение от
+Advanced RISC Machine. ARM разрабатывается и лицензируется одноименной компанией.
+
+* Resources
+
+- [[https://www.arm.com/][ARM Company Home Page]]
