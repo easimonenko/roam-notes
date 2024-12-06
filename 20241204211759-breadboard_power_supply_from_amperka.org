@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       6b24653f-dc67-4606-9497-e7dae398b768
+:END:
+#+TITLE: Breadboard Power Supply from Amperka
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-04
+
+Модуль питания макетной платы компании [[id:6ca69e7f-a980-4ff1-9221-1066e9daa38d][Амперка]] предназначен для установки на макетную плату (breadboard):
+
+- Имеет две группы выходных контактов по три пары штырьков для подачи питания на каждую из питающих линий макетной платы. С помощью джамперов эти два канала независимо настраиваются на выдачу 3.3V или 5V.
+- Питание на модуль может подаваться на DC Jack или на Micro USB.
+- Входное напряжение на DC Jack может составлять от 7V до 12v.
+- Входное напряжение на Micro USB может составлять 5V.
+- Суммарный максимальный выходной ток 600mA
+- Имеется переключатель включения-выключения модуля.
+
+
+Модуль может использоваться для питания отдельно от макетной платы. Для этого нужно подключать соответствующие два провода с концом типа мама к парам выходных контактов.
+
+* Resources
+
+- [[https://amperka.ru/product/breadboard-power-supply][Product Page]]
+- [[https://www.youtube.com/watch?v=HRbhdhLoEz8][Product Video]]
+- [[https://wiki.amperka.ru/products:breadboard-power-supply][Documentation]]

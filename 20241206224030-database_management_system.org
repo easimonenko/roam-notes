@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ffd54b78-c2bf-44d8-9927-502ca963b280
+:END:
+#+TITLE: Система управления базами данных (Database Management System)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-06
+
+*Система управления базами данных (СУБД)* (Database Management System, DBMS) -- программное обеспечение, обеспечивающее создание, хранение баз данных, а также поиск в них и другие операции.
+
+** Resources
+
+- [[https://ru.wikipedia.org/wiki/Система_управления_базами_данных][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Database#Database_management_system][Wikipedia [EN]​]]

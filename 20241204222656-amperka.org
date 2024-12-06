@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6ca69e7f-a980-4ff1-9221-1066e9daa38d
+:END:
+#+TITLE: Amperka
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-04
+
+*Амперка* -- российская компания, разработчик, производитель и продавец образовательной и DIY электроники.
+
+* Resources
+
+- [[https://amperka.ru/][Home Page]]
