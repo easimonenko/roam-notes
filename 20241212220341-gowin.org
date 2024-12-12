@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fa2ca90f-4944-44d6-9ffe-d2760e1a37a8
+:END:
+#+TITLE: Gowin
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+
+*Gowin Semiconductor* -- китайская компания, разработчик и производитель микроэлектроники, в том числе [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]].
+
+* Resources
+
+- [[https://www.gowinsemi.com/en/][Home Page]]
+- [[https://www.gowinsemi.com/en/product/detail/46/][LittleBee FPGA (GW1N)]]
+- [[https://www.gowinsemi.com/en/product/detail/38/][Arora FPGA (GW2A)]]

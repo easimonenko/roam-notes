@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3bba487a-48bd-4522-94b2-aac83f170539
+:END:
+#+TITLE: Oscillator
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+#+FILETAGS: :electronics:
+
+*Генератор сигналов* (Oscillator) -- устройство, производящее сигнал определённой природы с заданными характеристиками. Основано на [[id:94c89cc3-cd9c-4f12-83c6-6d0a07908802][колебательных процессах]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Генератор_сигналов][Wikipedia [RU]​]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       700f6cb8-8388-4b20-a53e-06a3f2ac01ba
+:END:
+#+TITLE: SO-DIMM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-10
+
+*SO-DIMM* (Small Outline DIMM) -- форм-фактор модулей памяти DIMM, обычно применяемых в ноутбуках.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/DIMM#SO-DIMM][Wikipedia [EN]​]]

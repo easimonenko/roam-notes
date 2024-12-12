@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       ecb0a783-bc60-407f-8e7a-a28a638da294
+:END:
+#+TITLE: Tang Primer 20K
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-10
+#+FILETAGS: :fpga:gowin:sipeed:
+
+*Tang Primer 20K* --[[id:ee4ab350-11bf-4e55-8bfe-9d6226009b5d][SoM]] в [[id:94aa609f-76c8-4ca9-bc3d-f5ffc3bbc7e0][форм-факторе]] [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] с чипом [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] GW2A-LV18PG256C8/I7 компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]]. Разработан, производится и продаётся китайской компанией [[id:2bdab81a-8fb7-4656-b467-311b5452adb7][Sipeed]].
+
+В номенклатуре изделий также называется Core board.
+
+Может подключаться к специально разработанным той же компанией платам с расширенным внешним интерфейсом:
+
+- Dock ext-board:
+  - по функциональности аналогична одноплатным компьютерам;
+  - имеет встроенный программатор.
+- Lite ext-board:
+  - по функциональности аналогична простым отладочным платам;
+  - требует внешний программатор, подключаемый к Core board.
+
+* Resources
+
+- [[https://habr.com/ru/companies/timeweb/articles/747346/][Обзор на русском языке / Хабр]]
+- [[https://habr.com/ru/companies/timeweb/articles/748594/][Пример программирования на русском языке / хабр]]
+- [[https://github.com/sipeed/TangPrimer-20K-example][Examples in Verilog by Sipeed]]
+- [[https://dl.sipeed.com/shareURL/TANG/Primer_20K][Official Documentation and Specifications]]
+- [[https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/primer-20k.html][Official Wiki Page]]
+- [[https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/examples/lite/blink.html][LED Blink Example]]
+- [[https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/examples/led.html][LED Blink with Dock Example]]

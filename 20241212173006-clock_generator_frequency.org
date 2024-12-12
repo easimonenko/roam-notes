@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       de41536f-fbe1-44e2-adfd-dcca42c69655
+:END:
+#+TITLE: Clock Generator Frequency
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+#+FILETAGS: :electronics:
+
+*Частота тактового генератора* (Clock Generator Frequency) -- основная характеристика тактового генератора, показывающая, как часто тот выдаёт сигнал.
+
+Далее смотри [[id:7f73749a-f868-4951-a021-93fc5ccd6771][Frequency]].

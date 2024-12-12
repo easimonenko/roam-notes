@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8a07a5ed-d380-4bbf-9461-6630a516481e
+:END:
+#+TITLE: Clock Generator
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+#+FILETAGS: :electronics:
+
+*Тактовый генератор* (Clock Generator) -- [[id:b139bbe8-5d56-4f3f-97e7-cb242bae1ae6][электронный генератор]] прямоугольных сигналов заданной частоты. Производит так называемый [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][тактовый сигнал]].
+
+Также носит названия:
+
+- генератор тактовых импульсов
+- генератор тактовой частоты
+
+Типы:
+
+- классический: строится на простейших электронных компонентах:
+- кварцевый: строится на основе кварцевого резонатора.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Генератор_тактовых_импульсов][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Clock_generator][Wikipedia [EN]​]]

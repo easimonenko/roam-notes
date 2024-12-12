@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       94c89cc3-cd9c-4f12-83c6-6d0a07908802
+:END:
+#+TITLE: Oscillation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+
+*Колебания* (Oscillation) -- повторяющийся процесс некторой природы.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Колебания][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Oscillation][Wikipedia [EN]​]]

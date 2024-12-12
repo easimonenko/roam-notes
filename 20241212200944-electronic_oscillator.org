@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b139bbe8-5d56-4f3f-97e7-cb242bae1ae6
+:END:
+#+TITLE: Electronic Oscillator
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+#+FILETAGS: :electronics:
+
+*Электронный генератор сигналов* (Electronic Oscillator) -- [[id:3bba487a-48bd-4522-94b2-aac83f170539][генератор]] электрических сигналов.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Electronic_oscillator][Wikipedia [EN]​]]

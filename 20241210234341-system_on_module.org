@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ee4ab350-11bf-4e55-8bfe-9d6226009b5d
+:END:
+#+TITLE: System on Module
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-10
+
+*System on Module* -- плата с чипом CPU, MCU, DSP или FPGA с необходимой обвязкой и со специальным интерфейсом, предназначенным для соединения с базовой платой (dock, base board).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Система_на_модуле][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/System_on_module][Wikipedia [EN]​]]

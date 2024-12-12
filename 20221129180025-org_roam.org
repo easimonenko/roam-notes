@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-11-29
+#+FILETAGS: :emacs:org-mode:zettelkasten:
 
-*org-roam* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], основанный на [[id:bbb4f4e6-770e-4c43-838d-e2a300848c75][org-mode]], для ведения заметок
-в стиле [[id:28c07d0a-c59c-428c-9c2f-6754726996cc][zettelkasten]].
+*org-roam* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], основанный на [[id:bbb4f4e6-770e-4c43-838d-e2a300848c75][org-mode]], для ведения заметок в стиле [[id:28c07d0a-c59c-428c-9c2f-6754726996cc][zettelkasten]].
 
 * Tutorials
 
@@ -17,9 +17,8 @@
 * Resources
 
 - [[https://www.orgroam.com/][Org-roam Home Page]]
+- [[https://www.orgroam.com/manual.html][Org-roam Manual]]
 - [[https://github.com/org-roam][Org-roam GitHub Organization]]
 - [[https://github.com/org-roam/org-roam][org-roam]]: GitHub repository for GNU Emacs package org-roam.
-- [[https://github.com/org-roam/org-roam-ui][org-roam-ui]]: GitHub repository for GNU Emacs package,
-   web browser client for graph visualization org-roam zettelkasten.
-- [[https://github.com/org-roam/org-roam-server][org-roam-server]]: GitHub repository for GNU Emacs package,
-   server for graph visualization org-roam zettelkasten.
+- [[https://github.com/org-roam/org-roam-ui][org-roam-ui]]: GitHub repository for GNU Emacs package, web browser client for graph visualization org-roam zettelkasten.
+- [[https://github.com/org-roam/org-roam-server][org-roam-server]]: GitHub repository for GNU Emacs package, server for graph visualization org-roam zettelkasten.

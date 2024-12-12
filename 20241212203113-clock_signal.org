@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ef85db82-4e06-4022-ad84-be41d8d03aaf
+:END:
+#+TITLE: Clock Signal
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+#+FILETAGS: :electronics:
+
+*Тактовый сигнал* (Clock Signal) -- электронный логический сигнал, изменяющийся между двумя фиксированными значениями с постоянной [[id:7f73749a-f868-4951-a021-93fc5ccd6771][частотой]]. Обычно имеет форму [[id:a5afa1a6-2e06-4449-83d7-06ed9fbb833c][меандра]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Тактовый_сигнал][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Clock_signal][Wikipedia [EN]​]]

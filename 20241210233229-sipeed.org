@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2bdab81a-8fb7-4656-b467-311b5452adb7
+:END:
+#+TITLE: Sipeed
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-10
+
+*Sipeed* -- китайская компания, разработчик, производитель и продавец микроэлектроники.
+
+* Resources
+
+- [[https://sipeed.com/][Home Page]]
+- [[https://wiki.sipeed.com/en/index.html][Wiki]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       94aa609f-76c8-4ca9-bc3d-f5ffc3bbc7e0
+:END:
+#+TITLE: Form Factor
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-10
+
+*Form Factor* -- стандарт, задающий для технического изделия такие параметры, как форма, размеры, напряжение электропитания, интерфейсы.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Форм-фактор_(техника)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Form_factor_(design)][Wikipedia [EN]​]]

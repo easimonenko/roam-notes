@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7f73749a-f868-4951-a021-93fc5ccd6771
+:END:
+#+TITLE: Frequency
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+
+*Частота* (Frequency) -- характеристика периодического процесса, равная отношению количества повторов к продолжительности промежутка времени, за который они произошли.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Частота][Частота / Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Frequency][Frequency / Wikipedia [EN]​]]

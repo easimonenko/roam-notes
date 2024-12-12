@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a5afa1a6-2e06-4449-83d7-06ed9fbb833c
+:END:
+#+TITLE: Square Wave
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-12
+#+FILETAGS: :electronics:
+
+*Меандр* (Square Wave) -- прямоугольный сигнал.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Меандр_(радиотехника)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Square_wave][Wikipedia [EN]​]]
