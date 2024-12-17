@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       46d9e2e9-ceed-424c-b42b-bfaa8f59d3f2
+:END:
+#+TITLE: Tang Primer 20K Dock ext-board
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-15
+#+FILETAGS: :fpga:gowin:sipeed:
+
+*Tang Primer 20K Dock ext-board* -- системная плата для SoM [[id:ecb0a783-bc60-407f-8e7a-a28a638da294][Tang Primer 20K]].
+
+JTAG через USB реализован с использованием CPU [[id:1bda7c5b-4f79-40f8-8909-9c054f9d5e0b][BL702]].
+
+* Resources
+
+- [[https://habr.com/ru/companies/timeweb/articles/747346/][Обзор на русском языке / Хабр]]

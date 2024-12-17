@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2138a56b-6da7-459d-ac36-b58795ebb04c
+:END:
+#+TITLE: Embedded System
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-17
+#+FILETAGS: :mcu:mpu:
+
+*Embedded System* (Встраиваемая система) -- цифровая, программно-управляемая система, предназначенная для встраивание в некоторое устройство или оборудование. Чаще всего строится на микроконтроллерах или маломмощных микропроцессорах.

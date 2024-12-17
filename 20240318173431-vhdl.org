@@ -6,8 +6,13 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-18
+#+FILETAGS: :electronics:fpga:hdl:
 
 *VHDL* (Very high speed integrated circuits Hardware Description Language) -- язык описания аппаратуры интегральных
 схем. Т.е. является языком [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]].
 
 См. также [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog HDL]].
+
+* Books
+
+- Харрис Д., Харрис С. Цифровая схемотехника и архитектура компьютера.

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       18bfbdd9-b429-495a-946d-5bdec766ee1e
+:END:
+#+TITLE: LVGL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-17
+#+FILETAGS: :gui:
+
+*LVGL* (Light and Versatile Graphics Library) -- библиотека [[id:417c859d-b6c2-40f6-ac87-454c751251a8][GUI]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. Портирована также в [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]].
+
+* Resources
+
+- [[https://lvgl.io/][Home Page]]
+- [[https://github.com/lvgl/lvgl][GitHub Repository]]
+- [[https://docs.lvgl.io/master/][Official Documentation]]
+- [[https://github.com/lvgl/lv_port_linux][Port to Linux / GitHub]]

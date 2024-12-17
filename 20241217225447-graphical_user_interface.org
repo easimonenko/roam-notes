@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       417c859d-b6c2-40f6-ac87-454c751251a8
+:END:
+#+TITLE: Graphical User Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-17
+#+FILETAGS: :graphics:
+
+*Graphical User Interface* (GUI) -- графический пользовательский интерфейс -- графическая интерактивная система, реализованная с использованием стандартизованных примитивов, называемых контролами (controls) или виджетами (widgets).

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1bda7c5b-4f79-40f8-8909-9c054f9d5e0b
+:END:
+#+TITLE: BL702
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-15
+#+FILETAGS: :cpu:risc-v:bouffalo-lab:
+
+*BL702* -- CPU китайской компании Bouffalo Lab на архитектуре RISC-V.
+
+* Resources
+
+- [[https://en.bouffalolab.com/product/?type=detail&id=4][Product Page]]
