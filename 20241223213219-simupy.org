@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       190f8c60-bc41-4e5e-88e6-c73996b34ff9
+:END:
+#+TITLE: SimuPy
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :modeling:simulating:
+
+*SimuPy* -- пакет на языке [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]] для моделирования и симуляции динамических систем.
+
+* Resources
+
+- [[https://github.com/simupy/simupy][GitHub Repository]]

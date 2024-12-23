@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ab171f82-e643-4c3d-805c-fe58443e3692
+:END:
+#+TITLE: PCB
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :electronics:
+
+*PCB* -- сокращение от [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][Printed Circuit Board]].

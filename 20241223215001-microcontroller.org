@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1e92f4a3-8c1c-40c0-be5b-c419ae057fc7
+:END:
+#+TITLE: Microcontroller
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :digital-electronics:
+
+*Microcontroller* (Микроконтроллер) -- цифровое вычислительное устройство, интегрированное с различными видами памяти и, всё чаще, контроллерами внешних устройств и ввода-вывода. Также носит название MCU (Microcontroller Unit). Обычно является частью [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемой]] или киберфизической системы.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Микроконтроллер][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Microcontroller][Wikipedia [EN]​]]

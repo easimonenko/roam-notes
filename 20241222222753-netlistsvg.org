@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1a7ff16f-8c05-45f5-98ab-2bc36222a6ca
+:END:
+#+TITLE: netlistsvg
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-22
+#+FILETAGS: :electronics:drawing:netlist:
+
+*netlistsvg* -- программа построения диаграммы связей между электронными компонентами на основе файла netlist, сгенерированного [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]].
+
+* Resources
+
+- [[https://github.com/nturley/netlistsvg][GitHub Repository]]

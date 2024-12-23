@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f9e3b6c4-83fe-450a-b280-69b4747aee00
+:END:
+#+TITLE: IPFS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :file-system:decentralized-application:
+
+*IPFS* (Interplanetary File System) -- децентрализованная файловая система с адресацией на основе вычисления хеш-суммы содержимого файла.
+
+* Resources
+
+- [[https://ipfs.tech/][Home Page]]

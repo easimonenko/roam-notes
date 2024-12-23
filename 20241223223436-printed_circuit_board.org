@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       79fc3bb2-5473-4295-be63-a0d26c0b93dd
+:END:
+#+TITLE: Printed Circuit Board
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :electronics:
+
+*Printed Circuit Board* (PCB) -- печатная плата с [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][электронной]] или электрической схемой.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Печатная_плата][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Printed_circuit_board][Wikipedia [EN]​]]

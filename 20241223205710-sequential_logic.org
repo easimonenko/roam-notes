@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fcf59e95-1816-4853-b9e3-c33fd4aa6561
+:END:
+#+TITLE: Sequential Logic
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :logic:
+
+*Sequential Logic* (Последовательностная логика, Секвенциальная логика) -- логическая схема, выходы которой зависят от предыдущих значений на входах. Другими словами, такая схема имеет внутреннее состояние, на основе которого формируются значения на выходах.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Секвенциальная_логика][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Sequential_logic][Wikipedia [EN]​]]

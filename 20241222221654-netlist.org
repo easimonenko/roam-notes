@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3545a0b3-9d21-4856-a3f5-10398fe49e6b
+:END:
+#+TITLE: Netlist
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-22
+#+FILETAGS: :electronics:
+
+*Netlist* (список соединений) -- описание связей между компонентами электронной схемы.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Список_соединений][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Netlist][Wikipedia [EN]​]]
+
+* Software
+
+- [[id:1a7ff16f-8c05-45f5-98ab-2bc36222a6ca][netlistsvg]]

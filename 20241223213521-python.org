@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       59d9f226-5e64-4344-aa13-e5bafc6a603f
+:END:
+#+TITLE: Python
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :programming-language:
+
+*Python* -- язык программирования с оригинальным синтаксисом, изначально созданных для обучения программирования, но затем сташий одним из популярных в областях веб-программирования, анализа данных, машинного обучения и компьютерного моделирования.
+
+* Resources
+
+- [[https://www.python.org/][Home Page]]

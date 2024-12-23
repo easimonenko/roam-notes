@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       25284465-6b9f-4190-b863-c0c0d95aefd4
+:END:
+#+TITLE: Electronic Circuit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :electronics:
+
+*Electronic Circuit* (Электронная схема) -- комбинация различных электронных компонент, соединённых проводами, по которым протекает электрический ток.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Электронная_схема][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Electronic_circuit][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9a92f16d-56d8-4848-b833-d4bafc8c16cc
+:END:
+#+TITLE: ACT HDL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :digital-electronics:
+
+*ACT HDL* (Asynchronous Circuit Toolkit Hardware Description Language) -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][язык описания]] и набор программных инструментов для разработки асинхронных схем.
+
+* Resources
+
+- [[https://avlsi.csl.yale.edu/act/doku.php][Home Page]]
+- [[https://github.com/asyncvlsi/act][GitHub Repository]]

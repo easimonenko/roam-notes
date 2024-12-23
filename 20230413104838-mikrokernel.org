@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2fae1661-578e-4cc3-bfc3-3882b563b34f
 :END:
-#+TITLE: Микроядро (Mikrokernel)
+#+TITLE: Mikrokernel
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0

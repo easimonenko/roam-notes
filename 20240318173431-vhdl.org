@@ -16,3 +16,7 @@
 * Books
 
 - Харрис Д., Харрис С. Цифровая схемотехника и архитектура компьютера.
+
+* Tutorials
+
+- [[https://portal.cs.umbc.edu/help/VHDL/samples/samples.shtml][VHDL Samples by University of Maryland, Baltimore County]]
