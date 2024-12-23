@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-24
+#+FILETAGS: :package-repository:emacs:gnu:
 
 *GNU ELPA* (GNU Emacs Lisp Package Archive) -- репозиторий пакетов для [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]]
 проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Содержит пакеты с полностью свободным кодом, одобренные управляющими

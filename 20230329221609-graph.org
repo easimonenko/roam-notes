@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       e080209a-0e6b-43f9-80ef-3bb9cf0a7375
 :END:
-#+TITLE: Граф (Graph)
-#+filetags: :graph:combinatorics:
+#+TITLE: Graph
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-03-29
+#+FILETAGS: :combinatoric:graph:
 
 *Граф* (graph) -- математическое понятие, основанное на теории множеств
 и рассматриваемое в дисциплинах комбинаторика и дискретная математика.

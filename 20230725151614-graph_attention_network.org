@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       e8fa289f-9c49-46ba-8d05-f45cd7fc6557
 :END:
-#+TITLE: Графовая сеть со вниманием (Graph Attention Network)
+#+TITLE: Graph Attention Network
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-07-25
+#+FILETAGS: :graph:neural-network:
 
 *Графовая сеть со вниманием* (Graph Attention Network, GAT) -- разновидность
 [[id:99dfefd3-0bb5-4023-88a1-6d6a2b2e8379][графовой нейронной сети]], в которой вместо простого сложения признаков

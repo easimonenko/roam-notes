@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       1e3b4dcd-4f0d-4fd0-911a-c36bfe5993be
 :END:
-#+TITLE: Неориентированный граф (Undirected Graph)
+#+TITLE: Undirected Graph
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-06-14
+#+FILETAGS: :graph:
 
 *Неориентированный граф* (Undirected Graph) -- разновидность [[id:e080209a-0e6b-43f9-80ef-3bb9cf0a7375][графа]], в котором
 рёбра являются [[id:4c3ad8ca-58ef-4133-ab6a-38c9b36bb8d5][неупорядоченными парами]]. Если говорить неформально, то у рёбер

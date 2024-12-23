@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-06
+#+FILETAGS: :dbms:graph:
 
 *Neo4j* -- самая популярная [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободно-распространяемая]] [[id:690e4b82-91f3-4961-8eef-2889b53e5021][графовая СУБД]].
 

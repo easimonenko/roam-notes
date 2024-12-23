@@ -2,11 +2,11 @@
 :ID:       ea8f17a8-e200-42db-8c1b-8aa02d4c1107
 :END:
 #+TITLE: Peer-to-Peer Networking
-#+FILETAGSs: :networking:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-12-03
+#+FILETAGSs: :networking:p2p:
 
 *Peer-to-Peer Networking* (P2P сети) -- сетевое взаимодействие хостов напрямую,
 один к одному.

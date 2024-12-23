@@ -2,6 +2,11 @@
 :ID:       ead425ed-bf5e-40ac-ae6e-9fa3fa111a29
 :END:
 #+TITLE: V8
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2022-11-29
+#+FILETAGS: :javascript:webassembly:google:
 
 *V8* -- движок для языков [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]] и WebAssembly, разработанный компанией
 Google на языке программирования [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]].

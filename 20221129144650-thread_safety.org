@@ -1,13 +1,14 @@
 :PROPERTIES:
 :ID:       d08deb6c-1afb-4740-8d10-dc38c43460b0
 :END:
-#+TITLE: Потоковая безопасность (Thread Safety)
+#+TITLE: Thread Safety
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-11-29
+#+FILETAGS: :system-programming:multithreading:
 
-*Потоковая безопасность* -- обеспечение правильного функционирования кода
+*Thread Safety* (Потоковая безопасность) -- обеспечение правильного функционирования кода
 в многопоточном режиме. Чаще всего потоковая небезопасность связана с
 использованием в потоках разделяемых ресурсов.
 

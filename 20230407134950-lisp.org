@@ -2,11 +2,11 @@
 :ID:       1676b28d-455b-41f0-939c-7165c463fd25
 :END:
 #+TITLE: Lisp
-#+FILETAGS: :lisp:programming-language:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-07
+#+FILETAGS: :programming-language:lisp:
 
 *Lisp* -- один из ранних языков программирования, прочно ассоциируемый с
 функциональной парадигмой. Название является сокращением от List processing.

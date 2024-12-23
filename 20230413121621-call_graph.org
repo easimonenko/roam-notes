@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       c68e86a1-c446-4c30-b4d0-ff5c5f274b57
 :END:
-#+TITLE: Граф вызовов (Call Graph)
+#+TITLE: Call Graph
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-13
+#+FILETAGS: :graph:programming-language:
 
 *Граф вызовов* (call graph) -- [[id:311db145-be51-4cfd-9ce0-f1250d034d2b][ориентированный граф]], показывающий вызовы
 в программах одних процедур другими.

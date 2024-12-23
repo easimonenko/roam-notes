@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-24
+#+FILETAGS: :programming:system-programming:
 
 *API* (Application Programming Interface) -- прикладной программный интерфейс.
 Набор функций, доступных программисту для использования при разработке своих

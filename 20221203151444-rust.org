@@ -2,11 +2,11 @@
 :ID:       9a0f7be6-3f32-49e5-a487-6211a090c2f3
 :END:
 #+TITLE: Rust
-#+filetags: :programming-language:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-12-03
+#+FILETAGS: :programming-language:
 
 *Rust* -- язык программирования, компилируемый в машинный код и не использующий
 сбоку мусора. Синтаксисом язык напоминает Scala. Реализует функциональную

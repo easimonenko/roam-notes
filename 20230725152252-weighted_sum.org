@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       5caf0fd5-6965-432f-a53a-e376510429ce
 :END:
-#+TITLE: Взвешенная сумма (Weighted Sum)
+#+TITLE: Weighted Sum
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-07-25
+#+FILETAGS: :mathematics:
 
 *Взвешенная сумма* (Weighted Sum) -- в отличие от простой суммы значений здесь
 каждое значение домножается на так называемый вес (weight). Т.е. пусть $x_i$ --

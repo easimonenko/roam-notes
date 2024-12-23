@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       59a01232-f015-4e43-b63f-e26bbf5ef346
 :END:
-#+TITLE: Упорядоченная пара (Ordered Pair)
+#+TITLE: Ordered Pair
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-06-14
+#+FILETAGS: :combinatorics:set-theory:
 
 *Упорядоченная пара* (Ordered Pair) -- частный случай кортежа, состоящего из
 двух элементов.

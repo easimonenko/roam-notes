@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-04
+#+FILETAGS: :electronics:power-supply:amperka:
 
 Модуль питания макетной платы компании [[id:6ca69e7f-a980-4ff1-9221-1066e9daa38d][Амперка]] предназначен для установки на макетную плату (breadboard):
 

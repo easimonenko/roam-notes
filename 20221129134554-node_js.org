@@ -2,11 +2,11 @@
 :ID:       dcc516b7-3a25-40d3-bf61-ff12eab14ae0
 :END:
 #+TITLE: Node.js
-#+FILETAGS: :javascript:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-11-29
+#+FILETAGS: :javascript:nodejs:
 
 *Node.js* -- среда времени исполнения для языка программирования [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]],
 основанная на библиотеке [[id:e07038a2-3359-4f8b-bafd-b8006cae1fd3][libuv]] и движке для JavaScript [[id:ead425ed-bf5e-40ac-ae6e-9fa3fa111a29][V8]].

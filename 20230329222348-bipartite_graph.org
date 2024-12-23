@@ -1,11 +1,11 @@
 :PROPERTIES:
 :ID:       217a8e46-b735-4602-a8ca-e3bef014654c
 :END:
-#+TITLE: Двудольный граф (Bipartite Graph)
-#+FILETAGS: :combinatorics:graph:
+#+TITLE: Bipartite Graph
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-03-29
+#+FILETAGS: :combinatorics:graph:
 
 *Двудольный граф* (bipartite graph) -- разновидность [[id:e080209a-0e6b-43f9-80ef-3bb9cf0a7375][графа]].

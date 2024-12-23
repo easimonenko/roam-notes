@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       c0b1171b-3bf6-4fc8-8323-ae612103bdd1
 :END:
-#+TITLE: Пара (Pair)
+#+TITLE: Pair
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-06-14
+#+FILETAGS: :mathematics:set-theory:
 
 *Пара* (Pair) -- в математике совокупность из двух сущностей называемых
 элементами пары. В зависимости от важности порядка перечисления элементов

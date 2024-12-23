@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       668ea4fd-84dd-4e28-8ed1-77539e6b610d
 :END:
-#+TITLE: Операционная система (Operating System)
-#+FILETAGS: :operating-system:
+#+TITLE: Operating System
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-06
+#+FILETAGS: :operating-system:system-programming:
 
-*Операционная система* -- совокупность программых средств, обеспечивающих
+*Операционная система* (Operating System)-- совокупность программых средств, обеспечивающих
 функционирование компьютера и выполнение им базовых пользовательских функций.
 
 *Операционные системы* является зрелой дисциплиной в рамках областей

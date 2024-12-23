@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-25
+#+FILETAGS: :emacs:verilog:
 
 *verilog-mode* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для файлов [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]].
 

@@ -6,5 +6,6 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-24
+#+FILETAGS: :computer-architecture:
 
 *Static Random Access Memory* (SRAM) -- статическая [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][память с произвольным доступом]].

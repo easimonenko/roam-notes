@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-29
+#+FILETAGS: :package-repository:emacs:gnu:
 
 *GNU Devel ELPA* -- архив пакетов [[id:49d272a4-4da4-4979-a26f-3e6ea29f91fb][GNU ELPA]], обновляемый при каждом коммите
 в исходные тексты пакетов.

@@ -6,7 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-17
-#+FILETAGS: :vhdl:lsp:rust:
+#+FILETAGS: :vhdl:lsp:rust-lang:
 
 *VHDL Language Server* -- проект по разработке сервера [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][Language Server Protocol]] ддя [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]]. Сервер написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Команда, с помощью которой запускается сервер называется vhdl_ls. Поддерживается [[id:3d9a6fad-8da8-4225-91c6-50468a2c3606][Eglot]] в [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]].
 

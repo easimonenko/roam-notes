@@ -2,11 +2,11 @@
 :ID:       02342206-0446-4c9d-9e09-208252b3ba08
 :END:
 #+TITLE: BSD
-#+FILETAGS: :bsd:unix:operating-system:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-06
+#+FILETAGS: :operating-system:unix:bsd:
 
 *BSD* расшифровывается как Berkeley Software Distribution. Изначально это был
 модифицированный вариант [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]], исходные тексты которого были постепенно

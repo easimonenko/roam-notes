@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
+#+FILETAGS: :build-tool:linux:
 
 *Buildroot* -- инструментарий для кросс-компиляции систем на базе [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]].
 

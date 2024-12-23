@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-11-28
+#+FILETAGS: :data-structure:tree:binary-search:
 
 *Splay Tree* -- двоичное дерево поиска (binary search tree) с дополнительным
 свойством, таким ято к недавно полученным элементам можно было быстро получить

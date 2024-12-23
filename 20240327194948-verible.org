@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-27
+#+FILETAGS: :verilog:programming-tools:
 
 *Verible* -- свободный набор инструментов для [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] от организации ChipsAlliance. Включает в себя:
 линтер, форматер и сервер [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]].

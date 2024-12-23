@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-12-03
+#+FILETAGS: :operating-system:gnu:unix:gnu-gpl:
 
 *GNU* -- рекурсивный акроним для "GNU's Not Unix". Это проект по разработке
 и название свободной [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобной [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][лицензией GNU GPL]].

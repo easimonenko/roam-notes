@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-29
+#+FILETAGS: :programming-tool:
 
 *Language Server Protocol* (LSP) -- протокол для языковых серверов, разработанный
 компанией Microsoft для унификации инструментов программирования. Используя один и

@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       5e2cc969-cf42-42b6-acd2-c0cfc1b22bab
 :END:
-#+TITLE: Фонд свободного программного обеспечения (Free Software Foundation)
+#+TITLE: Free Software Foundation
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
+#+FILETAGS: :free-software:
 
 *Фонд свободного программного обеспечения (Free Software Foundation)* -- некоммерческая организация, призванная поддерживать движение
 за свободное программное обеспечение.

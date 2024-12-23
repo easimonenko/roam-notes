@@ -2,11 +2,11 @@
 :ID:       5d730cab-a732-4326-8fd3-85dd8aa77b1a
 :END:
 #+TITLE: Unix
-#+FILETAGS: :operating-system:unix:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-06
+#+FILETAGS: :operating-system:unix:
 
 *Unix* -- простая многозадачная и многопользовательская [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]],
 в основе которой лежат концепции файловой системы, процессов и пользователей.

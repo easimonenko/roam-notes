@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
+#+FILETAGS: :computer-architecture:risc:
 
 *MIPS* -- одна из самых распространённых архитектур для микропроцессоров. Изначальное является сокращением от названия проекта
 Стэнфордского университета Microprocessor without Interlocked Pipeline Stages.

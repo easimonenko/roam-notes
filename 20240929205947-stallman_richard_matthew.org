@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       f8ef55e5-52fb-45a9-8886-773cc96bd660
 :END:
-#+TITLE: Ричард Столлман (Stallman, Richard Matthew)
+#+TITLE: Stallman, Richard Matthew
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
+#+FILETAGS: :person:gnu:fsf:
 
 *Ричард Столлман (Stallman, Richard Matthew)* -- основатель движения за свободное программное обеспечение,
 основатель фонда Free Software Foundation и проекта по разработке свободной операционной системы [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].

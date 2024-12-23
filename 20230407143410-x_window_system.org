@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-07
+#+FILETAGS: :graphics:unix:
 
 *X Window System* -- графический сервер для [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобных операционных
 систем. Часто называют короче X Window или даже просто X.

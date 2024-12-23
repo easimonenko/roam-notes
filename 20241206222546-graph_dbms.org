@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       690e4b82-91f3-4961-8eef-2889b53e5021
 :END:
-#+TITLE: Графовая СУБД (Graph DBMS)
+#+TITLE: Graph DBMS
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-06
+#+FILETAGS: :dbms:graph:
 
 *Графовая СУБД* (Graph DBMS) -- разновидность [[id:ffd54b78-c2bf-44d8-9927-502ca963b280][СУБД]] с графовой моделью данных. Чаще всего они хранят так называемые графы со свойствами (property graph).
 

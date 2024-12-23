@@ -2,11 +2,11 @@
 :ID:       ef72bec4-29ee-43e3-a8f1-6ac4594233e8
 :END:
 #+TITLE: JavaScript
-#+FILETAGS: :programming-language:javascript:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-06
+#+FILETAGS: :programming-language:javascript:web:
 
 *JavaScript* -- язык программирования, изначально разработанный для браузера
 Mozilla, но затем ставший популярным и в других областях программирования,

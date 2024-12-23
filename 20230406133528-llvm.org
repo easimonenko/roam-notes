@@ -2,11 +2,11 @@
 :ID:       35d4f6e3-59f6-4388-a66d-54374aa389d2
 :END:
 #+TITLE: LLVM
-#+filetags: :programming-tool:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-06
+#+FILETAGS: :programming-tool:
 
 *LLVM* -- проект по разработке инструментов программирования. Расшифровывается
 как Low Level Virtual Machine. Включает в себя Clang (компиляторы языков [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]), отладчик LLDB, [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]] сервер и

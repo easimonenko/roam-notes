@@ -2,11 +2,11 @@
 :ID:       bc959a39-5f97-4fb5-82bc-b69e7b6b5fd4
 :END:
 #+TITLE: make
-#+filetags: :programming-tool:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-12-07
+#+FILETAGS: :programming-tool:
 
 *make* -- инструмент программирования, служащий управлению кодами программных
 проектов. Чаще всего make используется с языками [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], [[id:3267f0c3-c098-4f10-b66f-3ed5053e22a1][Perl]].

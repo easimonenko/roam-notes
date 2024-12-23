@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       033085b5-6cf3-48ed-a2d6-4570e3e742e1
 :END:
-#+TITLE: Язык программирования B (B Programming Language)
+#+TITLE: B Programming Language
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-07-26
+#+FILETAGS: :programming-language:
 
 *Язык программирования B* -- простой бестиповый интерпретируемый язык
 программирования. Бестиповость здесь означает, что язык обрабатывает данные

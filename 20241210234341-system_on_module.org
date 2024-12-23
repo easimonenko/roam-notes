@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-10
+#+FILETAGS: :digital-electronics:
 
 *System on Module* -- плата с чипом CPU, MCU, DSP или FPGA с необходимой обвязкой и со специальным интерфейсом, предназначенным для соединения с базовой платой (dock, base board).
 

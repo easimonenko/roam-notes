@@ -2,11 +2,11 @@
 :ID:       955cd385-8abe-46ab-9bf1-e2e249de5a86
 :END:
 #+title: kqueue
-#+FILETAGS: :freebsd:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-11-28
+#+FILETAGS: :system-programming:freebsd:
 
 *kqueue* -- интерфейс [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]] для масштабируемого ввода-вывода, основанного на механизме
 оповещения о событиях. Появился в версии 4.1 в июле 2000.

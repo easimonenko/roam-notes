@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-04
+#+FILETAGS: :electronics:company:
 
 *Амперка* -- российская компания, разработчик, производитель и продавец образовательной и DIY электроники.
 

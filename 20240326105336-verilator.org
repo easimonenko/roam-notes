@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-26
+#+FILETAGS: :verilog:programming-tool:compiler:
 
 *Verilator* -- свободный компилятор, симулятор и линтер для [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]].
 

@@ -2,11 +2,11 @@
 :ID:       0d0b43d6-ec41-4514-ad43-2140a241a7fa
 :END:
 #+TITLE: OpenVPN
-#+FILETAGS: :vpn:networking:
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-12-03
+#+FILETAGS: :networking:vpn:
 
 *OpenVPN* -- программное обеспечение сервера для организации [[id:1e56e54e-eca0-4f07-862d-0e586b2b2865][виртульной частной сети]].
 

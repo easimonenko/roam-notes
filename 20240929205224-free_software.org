@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       acc2a94c-32ea-40c4-86a0-d8de3085f574
 :END:
-#+TITLE: Свободное программное обеспечение (Free Software)
+#+TITLE: Free Software
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
+#+FILETAGS: :software:fsf:
 
 *Свободное программное обеспечение (Free Software)* -- программное обеспечение обладющее свойством свободы, которое подразумевает:
 

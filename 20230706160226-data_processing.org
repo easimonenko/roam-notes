@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       c76f4f6f-b849-4b9a-8c87-306489bccc61
 :END:
-#+TITLE: Обработка данных (Data Processing)
+#+TITLE: Data Processing
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-07-06
+#+FILETAGS: :informatics:
 
 *Обработка данных* (Data Processing) -- сбор и переработка цифровых данных для
 получения из них более значимой и осмысленной информации. Целью обработки данных

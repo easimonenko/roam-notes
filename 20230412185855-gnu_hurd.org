@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-12
+#+FILETAGS: :kernel:gnu:mach:
 
 *GNU Hurd* -- ядро [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Это ядро основано на микроядре [[id:0fdb5324-83dd-49e9-b6aa-98c3a8acd09a][GNU Mach]].
 

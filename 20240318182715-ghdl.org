@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-18
+#+FILETAGS: :vhdl:programming-tool:
 
 *GHDL* -- проект по разработке свободных инструментов для [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].
 

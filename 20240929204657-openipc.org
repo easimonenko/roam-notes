@@ -6,6 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
+#+FILETAGS: :video:operating-system:linux:
 
 *OpenIPC* -- свободная [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] на базе [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]] для [[id:47cde226-c2de-42a9-87e2-73df92be0eac][IP-камер]] с процессарами архитектур [[id:d60573e4-0481-4246-9be9-e10c33125d05][ARM]] и [[id:2d959026-94b9-4769-a939-253cbef1b7a1][MIPS]].
 
