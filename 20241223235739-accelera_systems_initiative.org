@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       525044fd-1b6f-4921-a5d1-51576a542fee
+:END:
+#+TITLE: Accelera Systems Initiative
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :electronics:
+
+*Accelera Systems Initiative* -- организация по стандартизации в сферах разработки электроники и [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральных схем]]. Образована в 2000 году в результате объединения Open Verilog International и VHDL International. Разработала, в частности, стандарты [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]], SystemVerilog, [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]], [[id:6ba93a6f-653d-4cca-a44b-98af1d530dd5][Open Core Protocol]].
+
+* Resources
+
+- [[https://www.accellera.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Accellera][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Accellera][Wikipedia [EN]​]]

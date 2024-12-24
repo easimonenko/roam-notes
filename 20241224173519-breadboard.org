@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       525ce97f-d81a-4758-a28e-cb2518679146
+:END:
+#+TITLE: Breadboard
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :electronics:
+
+*Breadboard* -- макетная плата. Предназначена для прототипирования электронных устройств. Популярныв в обучении электронике. Бывают двух основных видов: в виде [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][печатной платы]] и в виде пластикого корпуса со скрытыми проводниками. В обоих случаях на плате имеются отверстия для вставки в них электронных компонентов и проводов.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Макетная_плата][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Breadboard][Wikipedia [EN]​]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       80be44c9-5ec2-447f-809b-58ac0cd952a2
+:END:
+#+TITLE: FPC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS:
+
+*FPC* -- сокращение от [[id:a9f4691b-9d50-498b-b3bb-d0afbf6b0da9][Flexible Printed Circuit]].

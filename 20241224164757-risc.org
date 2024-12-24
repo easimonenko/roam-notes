@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cc0b1d97-d1bc-477f-8055-8b0980443568
+:END:
+#+TITLE: RISC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :computer-architecture:
+
+*RISC* -- сокращение от [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][Reduced Instruction Set Computer]].

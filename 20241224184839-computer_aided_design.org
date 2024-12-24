@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       843c16ee-7c62-4ffb-a765-9b7409ca2582
+:END:
+#+TITLE: Computer-Aided Design
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :software:
+
+*Computer-Aided Design* (CAD) (Компьютерное проектирование) -- программное обеспечение, используемое для проектирования (включая разработку дизайна, внесение изменений, анализ и оптимизацию) различных устройств.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Система_автоматизированного_проектирования][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Computer-aided_design][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b52935f3-ec13-47f1-b74a-c194ede41f2b
+:END:
+#+TITLE: Instruction Set Architecture
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :computer-architecture:processor:
+
+*Instruction Set Architecture* (ISA) (Архитектура набора команд) -- часть программной архитектуры процессорного ядра, описывающая набор команд процессора и управление им с их помощью.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Архитектура_набора_команд][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Instruction_set_architecture][Wikipedia [EN]​]]

@@ -8,7 +8,11 @@
 #+DATE: 2024-12-22
 #+FILETAGS: :electronics:drawing:netlist:
 
-*netlistsvg* -- программа построения диаграммы связей между электронными компонентами на основе файла netlist, сгенерированного [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]].
+*netlistsvg* -- программа построения диаграммы связей между электронными компонентами на основе файла netlist, сгенерированного [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]]. Написана на языке [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]] для [[id:dcc516b7-3a25-40d3-bf61-ff12eab14ae0][Node.js]].
+
+Вызывать нужно после стадии Place & Route:
+
+netlistsvg pnrblinky.json -o blinky.svg
 
 * Resources
 

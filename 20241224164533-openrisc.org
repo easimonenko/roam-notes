@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       43c41313-0053-41ba-a75e-99dc98891ef4
+:END:
+#+TITLE: OpenRISC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :computer-architecture:isa:
+
+*OpenRISC* -- проект по разработке процессора для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]] с архитектурой класса [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][RISC]] с открытыми исходным кодом.
+
+* Resources
+
+- [[https://openrisc.io/][Home Page]]
+- [[https://github.com/openrisc][Organization on GitHub]]
+- [[https://ru.wikipedia.org/wiki/OpenRISC][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/OpenRISC][Wikipedia [EN]​]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a9f4691b-9d50-498b-b3bb-d0afbf6b0da9
+:END:
+#+TITLE: Flexible Printed Circuit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :electronics:
+
+*Flexible Printed Circuit* (FPC) -- гибкая электронная схема. Часто используется для создания коннекторов и подключаемых к ним шлейфов.
+
+* Resources
+
+- [[https://na.industrial.panasonic.com/blog/fpc-connector-technology][FPC Connector Technology / Panasonic Industry]]

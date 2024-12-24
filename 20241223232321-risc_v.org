@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       55f2037c-ed4f-4e02-aa47-fd802c0ec65d
+:END:
+#+TITLE: RISC-V
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :computer-architecture:embedded-system:risc:
+
+*RISC-V* -- архтектура процессорного ядра. Относится к разряду RISC. Буква V читается как слово пять, то есть это латинское обозначение числа 5, что означает пятое поколение.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/RISC-V][Wikipedia[RU]​]]
+- [[https://en.wikipedia.org/wiki/RISC-V][Wikipedia [EN]​]]
+- [[https://riscv-alliance.ru/][Российский Альянс RISC-V]]
+
+* Courses
+
+- [[https://riscv-alliance.ru/learning/][Обучающие материалы от Альянса RISC-V]]
+- [[https://github.com/riscv-tests-intro/riscv-tests-intro][Введение в функциональную верификацию RISC-V]]

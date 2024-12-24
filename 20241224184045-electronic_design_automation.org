@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e03ae4ba-1ede-4e83-b8a7-998f58d5e4e3
+:END:
+#+TITLE: Electronic Design Automation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :electronics:
+
+*Electronic Design Automation* (EDA) (Автоматизация проектирования электроники) -- программное обеспечение класса [[id:843c16ee-7c62-4ffb-a765-9b7409ca2582][CAD]] для создания электронных устройств, таких как: [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральные схемы]], [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][печатные платы]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Автоматизация_проектирования_электроники][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Electronic_design_automation][Wikipedia [EN]​]]

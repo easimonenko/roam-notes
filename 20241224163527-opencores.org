@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2cde5bab-0c7d-494f-9877-e911bbd47c23
+:END:
+#+TITLE: OpenCores
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :fpga:
+
+*OpenCores* -- портал, аккумулирующий модули с открытыми исходниками для [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] и ASIC.
+
+* Projects
+
+- [[id:43c41313-0053-41ba-a75e-99dc98891ef4][OpenRISC]]
+
+* Resources
+
+- [[https://opencores.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/OpenCores][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/OpenCores][Wikipedia [EN]​]]

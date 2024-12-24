@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d63b633-f0c3-44e4-a117-bd277255ab23
+:END:
+#+TITLE: ISA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :computer-architecture:processor:
+
+*ISA* -- сокращение от [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][Instruction Set Architecture]].

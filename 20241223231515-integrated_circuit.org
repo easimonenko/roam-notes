@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6
+:END:
+#+TITLE: Integrated Circuit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :electronics:
+
+*Integrated Circuit* (IC) (Интегрированная схема, микросхема) -- [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][электронная схема]], изготавливаемая на полупроводниковой подложке. Может помещаться в корпус (этот процесс носит название корпусирование). Альтернативное название: чип (chip).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Интергральная_схема][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Integrated_circuit][Wikipedia [EN]​]]

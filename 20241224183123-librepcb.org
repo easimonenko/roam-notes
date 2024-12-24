@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       361f87cd-5f86-4185-b9d2-3c49fe33dc81
+:END:
+#+TITLE: LibrePCB
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :electronics:drawing:eda:
+
+*LibrePCB* -- программное обеспечение [[id:e03ae4ba-1ede-4e83-b8a7-998f58d5e4e3][EDA]] для рисования [[id:e8c829ba-fe06-41d6-a7f0-4c0d413b1a00][схем]] и [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][печатных плат]].
+
+* Resources
+
+- [[https://librepcb.org/][Home Page]]
+- [[https://github.com/LibrePCB/LibrePCB][GitHub Repository]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e8c829ba-fe06-41d6-a7f0-4c0d413b1a00
+:END:
+#+TITLE: Schematic
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :electronics:
+
+*Schematic* (схема) -- абстрактное графическое представление [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][электронной схемы]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Schematic][Wikipedia [EN]​]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d471ec96-19fa-425c-bfc5-86333c3ad68f
+:END:
+#+TITLE: EDA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS:
+
+*EDA* -- сокращение от [[id:e03ae4ba-1ede-4e83-b8a7-998f58d5e4e3][Electronic Design Automation]].

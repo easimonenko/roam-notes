@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6ba93a6f-653d-4cca-a44b-98af1d530dd5
+:END:
+#+TITLE: Open Core Protocol
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :electronics:
+
+*Open Core Protocol* -- стандарт на [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][внутрисхемные]] коммуникации, призванный стандартизировать создание цифровых компонент.
+
+* Resources
+
+- [[https://accellera.org/downloads/standards/ocp][Download Page]]
+- [[https://en.wikipedia.org/wiki/Open_Core_Protocol][Wikipedia [EN]​]]

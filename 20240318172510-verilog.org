@@ -8,7 +8,14 @@
 #+DATE: 2024-03-18
 #+FILETAGS: :fpga:hdl:
 
-*Verilog HDL* (Verilog Hardware Description Language) -- один из двух самых распространённых языков описания
-аппаратуры. Т.е. является языком [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]].
+*Verilog HDL* (Verilog Hardware Description Language) -- один из двух самых распространённых [[id:5abfa913-146c-44fb-b0da-82980ba450bb][языков описания
+аппаратуры]]. Другим распространённым языком аналогичного назначения является [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].
 
-Другим распространённым языком аналогичного назначения является [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Verilog][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Verilog][Wikipedia [EN]​]]
+
+* Courses
+
+- [[https://engineer.yadro.com/lessons-archive/][Школа синтеза цифровых схем / Yadro]]

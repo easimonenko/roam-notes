@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       235008e4-a34e-42fb-821d-c6d8c1e7a4fc
+:END:
+#+TITLE: Microarchitecture
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-23
+#+FILETAGS: :computer-architecture:cpu:
+
+*Microarchitecture* (Микроархитектура) -- реализация программной архитектуры процессорного ядра.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Микроархитектура][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Microarchitecture][Wikipedia [EN]​]]

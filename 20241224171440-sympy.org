@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3cada054-ac56-43dd-938f-3aaef1bd2489
+:END:
+#+TITLE: SymPy
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :mathematics:python:
+
+*SymPy* -- пакет на языке [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]] для символьных вычислений.
+
+* Resources
+
+- [[https://www.sympy.org/en/index.html][Home Page]]

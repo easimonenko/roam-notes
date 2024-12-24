@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d942dc71-9aa3-4707-9b7a-bfa88d77b408
+:END:
+#+TITLE: Single-Board Computer
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :computer-architecture:
+
+*Single-Board Computer* (SBC) (Одноплатный компьютер) -- компьютер, целиком помещающийся на одну плату.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Одноплатный_компьютер][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Single-board_computer][Wikipedia [EN]​]]

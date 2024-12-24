@@ -8,8 +8,7 @@
 #+DATE: 2022-12-03
 #+FILETAGS: :compiler:gnu:gcc:
 
-*GCC* -- набор компиляторов проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]] для языков программирования [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], C++,
-Objective-C, Fortran, Ada, Go, D.
+*GCC* (GNU Compiler Collection) -- набор компиляторов проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]] для языков программирования [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]], Objective-C, Fortran, Ada, Go, D.
 
 * Resources
 

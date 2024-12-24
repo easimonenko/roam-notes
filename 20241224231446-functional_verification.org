@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       572f1dfb-52f2-4881-ac6d-3fa2851ffb2b
+:END:
+#+TITLE: Functional Verification
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-24
+#+FILETAGS: :technology:
+
+*Functional Verification* (Функциональная верификация) -- процесс проверки соответствия реализации спецификации.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Functional_verification][Wikipedia [EN]​]]
