@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       eee2ae7d-b127-43a6-a465-d044e6a7165a
+:END:
+#+TITLE: Gowin Arora
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-26
+#+FILETAGS:
+
+*Gowin Arora* -- семейство микросхем [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]].
+
+* Resources
+
+- [[https://www.gowinsemi.com/en/product/detail/38/][Product Page]]

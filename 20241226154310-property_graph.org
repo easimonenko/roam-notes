@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       80a08012-b461-43f6-9b3c-6ae4d7ebea50
+:END:
+#+TITLE: Property Graph
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-26
+#+FILETAGS: :data-structure:graph:graph-database:
+
+*Property Graph* -- [[id:e080209a-0e6b-43f9-80ef-3bb9cf0a7375][граф]] со свойствами. Другие названия: labeled property graph (помеченный граф со свойствами), attributed graph (граф с атрибутами).
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Property_graph][Wikipedia (EN)]]

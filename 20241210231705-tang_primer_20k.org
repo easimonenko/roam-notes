@@ -8,7 +8,7 @@
 #+DATE: 2024-12-10
 #+FILETAGS: :fpga:gowin:sipeed:
 
-*Tang Primer 20K* --[[id:ee4ab350-11bf-4e55-8bfe-9d6226009b5d][SoM]] в [[id:94aa609f-76c8-4ca9-bc3d-f5ffc3bbc7e0][форм-факторе]] [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] с чипом [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] GW2A-LV18PG256C8/I7 компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]]. Разработан, производится и продаётся китайской компанией [[id:2bdab81a-8fb7-4656-b467-311b5452adb7][Sipeed]].
+*Tang Primer 20K* --[[id:ee4ab350-11bf-4e55-8bfe-9d6226009b5d][SoM]] в [[id:94aa609f-76c8-4ca9-bc3d-f5ffc3bbc7e0][форм-факторе]] [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] с чипом [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] GW2A-LV18PG256C8/I7 семейства [[id:eee2ae7d-b127-43a6-a465-d044e6a7165a][Arora]] компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]]. Разработан, производится и продаётся китайской компанией [[id:2bdab81a-8fb7-4656-b467-311b5452adb7][Sipeed]].
 
 В номенклатуре изделий также называется Core board.
 

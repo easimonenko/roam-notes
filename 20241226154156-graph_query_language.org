@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       34054724-e1c8-479d-bb0a-749b79fc6cd0
+:END:
+#+TITLE: Graph Query Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-26
+#+FILETAGS:
+
+*Graph Query Language* (GQL) -- стандартизованный язык запросов к [[id:80a08012-b461-43f6-9b3c-6ae4d7ebea50][графам со свойствами]].
+
+* Resources
+
+- [[https://www.gqlstandards.org/][Home Page]]
+- [[https://www.gqlstandards.org/existing-languages][Диаграмма взаимосвязей между различными языками запросов к графам / GQL]]
+- [[https://en.wikipedia.org/wiki/Graph_Query_Language][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Язык_графовых_запросов][Wikipedia [RU]​]]
