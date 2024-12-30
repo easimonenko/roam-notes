@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f5fe9eec-80f6-48d5-925d-8fac5a61cf95
+:END:
+#+TITLE: Instruction Set Simulator
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-30
+#+FILETAGS: :simulator:computer-architecture:isa:
+
+*Instruction Set Simulator* (Симулятор набора комад) -- программное обеспечение, симулятор, предназначенное для симуляции выполнения команд процессорных ядер определённой [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]]. Является разновидностью [[id:bdfd8148-bc72-442a-a49f-ef9c299a06fe][симулятора компьютерной архитектуры]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Instruction_set_simulator][Wikipedia [EN]​]]

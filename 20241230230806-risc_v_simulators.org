@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f57c00fd-f326-4e10-b5b8-252c98d50d95
+:END:
+#+TITLE: RISC-V Simulators
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-30
+#+FILETAGS: :risc-v:simulator:
+
+[[id:f5fe9eec-80f6-48d5-925d-8fac5a61cf95][Симуляторы архитектуры]] [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]]:
+
+- [[https://github.com/riscv-software-src/riscv-isa-sim][Spike GitHub Repository]]
+- [[https://github.com/TheThirdOne/rars][RARS GitHub Repository]]
+- [[https://github.com/cvut/qtrvsim][QtRvSim GitHub Repository]]

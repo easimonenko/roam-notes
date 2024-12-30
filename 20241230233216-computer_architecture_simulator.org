@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bdfd8148-bc72-442a-a49f-ef9c299a06fe
+:END:
+#+TITLE: Computer Architecture Simulator
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-30
+#+FILETAGS: :simulator:computer-architecture:
+
+*Computer Architecture Simulator* (Симулятор архитектуры компьютера) -- программное обеспечение, симулятор, предназначенный для симуляции некоторой архитектуры компьютера. Охват симуляции может быть разным, но минимально включает в себя [[id:f5fe9eec-80f6-48d5-925d-8fac5a61cf95][симуляцию ISA]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Computer_architecture_simulator][Wikipedia [EN]​]]

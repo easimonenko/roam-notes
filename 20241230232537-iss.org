@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94a4ee99-19bc-4705-8bc7-fe091ed4c0ed
+:END:
+#+TITLE: ISS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-30
+#+FILETAGS: :abbreviation:
+
+*ISS* -- сокращение от [[id:f5fe9eec-80f6-48d5-925d-8fac5a61cf95][Instruction Set Simulator]].
