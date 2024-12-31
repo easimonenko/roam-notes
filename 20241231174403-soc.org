@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       559974ad-0ee3-48aa-ba23-0fdc1a739365
+:END:
+#+TITLE: SoC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-31
+#+FILETAGS: :abbreviation:
+
+*SoC* -- сокращение от [[id:0806f9d1-9acd-44e2-a0ea-9c7b771eefd6][System on a Chip]].

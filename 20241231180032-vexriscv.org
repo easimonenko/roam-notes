@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4d11f7d0-3864-4495-8d0f-b4167d6b4d34
+:END:
+#+TITLE: VexRiscv
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-31
+#+FILETAGS: risc-v:fpga:spinalhdl:
+
+*VexRiscv* -- реализация архитектуры [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]] для [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] на языке [[id:20e271f5-5434-443e-9d60-4ac29489bd56][SpinalHDL]].
+
+* Resources
+
+- [[https://github.com/SpinalHDL/VexRiscv][GitHub Repository]]

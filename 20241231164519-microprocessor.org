@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       cf8e77c1-1b45-44ad-9682-8f2fc7c52792
+:END:
+#+TITLE: Microprocessor
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-31
+#+FILETAGS: :computer-architecture:cpu:
+
+*Microprocessor* -- микропроцессор -- центральное вычислительное и управляющее устройство компьютера (центральный процессор, ЦП), выполненное в формате одной основной [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхемы]]. Дополняется [[id:f6c2f375-228c-445b-9369-2568eda457ac][набором микросхем]] и устройств, обеспечивающих его работу в составе компьютера. Первым микропроцессором считается Intel 4004. Так как современные процессоры являются микропроцессорами, то термин процессор можно употреблять вместо термина микропроцессор, однако нужно знать, что термин процессор более общирный, чем ЦП. Также часто применяется термин [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][Central Processing Unit]] или, сокращенно, CPU.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Микропроцессор][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Microprocessor][Wikipedia [EN]​]]

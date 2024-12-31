@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0806f9d1-9acd-44e2-a0ea-9c7b771eefd6
+:END:
+#+TITLE: System on a Chip
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-31
+#+FILETAGS: :computer-architecture:embedded-system:mcu:
+
+*System on a Chip* (SoC) -- система на кристалле -- процессорное ядро в совокупности с разными видами памяти и контроллерами периферии, размещённые на одной [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхеме]]. Чвще всего в таком формате выпускаются [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][микроконтллеры]] и [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] для [[id:d942dc71-9aa3-4707-9b7a-bfa88d77b408][одноплатных компьютеров]] и мобильных устройств.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Система_на_кристалле][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/System_on_a_chip][Wikipedia [EN]​]]

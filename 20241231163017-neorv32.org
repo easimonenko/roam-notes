@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       93d30f38-f501-4526-b186-3a381cb8e05e
+:END:
+#+TITLE: NEORV32
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-31
+#+FILETAGS: :risc-v:vhdl:verilog:
+
+*NEORV32* -- 32-разрядный [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][MCU]] [[id:0806f9d1-9acd-44e2-a0ea-9c7b771eefd6][SoC]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]], написанный на [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].
+
+* Resources
+
+- [[https://github.com/stnolting/neorv32][GitHub Repository]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20e271f5-5434-443e-9d60-4ac29489bd56
+:END:
+#+TITLE: SpinalHDL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-31
+#+FILETAGS: :hdl:
+
+*SpinalHDL* -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]], являющийся DSL на базе языка Scala.
+
+* Resoures
+
+- [[https://github.com/SpinalHDL/SpinalHDL][GitHub Repository]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f6c2f375-228c-445b-9369-2568eda457ac
+:END:
+#+TITLE: Chipset
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2024-12-31
+#+FILETAGS: :computer-architecture:cpu:
+
+*Chipset* -- набор [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхем]], дополняющих [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][CPU]] и обеспечивающих его работу в составе компьютера.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Чипсет][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Chipset][Wikipedia [EN]​]]
