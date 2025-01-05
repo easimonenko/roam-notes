@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c7bf4fda-c29a-4fff-b92e-845475cfded7
+:END:
+#+TITLE: PyDy
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :modeling:python:
+
+*PyDy* -- пакет для моделирования на языке [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]].
+
+* Resources
+
+- [[https://www.pydy.org/][Home Page]]
+- [[https://github.com/pydy/pydy/][GitHub Repository]]

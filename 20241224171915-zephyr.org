@@ -6,10 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-24
-#+FILETAGS:
+#+FILETAGS: :embedded-system:operating-system:
 
-*Zephyr* -- операционная система для встраиваемых систем, написанная на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C Programming Language]] и использующая некоторые наработки ядра [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]]. Поддерживает большое количество [[id:87523ee6-267b-43a4-9fca-f981d9ef1ab1][проверочных плат]].
+*Zephyr* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]], написанная на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и использующая некоторые наработки ядра [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]]. Поддерживает большое количество [[id:87523ee6-267b-43a4-9fca-f981d9ef1ab1][проверочных плат]].
 
 * Resources
 
 - [[https://www.zephyrproject.org/][Home Page]]
+- [[https://github.com/zephyrproject-rtos/zephyr][GitHub Repository]]

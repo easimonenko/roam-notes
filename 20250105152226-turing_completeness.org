@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1b17b131-3462-438a-9dee-1787ec36f0c2
+:END:
+#+TITLE: Turing Completeness
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :computational-theory:
+
+*Turing Completeness* (Полнота по Тьюрингу) --характеристика вычислителя в теории вычислимости, означающая возможность реализации на нём любой вычислимый функции.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Полнота_по_Тьюрингу][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Turing_completeness][Wikipedia [EN]​]]

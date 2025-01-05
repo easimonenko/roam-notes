@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6cc545dd-d79b-4e1c-97c5-b21eb00d75de
+:END:
+#+TITLE: DSL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :abbreviation:
+
+*DSL* -- сокращение от [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][Domain-Specific Language]].

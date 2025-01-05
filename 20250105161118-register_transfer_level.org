@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a43f12c7-50d8-4254-9c87-5829a8fd1369
+:END:
+#+TITLE: Register Transfer Level
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :digital-electronics:
+
+*Register Transfer Level* (RTL) (Уровень регистровых передач) -- [[id:8730cfcc-c01a-44cd-a8a8-e8041fa3e30c][уровень представления]] [[id:18d449ca-1b6b-4197-896b-c73cced3f324][синхронных цифровых схем]], на котором описываются передачи сигналов между цифровыми устройствами, такими как: регистры, защёлки, сумматоры, переключатели.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Уровень_регистровых_передач][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Register-transfer_level][Wikipedia [EN]​]]

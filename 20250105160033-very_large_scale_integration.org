@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d5f7a0e3-5ca2-4873-b1c3-7906bb133a11
+:END:
+#+TITLE: Very Large Scale Integration
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :digital-electronics:
+
+*Very Large Scale Integration* (Сверх-большая интеграция) -- технология [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральных схем]] с очень большой степенью плотности транзисторов.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Very-large-scale_integration][Wikipedia [EN]​]]

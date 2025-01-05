@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e41beab4-340b-4d57-9692-71e2543a1c66
+:END:
+#+TITLE: Mercurial
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-02
+#+FILETAGS: :software-engineering:
+
+*Mercurial* -- распределённая система [[id:ac46122d-600f-4e86-b904-e721b5ff2d69][управления исходными текстами]].
+
+* Resources
+
+- [[https://www.mercurial-scm.org/][Home Page]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f80f6b7e-ddc2-4085-b141-688f67904189
+:END:
+#+TITLE: SimPy
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :simulation:python:
+
+*SimPy* -- пакет для создания симуляций на языке [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]].
+
+* Resources
+
+- [[https://gitlab.com/team-simpy/simpy/][GitLab Repository]]
+- [[https://simpy.readthedocs.io/en/latest/][Documentation]]
+
+* Tutorials
+
+- [[https://realpython.com/simpy-simulating-with-python/][SimPy: Simulating Real-World Processes With Python // Real Python]]

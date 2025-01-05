@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       af5c9cc2-5157-4a55-90cf-7291f8457ad3
+:END:
+#+TITLE: Veryl
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :fpga:hdl:
+
+*Veryl* -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]], написанный на [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]] и заимствующий из него синтаксис и некоторые возможности.
+
+* Resources
+
+- [[https://veryl-lang.org/][Home Page]]
+- [[https://github.com/veryl-lang/veryl][GitHub Repository]]

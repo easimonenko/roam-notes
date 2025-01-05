@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ac46122d-600f-4e86-b904-e721b5ff2d69
+:END:
+#+TITLE: Source Code Management
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-02
+#+FILETAGS: :software-engineering:
+
+*Source Code Management* (SCM) -- управление исходными текстами.
+
+Другие названия:
+
+- Version Control (VC)
+- Revision Control (RC)
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Version_control][Wikipedia [EN]​]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4116a4f9-8314-461f-9a61-453200e5175c
+:END:
+#+TITLE: VLSI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :abbreviation:
+
+*VLSI* сокращение от [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][Very Large Scale Integration]].

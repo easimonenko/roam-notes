@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7bba8b10-5d28-4f72-9052-c9c798bc8adf
+:END:
+#+TITLE: Domain-Specific Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :programming:
+
+*Domain-Specific Language* (DSL) (Предметно-ориентированный язык) -- язык, специально созданный для решения определённого круга задач. В отличие от универсальных языков программирования могут не быть [[id:1b17b131-3462-438a-9dee-1787ec36f0c2][полными по Тьюрингу]] или быть неудобными для разработки программ в других областях. Может быть создан как с нуля, когда для языка разрабатывается оригинальный синтаксис, так и на базе одного из языков программирования, когда DSL создается средствами этого языка и естественно встраивается в него.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Предметно-ориентированный_язык][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Domain-specific_language][Wikipedia [EN]​]]

@@ -8,7 +8,7 @@
 #+DATE: 2024-12-31
 #+FILETAGS: :hdl:
 
-*SpinalHDL* -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]], являющийся DSL на базе языка Scala.
+*SpinalHDL* -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]], являющийся [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][DSL]] на базе языка Scala.
 
 * Resoures
 

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94270033-73ec-4963-937b-a5e6662ebfe9
+:END:
+#+TITLE: RTL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :abbreviation:
+
+*RTL* -- сокращение от Register Transfer Level.

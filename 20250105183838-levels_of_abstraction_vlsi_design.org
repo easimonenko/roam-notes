@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8730cfcc-c01a-44cd-a8a8-e8041fa3e30c
+:END:
+#+TITLE: Levels of Abstraction (VLSI Design)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-05
+#+FILETAGS: :digital-electronics:
+
+*Levels of Abstraction (VLSI Design)* -- уровни абстракции в дизайне [[id:4116a4f9-8314-461f-9a61-453200e5175c][VLSI]].
+
+Список уровней от самого высокого к самому низкому:
+
+- System Level (поведение, функции).
+- Architecture Level (крупные узлы и шины).
+- [[id:a43f12c7-50d8-4254-9c87-5829a8fd1369][Register Transfer Level]] (регистры и другие цифровые элементы).
+- Logic Gate Level (логические элементы).
+- Circuit Level (электронная схема с транзисторами и проводниками).
+- Transistor Level (физическая реализация транзисторов).

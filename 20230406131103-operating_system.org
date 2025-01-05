@@ -13,3 +13,8 @@
 
 *Операционные системы* является зрелой дисциплиной в рамках областей
 *вычислительная техника* и *системное программирование*.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Операционная_система][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Operating_system][Wikipedia [EN]​]]
