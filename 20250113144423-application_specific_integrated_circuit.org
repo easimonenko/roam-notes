@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       15ec7149-1156-49a1-a813-4b3d242f50ac
+:END:
+#+TITLE: Application-Specific Integrated Circuit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-13
+#+FILETAGS: :digital-electronics:
+
+*Application-Specific Integrated Circuit* (ASIC) -- [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральная схема]] специального назначения. ASIC разрабатываются под определённую задачу. Для их разработки используются [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]]. Отладка и испытвания ASIC могут проводиться на базе [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Интегральная_схема_специального_назначения][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Application-specific_integrated_circuit][Wikipedia [EN]​]]

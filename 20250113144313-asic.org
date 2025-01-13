@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5857df43-03fa-40ec-8813-1884fdd60862
+:END:
+#+TITLE: ASIC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-13
+#+FILETAGS:
+
+*ASIC* -- сокращение от [[id:15ec7149-1156-49a1-a813-4b3d242f50ac][Application Specific Integrated Circuit]].

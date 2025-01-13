@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d5193be-e92a-4ab6-950f-14135cce35d1
+:END:
+#+TITLE: LUT
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-13
+#+FILETAGS: :abbreviation:
+
+*LUT* -- сокращение от [[id:f7e3a7ce-6b6d-43ec-a1d7-843d274e0529][Lookup Table]].

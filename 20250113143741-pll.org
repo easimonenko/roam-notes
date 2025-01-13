@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8c65b82a-35f0-45ab-9639-fe9e82437e89
+:END:
+#+TITLE: PLL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-13
+#+FILETAGS: :abbreviation:
+
+*PLL* -- сокращение от [[id:aba7f4f8-c8ec-4c15-97cf-b16ec3885010][Phase-Locked Loop]].
