@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7e023543-9d11-4cf8-8c5e-0aa1073dd8e8
+:END:
+#+TITLE: Direct Rendering Infrastructure
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-14
+#+FILETAGS: :computer-graphics:system-programming:
+
+*Direct Rendering Infrastructure* -- промежуточное системное программное обеспечение, призванное предоставить приложениям доступ к графическим [[id:656e1c2e-4186-43be-ace8-afce1862dac1][API]] OpenGL и Vulkan. Поддержка реализована в GNU/Linux, [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]], [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]], [[id:712a249d-e77c-418e-ad95-dd24162c0764][OpenBSD]] и OpenSolaris.
+
+* Resources
+
+- [[https://dri.freedesktop.org/wiki/][Home Page]]
+- [[https://en.wikipedia.org/wiki/Direct_Rendering_Infrastructure][Wikipedia [EN]​]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52a93181-1b43-4cb7-9ebd-d3bfe71945f0
+:END:
+#+TITLE: API
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-14
+#+FILETAGS: :abbreviation:
+
+*API* -- сокращение от [[id:656e1c2e-4186-43be-ace8-afce1862dac1][Application Programming Interface]].

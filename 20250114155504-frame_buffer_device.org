@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       45414bd5-7111-479f-9fa7-b4613698bf3a
+:END:
+#+TITLE: Frame Buffer Device
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-14
+#+FILETAGS: :operating-system:
+
+*Frame Buffer Device* -- устройство кадрового буфера -- абстрактное представление [[id:543c576b-68c7-4249-8e22-3b8a5672c5e0][Framebuffer]] в [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системе]]. Предоставляет графический [[id:656e1c2e-4186-43be-ace8-afce1862dac1][API]] для пользовательских приложений или окружения рабочего стола.
+
+* Resources
+
+- [[https://www.kernel.org/doc/html/latest/fb/framebuffer.html][Documentation for Linux Kernel]]

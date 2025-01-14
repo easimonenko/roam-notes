@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       543c576b-68c7-4249-8e22-3b8a5672c5e0
+:END:
+#+TITLE: Framebuffer
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-14
+#+FILETAGS: :computer-graphics:digital-electronics:
+
+*Framebuffer* -- кадровый буфер -- область [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]] цифрового устройства, в которой формируется и хранится изображение, выводимое на дисплей.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Кадровый_буфер][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Framebuffer][Wikipedia [EN]​]]

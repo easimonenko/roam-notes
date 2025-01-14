@@ -1,16 +1,23 @@
 :PROPERTIES:
 :ID:       656e1c2e-4186-43be-ace8-afce1862dac1
 :END:
-#+TITLE: API
+#+TITLE: Application Programming Interface
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-24
 #+FILETAGS: :programming:system-programming:
 
-*API* (Application Programming Interface) -- прикладной программный интерфейс.
-Набор функций, доступных программисту для использования при разработке своих
-программ. Чаще всего ассоциируется с системным API, например:
+*Application Programming Interface* (API) -- прикладной программный интерфейс -- набор функций, доступных программисту для использования при разработке своих программ.
+
+Чаще всего API ассоциируется с системным API, предоставляемым [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системой]]. Например:
 
 - *WinAPI* -- API операционной системы Windows.
 - *POSIX* -- стандартизованный API [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобных ОС.
+
+Также широко распространилось Web API, предоставляющий доступ к веб-серверам посредством протокола HTTP.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/API][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/API][Wikipedia [EN]​]]
