@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       010e2198-e892-4991-8438-ad3d8151e49f
+:END:
+#+TITLE: Simulation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-16
+#+FILETAGS:
+
+*Simulation* (симуляция) -- имитация какого-либо процесса чаще всего с использованием программных и аппратаных средств, называемых симуляторами (simulator).
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Simulation][Wikipedia [EN]​]]

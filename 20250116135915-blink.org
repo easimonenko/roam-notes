@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f4becce1-8b20-42d8-8d05-7f3ded525a0b
+:END:
+#+TITLE: Blink
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-16
+#+FILETAGS: :web:browser:
+
+*Blink* -- веб-движок, разработанный компанией Google на основе части кода движка [[id:db44b092-b4a9-43d4-9806-4fd62fb299a1][WebKit]].
+
+Вместе с виртуальной машиной [[id:ead425ed-bf5e-40ac-ae6e-9fa3fa111a29][V8]], исполняющей [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]], составляет основу веб-браузера Chromium.
+
+* Resources
+
+- [[https://www.chromium.org/blink/][Home Page]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7b8a945c-8c18-444f-b538-67937ed4529e
+:END:
+#+TITLE: Trellis
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-16
+#+FILETAGS: :fpga:programming-tool:
+
+*Trellis* -- проект, добавляющий к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержку микросхем [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] Lattice ECP5.
+
+* Resources
+
+- [[https://github.com/YosysHQ/prjtrellis][GitHub Repository]]

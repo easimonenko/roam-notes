@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       30bb67cf-383c-4081-8a4e-20a29da94702
+:END:
+#+TITLE: Nyxt
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-16
+#+FILETAGS: :web:browser:common-lisp:
+
+*Nyxt* -- веб-браузер, написанный на языке [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]] и управление которым возможно только с использованием клавиатуры наподобие [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]]. Реализован с использованием [[id:db44b092-b4a9-43d4-9806-4fd62fb299a1][WebKit]] и Gtk+.
+
+* Resources
+
+- [[https://nyxt.atlas.engineer/][Home Page]]
+- [[https://github.com/atlas-engineer/nyxt][GitHub Repository]]

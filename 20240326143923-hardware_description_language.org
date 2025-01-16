@@ -8,8 +8,10 @@
 #+DATE: 2024-03-26
 #+FILETAGS: :computer-architecture:
 
-*Hardware Description Language* (HDL) -- язык описания аппаратуры. К HDL относятся [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] и [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].
+*Hardware Description Language* (HDL) -- язык описания аппаратуры -- язык, на котором описывается [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][электронная схема]], чаще всего [[id:e05496d9-066f-4a63-b431-fbb4bf3489c8][цифровая]]. К основным HDL относятся [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] и [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]].
 
 * Resources
 
+- [[https://ru.wikipedia.org/wiki/Язык_описания_аппаратуры][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Hardware_description_language][Wikipedia [EN]​]]
 - [[https://github.com/drom/awesome-hdl][Awesome List]]

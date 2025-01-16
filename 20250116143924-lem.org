@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       758cd85d-fd7a-4300-afec-7da69847035f
+:END:
+#+TITLE: Lem
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-16
+#+FILETAGS: :common-lisp:editor:ide:
+
+*Lem* -- редактор, написанный на и для языка [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]]. Идейно похож на [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]].
+
+* Resources
+
+- [[https://lem-project.github.io/][Home Page]]
+- [[https://github.com/lem-project/lem][GitHub Repository]]

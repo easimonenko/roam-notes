@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       190faa15-1fd8-45a7-9a4a-1da977731aad
+:END:
+#+TITLE: Static Timing Analysis
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-16
+#+FILETAGS: :digital-electronics:
+
+*Static Timing Analysis* -- Статический временной анализ -- методика вычисления временных характеристик [[id:18d449ca-1b6b-4197-896b-c73cced3f324][синхронных цифровых схем]], не требующая полной [[id:010e2198-e892-4991-8438-ad3d8151e49f][симуляции]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Статический_временной_анализ][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Static_timing_analysis][Wikipedia [EN]​]]

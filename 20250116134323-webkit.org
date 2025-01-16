@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       db44b092-b4a9-43d4-9806-4fd62fb299a1
+:END:
+#+TITLE: WebKit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-16
+#+FILETAGS: :web:browser:
+
+*WebKit* -- браузерный движок, разработанный компанией Apple на основе KHTML и KJS проекта KDE.
+
+На основе компонента WebCore, отвечающего за отображение веб-страниц и графики, компания Google разработала веб-движок [[id:f4becce1-8b20-42d8-8d05-7f3ded525a0b][Blink]].
+
+* Resources
+
+- [[https://webkit.org/][Home Page]]
+- [[https://github.com/WebKit/WebKit][GitHub Repository]]

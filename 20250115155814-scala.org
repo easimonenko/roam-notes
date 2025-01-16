@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       db12138f-e0fd-47c2-850b-fb7927848e61
+:END:
+#+TITLE: Scala
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-15
+#+FILETAGS: :programming-language:jvm:javascript:
+
+*Scala* -- функциональный язык программирования с развитым ООП с классами. Основная реализация языка предназначена для создания кода, работающего на JVM. Также может быть скомпилирован в код на [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]] и в машинный код.
+
+* Resources
+
+- [[https://www.scala-lang.org/][Home Page]]
+- [[https://github.com/scala][GitHub Page]]
