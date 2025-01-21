@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a92294c0-757e-4125-a320-4bd65accd75f
+:END:
+#+TITLE: Emulator
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-21
+#+FILETAGS: :computer-architecture:software:
+
+*Emulator* -- программное обеспечение для выполнения эмуляции компьютерной системы.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Emulator][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Эмуляция][Wikipedia [RU]​]]

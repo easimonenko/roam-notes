@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2bc82df9-1611-4887-8fdb-39541a8352cf
+:END:
+#+TITLE: Emulation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-21
+#+FILETAGS: :computer-architecture:
+
+*Emulation* -- эмуляция -- процесс имитации компьютерной системы с использование другой компьютерной системы. Программное обеспечение для выполнения эмуляции называется [[id:a92294c0-757e-4125-a320-4bd65accd75f][эмулятором]].

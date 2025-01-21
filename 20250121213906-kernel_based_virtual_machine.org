@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c260d838-157b-4321-822d-cdbe4034c673
+:END:
+#+TITLE: Kernel-based Virtual Machine
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-21
+#+FILETAGS: :operating-system:virtualization:
+
+*Kernel-based Virtual Machine* (KVM) -- технология виртуализации ядра [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]] для процессоров компаний Intel с технологией VT (Virtualization Technology) и AMD с технологией SVM (Secure Virtual Machine).
+
+* Resources
+
+- [[https://linux-kvm.org/page/Main_Page][Home Page]]
+- [[https://git.kernel.org/pub/scm/virt/kvm/kvm.git][Git Repository (Linux Kernel)]]
+- [[https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/KVM][Wikipedia [RU]​]]

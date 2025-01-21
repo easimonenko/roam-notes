@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c99e0a7c-36e4-45de-aa5c-7f87166fcd78
+:END:
+#+TITLE: Loko Scheme
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-21
+#+FILETAGS: :scheme:operating-system:system-programming:
+
+*Loko Scheme* -- реализация языка Scheme, способная работать на компьютерах архитектуры Intel X86-64 без операционной системы и написанная только на Scheme R6RS. Для сборки требуется уже собранный Loko или Chez. Лицензия EUPL версии 1.2 или новее.
+
+* Resources
+
+- [[https://scheme.fail/][Home Page]]
+- [[https://scheme.fail/git/loko.git][Git Repository]]

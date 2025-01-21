@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a08e5bc8-6c80-4c8b-a11d-09de240b47f2
+:END:
+#+TITLE: KVM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-21
+#+FILETAGS: :abbreviation:
+
+*KVM* -- сокращение от [[id:c260d838-157b-4321-822d-cdbe4034c673][Kernel-based Virtual Machine]].

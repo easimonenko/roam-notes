@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ae836766-d829-4213-82c3-a8141dd7b74e
+:END:
+#+TITLE: SPICE
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-21
+#+FILETAGS: :software:
+
+*SPICE* -- протокол и программное обеспечение для удалённого доступа к виртуальным машинам.
+
+* Resources
+
+- [[https://www.spice-space.org/][Home Page]]
