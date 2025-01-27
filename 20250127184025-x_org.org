@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8d338041-f251-4315-8663-b9baef055fef
+:END:
+#+TITLE: X.Org
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-27
+#+FILETAGS: :graphics:unix:
+
+*X.Org* -- современная реализация [[id:c1bd534d-6859-442d-80c0-95850d68c907][X Window System]]. X.Org является ответвлением от XFree86 версии 4.4RC2, возникшим в связи с изменением в лицензии на новую версию 4.4. Первая версия, реализующая новую версию протокола X11R7, была выпущена в 2005 году.
+
+* Resources
+
+- [[https://x.org/wiki/][Home Page]]
+- [[https://gitlab.freedesktop.org/xorg/xserver][X Server Git Repository]]
+- [[https://ru.wikipedia.org/wiki/X.Org_Server][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/X.Org_Server][Wikipedia [EN]​]]

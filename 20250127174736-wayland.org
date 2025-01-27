@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       569c838d-8fbe-44c9-9a0b-f1b94fb4d25d
+:END:
+#+TITLE: Wayland
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-27
+#+FILETAGS: :graphics:gui:system-programming:
+
+*Wayland* -- протокол обмена сообщениями между дисплейным (графическим) сервером и клиентским приложением, нуждающимся в отображении графики. Также Wayland описывает архитектуру для реализации сервера. Сервер, реализующий Wayland называют композитор.
+
+Wayland призван заменить [[id:86a72a95-6bd3-48c2-a567-7bcc387336c9][X11]] -- классический протокол для [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобных ОС.
+
+Проект предоставляет эталонные реализации:
+
+- [[id:873098b3-811d-4892-9adf-b37faf7eb122][Wayland]]: библиотека на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], реализующая протокол для написания серверов и клиентов.
+- [[id:a6f8d621-b693-4015-b64b-235c84ccf846][Weston]]: композитор.
+
+* Resources
+
+- [[https://wayland.freedesktop.org/][Home Page]]
+- [[https://gitlab.freedesktop.org/wayland][Git Repositories]]
+- [[https://ru.wikipedia.org/wiki/Wayland][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Wayland_(protocol)][Wikipedia [EN]​]]

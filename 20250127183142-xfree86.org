@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       08787eed-9e46-4ce3-817e-5d99f4d52dcf
+:END:
+#+TITLE: XFree86
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-27
+#+FILETAGS: :graphics:unix:
+
+*XFree86* -- реализация [[id:c1bd534d-6859-442d-80c0-95850d68c907][X Window System]]. В последние несколько лет во многих ОС была заменена на [[id:8d338041-f251-4315-8663-b9baef055fef][X.Org]].
+
+* Resources
+
+- [[https://xfree86.org/][Home Page]]

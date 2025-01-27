@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a6f8d621-b693-4015-b64b-235c84ccf846
+:END:
+#+TITLE: Weston
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-27
+#+FILETAGS: :wayland:
+
+*Weston* -- эталонная реализация [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]. Лицензия MIT.
+
+* Resources
+
+- [[https://gitlab.freedesktop.org/wayland/weston][Git Repository]]

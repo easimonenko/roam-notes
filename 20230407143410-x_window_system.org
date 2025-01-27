@@ -11,11 +11,11 @@
 *X Window System* -- графический сервер для [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобных операционных
 систем. Часто называют короче X Window или даже просто X.
 
-В 90-е годы и в начале 2000-х основной реализацией была XFree86, которая
+В 90-е годы и в начале 2000-х основной реализацией была [[id:08787eed-9e46-4ce3-817e-5d99f4d52dcf][XFree86]], которая
 продолжает поставляться, например, с [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]]. В [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] чаще
-используется вариант X.org.
+используется вариант [[id:8d338041-f251-4315-8663-b9baef055fef][X.Org]].
 
 * Resources
 
-- [[https://xfree86.org/][XFree86 Home Page]]
-- [[https://www.x.org/wiki/][X.org Home Page]]
+- [[https://ru.wikipedia.org/wiki/X_Window_System][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/X_Window_System][Wikipedia [EN]​]]

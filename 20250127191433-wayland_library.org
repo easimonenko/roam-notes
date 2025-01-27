@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       873098b3-811d-4892-9adf-b37faf7eb122
+:END:
+#+TITLE: Wayland Library
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-27
+#+FILETAGS: :wayland:
+
+*Wayland Library* -- эталонная реализация протокола [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]] на языке [[roam:C]]. Содержит [[id:52a93181-1b43-4cb7-9ebd-d3bfe71945f0][API]] для написания серверов и клиентов.
+
+* Resources
+
+- [[https://gitlab.freedesktop.org/wayland/wayland][Git Repository]]

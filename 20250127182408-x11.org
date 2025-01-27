@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86a72a95-6bd3-48c2-a567-7bcc387336c9
+:END:
+#+TITLE: X11
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-27
+#+FILETAGS: :graphics:unix:
+
+*X11* -- версия протокола [[id:c1bd534d-6859-442d-80c0-95850d68c907][X Window System]]. X11 является последней и самой долгоиграющей версией. Имеет две основные реализации: [[id:8d338041-f251-4315-8663-b9baef055fef][X.Org]] и [[id:08787eed-9e46-4ce3-817e-5d99f4d52dcf][XFree86]].
