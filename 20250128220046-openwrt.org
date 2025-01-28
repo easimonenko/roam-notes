@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3f0f7b6b-0033-48fc-813d-d513a3876b5c
+:END:
+#+TITLE: OpenWrt
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :embedded-system:operating-system:linux:
+
+*OpenWrt* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]], в первую очередь для сетевых роутеров.
+
+* Resources
+
+- [[https://openwrt.org/][Home Page]]
+- [[https://git.openwrt.org/][Git Repositories]]

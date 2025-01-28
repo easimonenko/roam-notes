@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ef148f9a-b11b-44ea-97c1-b78dddfd05bb
+:END:
+#+TITLE: Board Support Package
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :embedded-system:system-programming:
+
+*Board Support Package* (Пакет поддержки платформы) -- системное программное обеспечение, предоставляемое производителем [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессора]] или [[id:87523ee6-267b-43a4-9fca-f981d9ef1ab1][проверочной платы]] и включающее в себя аппаратно-специфичные настройки и функции, используемые разработчиками [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]] для написания [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивок]] и ядер [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][ОС]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Board_Support_Package][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Board_support_package][Wikipedia [EN]​]]

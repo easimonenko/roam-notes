@@ -6,10 +6,12 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
-#+FILETAGS: :build-tool:linux:
+#+FILETAGS: :build-tool:linux:embedded-system:
 
-*Buildroot* -- инструментарий для кросс-компиляции систем на базе [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]].
+*Buildroot* -- инструментарий для кросс-компиляции [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционных систем]] на базе [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]].
 
 * Resources
 
-- [[https://buildroot.org/][Buildroot Home Page]]
+- [[https://buildroot.org/][Home Page]]
+- [[https://git.buildroot.net/][Git Repositories]]
+- [[https://en.wikipedia.org/wiki/Buildroot][Wikipedia [EN]​]]

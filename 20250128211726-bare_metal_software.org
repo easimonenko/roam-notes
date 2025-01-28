@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       26fbf30e-6a7e-4188-8bba-739de91f6393
+:END:
+#+TITLE: Bare Metal Software
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :embedded-system:system-programming:
+
+*Bare Metal Software* -- программное обеспечение, запускающееся на "голом железе" (bare machine), без использования [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]]. Это часто используемый подход при разработке [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. В этом случае пишется минимально необходимый объём кода, обеспечивающий доступ к периферии и контроллерам системы, а также собственно приложение, взаимодействующее с ними.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Bare_machine_computing][Wikipedia [EN]​]]

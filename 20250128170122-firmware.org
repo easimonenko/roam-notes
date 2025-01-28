@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4191eba1-1db6-46ff-8968-0baae114c2a6
+:END:
+#+TITLE: Firmware
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :system-programming:embedded-system:
+
+*Firmware* (Прошивка) -- встраиваемое программное обеспечение, чаще всего записанное в постоянную память, например, флеш-память, или загружаемое во время старта системы.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Встроенное_программное_обеспечение][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Firmware][Wikipedia [EN]​]]

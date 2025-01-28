@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9c5aae01-e6c1-4758-aa13-f09f5cbdaf9c
+:END:
+#+TITLE: Bootloader
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :system-programming:operating-system:
+
+*Bootloader* (Загрузчик) -- программное обеспечение, предназначенное для первичной инициализации системы и загрузки в память [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][ядра]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] или приложения, первичную его инициализацию и запуск. Загрузчик может загружать также другой загрузчик, в этом случае его называют менеджером загрузки. Загрузка может производиться в несколько стадий.
+
+* Resource
+
+- [[https://ru.wikipedia.org/wiki/Загрузчик_операционной_системы][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Bootloader][Wikipedia [EN]​]]

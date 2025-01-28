@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d5eb1a86-0e93-4997-ad6b-fcfdcd26f1a9
+:END:
+#+TITLE: OpenEmbedded
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :linux:embedded-system:
+
+*OpenEmbedded* -- инструментарий для кросс-сборки дистрибутивов [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. Входит в [[id:31383527-2f2d-40e5-9d5e-0def7e17f680][Yocto Project]].
+
+* Resources
+
+- [[https://www.openembedded.org/wiki/Main_Page][Home Page]]
+- [[https://git.openembedded.org/][Git Repositories]]
+- [[https://ru.wikipedia.org/wiki/OpenEmbedded][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/OpenEmbedded][Wikipedia [EN]​]]

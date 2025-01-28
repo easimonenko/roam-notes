@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c0bef48f-c0ef-4360-ab38-a744e0e5bf79
+:END:
+#+TITLE: BSP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :abreviation:
+
+*BSP* -- сокращение от:
+
+- [[id:ef148f9a-b11b-44ea-97c1-b78dddfd05bb][Board Support Package]]
+- Bulk Synchronous Parallel

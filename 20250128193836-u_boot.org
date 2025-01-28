@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e5453be7-740e-466d-a247-a1fc27317ac2
+:END:
+#+TITLE: U-Boot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-28
+#+FILETAGS: :bootloader:system-programming:operating-system:embedded-system:
+
+*U-Boot* -- Universal Bootloader -- [[id:9c5aae01-e6c1-4758-aa13-f09f5cbdaf9c][загрузчик]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]] на базе [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектур]] [[id:d60573e4-0481-4246-9be9-e10c33125d05][ARM]], x86, [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]], [[id:2d959026-94b9-4769-a939-253cbef1b7a1][MIPS]] и других. Поддерживает большое количество плат, интерфейс командной строки, написание скриптов, файловые системы и сеть. Поддерживает загрузку [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]], Android, ChromeOS и другие [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционные системы]]. Основная лицензия: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2 или новее.
+
+* Resources
+
+- [[https://www.u-boot.org/][Home Page]]
+- [[https://docs.u-boot.org/en/latest/][Documentation]]
+- [[https://source.denx.de/u-boot/u-boot][Git Repository]]
+- [[https://en.wikipedia.org/wiki/Das_U-Boot][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Das_U-Boot][Wikipedia [RU]​]]
