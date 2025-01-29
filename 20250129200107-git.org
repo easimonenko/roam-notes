@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5
+:END:
+#+TITLE: Git
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-29
+#+FILETAGS: :scm:
+
+*Git* -- самая распространённая на сегодня система [[id:ac46122d-600f-4e86-b904-e721b5ff2d69][SCM]]. Разработана Линусом Торвальдсом для использования при разработке ядра [[id:fa77e564-c904-4405-baf5-7071f2296cec][Linux]]. Написана преимущественно на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
+
+* Resources
+
+- [[https://git-scm.com/][Home Page]]
+- [[https://git.kernel.org/pub/scm/git/git.git/][Git Repository]]

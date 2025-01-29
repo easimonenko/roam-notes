@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1b322f30-a888-46d4-9b25-47d2bd9f62ca
+:END:
+#+TITLE: Gitless
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-29
+#+FILETAGS: :git:scm:
+
+*Gitless* -- [[id:ac46122d-600f-4e86-b904-e721b5ff2d69][система управления исходниками]], являющаяся упрощённой альтернативой для Git, при этом совместимая с ним. Написано на [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]].
+
+* Resources
+
+- [[https://gitless.com/][Home Page]]
+- [[https://github.com/gitless-vcs/gitless][GitHub Repository]]

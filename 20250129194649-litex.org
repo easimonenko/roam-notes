@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6a19fbbf-d539-42d1-b7cd-c1547eae81c0
+:END:
+#+TITLE: LiteX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-29
+#+FILETAGS: :fpga:
+
+*LiteX* -- фреймворк для создания ядер [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][CPU]] и [[id:0806f9d1-9acd-44e2-a0ea-9c7b771eefd6][SoC]] на [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]].
+
+* Resources
+
+- [[https://github.com/enjoy-digital/litex][GitHub Repository]]

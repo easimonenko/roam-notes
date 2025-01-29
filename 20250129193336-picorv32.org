@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5949abc1-37bc-454b-9209-6e964745d4c3
+:END:
+#+TITLE: PicoRV32
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-29
+#+FILETAGS: :risc-v:verilog:
+
+*PicoRV32* -- ядро [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессора]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]]. Написано на [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]].
+
+* Resources
+
+- [[https://github.com/YosysHQ/picorv32][GitHub Repository]]
+- [[https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/examples/picorv.html][PicoRV32 on Tang Nano 9K]]

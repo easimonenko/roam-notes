@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       94fe9b92-7f76-4fb4-a1dc-267f20b04964
+:END:
+#+TITLE: Barebox
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-29
+#+FILETAGS: :bootloader:
+
+*Barebox* -- [[id:9c5aae01-e6c1-4758-aa13-f09f5cbdaf9c][загрузчик]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]] на базе [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектур]] x86, [[id:d60573e4-0481-4246-9be9-e10c33125d05][ARM]], [[id:2d959026-94b9-4769-a939-253cbef1b7a1][MIPS]], [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]] и других. Лицензия: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://www.barebox.org/][Home Page]]
+- [[https://git.pengutronix.de/cgit/barebox][Git Repository]]
+- [[https://en.wikipedia.org/wiki/Barebox][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Barebox][Wikipedia [RU]​]]

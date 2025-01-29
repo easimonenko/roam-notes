@@ -15,6 +15,15 @@
 - Version Control (VC)
 - Revision Control (RC)
 
+Самые распространённые системы SCM:
+
+- [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]]
+- Subversion
+- CVS
+- [[id:e41beab4-340b-4d57-9692-71e2543a1c66][Mercurial]]
+
+Git и Mercurial являются децентрализованными, а более старые Subversion и CVS требуют центральный сервер.
+
 * Resources
 
 - [[https://en.wikipedia.org/wiki/Version_control][Wikipedia [EN]​]]
