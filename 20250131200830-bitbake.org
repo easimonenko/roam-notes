@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b997f966-0ef3-4377-bf39-9c47fdb40bae
+:END:
+#+TITLE: BitBake
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-31
+#+FILETAGS: :embedded-system:operating-system:
+
+*BitBake* -- [[id:20fa75b8-0a97-48fd-82ad-8d737a16cf6f][инструментарий для сборки]] пакетов и дистрибутивов на базе [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. Разрабатывается совместно проектами [[id:d5eb1a86-0e93-4997-ad6b-fcfdcd26f1a9][OpenEmbedded]] и [[id:31383527-2f2d-40e5-9d5e-0def7e17f680][Yocto]].
+
+* Resources
+
+- [[https://docs.yoctoproject.org/bitbake/][Documentation]]
+- [[https://git.openembedded.org/bitbake/][Git Repository]]
+- [[https://en.wikipedia.org/wiki/BitBake][Wikipedia [EN]​]]

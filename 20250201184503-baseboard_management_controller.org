@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d7383ec7-533d-49ac-ac9e-e03969387f89
+:END:
+#+TITLE: Baseboard Management Controller
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-01
+#+FILETAGS: :networking:computer-architecture:
+
+*Baseboard Management Controller* (BMC) -- специализированный [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][микроконтроллер]], предназначенный для мониторинга и управления вычислительной системой, чаще всего класса сервер. Обычно поддерживает внешние коммуникации с использованием шин и коннекторов USB, RS-232, Ethernet, VGA. Для подключения к компьютеру может использоваться шина PCI Express. Для доступа и управления компьютером посредством BMC предназначен стандартизованный протокол IPMI. Для систем BMC существует специализированный дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] [[id:529d65cb-432c-4822-b286-3897410bf5e0][OpenBMC]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface#Baseboard_management_controller][Wikipedia [EN]​]]
+- [[https://habr.com/ru/companies/yadro/articles/311440/][Плата управления сервером — зачем она и что внутри // Хабр]]

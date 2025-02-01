@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20fa75b8-0a97-48fd-82ad-8d737a16cf6f
+:END:
+#+TITLE: Build Tool
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-31
+#+FILETAGS: :devtool:software:
+
+*Build Tool* (Инструментарий для сборки) -- программное обеспечение для автоматизации сборки программ, библиотек, пакетов или дистрибутивов.
+
+Исторически самым распространённым средством автоматизации сборки является [[id:bc959a39-5f97-4fb5-82bc-b69e7b6b5fd4][Make]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Автоматизация_сборки][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Build_automation][Wikipedia [EN]​]]

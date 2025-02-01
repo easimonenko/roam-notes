@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       66ddbaf7-a3b2-470a-887d-a64fd4ec82a2
+:END:
+#+TITLE: Chiplet
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-30
+#+FILETAGS: :digital-electronics:
+
+*Chiplet* -- отдельная [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральная схема]] в составе более сложной интегральной схемы, такой как [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессор]]. Для соединения чиплетов между собой используются интерпозеры (interposer). Является развитием подхода со множеством чипов на единой плате (multi-chip module).
+
+Подход с использованием чиплетов используется в современных процессорах компаний Intel и AMD, а также в GPU компании Nvidia.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Chiplet][Wikipedia [EN]​]]
+- [[https://www.techspot.com/article/2678-chiplets-explained/][What Are Chiplets and Why They Are So Important for the Future of Processors // TechSpot]]

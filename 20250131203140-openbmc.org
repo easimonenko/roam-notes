@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       529d65cb-432c-4822-b286-3897410bf5e0
+:END:
+#+TITLE: OpenBMC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-01-31
+#+FILETAGS: :linux:networking:
+
+*OpenBMC* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] для [[id:d7383ec7-533d-49ac-ac9e-e03969387f89][BMC]]. Проект по его разработке входит в состав Linux Foundation. Для создания дистрибутива используется [[id:31383527-2f2d-40e5-9d5e-0def7e17f680][Yocto]]. Для создания [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивок]] используется [[id:e5453be7-740e-466d-a247-a1fc27317ac2][U-Boot]].
+
+* Resources
+
+- [[https://www.openbmc.org/][Home Page]]
+- [[https://github.com/openbmc/openbmc][GitHub Repository]]
+- [[https://en.wikipedia.org/wiki/OpenBMC][Wikipedia [EN]​]]

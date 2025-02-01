@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       20a7d8af-255e-4431-9152-eab10995a516
+:END:
+#+TITLE: BMC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-01
+#+FILETAGS: :abbreviation:
+
+*BMC* -- сокращение от [[id:d7383ec7-533d-49ac-ac9e-e03969387f89][Baseboard Management Controller]].
