@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a66ea08d-cd4a-4d71-adbb-db1f98d4be1c
+:END:
+#+TITLE: GNU C Library
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-04
+#+FILETAGS: :c:gnu:libc:
+
+*GNU C Library* -- стандартная библиотека для языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] из проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Часто название сокращают до glibc. Лицензия: GNU LGPL v2 или новее. Обычно используется в ОС [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]], также в большинстве свободно-распространяемых программ, написанных на C, и в ОС [[id:1cf387f2-2fe8-49a2-89cb-6ccc98c255a1][GNU/Hurd]]. Во встраиваемых системах часто заменяется на другие реализации.
+
+* Resources
+
+- [[https://sourceware.org/glibc/][Home Page]]
+- [[https://sourceware.org/git/?p=glibc.git][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/Glibc][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Glibc][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       72595be9-9917-426c-9a00-f34c43a5558a
+:END:
+#+TITLE: Power ISA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-04
+#+FILETAGS: :risc:power:isa:
+
+*Power ISA* -- [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][RISC]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][ISA]], разрабатываемая [[id:038b004e-0633-4b20-92c2-ebc6078cf1cc][OpenPower Foundation]]. Изначально разработка компании IBM.
+
+* Resources
+
+- [[https://openpowerfoundation.org/specifications/isa/][ISA Specification]]
+- [[https://en.wikipedia.org/wiki/Power_ISA][Wikipedia [EN]​]]

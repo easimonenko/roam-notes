@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d5f6fb4b-4571-4f8e-bf31-111ba3d504ea
+:END:
+#+TITLE: XBPS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-04
+#+FILETAGS: :package-manager:linux:
+
+*XBPS* (X Binary Package System) -- менеджер пакетов. Распространяется под лицензией BSD 2-Clause. Используется в дистрибутиве Void Linux. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
+
+* Resources
+
+- [[https://xbps-api-docs.voidlinux.org/][Documentation]]
+- [[https://github.com/void-linux/xbps][GitHub Repository]]
+- [[https://ru.wikipedia.org/wiki/Xbps][Wikipedia [RU]​]]

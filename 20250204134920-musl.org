@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       73cfc85c-4c15-40a0-bb25-19823732360e
+:END:
+#+TITLE: musl
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-04
+#+FILETAGS: :c:libc:
+
+*musl* -- реализация стандартной библиотеки языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Лицензия: MIT.
+
+* Resources
+
+- [[https://musl.libc.org/][Home Page]]
+- [[https://git.musl-libc.org/cgit/musl][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/Musl][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Musl][Wikipedia [EN]​]]

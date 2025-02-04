@@ -1,16 +1,17 @@
 :PROPERTIES:
 :ID:       d60573e4-0481-4246-9be9-e10c33125d05
 :END:
-#+TITLE: ARM
+#+TITLE: ARM Architecture Family
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-09-29
 #+FILETAGS: :computer-architecture:risc:
 
-*ARM* -- одна из самых массовых архитектур как для процессоров, так и для микроконтроллеров. Название появилось как сокращение от
-Advanced RISC Machine. ARM разрабатывается и лицензируется одноименной компанией.
+*ARM* -- одна из самых массовых [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектур]] класса [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][RISC]] как для [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]], так и для [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][микроконтроллеров]]. Название появилось как сокращение от Advanced RISC Machine. ARM разрабатывается и лицензируется одноименной компанией.
 
 * Resources
 
 - [[https://www.arm.com/][ARM Company Home Page]]
+- [[https://en.wikipedia.org/wiki/ARM_architecture_family][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/ARM_(архитектура)][Wikipedia [RU]​]]

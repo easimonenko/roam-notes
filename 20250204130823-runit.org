@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fbd6c859-e68b-4511-b164-7431ae7da460
+:END:
+#+TITLE: runit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-04
+#+FILETAGS: :operating-system:unix:
+
+*runit* -- система инициализации и менеджер сервисов для [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобных систем. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Лицензия: BSD 3-Clause.
+
+* Resources
+
+- [[https://smarden.org/runit/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Runit][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Runit][Wikipedia [EN]​]]
+- [[https://github.com/void-linux/runit][GitHub Repository (Fork by Void)]]

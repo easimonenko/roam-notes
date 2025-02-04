@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       038b004e-0633-4b20-92c2-ebc6078cf1cc
+:END:
+#+TITLE: OpenPower Foundation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-04
+#+FILETAGS: :power:
+
+*OpenPower Foundation* -- фонд, основанный компанией IBM, и в котором участвуют компании-производители компьютеров, для совместной разработки [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] и компьютеров на базе [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:72595be9-9917-426c-9a00-f34c43a5558a][Power]]. Фонд публикует на своём сайте спецификации на данную архитектуру.
+
+* Resources
+
+- [[https://openpowerfoundation.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/OpenPOWER][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/OpenPOWER_Foundation][Wikipedia [EN]​]]

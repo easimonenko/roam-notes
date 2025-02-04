@@ -6,6 +6,6 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-24
-#+FILETAGS: :computer-architecture:
+#+FILETAGS: :abbreviation:
 
 *RISC* -- сокращение от [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][Reduced Instruction Set Computer]].
