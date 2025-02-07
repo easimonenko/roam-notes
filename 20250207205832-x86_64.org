@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8e78a016-24a9-4d9d-a136-687d94fa8af2
+:END:
+#+TITLE: x86-64
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-07
+#+FILETAGS: :cpu:computer-architecture:
+
+*x86-64* -- 64-х разрядная [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектура]] [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] семейства [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]]. Создана компанией AMD, поэтому часто также назывется AMD64. Отличается от предшествующей [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] в первую очередь расширением целочисленной арифметики и адресации до 64-х разрядов.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/X86-64][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/X86-64][Wikipedia [EN]​]]

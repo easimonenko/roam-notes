@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8a9105de-6090-470f-a9b5-40ee256c14b3
+:END:
+#+TITLE: Physical Address Extension
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-07
+#+FILETAGS: :cpu:computer-architecture:
+
+*Physical Address Extension* (PAE) -- расширение физического адреса -- технология [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]], позволяющая за счёт увеличения разрядности адреса в таблице страниц с 32-х до 64-х бит и числа уровней иерархии в ней адресовать более 4 Gib памяти. PAE присутствует в процессорах начиная с Intel Pentium Pro и AMD Athlon.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PAE][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Physical_Address_Extension][Wikipedia [EN]​]]

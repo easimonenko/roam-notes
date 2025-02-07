@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4c6e59f2-6565-4781-a519-24e52c34de75
+:END:
+#+TITLE: Simple C Compiler
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-06
+#+FILETAGS: :c:
+
+*Simple C Compiler* (SCC) -- компилятор языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Лицензия: ISC.
+
+* Resources
+
+- [[https://www.simple-cc.org/][Home Page]]
+- [[https://git.simple-cc.org/scc/][Git Repository]]

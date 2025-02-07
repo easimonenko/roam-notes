@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8c4a09fa-1eb5-4c76-93fd-e5e6493a472d
+:END:
+#+TITLE: i686
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-07
+#+FILETAGS: :cpu:isa:computer-architecture:
+
+*i686* -- обозначение 32-х разрядной [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] и семейства [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]], начиная с Pentium Pro и заканчивая [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]]. Также обозначается как P6.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Intel_P6][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/P6_(microarchitecture)][Wikipedia [EN]​]]

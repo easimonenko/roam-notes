@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3d474bcd-55ec-4c0a-852b-df4890e34220
+:END:
+#+TITLE: PAE
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-07
+#+FILETAGS: :abbreviation:
+
+*PAE* -- сокращение от [[id:8a9105de-6090-470f-a9b5-40ee256c14b3][Physical Address Extension]].

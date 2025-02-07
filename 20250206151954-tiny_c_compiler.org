@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       137a3de0-c49d-4834-b022-3f4035422bff
+:END:
+#+TITLE: Tiny C Compiler
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-06
+#+FILETAGS: :c:
+
+*Tiny C Compiler* (TCC) -- самодостаточный компилятор языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] для [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]]. Не требует для своей работы ассемблер и линкер. Лицензия: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2 или новее.
+
+* Resources
+
+- [[https://bellard.org/tcc/][Home Page]]
+- [[https://savannah.nongnu.org/projects/tinycc][Project Page]]
+- [[https://repo.or.cz/w/tinycc.git][Git Repository]]
