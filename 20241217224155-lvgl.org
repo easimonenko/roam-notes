@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-17
-#+FILETAGS: :gui:
+#+FILETAGS: :gui:embedded-system:
 
-*LVGL* (Light and Versatile Graphics Library) -- библиотека [[id:417c859d-b6c2-40f6-ac87-454c751251a8][GUI]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. Портирована также в [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]].
+*LVGL* (Light and Versatile Graphics Library) -- библиотека [[id:417c859d-b6c2-40f6-ac87-454c751251a8][GUI]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. Портирована также в [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]]. Для работы в Linux предоставляются три варианта: [[id:4be9e3a8-7935-4740-9f24-5c6316f0e590][SDL]], [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]] и [[id:543c576b-68c7-4249-8e22-3b8a5672c5e0][Framebuffer]].
 
 * Resources
 

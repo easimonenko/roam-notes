@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e983b4dd-2cb4-4724-983f-21eaabcdb018
+:END:
+#+TITLE: SDL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-09
+#+FILETAGS: :abbreviation:
+
+*SDL* -- сокращение от [[id:4be9e3a8-7935-4740-9f24-5c6316f0e590][Simple DirectMedia Layer]].

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f86ddff1-23f6-4df8-a33d-0d36c91f07e8
+:END:
+#+TITLE: CMake
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-09
+#+FILETAGS: :build-tool:c++:
+
+*CMake* -- [[id:20fa75b8-0a97-48fd-82ad-8d737a16cf6f][инструмент для сборки]] программных проектов, написанных на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. На основе описания проекта генерирует файлы для сборки проекта, в частности, для [[id:bc959a39-5f97-4fb5-82bc-b69e7b6b5fd4][Make]]. Написан на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и C++, требуется компилятор C++. Лицензия: BSD 3-clause.
+
+* Resources
+
+- [[https://cmake.org/][Home Page]]
+- [[https://gitlab.kitware.com/cmake/cmake][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/CMake][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/CMake][Wikipedia [EN]​]]

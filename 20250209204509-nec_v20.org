@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9962cb20-9582-41fd-91c4-f51c720dee25
+:END:
+#+TITLE: NEC V20
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-09
+#+FILETAGS: :x86:cpu:
+
+*NEC V20* -- микропроцессор компании NEC с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]]. Совместим программно и аппаратно с Intel 8088. В отличие от него имел режим эмуляции микропроцессора Intel 8080.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/NEC_V20][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/NEC_V20][Wikipedia [EN]​]]

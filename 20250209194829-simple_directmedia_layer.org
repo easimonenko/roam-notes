@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4be9e3a8-7935-4740-9f24-5c6316f0e590
+:END:
+#+TITLE: Simple DirectMedia Layer
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-09
+#+FILETAGS: :graphics:c:
+
+*Simple DirectMedia Layer* (SDL) -- библиотека на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], предназначенная для разработки приложений, работающих с графикой, звуком, клавиатурой и мышью, таких как компьютерные игры, графические интерфейсы. Лицензия: Zlib.
+
+* Resources
+
+- [[https://libsdl.org/][Home Page]]
+- [[https://github.com/libsdl-org/SDL][GitHub Repository]]
+- [[https://ru.wikipedia.org/wiki/Simple_DirectMedia_Layer][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer][Wikipedia [EN]​]]

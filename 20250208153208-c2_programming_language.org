@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       72fc85f3-d933-448d-a069-ee43c51c76e2
+:END:
+#+TITLE: C2 Programming Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-08
+#+FILETAGS: :c:programming-language:
+
+*C2* -- язык программирования, являющийся осовремененным развитием [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], оставаясь при этом таким же примитивным и низкоуровневым. Компилятор написан на самом C2 с возможностью бутстрэпинга (сборки из исходников с нуля).
+
+* Resources
+
+- [[http://c2lang.org/][Home Page]]
+- [[http://c2lang.org/site/][Documentation]]
+- [[https://github.com/c2lang/][GitHub Repositories]]
+- [[https://github.com/c2lang/c2compiler][Compiler GitHub Repository]]
