@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6ef85d1d-a16a-4405-9ddc-c86204c5ff8f
+:END:
+#+TITLE: Debugger
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-12
+#+FILETAGS: :programming-tool:
+
+*Debugger* -- отладчик -- буквально, уничтожитель жуков -- программное обеспечение для наблюдения за работой некоторой программы чаще всего с целью локализации места возникновения ошибки с использованием пошагового её выполнения и установки точек остановки. Относится к категории инструментов для программирования.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Отладчик][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Debugger][Wikipedia [EN]​]]

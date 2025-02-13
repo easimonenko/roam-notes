@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8f1e312a-9f4d-48fc-9152-a67e684f0ebf
+:END:
+#+TITLE: Raku
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-13
+#+FILETAGS: :programming-language:
+
+*Raku* -- язык программирования, ранне известный как Perl 6.
+
+Доступны следующие компиляторы:
+
+- [[id:b9261a94-58a5-4a15-a874-7759bd04e785][NQP]]
+- [[id:ec3b82d0-d0a8-431a-b8f1-9d577b9424c0][Rakudo]]
+
+* Resources
+
+- [[https://raku.org/][Home Page]]
+- [[https://github.com/Raku][GitHub Repositories]]

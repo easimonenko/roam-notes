@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6eb5ff38-8cdc-4211-a77b-8ec4d706a37f
+:END:
+#+TITLE: MoarVM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-13
+#+FILETAGS: :virtual-machine:raku:
+
+*MoarVM* -- виртуальная машина, изначально созданная для языка Raku. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Основная лицензия: Artistic License 2.0.
+
+* Resources
+
+- [[https://moarvm.org/][Home Page]]
+- [[https://github.com/MoarVM/MoarVM][GitHub Repository]]

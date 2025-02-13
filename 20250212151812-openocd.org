@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       14a482c8-2861-4f91-8ba9-0e5f8ef74a11
+:END:
+#+TITLE: OpenOCD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-12
+#+FILETAGS: :debugging:embedded-system:programming-tool:
+
+*OpenOCD* -- Open On-Chip Debugger -- программное обеспечение, обеспечивающее связь между [[id:c4accefc-8c47-424c-aa8d-f5b2cc68327c][адаптером отладчика]] и [[id:6ef85d1d-a16a-4405-9ddc-c86204c5ff8f][отладчиком]] на компьютере. Чаще всего применяется для [[id:fa848b1b-6e66-4c1e-8d80-3d0c85a16bae][отладки]] [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивок]] [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]].
+
+* Resources
+
+- [[https://openocd.org/][Home Page]]
+- [[https://sourceforge.net/p/openocd/code/ci/master/tree/][Git Repository]]

@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       be3b2c1d-d3b3-4a10-be44-9fd9c3044c41
 :END:
-#+TITLE: org-roam
+#+TITLE: Org-roam
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-11-29
 #+FILETAGS: :emacs:org-mode:zettelkasten:
 
-*org-roam* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], основанный на [[id:bbb4f4e6-770e-4c43-838d-e2a300848c75][org-mode]], для ведения заметок в стиле [[id:28c07d0a-c59c-428c-9c2f-6754726996cc][zettelkasten]].
+*Org-roam* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], основанный на [[id:bbb4f4e6-770e-4c43-838d-e2a300848c75][org-mode]], для ведения заметок в стиле [[id:28c07d0a-c59c-428c-9c2f-6754726996cc][zettelkasten]].
 
 * Tutorials
 

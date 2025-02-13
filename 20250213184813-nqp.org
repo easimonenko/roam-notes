@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b9261a94-58a5-4a15-a874-7759bd04e785
+:END:
+#+TITLE: NQP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-13
+#+FILETAGS: :compiler:raku:
+
+*NQP* -- компилятор для языка [[id:8f1e312a-9f4d-48fc-9152-a67e684f0ebf][Raku]].
+
+* Resources
+
+- [[https://github.com/raku/nqp/][GitHub Repository]]

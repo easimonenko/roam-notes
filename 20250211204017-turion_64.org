@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ed359593-4f28-431e-9e96-103a3513bdc7
+:END:
+#+TITLE: Turion 64
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-11
+#+FILETAGS: :cpu:x86-64:amd:
+
+*Turion 64* -- одноядерный [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессор]] компании AMD архитектуры [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][x86-64]] для мобильных и других устройств с пониженным энергопотреблением. Предназначен для работы с памятью DDR-400 и шиной HyperTransport.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Turion_64][Wikipedia [RU]​]]

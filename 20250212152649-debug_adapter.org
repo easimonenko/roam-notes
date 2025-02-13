@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4accefc-8c47-424c-aa8d-f5b2cc68327c
+:END:
+#+TITLE: Debug Adapter
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-12
+#+FILETAGS: :embedded-system:debugging:hardware:
+
+*Debug Adapter* -- адаптер отладчика -- аппаратное обеспечение, предназначенное для коммуникации между двумя вычислительными системами с целью передачи данных о загружаемом программном обеспечении и о состоянии отлаживаемой системы. Чаще всего соединяет компьютер программиста и отлаживаемую [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемую систему]].

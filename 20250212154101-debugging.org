@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fa848b1b-6e66-4c1e-8d80-3d0c85a16bae
+:END:
+#+TITLE: Debugging
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-12
+#+FILETAGS: :software-development:
+
+*Debugging* -- отладка -- буквально, отлов жуков -- процесс по нахождению мест возникновения ошибок в программном обеспечении. Для отладки могут использоваться [[id:6ef85d1d-a16a-4405-9ddc-c86204c5ff8f][отладчики]] и запись журнала (логирование).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Отладка_программы][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Debugging][Wikipedia [EN]​]]

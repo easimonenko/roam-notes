@@ -8,13 +8,15 @@
 #+DATE: 2022-11-29
 #+FILETAGS: :zettelkasten:
 
-*Zettelkasten* -- метод ведения заметок, когда заметки логически связываются
+*Zettelkasten* (Цеттелькастен) -- метод ведения заметок, когда заметки логически связываются
 друг с другом, образуя сеть. Придуман и применялся германским учёным Луманом.
 
 * Software
 
-- [[id:be3b2c1d-d3b3-4a10-be44-9fd9c3044c41][org-roam]]​: GNU Emacs mode based on org-mode.
+- [[id:be3b2c1d-d3b3-4a10-be44-9fd9c3044c41][org-roam]]​: [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] mode based on [[id:bbb4f4e6-770e-4c43-838d-e2a300848c75][org-mode]].
 
 * Resources
 
 - [[https://habr.com/ru/post/508672/][Zettelkasten: как один немецкий учёный стал невероятно продуктивным - Хабр]]
+- [[https://ru.wikipedia.org/wiki/Цеттелькастен][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Zettelkasten][Wikipedia [EN]​]]
