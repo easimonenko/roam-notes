@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       94ed8ccc-6287-45f0-98bd-87343baf802c
+:END:
+#+TITLE: Miri
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :rust-lang:programming-tool:
+
+*Miri* -- интерпретатор промежуточного представления [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Написан на Rust. Лицензия: [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]] и [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/rust-lang/miri][GitHub Repository]]

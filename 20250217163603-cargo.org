@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c90526ce-bdbf-49ae-9656-3d29ccc9498d
+:END:
+#+TITLE: Cargo
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :package-manager:rust:
+
+*Cargo* -- менеджер пакетов для языка [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Написан на Rust. Лицензия: Apache 2.0 и MIT.
+
+* Resources
+
+- [[https://github.com/rust-lang/cargo][GitHub Repository]]
+- [[https://doc.rust-lang.org/stable/cargo/][Official Book]]

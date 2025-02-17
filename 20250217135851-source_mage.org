@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       5bf15685-bf84-49bb-b375-59d20e22a9c8
+:END:
+#+TITLE: Source Mage
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :linux:
+
+*Source Mage* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]], собираемый из исходных текстов.
+
+* Resources
+
+- [[https://sourcemage.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Source_Mage][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Source_Mage][Wikipedia [EN]​]]

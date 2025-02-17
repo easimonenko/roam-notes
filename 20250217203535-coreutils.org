@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bf692c03-9838-4158-a875-a88812ec2976
+:END:
+#+TITLE: Coreutils
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :gnu:
+
+*Coreutils* (GNU Core Utilities) -- базовые утилиты ОС проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Написаны на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
+
+* Resources
+
+- [[https://www.gnu.org/software/coreutils/][Home Page]]
+- [[https://git.sv.gnu.org/cgit/coreutils.git][Git Repository]]

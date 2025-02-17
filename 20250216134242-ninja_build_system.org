@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6108363d-7077-426a-8855-604a8a976368
+:END:
+#+TITLE: Ninja Build System
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-16
+#+FILETAGS: :build-tool:
+
+*Ninja Build System* -- [[id:20fa75b8-0a97-48fd-82ad-8d737a16cf6f][инструмент для сборки]] из исходных текстов. Обычно название сокращают до Ninja. Написан на [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Лицензия: Apache 2.0.
+
+* Resources
+
+- [[https://ninja-build.org/][Home Page]]
+- [[https://github.com/ninja-build/ninja][GitHub Page]]

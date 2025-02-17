@@ -9,13 +9,17 @@
 #+FILETAGS: :programming-language:
 
 *Rust* -- язык программирования, компилируемый в машинный код и не использующий
-сбоку мусора. Синтаксисом язык напоминает Scala. Реализует функциональную
+сбоку мусора. Синтаксисом язык напоминает [[id:db12138f-e0fd-47c2-850b-fb7927848e61][Scala]]. Реализует функциональную
 парадигму, но без разделения кода на чистый и грязный, как это сделано в Haskell,
 при этом предоставляя мутабельность (изменяемость), т.е. настоящие переменные.
 Отличительной чертой является концепция владения (borrowing), когда компилятор
 отслеживаем передачу объектов данных из однмх участков кода в другие, что
-облегчает написание безовасного по памяти кода.
+облегчает написание безопасного по памяти кода. Написан на самом себе. Лицензия: [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache 2.0]] и [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]].
 
 * Resources
 
-- [[https://www.rust-lang.org/][Rust Home Page]]
+- [[https://www.rust-lang.org/][Home Page]]
+- [[https://github.com/rust-lang][GitHub Organization]]
+- [[https://github.com/rust-lang/rust][GitHub Repository]]
+- [[https://ru.wikipedia.org/wiki/Rust_(язык_программирования)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Rust_(programming_language)][Wikipedia [EN]​]]

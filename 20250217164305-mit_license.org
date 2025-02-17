@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9
+:END:
+#+TITLE: MIT License
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :free-software:license:
+
+*MIT License* -- лицензия MIT. Является лицензией на свободное программное обеспечение. Другое название: Expat License.
+
+* Resources
+
+- [[https://www.gnu.org/licenses/license-list.html][Список лицензий с комментариями]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       619e6594-0ff3-4c13-bb9f-f898b2b1c1a2
+:END:
+#+TITLE: CRUX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :linux:
+
+*CRUX* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]], собираемый из исходных текстов и основанный на init-скриптах в стиле [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]].
+
+* Resources
+
+- [[https://crux.nu/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/CRUX_(дистрибутив_Linux)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/CRUX][Wikipedia [EN]​]]

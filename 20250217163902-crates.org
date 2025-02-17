@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       17661b69-3061-4cad-9dba-3bd51dc913a8
+:END:
+#+TITLE: Crates
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :package-repository:rust:cargo:
+
+*Crates* -- репозиторий пакетов [[id:c90526ce-bdbf-49ae-9656-3d29ccc9498d][Cargo]] для языка [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Написан на Rust и [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]]. Лицензия: Apache 2.0 и MIT.
+
+* Resources
+
+- [[https://crates.io/][Home Page and Package Search]]
+- [[https://github.com/rust-lang/crates.io/][GitHub Repository]]

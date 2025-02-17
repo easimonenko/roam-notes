@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       10ca0ea8-a173-4829-8612-f7b4dd03df08
+:END:
+#+TITLE: Nushell
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :shell:rust:
+
+*Nushell* -- командная оболочка. Коротко Nu. Выделяется среди других языком запросов к структурированным данным и отображению их в виде таблиц. Написана на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Лицензия: MIT.
+
+* Resources
+
+- [[https://www.nushell.sh/][Home Page]]
+- [[https://github.com/nushell/nushell][GitHub Page]]

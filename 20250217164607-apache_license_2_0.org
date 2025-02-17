@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       08533ad8-83e1-4aac-bc71-3bf60d141e20
+:END:
+#+TITLE: Apache License 2.0
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :free-software:license:
+
+*Apache License 2.0* -- лицензия на свободное программное обеспечение.
+
+* Resources
+
+- [[https://www.gnu.org/licenses/license-list.html][Список лицензий с комментариями]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6a18084b-9680-43aa-8abf-4ac0f127d955
+:END:
+#+TITLE: Ion Shell
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-17
+#+FILETAGS: :shell:rust:
+
+*Ion Shell* -- командная оболочка для ОС [[id:e377aca0-10e7-4369-bacf-8226e256b753][Redox]]. Коротко Ion. Написана на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Лицензия: MIT.
+
+* Resources
+
+- [[https://gitlab.redox-os.org/redox-os/ion][Git Repository]]

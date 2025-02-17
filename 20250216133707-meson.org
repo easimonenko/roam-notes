@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e610fc4c-9f3c-4dc2-b0cc-066b7d398a88
+:END:
+#+TITLE: Meson
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-16
+#+FILETAGS: :build-tool:
+
+*Meson* -- [[id:20fa75b8-0a97-48fd-82ad-8d737a16cf6f][инструмент для сборки]] из исходных текстов. Написан на [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Базируется на [[id:6108363d-7077-426a-8855-604a8a976368][Ninja]]. Лицензия: [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache 2.0]].
+
+* Resources
+
+- [[https://mesonbuild.com/][Home Page]]
+- [[https://github.com/mesonbuild/meson][GitHub Repository]]
