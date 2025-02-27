@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       22542f29-7cf4-4a6b-a7b2-8e40872aaedb
+:END:
+#+TITLE: GNU Debugger
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-27
+#+FILETAGS: :debugging:devtool:
+
+*GNU Debugger* (GDB) -- интерактивный [[id:6ef85d1d-a16a-4405-9ddc-c86204c5ff8f][отладчик]] для многих языков программирования. Часть проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].
+
+* Resources
+
+- [[https://www.sourceware.org/gdb/][Home Page]]
+- [[https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/GNU_Debugger][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/GNU_Debugger][Wikipedia [EN]​]]

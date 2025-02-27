@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1a5cb3bc-2f25-4722-8450-353fedebec8d
+:END:
+#+TITLE: GitVerse
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-27
+#+FILETAGS: :git:github:
+
+*GitVerse* -- российская облачная платформа для разработчиков программного обеспечения, аналог GitHub.
+
+* Resources
+
+- [[https://gitverse.ru][Home Page]]

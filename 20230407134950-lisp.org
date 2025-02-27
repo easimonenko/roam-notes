@@ -12,3 +12,8 @@
 функциональной парадигмой. Название является сокращением от List processing.
 Язык оперирует списками, а программа на нём сама является списком, такое
 свойство называют гомоиконностью.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Лисп][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Wikipedia [EN]​]]

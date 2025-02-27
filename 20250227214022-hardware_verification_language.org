@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5402d77d-3932-4519-874c-9e4eede3e3fc
+:END:
+#+TITLE: Hardware Verification Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-27
+#+FILETAGS: :electronics:
+
+*Hardware Verification Language* (HVL) -- язык описания сценариев верификации дизайна [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][электронных схем]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Hardware_verification_language][Wikipedia [EN]​]]

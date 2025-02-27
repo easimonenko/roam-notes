@@ -8,11 +8,12 @@
 #+DATE: 2024-09-29
 #+FILETAGS: :free-software:
 
-*Фонд свободного программного обеспечения (Free Software Foundation)* -- некоммерческая организация, призванная поддерживать движение
-за свободное программное обеспечение.
+*Free Software Foundation* (FSF) -- Фонд свободного программного обеспечения -- некоммерческая организация, призванная поддерживать движение за свободное программное обеспечение.
 
 Основан [[id:f8ef55e5-52fb-45a9-8886-773cc96bd660][Ричардом Столлманом]].
 
 * Resources
 
 - [[https://www.fsf.org/][FSF Home Page]]
+- [[https://ru.wikipedia.org/wiki/Фонд_свободного_программного_обеспечения][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Free_Software_Foundation][Wikipedia [EN]​]]

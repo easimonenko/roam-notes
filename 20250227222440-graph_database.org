@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       395db219-858e-4a91-b9e5-b92c32f901b9
+:END:
+#+TITLE: Graph Database
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-27
+#+FILETAGS: :database:graphs:
+
+*Graph Database* -- графовая база данных -- разновидность баз данных, основанная на концепции [[id:80a08012-b461-43f6-9b3c-6ae4d7ebea50][графа со свойствами]]: данные хранятся в так называемых узлах (в графах им соотетствуют вершины), а между узлами задаются связи (в графах называемые рёбрами).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Графовая_база_данных][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Graph_database][Wikipedia [EN]​]]

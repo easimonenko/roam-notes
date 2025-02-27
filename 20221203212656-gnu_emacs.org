@@ -13,3 +13,5 @@
 * Resources
 
 - [[https://www.gnu.org/software/emacs/][GNU Emacs Home Page]]
+- [[https://git.savannah.gnu.org/cgit/emacs.git][Git Repository]]
+- [[https://sachachua.com/blog/][Sacha Chua Blog]]

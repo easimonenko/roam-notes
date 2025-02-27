@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       926d0305-425e-413c-bf94-92430f3afad6
+:END:
+#+TITLE: Universal Verification Methodology
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-27
+#+FILETAGS: :digital-electronics:
+
+*Universal Verification Methodology* (UVM) -- стандартизованная методология верификации дизайна [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральных схем]]. UVM предоставляет библиотеку классов для языка [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Universal_Verification_Methodology][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       03c5a6fc-1f14-408d-8a83-d9a86ede25c0
+:END:
+#+TITLE: SystemVerilog
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-27
+#+FILETAGS: :digital-electronics:hdl:
+
+*SystemVerilog* -- язык [[id:5abfa913-146c-44fb-b0da-82980ba450bb][описания]] и [[id:5402d77d-3932-4519-874c-9e4eede3e3fc][верификации]] аппаратуры. Является расширением [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]]. Стандартизован IEEE.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/SystemVerilog][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/SystemVerilog][Wikipedia [EN]​]]

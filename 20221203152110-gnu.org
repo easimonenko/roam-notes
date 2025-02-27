@@ -14,6 +14,8 @@
 * Resources
 
 - [[https://www.gnu.org/][Home Page of GNU Operating System]]
+- [[https://ru.wikipedia.org/wiki/Проект_GNU][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/GNU_Project][Wikipedia [EN]​]]
 
 * See also
 

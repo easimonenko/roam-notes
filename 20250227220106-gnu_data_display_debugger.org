@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e376fb94-c4d1-44ff-aef5-9fdc1e62db68
+:END:
+#+TITLE: GNU Data Display Debugger
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-27
+#+FILETAGS: :debugger:devtool:
+
+*GNU Data Display Debugger* (DDD) -- [[id:417c859d-b6c2-40f6-ac87-454c751251a8][графический интерфейс]] к [[id:6ef85d1d-a16a-4405-9ddc-c86204c5ff8f][отладчику]] [[id:22542f29-7cf4-4a6b-a7b2-8e40872aaedb][GDB]]. Часть проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Написан с использованием библиотеки [[id:b16d3dc1-6411-4cf0-bc1c-782db6f32030][Motif]].
+
+* Resources
+
+- [[https://www.gnu.org/software/ddd/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Data_Display_Debugger][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Data_Display_Debugger][Wikipedia [EN]​]]
