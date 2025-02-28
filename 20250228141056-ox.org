@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8abddc12-afaa-46a6-a957-c94f7ecc25b7
+:END:
+#+TITLE: Ox
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :rust:text-editor:
+
+*Ox* -- текстовый редактор, написанный на [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Лицензия: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]].
+
+* Resources
+
+- [[https://github.com/curlpipe/ox][GitHub Repository]]

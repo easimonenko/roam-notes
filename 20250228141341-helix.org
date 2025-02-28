@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bc05676d-a257-4b53-acab-55cf5f10b8dd
+:END:
+#+TITLE: Helix
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :text-editor:rust:
+
+*Helix* -- текстовый редактор, написанный на [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Лицензия: MPL 2.0.
+
+* Resources
+
+- [[https://helix-editor.com/][Home Page]]
+- [[https://github.com/helix-editor/helix][GitHub Repository]]

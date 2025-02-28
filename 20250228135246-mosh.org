@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b3bc53db-99d0-4c10-9b3d-83062897917c
+:END:
+#+TITLE: Mosh
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :scheme:rust:
+
+*Mosh* -- интерпретатор языка Scheme R7RS и R6RS. Написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Лицензия: BSD 2-clause.
+
+* Resources
+
+- [[https://mosh.monaos.org/files/doc/text/About-txt.html][Home Page]]
+- [[https://github.com/higepon/mosh][GitHub Repository]]

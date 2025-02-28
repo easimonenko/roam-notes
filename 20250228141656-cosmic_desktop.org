@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d8b7726d-0cd4-4c2e-993b-1b08acd347a5
+:END:
+#+TITLE: COSMIC Desktop
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :desktop:rust:gnu-linux:
+
+*COSMIC Desktop* -- рабочий стол для дистрибутива [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] [[id:c3150755-e802-4258-8bbe-647cc471254d][Pop!_OS]], написанный на [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]] и использующий для построения графического интерфейса библиотеку [[id:028bf956-4875-4a6a-8c8b-c4eaf29aa387][Iced]]. Лицензия: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]].
+
+* Resources
+
+- [[https://system76.com/cosmic/][Home Page]]
+- [[https://github.com/pop-os/cosmic-epoch][GitHub Repository]]

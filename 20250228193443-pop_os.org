@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c3150755-e802-4258-8bbe-647cc471254d
+:END:
+#+TITLE: Pop!_OS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :gnu-linux:ubuntu:
+
+*Pop!_OS* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]], базирующийся на [[id:8fe0b6f2-2b27-4892-af18-89047a294843][Ubuntu Linux]] и разрабатываемый компанией System76 для производимых ими компьютеров. Отличается специализированными сборками с поддержкой графических подсистем AMD и NVidia. Поставляется с рабочим столом [[id:d8b7726d-0cd4-4c2e-993b-1b08acd347a5][COSMIC Desktop]].
+
+* Resources
+
+- [[https://pop.system76.com/][Home Page]]
+- [[https://github.com/pop-os][GitHub Repositories]]
+- [[https://ru.wikipedia.org/wiki/Pop!_OS][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Pop!_OS][Wikipedia [EN]​]]

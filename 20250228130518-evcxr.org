@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       429649b1-35e9-439d-be5f-765fe33664b1
+:END:
+#+TITLE: Evcxr
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :rust:repl:jupyter:
+
+*Evcxr* (Evaluation context for Rust) -- REPL и Jupyter Kernel для языка [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]].
+
+* Resources
+
+- [[https://github.com/evcxr/evcxr][GitHub Repository]]

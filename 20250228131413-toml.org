@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       48c11a7f-33ba-45f8-bc84-4e5a7b85b06a
+:END:
+#+TITLE: TOML
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :format:
+
+*TOML* -- структурированный формат файлов, похожий на INI. Название расшифровывается как "Tom’s Obvious, Minimal Language".
+
+* Resources
+
+- [[https://toml.io/en/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/TOML][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/TOML][Wikipedia [EN]​]]

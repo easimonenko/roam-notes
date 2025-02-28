@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cc57ca1c-4767-4d6e-b574-cc5bf9b08148
+:END:
+#+TITLE: Fish Shell
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :shell:unix:rust:
+
+*Fish Shell* -- оболочка командной строки с модернизированным языком для скриптов. Версия 4.0 написана на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Лицензия: [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]].
+
+* Resources
+
+- [[https://fishshell.com/][Home Page]]
+- [[https://github.com/fish-shell/fish-shell][GitHub Repository]]
+- [[https://ru.wikipedia.org/wiki/Friendly_interactive_shell][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Fish_(Unix_shell)][Wikipedia [EN]​]]

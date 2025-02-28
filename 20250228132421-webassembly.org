@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f2272ebc-d86b-4102-b943-b41ade2466a5
+:END:
+#+TITLE: WebAssembly
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :web:virtual-machine:
+
+*WebAssembly* -- бинарный формат инструкций стековой виртуальной машины. Создан для переносимого кода, запускаемого в Вебе. Файлы имеют расширение wasm, файлы текстового представления wat. Часто название сокращается до Wasm, что пересекается с названием Watcom Assembler.
+
+* Resources
+
+- [[https://webassembly.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/WebAssembly][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/WebAssembly][Wikipedia [EN]​]]

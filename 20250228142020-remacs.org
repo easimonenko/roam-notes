@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5ef89c26-cfe0-4ffc-9f08-d84e4c212cc1
+:END:
+#+TITLE: Remacs
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS: :emacs:rust:
+
+*Remacs* -- форк [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] с целью переписывания его на язык [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]].
+
+* Resources
+
+- [[https://github.com/remacs/remacs][GitHub Repository]]

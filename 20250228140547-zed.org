@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       49eb3e12-01ee-4c57-84cb-675d0130b939
+:END:
+#+TITLE: Zed
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-02-28
+#+FILETAGS:
+
+*Zed* -- текстовый редактор, написанный на [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Имеет встроенную поддержку AI и совместного редактирования. Лицензия: [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]], [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]].
+
+* Resources
+
+- [[https://zed.dev/][Home Page]]
+- [[https://github.com/zed-industries/zed][GitHub Repository]]

@@ -13,10 +13,11 @@
 
 Основное применение для:
 
-- встраиваемые системы
+- [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемые системы]]
 - облачные приложения
 
 * Resources
 
 - [[https://embox.github.io/][Embox Home Page]]
 - [[https://github.com/embox/embox][Embox GitHub Repository]]
+- [[https://emboxing.ru/][Embox Company]]
