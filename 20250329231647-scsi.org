@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       518d74ad-151d-46c2-b91a-c2bed1ab9477
+:END:
+#+TITLE: SCSI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-03-29
+#+FILETAGS: :computer-hardware:
+
+*SCSI* (Small Computer System Interface) -- набор стандартов на интерфейсы для подключения различных периферийных устройств, таких как жесткие диски, DVD, сканеры, принтеры и др. В ПК встречаются редко, в основном в серверах.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/SCSI][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/SCSI][Wikipedia [EN]​]]

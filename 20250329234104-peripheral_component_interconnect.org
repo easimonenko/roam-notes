@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       13d0f774-615e-42cb-891b-ed547515966d
+:END:
+#+TITLE: Peripheral Component Interconnect
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-03-29
+#+FILETAGS: :computer-hardware:
+
+*Peripheral Component Interconnect* (PCI) -- разновидность системной шины компьютера. Призвана была заменить шину ISA. Была распространена в конце 90-х годов и начале 2000-х. С 2004 года ей на смену пришла шина PCI Express. Для подключения видеокарт была специальная разновидность AGP.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PCI][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect][Wikipedia [EN]​]]

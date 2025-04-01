@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       612476d9-944a-4b60-8171-6a4ff04225a2
+:END:
+#+TITLE: HCI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-03-30
+#+FILETAGS: :abbreviation:
+
+*HCI* -- сокращение от [[id:7841263c-8da6-40f1-9803-55bcc8b726c0][Host Controller Interface]].

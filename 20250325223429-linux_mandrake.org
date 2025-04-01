@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       269915e2-614b-41a0-a6f3-065d4c74f33b
+:END:
+#+TITLE: Linux-Mandrake
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-03-25
+#+FILETAGS: :gnu-linux:distribution:
+
+*Linux-Mandrake* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] компании Mandrake Soft. Изначально дистрибутив базировался на RedHat Linux, но вскоре стал самостоятельной разработкой. Позже компания была переименована в Mandriva. Последний выпуск дистибутива состоялся в 2011 году. А в 2012 году было создано сообщество OpenMandriva, продолжившее дальнейшее развитие и разрабоку этого дистрибутива. Ещё одним ответвлением от оригинального Mandrake является Alt Linux, история которого началась как руссифицированная версия Mandrake 7.0.
+
+От первоначального RedHat Mandrake отличался графической программой установки и системой управления зависимостями пакетов URPMI.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Mandriva_Linux][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Mandriva_Linux][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7841263c-8da6-40f1-9803-55bcc8b726c0
+:END:
+#+TITLE: Host Controller Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-03-30
+#+FILETAGS: :computer-hardware:
+
+*Host Controller Interface* -- системный интерфейс для шин USB и FireWire.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/USB-контроллер][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Host_controller_interface_(USB,_Firewire)][Wikipedia [EN]​]]

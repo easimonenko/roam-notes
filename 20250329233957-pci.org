@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ff78f580-be54-4d73-8d0d-29bfb15f1c29
+:END:
+#+TITLE: PCI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-03-29
+#+FILETAGS: :abbreviation:
+
+*PCI* -- сокращение от [[id:13d0f774-615e-42cb-891b-ed547515966d][Peripheral Component Interconnect]].

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       993d359c-04b6-4960-9421-0b8f297f5242
+:END:
+#+TITLE: Intel 440BX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-03-25
+#+FILETAGS: :intel:computer-hardware:
+
+*Intel 440BX* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании Intel, предназначавшийся для компьютеров с процессорами Pentium II, Pentium III и Celeron на их основе.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Intel_440BX][Wikipedia [EN]​]]
