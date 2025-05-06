@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       55966219-c71e-4e75-a1ed-7f143dc1f4c5
+:END:
+#+TITLE: Lua
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :programming-language:scripting:
+
+*Lua* -- язык программирования для написания скриптов. Распространяется под лицензией [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]].
+
+* Resources
+
+- [[https://www.lua.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Lua][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Lua][Wikipedia [EN]​]]
