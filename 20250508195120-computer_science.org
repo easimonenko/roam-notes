@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       abe209c8-faf4-44c1-ae72-b689c478307d
+:END:
+#+TITLE: Computer Science
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :computer-science:
+
+*Computer Science* -- информатика -- наука об информации, включая её сбор, хранение, извлечение, обработку, анализ.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Информатика][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Computer_science][Wikipedia [EN]​]]

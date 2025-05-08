@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       895601c6-0fc9-4805-b367-5a1c1ca9ccdf
+:END:
+#+TITLE: Computer Graphics
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :graphics:computing:
+
+*Computer Graphics* -- отрасль [[id:abe209c8-faf4-44c1-ae72-b689c478307d][информатики]] и [[id:c5c6a1d6-124e-4c2a-a41a-daee9774dce9][вычислительной техники]] связанная с формированием, обработкой и отображением изображений.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Компьютерная_графика][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Computer_graphics][Wikipedia [EN]​]]

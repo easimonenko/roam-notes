@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       21be1a98-583b-4709-a346-a1414681d231
+:END:
+#+TITLE: Game Engine
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :game:computer-graphics:
+
+*Game Engine* -- игровой движок -- базовое программное обеспечение для создания [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерных игр]]. В отличие от [[id:895601c6-0fc9-4805-b367-5a1c1ca9ccdf][средств отображения графики]] предоставляет дополнительные функции.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Игровой_движок][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Game_engine][Wikipedia [EN]​]]

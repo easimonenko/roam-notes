@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ca10e35a-d2c9-4ae9-bdcf-f130029f88c3
+:END:
+#+TITLE: Video Game
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :computing:graphics:game:
+
+*Video Game* -- компьютерная игра -- программа игрового характера, чаще всего с развитым [[id:895601c6-0fc9-4805-b367-5a1c1ca9ccdf][графическим]] представлением, благодаря чему также носит название видео-игра.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Компьютерная_игра][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Video_game][Wikipedia [EN]​]]

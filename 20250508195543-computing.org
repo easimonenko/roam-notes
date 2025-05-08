@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c5c6a1d6-124e-4c2a-a41a-daee9774dce9
+:END:
+#+TITLE: Computing
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :computing:
+
+*Computing* -- вычислительная техника -- отрасль науки и техники, занимающаяся вопросами создания компьютеров. Включает в себя как разработку железа (hardware), так и программного обеспечения (software).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Вычислительная_техника][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Computing][Wikipedia [EN]​]]

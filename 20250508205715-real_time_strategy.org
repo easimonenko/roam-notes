@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5bce082a-a61e-417b-a513-6a96ce77ab36
+:END:
+#+TITLE: Real-Time Strategy
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :video-game:
+
+*Real-Time Strategy* -- стратегия в реальном времени -- разновидность [[id:24c1f25d-4a65-4491-98d1-47b6f6e69983][стратегических]] [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерных игр]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Стратегия_в_реальном_времени][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Real-time_strategy][Wikipedia [EN]​]]

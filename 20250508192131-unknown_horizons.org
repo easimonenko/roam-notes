@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       99c1677c-b225-4834-9076-788bec48ba99
+:END:
+#+TITLE: Unknown Horizons
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :computer-game:game:
+
+*Unknown Horizons* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерная игра]], [[id:5bce082a-a61e-417b-a513-6a96ce77ab36][стратегия]] в [[id:8653dd94-bdb7-4c92-88b0-99e698142131][градостроительном жанре]]. Написана на языке [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]] и распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL v2]]. Актуальная разработка игры ведётся под игровой движок [[id:32d380bc-c775-4850-98ca-f22a118cc98a][Godot]].
+
+* Resources
+
+- [[https://unknown-horizons.org/][Home Page]]
+- [[https://github.com/unknown-horizons/unknown-horizons][GitHub Page]]
+- [[https://github.com/unknown-horizons/godot-port/][GitHub Page (Godot)]]
+- [[https://ru.wikipedia.org/wiki/Unknown_Horizons][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Unknown_Horizons][Wikipedia [EN]​]]

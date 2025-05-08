@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a7a5e61a-b5a6-4d80-a2fb-6f1f342d39e6
+:END:
+#+TITLE: Vulkan
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :computer-graphics:
+
+*Vulkan* -- графический [[id:656e1c2e-4186-43be-ace8-afce1862dac1][API]], пришедший на смену OpenGL.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Vulkan][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Vulkan][Wikipedia [EN]​]]

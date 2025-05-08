@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       32d380bc-c775-4850-98ca-f22a118cc98a
+:END:
+#+TITLE: Godot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :game-engine:
+
+*Godot* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободный]] [[id:21be1a98-583b-4709-a346-a1414681d231][игровой движок]]. Написан на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]]. Предоставляет собственный скриптовый язык GDScript. Для отображения графики используются [[id:035d362c-2c96-422c-9b69-76296ab1a39f][OpenGL ES]] и [[id:a7a5e61a-b5a6-4d80-a2fb-6f1f342d39e6][Vulkan]].
+
+* Resources
+
+- [[https://godotengine.org/][Home Page]]
+- [[https://github.com/godotengine/godot][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Godot][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Godot_(game_engine)][Wikipedia [EN]​]]

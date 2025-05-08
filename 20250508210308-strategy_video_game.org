@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       24c1f25d-4a65-4491-98d1-47b6f6e69983
+:END:
+#+TITLE: Strategy Video Game
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :video-game:
+
+*Strategy Video Game* -- стратегическая компьютерная игра или, просто, стратегия -- жанр [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерных игр]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Компьютерная_стратегическая_игра][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Strategy_video_game][Wikipedia [EN]​]]

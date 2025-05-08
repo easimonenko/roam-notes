@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8653dd94-bdb7-4c92-88b0-99e698142131
+:END:
+#+TITLE: City-Building Game
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :video-game:game:
+
+*City-Building Game* -- градостроительный симулятор -- [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерная игра]], в которой игрок стоит город и управляет им.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Градостроительный_симулятор][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/City-building_game][Wikipedia [EN]​]]

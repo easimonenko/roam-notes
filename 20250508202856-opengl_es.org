@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       035d362c-2c96-422c-9b69-76296ab1a39f
+:END:
+#+TITLE: OpenGL ES
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-08
+#+FILETAGS: :computer-graphics:embedded-system:
+
+*OpenGL for Embedded Systems ES* (OpenGL ES) -- подмножество спецификации графического [[id:656e1c2e-4186-43be-ace8-afce1862dac1][API]] OpenGL для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых применений]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/OpenGL_ES][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/OpenGL_ES][Wikipedia [EN]​]]
