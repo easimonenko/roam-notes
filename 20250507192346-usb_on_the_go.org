@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       55b80f6a-8c3a-42d6-b9c7-652020994032
+:END:
+#+TITLE: USB On-The-Go
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :usb:
+
+*USB On-The-Go* (OTG) -- спецификация [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], в соответствии с которой устройство может выступать как в роли хоста (host), так в роли периферийного устройства (device).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/USB_On-The-Go][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/USB_On-The-Go][Wikipedia [EN]​]]

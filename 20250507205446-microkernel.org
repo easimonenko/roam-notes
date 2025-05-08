@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2b035c11-d3ab-4b5a-a761-0048e1767749
+:END:
+#+TITLE: Microkernel
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :operating-system:
+
+*Microkernel* -- микроядро -- разновидность [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][ядра]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] с сокращённым набором функций.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Микроядро][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Microkernel][Wikipedia [EN]​]]

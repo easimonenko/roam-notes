@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fdef4398-e9aa-43f5-9aa3-53060d723507
+:END:
+#+TITLE: Inter-Process Communication
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :operating-system:
+
+*Inter-Process Communication* (IPC) -- межпроцессное взаимодействие -- механизмы, предоставляемые [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системой]] для обеспечения передачи данных и управляющих сигналов между процессами.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Межпроцессное_взаимодействие][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Inter-process_communication][Wikipedia [EN]​]]

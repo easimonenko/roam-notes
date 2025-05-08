@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a0dd9ad8-48ad-4138-9f5a-2d7bec2c235a
+:END:
+#+TITLE: USB Implementers Forum
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :usb:organization:
+
+*USB Implementers Forum* (USB-IF) -- некоммерческая организация, занимающаяся протоколом USB.
+
+* Resources
+
+- [[https://www.usb.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/USB_Implementers_Forum][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/USB_Implementers_Forum][Wikipedia [EN]​]]

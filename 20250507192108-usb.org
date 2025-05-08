@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       44d8a600-7578-4eaa-80b8-9bae958a4519
+:END:
+#+TITLE: USB
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :abbreviation:
+
+*USB* -- сокращение от [[id:9678b4c3-012a-497d-b353-afd57d7f7780][Universal Serial Bus]].

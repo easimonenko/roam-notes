@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e214cf87-8af6-488a-a136-6216ed592eaa
+:END:
+#+TITLE: OTG
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :abbreviation:
+
+*OTG* -- сокращение от [[id:55b80f6a-8c3a-42d6-b9c7-652020994032][USB On-The-Go]].

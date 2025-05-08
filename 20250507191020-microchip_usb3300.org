@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b86d986a-d55c-4a44-b20c-a5b23c343a43
+:END:
+#+TITLE: Microchip USB3300
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :controller:usb:microchip:
+
+*USB3300* -- контроллер [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 с функциями хоста, периферийного устройства или [[id:55b80f6a-8c3a-42d6-b9c7-652020994032][OTG]] производства компании [[id:3e395024-3ecd-43ca-a202-b0d5d8b3455b][Microchip]].
+
+* Resources
+
+- Hi-Speed USB Host, Device or OTG PHY with ULPI Low Pin Interface // Datasheet

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3b3c9e07-d01f-4f17-9329-3b283e95992e
+:END:
+#+TITLE: Microchip USB3317
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :usb:microchip:
+
+*USB3317* -- высокоскоростной передатчик шины [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] компании [[id:3e395024-3ecd-43ca-a202-b0d5d8b3455b][Microchip]].
+
+* Resources
+
+- Hi-Speed USB Transceiver with 1.8 V-3.3 V ULPI Interface - 26 MHz Reference Clock // Datasheet

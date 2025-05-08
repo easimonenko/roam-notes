@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       31779ecc-b293-4ed0-83ec-caa6eb1111fd
+:END:
+#+TITLE: RV16
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :risc-v:
+
+*RV16* -- [[id:b5099537-09da-482f-b6ae-3fc6d96649be][процессорное ядро]] для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых]] применений на базе [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]]. Отличительной особенностью является базирование на 16-разрядной арифметике.
+
+* Resources
+
+- Cheng YH, Huang LB, Cui YJ et al. RV16: An ultra-low-cost embedded RISC-V processor core. JOURNAL OF COM-
+PUTER SCIENCE AND TECHNOLOGY 37(6): 1307–1319 Nov. 2022. DOI [[doi:10.1007/s11390-022-0910-x][10.1007/s11390-022-0910-x]]

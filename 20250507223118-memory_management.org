@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9d5e484b-5770-4b6f-8de8-aad84087b283
+:END:
+#+TITLE: Memory Management
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :operating-system:computer-architecture:
+
+*Memory Management* -- управление памятью -- механизмы выделения и освобождения компьютерной памяти на различных уровнях вычислительной системы.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Менеджер_памяти][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Memory_management][Wikipedia [EN]​]]

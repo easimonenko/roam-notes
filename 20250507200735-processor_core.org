@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b5099537-09da-482f-b6ae-3fc6d96649be
+:END:
+#+TITLE: Processor Core
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :computer-architecture:
+
+*Processor Core* -- процессорное ядро или ядро процессора -- основная часть [[id:08fd9589-3778-4924-b93d-9d6b0fa56877][процессора]], реализующая базовую [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуру]] вне связи с его периферией.

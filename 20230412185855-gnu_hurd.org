@@ -8,9 +8,10 @@
 #+DATE: 2023-04-12
 #+FILETAGS: :kernel:gnu:mach:
 
-*GNU Hurd* -- ядро [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Это ядро основано на микроядре [[id:0fdb5324-83dd-49e9-b6aa-98c3a8acd09a][GNU Mach]].
+*GNU Hurd* -- [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][ядро]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Это ядро основано на [[id:2b035c11-d3ab-4b5a-a761-0048e1767749][микроядре]] [[id:0fdb5324-83dd-49e9-b6aa-98c3a8acd09a][GNU Mach]].
 
 * Resources
 
 - [[https://www.gnu.org/software/hurd/][GNU Hurd Kernel Home Page]]
 - [[https://ftp.gnu.org/gnu/hurd/][GNU Hurd FTP Server]]
+- Neal H. Walfield, Marcus Brinkmann. A Critique of the GNU Hurd Multi-Server Operating System

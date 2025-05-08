@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5f44bf38-b1e8-45fa-b800-f8399088e2a0
+:END:
+#+TITLE: Vesper
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :operating-system:kernel:rust:
+
+*Vesper* -- [[id:fc1b925f-fe9b-4023-ad41-b5656b823af5][наноядро]], [[id:9d5e484b-5770-4b6f-8de8-aad84087b283][управляющее памятью]] и [[id:fdef4398-e9aa-43f5-9aa3-53060d723507][межпроцессным взаимодействием]]. Написано на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]].
+
+* Resources
+
+- [[https://github.com/metta-systems/vesper][GitHub Page]]

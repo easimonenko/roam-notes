@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       271e3a2d-7dfd-4e53-8628-76de172f6ea7
+:END:
+#+TITLE: Exokernel
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :operating-system:
+
+*Exokernel* -- экзоядро -- разновидность [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][ядра]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]], перекладывающее реализацию её функций на ядро другой ОС, своего рода загрузчик для других программ и ядер.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Экзоядро][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Exokernel][Wikipedia [EN]​]]
+- Dawson R. Engler. The Exokernel Operating System Architecture
+- Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. Exokernel: An Operating System Architecture for Application-Level Resource Management

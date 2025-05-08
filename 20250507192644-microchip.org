@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3e395024-3ecd-43ca-a202-b0d5d8b3455b
+:END:
+#+TITLE: Microchip
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :company:integrated-circuit:
+
+*Microchip Technology Incorporated* -- компания производитель [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральных схем]], в том числе контроллеров и [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][микроконтроллеров]].
+
+* Resources
+
+- [[https://www.microchip.com/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Microchip_Technology][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Microchip_Technology][Wikipedia [EN]​]]

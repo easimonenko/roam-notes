@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       da34b15f-c2cb-4ed0-9e0a-a3b14973af6e
+:END:
+#+TITLE: eBPF
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :virtual-machine:bpf:linux:
+
+*eBPF* -- технология ядра Linux для загрузки и выполнения кода на уровне ядра.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/EBPF][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9678b4c3-012a-497d-b353-afd57d7f7780
+:END:
+#+TITLE: Universal Serial Bus
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-07
+#+FILETAGS: :usb:bus:
+
+*Universal Serial Bus* (USB) -- универсальная последовательная шина, спецификация на которую разрабатывает [[id:a0dd9ad8-48ad-4138-9f5a-2d7bec2c235a][USB Implementers Forum]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/USB][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/USB][Wikipedia [EN]​]]
