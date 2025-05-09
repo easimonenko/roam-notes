@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2161ab6f-84b4-4a0f-92db-1e9d4bb5ab14
+:END:
+#+TITLE: 10 Gigabit Ethernet
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :ethernet:
+
+*10 Gigabit Ethernet* (10GE) -- технологии компьютерных сетей Ethernet со скоростью передачи фреймов 10 гигабит в секунду.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/10-гигабитный_Ethernet][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/10_Gigabit_Ethernet][Wikipedia [EN]​]]

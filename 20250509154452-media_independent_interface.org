@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d2b2f4de-0aa3-4380-bed5-0ee1d35a4001
+:END:
+#+TITLE: Media Independent Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :ethernet:
+
+*Media Independent Interface* (MII) -- независимый от среды интерфейс -- стандартизованный интерфейс Ethernet между уровнями [[id:a5015fe6-257b-483e-8477-164cf7cefbb6][MAC]] и PHY.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/MII][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Media-independent_interface][Wikipedia [EN]​]]

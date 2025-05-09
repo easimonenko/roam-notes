@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6a87fa91-d025-4de8-97be-ab0223d63ecf
+:END:
+#+TITLE: 10 Gigabit Attachment Unit Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :ethernet:
+
+*10 Gigabit Attachment Unit Interface* (XAUI) -- стандарт-расширение для [[id:e48fb71c-4d6a-4bd0-be48-1a94a5e124a9][XGMII]] между уровнями [[id:a5015fe6-257b-483e-8477-164cf7cefbb6][MAC]] и PHY.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/XAUI][Wikipedia [EN]​]]

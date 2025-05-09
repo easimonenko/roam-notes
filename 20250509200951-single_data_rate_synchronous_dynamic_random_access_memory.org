@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       67dba1d2-e93b-4e67-9af3-56e53e9cd73f
+:END:
+#+TITLE: Single Data Rate Synchronous Dynamic Random-Access Memory
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :memory:computer-architecture:
+
+*Single Data Rate Synchronous Dynamic Random-Access Memory* (SDR SDRAM) -- ранний тип памяти [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], в которой передача данных может происходить только по нарастающему фронту [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][тактового сигнала]]. Часто этот тип памяти обозначают просто SDRAM.
+
+* Resources
+
+- [[https://embeddedhardwaredesign.com/how-to-interface-sdr-sdram-memory/][How to Interface SDR SDRAM Memory? // Embedded Hardware Design]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d7aad8a1-b3b9-4ca7-a6fc-183d9744a235
+:END:
+#+TITLE: Jump'n'Run
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :video-game:
+
+*Jump'n'Run* -- прыгая и беги -- одно из названий жанра [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерных игр]] [[id:dcb03694-1f6d-4ed8-af9e-375946244b7f][платформер]].

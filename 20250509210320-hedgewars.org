@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       24e779a7-7037-4d31-9a46-b783ae71fac3
+:END:
+#+TITLE: Hedgewars
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :video-game:
+
+*Hedgewars* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерная игра]] в жанрах пошаговой стратегии и артиллерии.
+
+* Resources
+
+- [[https://www.hedgewars.org/][Home Page]]
+- [[https://hg.hedgewars.org/hedgewars/][Mercurial Repository]]
+- [[https://ru.wikipedia.org/wiki/Hedgewars][Wikipedia [RU]​]]

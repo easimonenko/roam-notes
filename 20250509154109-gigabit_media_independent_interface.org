@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       21e5943f-980a-4f3d-b0d8-d9cc5410c689
+:END:
+#+TITLE: Gigabit Media-Independent Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :ethernet:
+
+*Gigabit Media-Independent Interface* (GMII) -- расширение стандарта [[id:d2b2f4de-0aa3-4380-bed5-0ee1d35a4001][MII]] для гигабитных интерфесов Ethernet.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/GMII][Wikipedia [RU]​]]

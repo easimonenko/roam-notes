@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fe17fc12-b7c2-4394-a4ec-7a8ef53ef21a
+:END:
+#+TITLE: SuperTux
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :video-game:
+
+*SuperTux* -- свободная компьютерная игра в жанре [[id:dcb03694-1f6d-4ed8-af9e-375946244b7f][платформера]], похожая на Super Mario. Написана на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v3.
+
+* Resources
+
+- [[https://www.supertux.org/][Home Page]]
+- [[https://github.com/SuperTux/supertux][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/SuperTux][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/SuperTux][Wikipedia [EN]​]]

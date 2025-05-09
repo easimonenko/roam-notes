@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f65cb9e7-5385-459e-a58e-59f68a6d1a30
+:END:
+#+TITLE: Reduced Gigabit Media Independent Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :ethernet:
+
+*Reduced Gigabit Media Independent Interface* (RGMII) -- разновидность интерфейса [[id:21e5943f-980a-4f3d-b0d8-d9cc5410c689][GMII]] между [[id:a5015fe6-257b-483e-8477-164cf7cefbb6][MAC]] и PHY.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/RGMII][Wikipedia [RU]​]]

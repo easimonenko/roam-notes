@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cc7ce1c7-ebd4-4d4e-8c34-3f7c7f2914f8
+:END:
+#+TITLE: Scorched 3D
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :video-game:
+
+*Scorched 3D* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерная игра]].
+
+* Resources
+
+- [[http://www.scorched3d.co.uk/][Home Page]]
+- [[https://sourceforge.net/p/scorched3d/git/ci/master/tree/scorched/][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/Scorched_3D][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Scorched_3D][Wikipedia [EN]​]]

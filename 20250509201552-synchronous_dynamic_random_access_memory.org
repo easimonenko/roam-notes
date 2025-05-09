@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c856bafe-09bf-420b-a6dc-d8e1c526baf4
+:END:
+#+TITLE: Synchronous Dynamic Random-Access Memory
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :memory:computer-architecture:
+
+*Synchronous Dynamic Random-Access Memory* (SDRAM) -- синхронная DRAM -- синхронная разновидность памяти [[id:46dff65f-189e-4ad4-a449-14849993babb][DRAM]]. В отличие от ранней, асинхронной DRAM SDRAM синхронизована с системным [[id:8a07a5ed-d380-4bbf-9461-6630a516481e][тактовым генератором]].
+
+* Resources
+
+- [[https://embeddedhardwaredesign.com/what-is-sdram-memory/][What is SDRAM Memory? // Embedded Hardware Design]]

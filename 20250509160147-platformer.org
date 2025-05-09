@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dcb03694-1f6d-4ed8-af9e-375946244b7f
+:END:
+#+TITLE: Platformer
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :video-game:
+
+*Platformer* -- платформер -- жанр активных [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерных игр]], где игровой персонаж передвигается по среде, перепрыгивая с одной платформы на другую. По другому также называется [[id:d7aad8a1-b3b9-4ca7-a6fc-183d9744a235][Jump'n'Run]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Платформер][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Platformer][Wikipedia [EN]​]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e48fb71c-4d6a-4bd0-be48-1a94a5e124a9
+:END:
+#+TITLE: 10 Gigabit Media-Independent Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :ethernet:
+
+*10 Gigabit Media-Independent Interface* (XGMII) -- стандарт [[id:43545cb2-433e-48cc-9807-536da0c81325][IEEE 802.3]] на соединения между полнодупдексными [[id:2161ab6f-84b4-4a0f-92db-1e9d4bb5ab14][10 гигабитными Ethernet]] портами и другими устройствами на [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][плате]].

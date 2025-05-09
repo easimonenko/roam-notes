@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a5015fe6-257b-483e-8477-164cf7cefbb6
+:END:
+#+TITLE: Medium Access Control
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-09
+#+FILETAGS: :networking:
+
+*Medium Access Control* (MAC) -- управление доступом к среде -- нижний подуровень канального уровня модели OSI.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Управление_доступом_к_среде][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Medium_access_control][Wikipedia [EN]​]]
