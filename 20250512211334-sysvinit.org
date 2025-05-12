@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9a90c26c-39c1-475f-8502-11d5352894c3
+:END:
+#+TITLE: SysVInit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS:
+
+*SysVInit* -- System V style Initialization System -- [[id:bb0c3906-66f2-4080-9bfa-a7b7703bf0de][система инициализации]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] в стиле таковой [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]] System V. Отличается от используемой в системах [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]]. Во многих современных дистрибутивах заменена на [[id:0b7f3e90-bf05-4983-a8b6-b04c66e3a334][systemd]], [[id:ca47cc5c-8515-4f41-b12a-4c8856088ac8][OpenRC]], [[id:fbd6c859-e68b-4511-b164-7431ae7da460][runit]] и другие.
+
+* Resources
+
+- [[https://savannah.nongnu.org/projects/sysvinit][Project Page]]

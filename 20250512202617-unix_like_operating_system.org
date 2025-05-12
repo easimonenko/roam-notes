@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d7896743-e295-4553-8050-8ff1f597360d
+:END:
+#+TITLE: Unix-like Operating System
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :unix:
+
+*Unix-like Operating System* -- Unix-подобная операционная система -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], не основанная на исходных текстах оригинальной [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]], но построенная на тех же принципах и в некоторой степени с ней совместимая, или же происходящая от неё, но не сертифицированная как Unix.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Unix-подобная_операционная_система][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Unix-like][Wikipedia [EN]​]]

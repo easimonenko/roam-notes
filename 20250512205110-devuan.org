@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b2c45279-09b3-4d15-99b8-246e668c5155
+:END:
+#+TITLE: Devuan
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :linux:debian:distribution:
+
+*Devuan* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]], основанный на [[id:3f3186cc-0b9d-4172-af60-8a8656b2c9c1][Debian]], в котором [[id:bb0c3906-66f2-4080-9bfa-a7b7703bf0de][система инициализации]] [[id:0b7f3e90-bf05-4983-a8b6-b04c66e3a334][systemd]] заменена на одну из следующих: [[id:ca47cc5c-8515-4f41-b12a-4c8856088ac8][OpenRC]], [[id:fbd6c859-e68b-4511-b164-7431ae7da460][runit]], sinit, [[id:50314ae0-5f55-4760-b3e6-5787e4c21c78][s6]], [[id:2f5cdf78-8600-43ad-abb6-60457101dbea][GNU Shepherd]].
+
+* Resources
+
+- [[https://www.devuan.org/][Home Page]]
+- [[https://git.devuan.org/][Git Page]]
+- [[https://ru.wikipedia.org/wiki/Devuan][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Devuan][Wikipedia [EN]​]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2f5cdf78-8600-43ad-abb6-60457101dbea
+:END:
+#+TITLE: GNU Shepherd
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :gnu:linux:guile:sheme:
+
+*GNU Shepherd* -- менеджер сервисов, разрабатываемый проектом [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Написан на языке Guile. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v3.
+
+* Resources
+
+- [[https://www.gnu.org/software/shepherd/][Home Page]]

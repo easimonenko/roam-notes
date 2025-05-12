@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0b7f3e90-bf05-4983-a8b6-b04c66e3a334
+:END:
+#+TITLE: systemd
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :linux:
+
+*systemd* -- [[id:bb0c3906-66f2-4080-9bfa-a7b7703bf0de][система инициализации]] для [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] с поддержкой зависимостей. Используется во многих дистрибутивах для [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][x86-64]]. Создана как замена для использовавшейся ранее системы [[id:9a90c26c-39c1-475f-8502-11d5352894c3][sysvinit]]. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
+
+* Resources
+
+- [[https://systemd.io/][Home Page]]
+- [[https://github.com/systemd/systemd][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Systemd][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Systemd][Wikipedia [EN]​]]

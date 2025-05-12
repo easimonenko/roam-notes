@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       5790b63d-6388-4644-8ed1-657cbe2ae188
+:END:
+#+TITLE: Alpine Linux
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :linux:distribution:
+
+*Alpine Linux* -- некоммерческий и не основанный на других дистрибутив [[id:663bfb6b-e0c2-4d22-be34-652132ebbac9][Linux]].
+
+Отличительными чертами являются:
+
+- Использование [[id:ca47cc5c-8515-4f41-b12a-4c8856088ac8][OpenRC]] в качестве системы инициализации.
+- Собственный менеджер пакетов [[id:24b95ed2-32bc-4e90-bc1a-81856f48c75d][APK]].
+- Использование библиотеки [[id:73cfc85c-4c15-40a0-bb25-19823732360e][musl]] вместо [[id:a66ea08d-cd4a-4d71-adbb-db1f98d4be1c][GNU C Library]].
+- Использование [[id:bb4362c7-8c09-4cdb-9841-10dec9549aa2][BusyBox]].
+
+* Resources
+
+- [[https://alpinelinux.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Alpine_Linux][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Alpine_Linux][Wikipedia [EN]​]]

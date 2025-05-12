@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3230ef22-9d8f-4f52-80a0-fe61e8b348e8
+:END:
+#+TITLE: System Initialization
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :operating-system:
+
+*System Initialization* -- инициализации системы [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]]. См. также [[id:bb0c3906-66f2-4080-9bfa-a7b7703bf0de][Initialization System]] (система инициализации).

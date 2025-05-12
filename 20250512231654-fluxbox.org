@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f65e6f34-a6b7-49f5-aa85-512db668e81f
+:END:
+#+TITLE: Fluxbox
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :window-manager:x11:
+
+*Fluxbox* -- оконный менеджер для [[id:c1bd534d-6859-442d-80c0-95850d68c907][X Window System]]. Написан на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]].
+
+* Resources
+
+- [[https://fluxbox.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Fluxbox][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Fluxbox][Wikipedia [EN]​]]

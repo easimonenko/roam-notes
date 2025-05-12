@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       50314ae0-5f55-4760-b3e6-5787e4c21c78
+:END:
+#+TITLE: s6
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :linux:system-tool:
+
+*s6* -- набор системный программ для [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]], включающий в себя [[id:bb0c3906-66f2-4080-9bfa-a7b7703bf0de][систему инициализации]] s6-linux-init и менеджер сервисов s6-rc.
+
+* Resources
+
+- [[https://skarnet.org/software/s6/][Home Page]]

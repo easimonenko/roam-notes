@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       24b95ed2-32bc-4e90-bc1a-81856f48c75d
+:END:
+#+TITLE: Alpine Package Keeper
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :package-manager:linux:alpine-linux:
+
+*Alpine Package Keeper* -- менеджер пакетов дистрибутива Alpine Linux. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
+
+* Resources
+
+- [[https://gitlab.alpinelinux.org/alpine/apk-tools][Git Repository]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       39a52314-606c-4bce-9563-ae2bbf86bb9e
+:END:
+#+TITLE: BSD License
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :bsd:license:
+
+*BSD License* -- лицензия BSD -- одна из лицензий семейства BSD, под которыми распространяются исходные тексты [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционных систем]] семейства [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]]. В основном отличаются количеством пунктов (clause): от четырёх первоначальной лицензии до ни одного в наиболее позднем варианте. Наиболее распространены двух и трёх-пунктные.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Лицензии_BSD][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/BSD_licenses][Wikipedia [EN]​]]

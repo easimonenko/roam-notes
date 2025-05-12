@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ca47cc5c-8515-4f41-b12a-4c8856088ac8
+:END:
+#+TITLE: OpenRC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-12
+#+FILETAGS: :unix:linux:bsd:
+
+*OpenRC* -- [[id:bb0c3906-66f2-4080-9bfa-a7b7703bf0de][система инициализации]] с поддержкой зависимостей для [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобных]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционных систем]]. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][лицензией BSD]] 2-clause.
+
+* Resources
+
+- [[https://wiki.gentoo.org/wiki/Project:OpenRC][Home Page]]
+- [[https://github.com/OpenRC/openrc][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/OpenRC][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/OpenRC][Wikipedia [EN]​]]

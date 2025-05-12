@@ -11,3 +11,8 @@
 *BSD* расшифровывается как Berkeley Software Distribution. Изначально это был
 модифицированный вариант [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]], исходные тексты которого были постепенно
 переписаны, породив несколько основных вариантов BSD: [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]], [[id:712a249d-e77c-418e-ad95-dd24162c0764][OpenBSD]], [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/BSD][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Berkeley_Software_Distribution][Wikipedia [EN]​]]

@@ -11,3 +11,8 @@
 *GNU GPL* -- семейство лицензий проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Расшифровывается как
 GNU General Public License. Включает в себя несколько версии и
 разновидностей этой лицензии.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/GNU_General_Public_License][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/GNU_General_Public_License][Wikipedia [EN]​]]
