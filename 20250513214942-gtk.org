@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f7e8cb8d-ad30-4aa2-8145-ff6ba68d28ca
+:END:
+#+TITLE: Gtk
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-13
+#+FILETAGS: :gtk:wayland:gui:x-window:x11:
+
+*Gtk* -- библиотека для создания [[id:417c859d-b6c2-40f6-ac87-454c751251a8][графических интерфейсов пользователя]]. Раньше называлась Gtk+ и происходила из проекта Gimp, что было зашифровано в названии: Gimp ToolKit Plus. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU LGPL]]. Работает в различных графических системах, включая [[id:c1bd534d-6859-442d-80c0-95850d68c907][X Window System]], [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]], Windows.
+
+* Resources
+
+- [[https://www.gtk.org/][Home Page]]
+- [[https://gitlab.gnome.org/GNOME/gtk/][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/GTK][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/GTK][Wikipedia [EN]​]]

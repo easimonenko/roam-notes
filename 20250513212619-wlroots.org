@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bfde0f8f-87ef-4829-a6da-fbbcedb7d495
+:END:
+#+TITLE: wlroots
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-13
+#+FILETAGS: :wayland:
+
+*wlroots* -- библиотека для создания [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композиторов. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]].
+
+* Resources
+
+- [[https://gitlab.freedesktop.org/wlroots/wlroots][Git Repository]]

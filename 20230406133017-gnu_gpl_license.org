@@ -14,5 +14,6 @@ GNU General Public License. Включает в себя несколько ве
 
 * Resources
 
+- [[https://www.gnu.org/licenses/gpl-faq.html][GNU GPL FAQ]]
 - [[https://ru.wikipedia.org/wiki/GNU_General_Public_License][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/GNU_General_Public_License][Wikipedia [EN]​]]

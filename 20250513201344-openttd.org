@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f57fca59-d759-472d-9af0-b4f7865dcb30
+:END:
+#+TITLE: OpenTTD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-13
+#+FILETAGS: :video-game:
+
+*OpenTTD* -- [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерная игра]]. Написана на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
+
+* Resources
+
+- [[https://www.openttd.org/][Home Page]]
+- [[https://github.com/OpenTTD/OpenTTD][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/OpenTTD][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/OpenTTD][Wikipedia [EN]​]]

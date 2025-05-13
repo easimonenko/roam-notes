@@ -8,7 +8,7 @@
 #+DATE: 2025-01-27
 #+FILETAGS: :wayland:
 
-*Wayland Library* -- эталонная реализация протокола [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]] на языке [[roam:C]]. Содержит [[id:52a93181-1b43-4cb7-9ebd-d3bfe71945f0][API]] для написания серверов и клиентов.
+*Wayland Library* -- эталонная реализация протокола [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]] на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Содержит [[id:52a93181-1b43-4cb7-9ebd-d3bfe71945f0][API]] для написания серверов и клиентов.
 
 * Resources
 

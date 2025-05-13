@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       87338e48-fcf8-43f3-9b58-0cecf48d6fac
+:END:
+#+TITLE: Teeworlds
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-13
+#+FILETAGS: :video-game:
+
+*Teeworlds* -- [[id:ca10e35a-d2c9-4ae9-bdcf-f130029f88c3][компьютерная игра]], [[id:dcb03694-1f6d-4ed8-af9e-375946244b7f][платформер]]. Написана на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]].
+
+* Resources
+
+- [[https://www.teeworlds.com/][Home Page]]
+- [[https://github.com/teeworlds/teeworlds][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Teeworlds][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Teeworlds][Wikipedia [EN]​]]

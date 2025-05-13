@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       354b6c44-c724-4f36-bcb0-7356b588f953
+:END:
+#+TITLE: SFWBar
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-13
+#+FILETAGS: :wayland:desktop:
+
+*SFWBar* (S* Floating Window Bar) -- панель задач для [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композиторов. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Использует библиотеку [[id:f7e8cb8d-ad30-4aa2-8145-ff6ba68d28ca][Gtk]] v3. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v3.
+
+* Resources
+
+- [[https://github.com/LBCrion/sfwbar][GitHub Page]]
