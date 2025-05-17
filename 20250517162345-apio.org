@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d1f7e59a-5842-4f2b-84f2-732b259c7f42
+:END:
+#+TITLE: Apio
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-17
+#+FILETAGS: :fpga:verilog:lattice:
+
+*Apio* -- набор инструментов для программирования [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] на языках [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] и [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]]. Поддерживаются чипы ICE40 и ECP5 компании Lattice. Чипы компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]] в разработке. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
+
+* Resources
+
+- [[https://github.com/FPGAwars/apio][GitHub Page]]
+- [[https://github.com/FPGAwars/apio/wiki][Documentation]]

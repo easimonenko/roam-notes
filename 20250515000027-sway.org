@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c21db3d3-2c4a-441e-a4df-14802110411a
+:END:
+#+TITLE: Sway
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-15
+#+FILETAGS: :wayland:
+
+*Sway* -- популярный [[id:24fd1918-3c26-4fb0-a9ca-5855a5ee8531][плиточный]] [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композитор, совместимый по протоколу с [[id:e5ae5c8c-553f-4072-9a4a-6e07fc93bae6][оконным менеджером]] [[id:e561c900-ade3-423b-a269-a42a08c4cdce][i3]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]].
+
+* Resources
+
+- [[https://swaywm.org/][Home Page]]
+- [[https://github.com/swaywm/sway][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Sway_(%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Sway_(window_manager)][Wikipedia [EN]​]]

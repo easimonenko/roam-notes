@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ef3b6cff-c189-42d4-abe3-d6dbf63474de
+:END:
+#+TITLE: nextpnr
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-17
+#+FILETAGS: :yosys:fpga:
+
+*nextpnr* -- инструмент проекта [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]], обеспечивающий стадию Place and Route (PnR). Написан на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией ISC.
+
+* Resources
+
+- [[https://github.com/yosyshq/nextpnr][GitHub Page]]

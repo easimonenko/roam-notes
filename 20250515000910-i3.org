@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e561c900-ade3-423b-a269-a42a08c4cdce
+:END:
+#+TITLE: i3
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-15
+#+FILETAGS: :x-window-system:window-manager:
+
+*i3* -- [[id:24fd1918-3c26-4fb0-a9ca-5855a5ee8531][плиточный]] [[id:e5ae5c8c-553f-4072-9a4a-6e07fc93bae6][оконный менеджер]] для [[id:c1bd534d-6859-442d-80c0-95850d68c907][X Window System]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD]] 3-Clause.
+
+* Resources
+
+- [[https://i3wm.org/][Home Page]]
+- [[https://github.com/i3/i3][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/I3_(программа)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/I3_(window_manager)][Wikipedia [EN]​]]

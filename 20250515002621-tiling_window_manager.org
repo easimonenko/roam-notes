@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       24fd1918-3c26-4fb0-a9ca-5855a5ee8531
+:END:
+#+TITLE: Tiling Window Manager
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-15
+#+FILETAGS: :window-manager:
+
+*Tiling Window Manager* -- плиточный [[id:e5ae5c8c-553f-4072-9a4a-6e07fc93bae6][оконный менеджер]]. Особенностью является размещение новых окон в неперекрывающихся областях экрана.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Tiling_window_manager][Wikipedia [EN]​]]

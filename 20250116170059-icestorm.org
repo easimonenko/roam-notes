@@ -6,10 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-01-16
-#+FILETAGS: :fpga:programming-tool:
+#+FILETAGS: :fpga:programming-tool:lattice:
 
-*IceStorm* -- проект, добавляющий к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержку микросхем [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] Lattice iCE40.
+*IceStorm* -- проект, добавляющий к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержку [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхем]] [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] [[id:48c54cdb-1a72-4675-9801-809e87155cbb][Lattice]] iCE40.
 
 * Resources
 
+- [[https://clifford.fm/icestorm][Home Page]]
 - [[https://github.com/YosysHQ/icestorm][GitHub Repository]]

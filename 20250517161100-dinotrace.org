@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bda0fa28-3196-4b1c-8b9b-cf64fcd3987f
+:END:
+#+TITLE: Dinotrace
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-17
+#+FILETAGS: :verilog:simulation:viewer:
+
+*Dinotrace* -- просмотрщик результатов [[id:010e2198-e892-4991-8438-ad3d8151e49f][симуляции]] [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] с использованием библиотеки Motif. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v3.
+
+* Resources
+
+- [[https://github.com/veripool/dinotrace][GitHub Page]]

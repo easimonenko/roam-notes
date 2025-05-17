@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       daf747c2-b553-424b-bda9-311d2f3ff684
+:END:
+#+TITLE: swaylock
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-17
+#+FILETAGS: :wayland:sway:
+
+*swaylock* -- блокировщик экрана для [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композиторов. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]].  Является проектом команды [[id:c21db3d3-2c4a-441e-a4df-14802110411a][Sway]].
+
+* Resources
+
+- [[https://github.com/swaywm/swaylock][GitHub Page]]

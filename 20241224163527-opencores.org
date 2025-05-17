@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-24
-#+FILETAGS: :fpga:
+#+FILETAGS: :fpga:asic:
 
-*OpenCores* -- портал, аккумулирующий модули с открытыми исходниками для [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] и ASIC.
+*OpenCores* -- портал, аккумулирующий модули с открытыми исходниками для [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] и [[id:15ec7149-1156-49a1-a813-4b3d242f50ac][ASIC]].
 
 * Projects
 

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ea1fa432-57ce-410a-a58b-cf35a467b0d7
+:END:
+#+TITLE: Icestudio
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-17
+#+FILETAGS: :editor:fpga:
+
+*Icestudio* -- визуальный редактор для программирования [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]]. Написан на [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
+
+* Resources
+
+- [[https://icestudio.io/][Home Page]]
+- [[https://github.com/fpgawars/icestudio][GitHub Page]]

@@ -6,7 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-26
-#+FILETAGS:
+#+FILETAGS: :gowin:fpga:
 
 *Gowin Arora* -- семейство микросхем [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]].
 

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e1ee2e5-0abc-480e-a408-297750779e4f
+:END:
+#+TITLE: JTAG
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-17
+#+FILETAGS: :computer-hardware:embedded-systems:jtag:
+
+*JTAG* (Joint Test Action Group) -- рабочая группа по разработке стандарта IEEE 1149. Также это название употребляют по отношению к стандарту IEEE 1149.1 на специализированный аппаратный интерфейс, предназначенный для:
+
+- выходного контроля [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхем]] на производстве
+- тестирования собранных [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][печатных плат]]
+- [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивки]] микросхем с памятью
+- отладки аппаратного и программного интерфейса
+
+* Resources
+
+- [[https://grouper.ieee.org/groups/1149/1/][IEEE Std. 1149.1 - Standard Test Access Port and Boundary-Scan Architecture]]
+- [[https://ru.wikipedia.org/wiki/JTAG][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/JTAG][Wikipedia [EN]​]]

@@ -8,10 +8,12 @@
 #+DATE: 2024-12-15
 #+FILETAGS: :fpga:gowin:sipeed:
 
-*Tang Primer 20K Dock ext-board* -- системная плата для SoM [[id:ecb0a783-bc60-407f-8e7a-a28a638da294][Tang Primer 20K]].
+*Tang Primer 20K Dock ext-board* -- системная плата для SoM [[id:ecb0a783-bc60-407f-8e7a-a28a638da294][Tang Primer 20K]] компании [[id:2bdab81a-8fb7-4656-b467-311b5452adb7][Sipeed]].
 
-JTAG через USB реализован с использованием CPU [[id:1bda7c5b-4f79-40f8-8909-9c054f9d5e0b][BL702]].
+[[id:7e1ee2e5-0abc-480e-a408-297750779e4f][JTAG]] через [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] реализован с использованием [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][CPU]] [[id:1bda7c5b-4f79-40f8-8909-9c054f9d5e0b][BL702]].
 
 * Resources
 
+- [[https://github.com/sipeed][GitHub Page]]
 - [[https://habr.com/ru/companies/timeweb/articles/747346/][Обзор на русском языке / Хабр]]
+- [[https://habr.com/ru/articles/909818/][Программирование FPGA Gowin с использованием свободных инструментов / Хабр]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       397a1938-4328-4d49-9a44-c06a9a325022
+:END:
+#+TITLE: Launcher
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-14
+#+FILETAGS: :gui:desktop:
+
+*Launcher* -- пускач -- [[id:417c859d-b6c2-40f6-ac87-454c751251a8][GUI]]-программа, предоставляющая функцию для запуска GUI-приложений. Обычно реализовывается в виде иерархического меню.

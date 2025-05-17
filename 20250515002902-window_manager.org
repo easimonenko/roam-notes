@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e5ae5c8c-553f-4072-9a4a-6e07fc93bae6
+:END:
+#+TITLE: Window Manager
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-15
+#+FILETAGS: :window-manager:
+
+*Window Manager* (WM) -- оконный менеджер или менеджер окон -- [[id:417c859d-b6c2-40f6-ac87-454c751251a8][GUI]]-программа, отвечающая за управление окнами.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80_%D0%BE%D0%BA%D0%BE%D0%BD][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Window_manager][Wikipedia [EN]​]]

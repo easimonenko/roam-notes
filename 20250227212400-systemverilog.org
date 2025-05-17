@@ -6,7 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-02-27
-#+FILETAGS: :digital-electronics:hdl:
+#+FILETAGS: :digital-electronics:hdl:verilog:
 
 *SystemVerilog* -- язык [[id:5abfa913-146c-44fb-b0da-82980ba450bb][описания]] и [[id:5402d77d-3932-4519-874c-9e4eede3e3fc][верификации]] аппаратуры. Является расширением [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]]. Стандартизован IEEE.
 

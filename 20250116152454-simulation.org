@@ -6,7 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-01-16
-#+FILETAGS:
+#+FILETAGS: :simulation:software:
 
 *Simulation* (симуляция) -- имитация какого-либо процесса чаще всего с использованием программных и аппратаных средств, называемых симуляторами (simulator).
 

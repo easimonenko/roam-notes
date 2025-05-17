@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e3cd8a3f-7c7a-45e1-80f9-f94479493df6
+:END:
+#+TITLE: DarkRISCV
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-16
+#+FILETAGS: :risc-v:verilog:
+
+*DarkRISCV* -- [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядро процессора]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]]. Написано на [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]]. Распространяется под лицензией [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD]] 3-Clause.
+
+* Resources
+
+- [[https://www.darklife.org/][Home Page]]
+- [[https://github.com/darklife/darkriscv][GitHub Page]]

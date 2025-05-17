@@ -6,10 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-26
-#+FILETAGS: :verilog:programming-tool:compiler:
+#+FILETAGS: :verilog:programming-tool:compiler:simulator:
 
-*Verilator* -- свободный компилятор, симулятор и линтер для [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]].
+*Verilator* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободный]] компилятор, [[id:010e2198-e892-4991-8438-ad3d8151e49f][симулятор]] и линтер для [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] и [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]]. Написан на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU LGPL]] v3.
 
 * Resources
 
+- [[https://www.veripool.org/verilator/][Home Page]]
 - [[https://github.com/verilator/verilator][GitHub Page]]

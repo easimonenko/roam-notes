@@ -8,7 +8,9 @@
 #+DATE: 2024-03-24
 #+FILETAGS: :fpga:programming-tool:
 
-*openFPGALoader* -- универсальная утилита для записи прошивок в [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] различных производителей.
+*openFPGALoader* -- универсальная утилита для записи прошивок в [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] различных производителей. Написана на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+Поддерживаются чипы компаний Anlogic, Cologne Chip, Efinix, [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]], Intel (Altera), Lattice, Xilinx.
 
 * Resources
 

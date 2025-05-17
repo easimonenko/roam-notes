@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       15edd181-8b34-44a7-a1ea-2002e20206c7
+:END:
+#+TITLE: LavaLauncher
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-14
+#+FILETAGS: :desktop:wayland:
+
+*LavaLauncher* -- [[id:397a1938-4328-4d49-9a44-c06a9a325022][пускач]] для рабочих столов на базе [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]].
+
+* Resources
+
+- [[https://sr.ht/~leon_plickat/LavaLauncher/][Git Repository]]
