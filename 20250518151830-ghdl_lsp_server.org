@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a228a35d-68a7-4a0c-bb3e-1eae1141e2a5
+:END:
+#+TITLE: GHDL LSP Server
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-18
+#+FILETAGS: :vhdl:lsp:
+
+*GHDL LSP Server* -- сервер [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]] для языка [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]]. Написан на [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]] и [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/ghdl/ghdl-language-server][GitHub Page]]

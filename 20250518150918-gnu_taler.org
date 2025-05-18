@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d87d1a52-3dfe-4a7a-974b-101fb238525c
+:END:
+#+TITLE: GNU Taler
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-18
+#+FILETAGS: :gnu:
+
+*GNU Taler* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] платёжная система проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].
+
+* Resources
+
+- [[https://www.taler.net/][Home Page]]
+- [[https://git.taler.net/][Git Repositories]]

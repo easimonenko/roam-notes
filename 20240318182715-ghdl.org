@@ -12,10 +12,12 @@
 
 GHDL включает в себя:
 
-- [[https://github.com/ghdl/ghdl][GHDL]]: анализатор, компилятор, симулятор и синтезатор для VHDL.
-- [[https://github.com/ghdl/ghdl-language-server][GHDL Language Server Protocol]]: [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]] сервер для VHDL и расширение для Visual Studio Code.
-- [[https://github.com/ghdl/ghdl-yosys-plugin][GHDL Yosys Plugin]]: VHDL синтезатор на базе GHDL и [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]].
+- GHDL: анализатор, компилятор, симулятор и синтезатор для VHDL.
+- [[id:a228a35d-68a7-4a0c-bb3e-1eae1141e2a5][GHDL LSP Server]]: [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]] сервер для VHDL и расширение для Visual Studio Code.
+- [[id:0005a126-2517-46be-838e-1d8252c4ae3b][GHDL Yosys Plugin]]: VHDL синтезатор на базе GHDL и [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]].
 
 * Resources
 
-- [[https://github.com/ghdl][GitHub Page]]
+- [[https://ghdl.github.io/ghdl/][Home Page]]
+- [[https://github.com/ghdl][GitHub Project Page]]
+- [[https://github.com/ghdl/ghdl][GitHub Repository]]
