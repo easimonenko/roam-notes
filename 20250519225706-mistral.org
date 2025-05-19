@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f5d27c19-c30b-452a-8d96-32431dcb063d
+:END:
+#+TITLE: Mistral
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-19
+#+FILETAGS: :yosys:cyclone:
+
+*Mistral* -- проект по добавлению к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержки чипов Cyclone V. Разработано с использованием [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Лицензия [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD]] 3-Clause.
+
+* Resources
+
+- [[https://github.com/Ravenslofty/mistral][GitHub Page]]

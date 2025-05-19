@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c50b7d18-5cb6-4f94-82b1-bdd2b81ddae2
+:END:
+#+TITLE: Oxide
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-19
+#+FILETAGS: :yosys:lattice:
+
+*Oxide* -- проект, по добавлению в [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержки для чипов [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] [[id:48c54cdb-1a72-4675-9801-809e87155cbb][Lattice]] Nexus. Разрабатывается с использованием [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Распространяется под лицензией ISC.
+
+* Resources
+
+- [[https://github.com/gatecat/prjoxide][GitHub Page]]

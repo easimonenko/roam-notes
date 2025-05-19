@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       eb7e40f5-f6ff-4eea-9040-dd805b58b41f
+:END:
+#+TITLE: Intel Compiler for SystemC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-19
+#+FILETAGS: :systemc:verilog:
+
+*Intel Compiler for SystemC* -- компилятор компании Intel языка [[id:671cbedd-11c1-4a53-ba74-14f63e06cc67][SystemC]] в [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]].
+
+* Resources
+
+- [[https://github.com/intel/systemc-compiler][GitHub Page]]

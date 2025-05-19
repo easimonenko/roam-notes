@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7bd3c2e4-110c-4b7c-9fdd-fcf530f59ca4
+:END:
+#+TITLE: F4PGA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-19
+#+FILETAGS: :fpga:python:
+
+*F4PGA* -- управление проектами разработки под [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] с использованием только [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободных]] программных инструментов. Разрабатывается [[id:581be76f-8342-46d2-8823-4f3315865b82][CHIPS Alliance]]. Написано на языке [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://f4pga.org/][Home Page]]
+- [[https://github.com/chipsalliance/f4pga][GitHub Page]]

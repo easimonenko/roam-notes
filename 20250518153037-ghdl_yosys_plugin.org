@@ -8,7 +8,7 @@
 #+DATE: 2025-05-18
 #+FILETAGS: :vhdl:yosys:
 
-*GHDL Yosys Plugin* -- [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]] синтезатор на базе [[id:a2e0dd74-02d3-4fe3-b491-d29d96d57755][GHDL]] и [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+*GHDL Yosys Plugin* -- [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]] синтезатор на базе [[id:a2e0dd74-02d3-4fe3-b491-d29d96d57755][GHDL]] и [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]]. Написан на языке C++. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
 
 * Resources
 

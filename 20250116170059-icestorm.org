@@ -8,7 +8,7 @@
 #+DATE: 2025-01-16
 #+FILETAGS: :fpga:programming-tool:lattice:
 
-*IceStorm* -- проект, добавляющий к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержку [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхем]] [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] [[id:48c54cdb-1a72-4675-9801-809e87155cbb][Lattice]] iCE40.
+*IceStorm* -- проект, добавляющий к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержку [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхем]] [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] [[id:48c54cdb-1a72-4675-9801-809e87155cbb][Lattice]] iCE40. Код написан в основном на [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]], а также на [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под лицензией ISC.
 
 * Resources
 

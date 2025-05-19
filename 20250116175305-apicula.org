@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-01-16
-#+FILETAGS: :fpga:programming-tool:
+#+FILETAGS: :fpga:programming-tool:gowin:
 
-*Apicula* -- проект, добавляющий к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержку микросхем [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]] семейств LittleBe и [[id:eee2ae7d-b127-43a6-a465-d044e6a7165a][Arora]].
+*Apicula* -- проект, добавляющий к [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] поддержку микросхем [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] компании [[id:fa2ca90f-4944-44d6-9ffe-d2760e1a37a8][Gowin]] семейств LittleBe и [[id:eee2ae7d-b127-43a6-a465-d044e6a7165a][Arora]]. Разработано с использованием [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Распространяется под лицензией [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT]].
 
 * Resources
 

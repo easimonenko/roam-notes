@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       948f4d55-9d2c-41aa-8037-086aeb48a1fa
+:END:
+#+TITLE: svlint
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-19
+#+FILETAGS: :verilog:rust:
+
+*svlint* -- линтер для языка [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]]. Написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/dalance/svlint][GitHub Page]]

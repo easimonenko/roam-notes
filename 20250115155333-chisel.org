@@ -8,7 +8,7 @@
 #+DATE: 2025-01-15
 #+FILETAGS: :hdl:scala:
 
-*Chisel* (Constructing Hardware in a Scala Embedded Language) -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]] для описания [[id:e05496d9-066f-4a63-b431-fbb4bf3489c8][цифровых схем]] уровня [[id:a43f12c7-50d8-4254-9c87-5829a8fd1369][RTL]]. Chisel является [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][DSL]] на базе языка программирования [[id:db12138f-e0fd-47c2-850b-fb7927848e61][Scala]].
+*Chisel* (Constructing Hardware in a Scala Embedded Language) -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]] для описания [[id:e05496d9-066f-4a63-b431-fbb4bf3489c8][цифровых схем]] уровня [[id:a43f12c7-50d8-4254-9c87-5829a8fd1369][RTL]]. Chisel является [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][DSL]] на базе языка программирования [[id:db12138f-e0fd-47c2-850b-fb7927848e61][Scala]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]]. Разрабатывается [[id:581be76f-8342-46d2-8823-4f3315865b82][CHIPS Alliance]].
 
 * Resources
 
