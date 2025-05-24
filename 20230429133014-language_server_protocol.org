@@ -12,3 +12,8 @@
 компанией Microsoft для унификации инструментов программирования. Используя один и
 тот же LSP сервер можно иметь поддержку языка программирования в разных средах и
 редакторах кода.
+
+* Resources
+
+- [[https://microsoft.github.io/language-server-protocol/][Home Page]]
+- [[https://en.wikipedia.org/wiki/Language_Server_Protocol][Wikipedia [EN]​]]

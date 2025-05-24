@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e305529e-87c6-4c29-a630-fb67e8d88de0
+:END:
+#+TITLE: Odin Programming Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-24
+#+FILETAGS: :c:programming-language:
+
+*Odin* -- язык программирования, позиционируемый как альтернатива для [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
+
+* Resources
+
+- [[https://odin-lang.org/][Home Page]]
+- [[https://odin-lang.org/docs/][Documentation]]
+- [[https://github.com/odin-lang/examples][Examples]]
+- [[https://github.com/odin-lang/Odin][GitHub Page]]

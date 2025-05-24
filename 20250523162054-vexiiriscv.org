@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f13c9bb7-2fe3-4582-9242-1c81c73a395a
+:END:
+#+TITLE: VexiiRiscv
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-23
+#+FILETAGS: :risc-v:spinalhdl:
+
+*VexiiRiscv* -- дальнейшее развитие [[id:4d11f7d0-3864-4495-8d0f-b4167d6b4d34][VexRiscv]], реализация [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:55f2037c-ed4f-4e02-aa47-fd802c0ec65d][RISC-V]] на [[id:20e271f5-5434-443e-9d60-4ac29489bd56][SpinalHDL]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/SpinalHDL/VexiiRiscv/][GitHub Page]]

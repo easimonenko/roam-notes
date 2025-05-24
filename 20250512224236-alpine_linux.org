@@ -20,5 +20,7 @@
 * Resources
 
 - [[https://alpinelinux.org/][Home Page]]
+- [[https://gitlab.alpinelinux.org/alpine][Git Repositories]]
+- [[https://wiki.alpinelinux.org/wiki/Main_Page][Wiki Page]]
 - [[https://ru.wikipedia.org/wiki/Alpine_Linux][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Alpine_Linux][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b98d0f9a-b702-4d54-a735-0b9e55060227
+:END:
+#+TITLE: VUnit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-24
+#+FILETAGS: :verilog:vhdl:testing:
+
+*VUnit* -- фреймворк для модульного тестирования на [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]], [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] и [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]]. Написан на языке [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Распространяется под лицензией MPL v2.
+
+* Resources
+
+- [[https://vunit.github.io/][Home Page]]
+- [[https://github.com/VUnit/vunit][GitHub Page]]
