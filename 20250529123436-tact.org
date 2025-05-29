@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       348592bc-247a-4a32-a037-57e714b1e68f
+:END:
+#+TITLE: Tact
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-29
+#+FILETAGS: :programming-language:typescript:blockchain:
+
+*Tact* -- язык программирования для блокчейна TON. Написан на языке TypeScript. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://tact-lang.org/][Home Page]]
+- [[https://github.com/tact-lang][GitHub Team]]
+- [[https://github.com/tact-lang/tact][GitHub Page]]

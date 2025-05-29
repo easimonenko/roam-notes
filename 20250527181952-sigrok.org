@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7ef27b2f-6e74-4df9-b524-90fb957ea5c9
+:END:
+#+TITLE: sigrok
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-27
+#+FILETAGS:
+
+*sigrok* -- свободное программное обеспечение для анализа и визуализации сигналов от различных устройств.
+
+* Resources
+
+- [[https://sigrok.org/wiki/Main_Page][Home Page]]
+- [[https://sigrok.org/gitweb/][Git Repository]]
+- [[https://en.wikipedia.org/wiki/Sigrok][Wikipedia [EN]​]]

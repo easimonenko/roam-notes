@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d30cdedb-b72b-4c98-bf6f-56b9be54c167
+:END:
+#+TITLE: One-Instruction Set Computer
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-29
+#+FILETAGS: :isa:processors:risc:
+
+*One-Instruction Set Computer* (OISC) -- компьютерная [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектура]] с набором команд состоящим из одной инструкции. Считается предельным случаем [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][RISC]] и также носит название Ultimate RISC (URISC).
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/One-instruction_set_computer][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/URISC][Wikipedia [RU]​]]
+- [[https://habr.com/ru/articles/433342/][Ещё один простой процессор на Verilog / Хабр]]
+- [[https://github.com/pavel212/cpu][GitHub процессора, описываемого в статье выше]]

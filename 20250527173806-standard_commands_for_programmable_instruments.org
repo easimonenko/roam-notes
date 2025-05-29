@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c1f62fff-39e8-4fe5-87d1-9fc8c583161d
+:END:
+#+TITLE: Standard Commands for Programmable Instruments
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-27
+#+FILETAGS:
+
+*Standard Commands for Programmable Instruments* (SCPI) -- стандартные команды для программируемых инструментов -- стандарт на синтаксис команд для тестирующих и измерительных инструментов.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Standard_Commands_for_Programmable_Instruments][Wikipedia [EN]​]]

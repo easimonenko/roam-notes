@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2d96c3b1-7033-4a3a-85d3-08d7aee522e3
+:END:
+#+TITLE: SystemVerilog Tester
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-29
+#+FILETAGS: :testing:test-suites:
+
+*SystemVerilog Tester* -- набор тестов для проверки соответствия инструмента [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]]. Написано на [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Распространяется под лицензией ISC организацией [[id:581be76f-8342-46d2-8823-4f3315865b82][CHIPS Alliance]].
+
+* Resources
+
+- [[https://github.com/chipsalliance/sv-tests][GitHub Page]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fbf5f0be-8bf1-4fbb-8128-1fb42bdb1f0b
+:END:
+#+TITLE: SUBLEQ
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-29
+#+FILETAGS: :isa:oisc:
+
+*SUBLEQ* -- [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектура]] [[id:d30cdedb-b72b-4c98-bf6f-56b9be54c167][OISC]], описываемая предложением "SUBtract and branch if Less-than or EQual to zero".
+
+* Resources
+
+- [[https://techtinkering.com/articles/subleq-a-one-instruction-set-computer/][SUBLEQ - A One Instruction Set Computer (OISC) // TechTinkering]]
+- [[https://esolangs.org/wiki/Subleq][SUBLEQ // Esolang Wiki]]

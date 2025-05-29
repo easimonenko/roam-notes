@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       717e3263-97a2-4f1c-ba22-6dd88fbd0079
+:END:
+#+TITLE: Virtual Instrument Software Architecture
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-28
+#+FILETAGS: :tools:
+
+*Virtual instrument software architecture* (VISA) -- [[id:656e1c2e-4186-43be-ace8-afce1862dac1][API]] для взаимодействия с тестерами и измерительными инструментами. Разрабатывается [[id:92c064d1-7408-402b-b8ac-414d63ed0e67][IVI Foundation]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Virtual_instrument_software_architecture][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/VISA_(программная_архитектура)][Wikipedia [RU]​]]

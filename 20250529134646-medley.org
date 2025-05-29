@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       cb8dcf59-e289-444b-bcec-8c3514eba838
+:END:
+#+TITLE: Medley
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-29
+#+FILETAGS: :lisp:
+
+*Medley* -- проект по возрождению системы программирования Interlisp на языке [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]]. Язык разработки [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://interlisp.org/][Home Page]]
+- [[https://github.com/Interlisp/medley][GitHub Page]]
+- [[https://github.com/Interlisp][GitHub Project]]

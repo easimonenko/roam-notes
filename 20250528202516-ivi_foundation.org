@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       92c064d1-7408-402b-b8ac-414d63ed0e67
+:END:
+#+TITLE: IVI Foundation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-28
+#+FILETAGS:
+
+*IVI Foundation* -- открытый консорциум, созданный для продвижения спецификаций для программно доступных инструментов.
+
+* Resources
+
+- [[https://www.ivifoundation.org/][Home Page]]

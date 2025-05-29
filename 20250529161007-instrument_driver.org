@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       01044217-4496-433c-a78a-f34bd96f3119
+:END:
+#+TITLE: Instrument Driver
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-29
+#+FILETAGS: :tools:
+
+*Instrument Driver* -- программное обеспечение для удалённого управления тестерами и измерительными инструментами по стандартам [[id:717e3263-97a2-4f1c-ba22-6dd88fbd0079][VISA]] и [[id:c1f62fff-39e8-4fe5-87d1-9fc8c583161d][SCPI]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Instrument_driver][Wikipedia [EN]​]]
