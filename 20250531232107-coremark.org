@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       39c8a3a1-3b07-4596-8133-8b9d8320398e
+:END:
+#+TITLE: CoreMark
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-05-31
+#+FILETAGS: :testing:
+
+*CoreMark* -- набор тестов производительности для [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] и [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][микроконтроллеров]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]]. Разрабатывается [[id:58c3eff0-4c69-4697-8f35-b87a0a78e40a][EMBC]].
+
+* Resources
+
+- [[https://github.com/eembc/coremark][GitHub Page]]
