@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ce4ea10d-402c-4dea-865e-04cf2d2740d3
+:END:
+#+TITLE: R5RS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:r5rs:
+
+*R5RS* -- один из актуальных стандартов языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Предшествует стандартам [[id:be6f6c44-6a69-4576-94a2-fbb3cb75bb48][R6RS]] и [[id:b24114df-2c59-4bac-b73a-5acf3ebd9cde][R7RS]].
+
+* Resources
+
+- [[https://standards.scheme.org/][Home Page]]

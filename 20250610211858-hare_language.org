@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       eea3c04d-8a7e-437a-a551-e0b2c263bf81
+:END:
+#+TITLE: Hare Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-10
+#+FILETAGS: :programming-languages:
+
+*Hare* -- язык программирования адьтернативный для [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Написан на самом себе. Распространяется под Mozilla Public License 2.0.
+
+* Resources
+
+- [[https://harelang.org/][Home Page]]
+- [[https://git.sr.ht/~sircmpwn/hare][Git Repository]]

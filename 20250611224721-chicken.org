@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       52d81366-b6dc-4e3e-aa75-89e73c3d0732
+:END:
+#+TITLE: CHICKEN
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:r5rs:
+
+*CHICKEN* -- одна из реализаций языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Включает в себя компилятор. Реализует стандарт [[id:ce4ea10d-402c-4dea-865e-04cf2d2740d3][R5RS]] и частично [[id:b24114df-2c59-4bac-b73a-5acf3ebd9cde][R7RS]]. Написана на самом себе. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://www.call-cc.org/][Home Page]]
+- [[https://code.call-cc.org/git/chicken-core.git/][Git Repository]]
+- [[https://en.wikipedia.org/wiki/Chicken_(Scheme_implementation)][Wikipedia [EN]​]]

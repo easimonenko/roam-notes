@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f957e6e3-39ce-4e69-a96b-75e6f482b070
+:END:
+#+TITLE: Metaprogramming
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-06
+#+FILETAGS: :programming:programming-languages:
+
+*Metaprogramming* -- метапрограммирование -- разновидность программирования, при котором пишется код программ, результатом работы которых является код других программ.
+
+Различают два вида техник метапрограммирования:
+
+- генераторы кода
+- метаязыки
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Метапрограммирование][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Metaprogramming][Wikipedia [EN]​]]

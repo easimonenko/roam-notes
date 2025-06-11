@@ -16,3 +16,8 @@
 Название произносится как "си".
 
 Компиляторы: [[id:a0092b10-7454-4551-945c-c5ea9b14bdd3][GCC]], [[id:0ef6ebbe-ddf0-44c0-a081-8c1a0ac0fe56][CLang]]
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Си_(язык_программирования)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/C_(programming_language)][Wikipedia [EN]​]]

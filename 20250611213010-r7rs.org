@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b24114df-2c59-4bac-b73a-5acf3ebd9cde
+:END:
+#+TITLE: R7RS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:
+
+*R7RS* -- последний по счёту стандарт языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]].
+
+* Resources
+
+- [[https://r7rs.org/][Home Page]]

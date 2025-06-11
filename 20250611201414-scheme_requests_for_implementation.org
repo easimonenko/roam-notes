@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4ab06bf7-b861-4f08-a62c-820d759cd711
+:END:
+#+TITLE: Scheme Requests for Implementation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:
+
+*Scheme Requests for Implementation* (SRFI) -- каталог расширений для языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]].
+
+* Resources
+
+- [[https://srfi.schemers.org/][Home Page]]
+- [[https://en.wikipedia.org/wiki/Scheme_Requests_for_Implementation][Wikipedia [EN]​]]

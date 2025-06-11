@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       869ac483-6750-4daa-b637-116c2e66b519
+:END:
+#+TITLE: MIT/GNU Scheme
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:
+
+*MIT/GNU Scheme* -- самая ранняя и одна из самых распространённых реализаций языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Первоначально была разработана в [[id:c7df9d33-f0fc-4dee-966d-ebeac847d1c3][MIT]], затем передана [[id:5e2cc969-cf42-42b6-acd2-c0cfc1b22bab][FSF]] и стала одним из проектов [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Включает в себя как компилятор, так и интерпретатор. Реализует стандарт [[id:b24114df-2c59-4bac-b73a-5acf3ebd9cde][R7RS]]. Написана на самом себе. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
+
+* Resources
+
+- [[https://www.gnu.org/software/mit-scheme/][Home Page]]
+- [[https://cgit.git.savannah.gnu.org/cgit/mit-scheme.git][Git Repository]]

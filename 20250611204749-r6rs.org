@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       be6f6c44-6a69-4576-94a2-fbb3cb75bb48
+:END:
+#+TITLE: R6RS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:
+
+*R6RS* (The Revised6 Report on the Algorithmic Language Scheme) -- шестая редакция стандарта языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]].
+
+* Resources
+
+- [[https://www.r6rs.org/][Home Page]]

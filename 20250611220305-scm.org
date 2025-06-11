@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3f81c0c2-f032-4f91-abf5-a3620a557e47
+:END:
+#+TITLE: SCM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:r5rs:
+
+*SCM* -- одна из реализаций языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Включает в себя как компилятор, так и интерпретатор. Реализует стандарт [[id:ce4ea10d-402c-4dea-865e-04cf2d2740d3][R5RS]]. Написана на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и Scheme. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://people.csail.mit.edu/jaffer/SCM.html][Home Page]]

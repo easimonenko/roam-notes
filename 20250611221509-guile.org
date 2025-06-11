@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d33cd41c-55d8-4ffa-907f-15ff106b952f
+:END:
+#+TITLE: Guile
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:gnu:r5rs:r6rs:
+
+*GNU Guile* -- одна из реализаций языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Часть проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Включает в себя как компилятор, так и интерпретатор. Реализует стандарт [[id:ce4ea10d-402c-4dea-865e-04cf2d2740d3][R5RS]] и по большей части [[id:be6f6c44-6a69-4576-94a2-fbb3cb75bb48][R6RS]]. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://www.gnu.org/software/guile/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Guile][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/GNU_Guile][Wikipedia [EN]​]]

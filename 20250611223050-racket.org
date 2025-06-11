@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5d6f94fa-9b49-4e46-a096-966683c3d387
+:END:
+#+TITLE: Racket
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :scheme:r6rs:
+
+*Racket* -- одна из самых популярных реализаций языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Реализует стандарт [[id:be6f6c44-6a69-4576-94a2-fbb3cb75bb48][R6RS]]. Включает в себя интерпретатор и среду разработки. Написана на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и Scheme. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://racket-lang.org/][Home Page]]
+- [[https://github.com/racket/racket][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Racket_(язык_программирования)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Racket_(programming_language)][Wikipedia [EN]​]]

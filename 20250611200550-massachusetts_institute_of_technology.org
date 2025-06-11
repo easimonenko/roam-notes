@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c7df9d33-f0fc-4dee-966d-ebeac847d1c3
+:END:
+#+TITLE: Massachusetts Institute of Technology
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-11
+#+FILETAGS: :higher-education:
+
+*Massachusetts Institute of Technology* (MIT) -- крупнейший и один из самых престижных университетов в США и мире. В его стенах было создано множество значимых технологий и сделано множество открытий.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Массачусетский_технологический_институт][Wikipedia [RU]​]]
+- [[Massachusetts Institute of Technology][Wikipedia [EN]​]]

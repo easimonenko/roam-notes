@@ -15,3 +15,5 @@
 - [[https://bellard.org/tcc/][Home Page]]
 - [[https://savannah.nongnu.org/projects/tinycc][Project Page]]
 - [[https://repo.or.cz/w/tinycc.git][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/Tiny_C_Compiler][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Tiny_C_Compiler][Wikipedia [EN]​]]
