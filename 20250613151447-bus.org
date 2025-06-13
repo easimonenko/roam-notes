@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7bff63f8-b568-4f88-87c5-bacc1b7ee527
+:END:
+#+TITLE: Bus
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-13
+#+FILETAGS: :computer-architecture:embedded-systems:
+
+*Bus* -- шина -- устройство, призванное соединять между собой различные [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][электронные устройства]] в компьютерных и [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых]] системах и передавать между ними сигналы. Как-правило реализуется с использованием электрических или оптических проводников.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Шина_(компьютер)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Bus_(computing)][Wikipedia [EN]​]]

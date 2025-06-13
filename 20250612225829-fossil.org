@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       12c64ba1-c6da-4a16-aa24-efe3bcde14b1
+:END:
+#+TITLE: Fossil
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-12
+#+FILETAGS: :scm:
+
+*Fossil* -- распределённая [[id:ac46122d-600f-4e86-b904-e721b5ff2d69][система управления исходными текстами]]. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD]] 2-clause.
+
+* Resources
+
+- [[https://fossil-scm.org/home/doc/trunk/www/index.wiki][Home Page]]
+- [[https://fossil-scm.org/home/dir?ci=trunk][Fossil Repository]]

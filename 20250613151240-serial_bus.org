@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       40baaa56-33ac-4e03-974b-f0f9cb1c5735
+:END:
+#+TITLE: Serial Bus
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-13
+#+FILETAGS: :computer-architecture:embedded-systems:
+
+*Serial Bus* -- последовательная шина -- коммуникационная [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шина]] с [[id:6d28db69-3ce5-473e-bbb0-985139366c7e][последовательной передачей данных]] по одному биту за единицу времени.

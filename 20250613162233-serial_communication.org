@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6d28db69-3ce5-473e-bbb0-985139366c7e
+:END:
+#+TITLE: Serial Communication
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-13
+#+FILETAGS: :digital-electronics:embedded-systems:computer-architecture:
+
+*Serial Communication* -- последовательное взаимодействие -- вид взаимодействия между [[id:e05496d9-066f-4a63-b431-fbb4bf3489c8][цифровыми электронными устройствами]], при котором сигналы передаются по одному биту в единицу времени. Широко применяется в компьютерных и [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встриваемых]] системах.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Последовательная_передача_данных][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Serial_communication][Wikipedia [EN]​]]
