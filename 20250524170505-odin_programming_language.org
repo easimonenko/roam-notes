@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-05-24
-#+FILETAGS: :c:programming-language:
+#+FILETAGS: :programming-languages:c:
 
-*Odin* -- язык программирования, позиционируемый как альтернатива для [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
+*Odin* -- язык программирования, позиционируемый как альтернатива для [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Компилятор написан на [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
 
 * Resources
 

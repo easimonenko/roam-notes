@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       694cd08e-cd00-4186-b920-3a09f18e6bd7
+:END:
+#+TITLE: Scheme 48
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-14
+#+FILETAGS: :scheme:r5rs:
+
+*Scheme 48* -- одна из реализаций языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Реализует стандарт [[id:ce4ea10d-402c-4dea-865e-04cf2d2740d3][R5RS]]. Включает в себя интерпретатор. Написана на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и Scheme. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://s48.org/][Home Page]]
+- [[https://en.wikipedia.org/wiki/Scheme_48][Wikipedia [EN]​]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2a500912-2a3c-423b-b32e-67168cfed269
+:END:
+#+TITLE: V Programming Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-14
+#+FILETAGS: :programming-languages:
+
+*V* -- язык программирования. Компилятор написан на самом себе. Синтаксически напоминает [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://vlang.io/][Home Page]]
+- [[https://github.com/vlang/v][GitHub Page]]
+- [[https://en.wikipedia.org/wiki/V_(programming_language)][Wikipedia [EN]​]]

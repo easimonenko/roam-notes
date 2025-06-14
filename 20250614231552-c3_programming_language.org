@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       32a2e279-2fed-43dc-971e-3e700bee2f0d
+:END:
+#+TITLE: C3 Programming Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-14
+#+FILETAGS: :programming-languages:c:
+
+*C3* -- язык программирования, позиционируемый как замена для [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Компилятор написан на языке C. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU LGPL]] v3.
+
+* Resources
+
+- [[https://c3-lang.org][Home Page]]
+- [[https://github.com/c3lang/c3c][GitHub Page]]

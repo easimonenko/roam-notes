@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4b8b16bb-1042-46a3-8392-5bb8e99dddcd
+:END:
+#+TITLE: Nim Programming Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-14
+#+FILETAGS: :programming-languages:
+
+*Nim* -- язык программирования. Синтаксически напоминает [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Компилятор написана на нём самом. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://nim-lang.org/][Home Page]]
+- [[https://github.com/nim-lang/Nim][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Nim][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Nim_(programming_language)][Wikipedia [EN]​]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       82fa1770-938f-439c-a407-6b4fdb66b96d
+:END:
+#+TITLE: Gambit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-14
+#+FILETAGS: :scheme:r5rs:
+
+*Gambit* -- одна из реализаций языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Реализует стандарт [[id:ce4ea10d-402c-4dea-865e-04cf2d2740d3][R5RS]]. Включает в себя как компилятор, так и интерпретатор. Написана на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и Scheme. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://www.gambitscheme.org/][Home Page]]
+- [[https://github.com/gambit/gambit][GitHub Page]]
+- [[https://en.wikipedia.org/wiki/Gambit_(Scheme_implementation)][Wikipedia [EN]​]]

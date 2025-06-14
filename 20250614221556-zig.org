@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       743f81da-b9e8-41e7-bb53-67e56b738f3c
+:END:
+#+TITLE: Zig
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-14
+#+FILETAGS: :programming-languages:
+
+*Zig* -- язык программирования. Синтаксически напоминает [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]]. Компилятор написан на самом себе. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://ziglang.org/][Home Page]]
+- [[https://github.com/ziglang/zig][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Zig][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Zig_(programming_language)][Wikipedia [EN]​]]
