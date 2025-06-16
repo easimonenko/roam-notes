@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a9759762-4626-4bbd-baf6-ea100b10ee7c
+:END:
+#+TITLE: Interactive Theorem Prover
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-16
+#+FILETAGS: :proof-assistant:mathematics:software:
+
+*Interactive Theorem Prover* -- средство интерактивного доказательства теорем -- другое название для [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощника в доказательстве]].

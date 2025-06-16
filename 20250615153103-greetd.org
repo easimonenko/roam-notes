@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       074f94e8-f41d-48ae-8a94-3c42b836b095
+:END:
+#+TITLE: greetd
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-15
+#+FILETAGS: :daemon:rust:
+
+*greetd* -- системный сервис, обеспечиващий процесс входа в систему. Написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://sr.ht/~kennylevinsen/greetd/][Git Repository]]

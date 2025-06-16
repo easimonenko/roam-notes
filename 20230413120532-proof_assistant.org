@@ -6,6 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-13
-#+FILETAGS: :software:proof-assistant:
+#+FILETAGS: :software:proof-assistant:mathematics:
 
-*Помощник в доказательстве* (Proof Assistant) -- программное обеспечение, помогающее в проведении формальных доказательств. Также называют *инструментами интерактивного доказательства*.
+*Proof Assistant* -- Помощник в доказательстве -- программное обеспечение, помогающее в проведении формальных доказательств. Также называют [[id:a9759762-4626-4bbd-baf6-ea100b10ee7c][инструментами интерактивного доказательства]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Инструмент_интерактивного_доказательства_теорем][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Proof_assistant][Wikipedia [EN]​]]

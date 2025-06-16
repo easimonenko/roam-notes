@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2b1a0f17-c7db-44e8-97d3-2a0f97051311
+:END:
+#+TITLE: Coq
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-16
+#+FILETAGS: :proof-assistant:
+
+*Coq* -- [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощник в доказательстве теорем]]. Переименован в Rocq. Написан на OCaml.
+
+* Resources
+
+- [[https://rocq-prover.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Coq][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Rocq][Wikipedia [EN]​]]

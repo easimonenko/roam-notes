@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7baf8463-8dfe-45c7-bd20-21abaddf83c9
+:END:
+#+TITLE: Waybar
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-15
+#+FILETAGS: :wayland:sway:
+
+*Waybar* -- панель рабочего стола для [[id:c21db3d3-2c4a-441e-a4df-14802110411a][Sway]] и других [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композиторов. Написана на [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/Alexays/Waybar][GitHub Page]]

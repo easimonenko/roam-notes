@@ -6,10 +6,14 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-13
-#+FILETAGS: :mathematical-logic:logic:proof-assistant:
+#+FILETAGS: :proof-assistant:mathematics:logic:
 
-*Isabelle* -- универсальный [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощник в доказательстве]].
+*Isabelle* -- универсальный [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощник в доказательстве]]. Написано на языке [[id:8f8cc65d-df51-4031-9785-fd2aa6a7354a][Standard ML]]. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]].
+
+В составе дистрибутива поставляется также IDE, написанная на языке [[id:db12138f-e0fd-47c2-850b-fb7927848e61][Scala]].
 
 * Resources
 
 - [[https://www.cl.cam.ac.uk/research/hvg/Isabelle/][Isabelle Home Page]]
+- [[https://ru.wikipedia.org/wiki/Isabelle][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Isabelle_(proof_assistant)][Wikipedia [EN]​]]

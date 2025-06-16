@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       505241cd-a8bb-4ef3-ade0-033f24405b74
+:END:
+#+TITLE: wlogout
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-15
+#+FILETAGS: :wayland:
+
+*wlogout* -- приложение для [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]], предоставляющее меню для выхода или завершения работы.
+
+* Resources
+
+- [[https://github.com/ArtsyMacaw/wlogout][GitHub Page]]

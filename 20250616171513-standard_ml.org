@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8f8cc65d-df51-4031-9785-fd2aa6a7354a
+:END:
+#+TITLE: Standard ML
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-16
+#+FILETAGS: :programming-languages:
+
+*Standard ML* -- функциональный, статически типизированный язык программирования, относящийся к семейству языков [[id:08dbde20-14f5-4052-adb6-7ce4204a60d4][ML]]. Существует несколько реализаций.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Standard_ML][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Standard_ML][Wikipedia [EN]​]]
+- [[https://smlfamily.github.io/][Standard ML Family GitHub Project]]

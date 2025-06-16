@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       22fc207b-c08a-489e-88ee-ff83bbef146f
+:END:
+#+TITLE: Glasgow Haskell Compiler
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-16
+#+FILETAGS: :programming-languages:compilers:
+
+*Glasgow Haskell Compiler* (GHC) -- основная реализация языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Компилятор написан на самом себе. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://gitlab.haskell.org/ghc/ghc][Git Repository]]
