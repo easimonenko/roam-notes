@@ -8,9 +8,9 @@
 #+DATE: 2025-02-09
 #+FILETAGS: :compiler:c:c++:
 
-*Clang* -- набор компиляторов для языков [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]], Objective-C, OpenCL, CUDA. Часть проекта [[id:35d4f6e3-59f6-4388-a66d-54374aa389d2][LLVM]]. Совместим с [[id:a0092b10-7454-4551-945c-c5ea9b14bdd3][GCC]]. Лицензия: Apache 2.0.
+*Clang* -- набор компиляторов для языков [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]], Objective-C, OpenCL, CUDA. Часть проекта [[id:35d4f6e3-59f6-4388-a66d-54374aa389d2][LLVM]]. Совместим с [[id:a0092b10-7454-4551-945c-c5ea9b14bdd3][GCC]]. Лицензия: [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache 2.0]].
 
-Для сборки необходимы: [[id:f86ddff1-23f6-4df8-a33d-0d36c91f07e8][CMake]], LLVM. Для запуска тектов нужен [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]].
+Для сборки необходимы: [[id:f86ddff1-23f6-4df8-a33d-0d36c91f07e8][CMake]], LLVM. Для запуска тестов нужен [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]].
 
 * Resources
 

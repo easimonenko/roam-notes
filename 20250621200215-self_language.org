@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e791696a-b801-41cc-acf7-a9561d5d3b58
+:END:
+#+TITLE: Self Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-21
+#+FILETAGS: :programming-languages:object-oriented-programming:
+
+*Self* -- язык программирования, реализующий настоящую объектно-ориентированную парадигму с объектами и передачей сообщений между ними. Идеи и синтаксис язык заимствовал из языка [[id:8d7c44b4-c83d-498d-8b2c-33d14815feaa][Smalltalk]].
+
+* Resources
+
+- [[https://selflanguage.org/][Home Page]]
+- [[https://github.com/russellallen/self][GitHub Page]]

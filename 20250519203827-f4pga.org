@@ -14,3 +14,4 @@
 
 - [[https://f4pga.org/][Home Page]]
 - [[https://github.com/chipsalliance/f4pga][GitHub Page]]
+- [[https://github.com/chipsalliance/f4pga-examples][Examples on Verilog]]

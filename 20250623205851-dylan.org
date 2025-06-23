@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6ac02b46-af0f-4b09-a3bb-cf3d4becacf1
+:END:
+#+TITLE: Dylan
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-23
+#+FILETAGS: :programming-languages:
+
+*Dylan* -- язык программирования, идейно напоминающий [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]], но имеющий "традиционный" синтаксис. Компилятор и другие инструменты разрабатываются в рамках проекта Open Dylan. Компилятор языка написан на самом себе. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://opendylan.org/][Home Page]]
+- [[https://package.opendylan.org/][Package Documentation]]
+- [[https://github.com/dylan-lang][GitHub Projects]]
+- [[https://github.com/dylan-lang/opendylan][Compiler GitHub Page]]

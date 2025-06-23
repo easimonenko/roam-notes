@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8d7c44b4-c83d-498d-8b2c-33d14815feaa
+:END:
+#+TITLE: Smalltalk
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-21
+#+FILETAGS: :programming-languages:object-oriented-languages:
+
+*Smalltalk* -- язык программирования, реализующий настоящую объектно-ориентированную парадигму с объектами и передачей сообщений между ними. Существует несколько реализаций.
