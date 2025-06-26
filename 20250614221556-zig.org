@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-06-14
-#+FILETAGS: :programming-languages:
+#+FILETAGS: :programming-languages:c:
 
-*Zig* -- язык программирования. Синтаксически напоминает [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]]. Компилятор написан на самом себе. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+*Zig* -- язык программирования. Синтаксически напоминает [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]]. Компилятор написан на самом себе. Позиционируется как альтернатива для языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и имеет для него встроенный компилятор. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
 
 * Resources
 

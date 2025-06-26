@@ -6,11 +6,12 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-05-19
-#+FILETAGS: :fpga:yosys:verilog:
+#+FILETAGS: :fpga:yosys:verilog:vhdl:
 
-*Yosys Open Synthesis Suite* (Yosys Open Synthesis Suite) -- проект по разработке [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободных]] инструментов для программирования [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] на языке [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]]. Включает в себя собственно [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] -- синтезатор для [[id:a43f12c7-50d8-4254-9c87-5829a8fd1369][RTL]].
+*Yosys Open Synthesis Suite* (Yosys Open Synthesis Suite) -- проект по разработке [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободных]] инструментов для программирования [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]] на языках [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]] и [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]]. Включает в себя собственно [[id:791f1323-1033-43ff-94b0-70d04e00ece5][Yosys]] -- синтезатор для [[id:a43f12c7-50d8-4254-9c87-5829a8fd1369][RTL]].
 
 * Resources
 
 - [[https://yosyshq.net/][Home Page]]
 - [[https://github.com/YosysHQ][GitHub Project]]
+- [[https://habr.com/ru/articles/801191/][Разработка цифровой аппаратуры нетрадиционным методом: Yosys, SpinalHDL, VexRiscv (ч.1) / Хабр]]

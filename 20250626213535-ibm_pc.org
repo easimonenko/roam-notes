@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e201e107-76de-4e43-8001-d83cd968d1ef
+:END:
+#+TITLE: IBM PC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :computer-architecture:x86:
+
+*IBM PC* -- персональный компьютер компании IBM, давший название семейству ПК на [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорах]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]]. Базировался на процессоре [[id:6e73f3d3-48de-4171-8ce8-0b556a4df44d][Intel 8088]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/IBM_PC][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/IBM_Personal_Computer][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       392e19a7-8e19-4816-b056-c3382ab4e366
+:END:
+#+TITLE: Visopsys
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-25
+#+FILETAGS: :operating-systems:
+
+*Visopsys* -- оригинальная операционная система с графическим интерфейсом. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://visopsys.org/][Home Page]]
+- [[https://habr.com/ru/companies/ru_mts/articles/921772/][Visopsys — ОС, которую написал один человек / Хабр]]

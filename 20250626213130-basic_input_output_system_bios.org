@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8efa02e1-5066-4d16-8f95-26368a41c8c0
+:END:
+#+TITLE: Basic Input/Output System (BIOS)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :firmware:computer-architecture:
+
+*Basic Input/Output System* (BIOS) -- базовая система ввода-вывода -- [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивка]] [[id:e201e107-76de-4e43-8001-d83cd968d1ef][IBM PC]] совместимого компьютера. В современных ПК заменена либо на прошивку UEFI или один из свободных вариантов.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/BIOS][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/BIOS][Wikipedia [EN]​]]

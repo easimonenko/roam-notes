@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       aa4df334-5abc-43cd-a43c-13273d86a451
+:END:
+#+TITLE: Unified Extensible Firmware Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :bios:firmware:
+
+*Unified Extensible Firmware Interface* (UEFI) -- спецификация на [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивки]] для компьютеров. Пришла на смену [[id:8efa02e1-5066-4d16-8f95-26368a41c8c0][BIOS]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Extensible_Firmware_Interface][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/UEFI][Wikipedia [EN]​]]

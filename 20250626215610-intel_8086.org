@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e5a0946e-3b6a-4fe9-bb15-a44181c20dc5
+:END:
+#+TITLE: Intel 8086
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :intel:x86:cpu:
+
+*Intel 8086* -- 16-разрядный [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании Intel, положивший основания [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуре]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Intel_8086][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Intel_8086][Wikipedia [EN]​]]

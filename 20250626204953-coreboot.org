@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bab9bac2-c5d6-43c3-a115-f8ea3f4b368e
+:END:
+#+TITLE: Coreboot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :firmware:bios:uefi:
+
+*Coreboot* -- проект по разработке [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободной]] [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивки]] [[id:8efa02e1-5066-4d16-8f95-26368a41c8c0][BIOS]] и [[id:aa4df334-5abc-43cd-a43c-13273d86a451][UEFI]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://www.coreboot.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Coreboot][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Coreboot][Wikipedia [EN]​]]

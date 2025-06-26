@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8d04090e-1097-4680-bae5-707c165bba43
+:END:
+#+TITLE: Libreboot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :firmware:bios:uefi:
+
+*Libreboot* -- проект по разработке [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободных]] [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивок]] [[id:8efa02e1-5066-4d16-8f95-26368a41c8c0][BIOS]] и [[id:aa4df334-5abc-43cd-a43c-13273d86a451][UEFI]]. Основывается на [[id:bab9bac2-c5d6-43c3-a115-f8ea3f4b368e][Coreboot]].
+
+* Resources
+
+- [[https://libreboot.org/][Home Page]]
+- [[https://codeberg.org/libreboot/][Git Repositories]]
+- [[https://ru.wikipedia.org/wiki/Libreboot][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Libreboot][Wikipedia [EN]​]]

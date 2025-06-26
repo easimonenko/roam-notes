@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d253b9ad-ae0d-431d-a352-281c0596b650
+:END:
+#+TITLE: TempleOS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-25
+#+FILETAGS: :operating-systems:
+
+*TempleOS* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], написанная одним человеком по имени Терри Дэвис в качестве хобби-проекта. Им же для цели разработки системы и программирования в ней создан оригинальный язык программирования HolyC. Распространяется в исходных текстах.
+
+* Resources
+
+- [[https://templeos.org/][Home Page]]
+- [[https://github.com/cia-foundation/TempleOS][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/TempleOS][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/TempleOS][Wikipedia [EN]​]]

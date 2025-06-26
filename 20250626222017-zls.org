@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c2d26f84-70d5-4160-b6e2-3bb81fa9e87a
+:END:
+#+TITLE: ZLS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :zig:lsp:
+
+*ZLS* -- Zig Language Server -- [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]]-сервер для языка [[id:743f81da-b9e8-41e7-bb53-67e56b738f3c][Zig]]. Написан на языке Zig. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/zigtools/zls][GitHub Page]]

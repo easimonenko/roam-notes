@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ed475d15-d144-4987-ae02-8baf4133f500
+:END:
+#+TITLE: ZealOS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-25
+#+FILETAGS:
+
+*ZealOS* -- операционная система, являющаяся развитием [[id:d253b9ad-ae0d-431d-a352-281c0596b650][TempleOS]]. Написана на HolyC. Распространяется в исходных текстах.
+
+* Resources
+
+- [[https://zealos.net/][Home Page]]
+- [[https://github.com/Zeal-Operating-System/ZealOS][GitHub Page]]

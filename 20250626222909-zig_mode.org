@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       345f47dc-03be-4414-8dd3-0a2ddd4d04c5
+:END:
+#+TITLE: Zig Mode
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-26
+#+FILETAGS: :emacs:zig:
+
+*Zig Mode* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для языка [[id:743f81da-b9e8-41e7-bb53-67e56b738f3c][Zig]].
+
+* Resources
+
+- [[https://github.com/ziglang/zig-mode][GitHub Page]]
