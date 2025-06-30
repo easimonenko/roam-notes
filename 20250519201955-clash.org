@@ -8,7 +8,7 @@
 #+DATE: 2025-05-19
 #+FILETAGS: :hdl:haskell:verilog:vhdl:
 
-*Clash* -- язык [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]], имеющий синтаксис и семантику языка Haskell. Компилируется в [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]], [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]], [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]]. Написан на языке Haskell. Распространяется под лицензией [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD]] 2-Clause.
+*Clash* -- язык [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]], имеющий синтаксис и семантику языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Компилируется в [[id:662ebbde-7dec-4240-a232-b5a0dafb6185][VHDL]], [[id:8e308b66-c084-40af-a400-f87d873f6812][Verilog]], [[id:03c5a6fc-1f14-408d-8a83-d9a86ede25c0][SystemVerilog]]. Написан на языке Haskell. Распространяется под лицензией [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD]] 2-Clause.
 
 * Resources
 

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e42fda6c-724e-478e-8da6-468467f491cc
+:END:
+#+TITLE: Cabal
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-30
+#+FILETAGS: :haskell:package-managers:
+
+*Cabal* -- менеджер пакетов для языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Написан на языке Haskell. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://www.haskell.org/cabal/][Home Page]]
+- [[https://github.com/haskell/cabal][GitHub Page]]

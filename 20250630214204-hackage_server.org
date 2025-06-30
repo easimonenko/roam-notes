@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a7a9b548-92e6-4b37-8292-4a58b9b03ac1
+:END:
+#+TITLE: Hackage Server
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-30
+#+FILETAGS: :haskell:
+
+*Hackage Server* -- проект сервера для репозитория пакетов [[id:c74e1d9d-1e21-4fff-8cb8-27ab79fa4cde][Hackage]]. Написан на языке [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://github.com/haskell/hackage-server][GitHub Page]]

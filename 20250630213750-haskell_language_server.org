@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3ec74978-631e-4697-a75c-4ff3b203d658
+:END:
+#+TITLE: Haskell Language Server
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-30
+#+FILETAGS: :haskell:lsp:
+
+*Haskell Language Server* -- LSP-сервер для языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Написан на языке Haskell. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://github.com/haskell/haskell-language-server][GitHub Page]]

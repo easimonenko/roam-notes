@@ -13,4 +13,5 @@
 * Resources
 
 - [[https://www.haskell.org/][Home Page]]
+- [[https://wiki.haskell.org/index.php?title=Haskell][Wiki]]
 - [[https://github.com/haskell][GitHub Projects]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a60843e3-b75e-4f04-8e95-39a8aa73f494
+:END:
+#+TITLE: GHCup
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-30
+#+FILETAGS: :haskell:
+
+*GHCup* -- установщик для инструментов языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Написан на языке Haskell. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU LGPL]] v3.
+
+* Resources
+
+- [[https://www.haskell.org/ghcup/][Home Page]]
+- [[https://github.com/haskell/ghcup-hs][GitHub Page]]

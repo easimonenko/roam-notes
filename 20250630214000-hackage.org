@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c74e1d9d-1e21-4fff-8cb8-27ab79fa4cde
+:END:
+#+TITLE: Hackage
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-06-30
+#+FILETAGS: :haskell:package-repositories:
+
+*Hackage* -- репозиторий пакетов для языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]].
+
+* Resources
+
+- [[https://hackage.haskell.org/][Home Page]]
