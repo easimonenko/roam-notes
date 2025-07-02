@@ -13,5 +13,6 @@
 * Resources
 
 - [[https://www.coreboot.org/][Home Page]]
+- [[https://github.com/coreboot/coreboot][GitHub Page]]
 - [[https://ru.wikipedia.org/wiki/Coreboot][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Coreboot][Wikipedia [EN]​]]

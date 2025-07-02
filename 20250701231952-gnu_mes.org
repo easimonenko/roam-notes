@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f84b717c-087e-45e3-992d-03a04cbadc2d
+:END:
+#+TITLE: GNU Mes
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-01
+#+FILETAGS: :bootstrap:c:scheme:
+
+*GNU Mes* -- интерпретатор [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]] и компилятор [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] для [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][раскрутки]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]].
+
+* Resources
+
+- [[https://www.gnu.org/software/mes/][Home Page]]
+- [[https://git.savannah.gnu.org/git/mes.git][Git Repository]]

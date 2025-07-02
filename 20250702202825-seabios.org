@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d6cf6774-2c27-4758-b0f1-9f7783ebc9fd
+:END:
+#+TITLE: SeaBIOS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-02
+#+FILETAGS: :bios:x86:
+
+*SeaBIOS* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] реализация [[id:8efa02e1-5066-4d16-8f95-26368a41c8c0][BIOS]] для 16-разрядной [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]]. Используется в [[id:e76c5b19-c68d-4e7b-a288-1d6fec31b044][Qemu]] и [[id:a08e5bc8-6c80-4c8b-a11d-09de240b47f2][KVM]]. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU LGPL]] v3.
+
+* Resources
+
+- [[https://www.seabios.org/SeaBIOS][Home Page]]
+- [[https://github.com/coreboot/seabios][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/SeaBIOS][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/SeaBIOS][Wikipedia [EN]​]]
