@@ -14,3 +14,4 @@
 
 - [[https://gtkwave.github.io/gtkwave/][Home Page]]
 - [[https://github.com/gtkwave/gtkwave][GitHub Page]]
+- [[https://gtkwave.github.io/gtkwave/][Documentation]]

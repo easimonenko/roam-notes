@@ -8,7 +8,7 @@
 #+DATE: 2024-12-23
 #+FILETAGS: :computer-architecture:cpu:
 
-*Microarchitecture* (Микроархитектура) -- реализация программной архитектуры процессорного ядра.
+*Microarchitecture* (Микроархитектура) -- реализация [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][программной архитектуры]] [[id:b5099537-09da-482f-b6ae-3fc6d96649be][процессорного ядра]].
 
 * Resources
 

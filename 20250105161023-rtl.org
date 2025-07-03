@@ -8,4 +8,4 @@
 #+DATE: 2025-01-05
 #+FILETAGS: :abbreviation:
 
-*RTL* -- сокращение от Register Transfer Level.
+*RTL* -- сокращение от [[id:a43f12c7-50d8-4254-9c87-5829a8fd1369][Register Transfer Level]].

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5e50843c-8137-4ca4-8453-57e82229253e
+:END:
+#+TITLE: Intel Atom
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :intel:microprocessors:
+
+*Intel Atom* -- линейка [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании Intel [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектур]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] и [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][x86-64]]. Изначально основывались на наработках [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]] и работали с модифицированным [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетом]] Intel 945.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Intel_Atom][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Intel_Atom][Wikipedia [EN]​]]

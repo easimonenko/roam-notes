@@ -6,7 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-23
-#+FILETAGS: :computer-architecture:embedded-system:risc:
+#+FILETAGS: :computer-architecture:embedded-systems:risc:
 
 *RISC-V* -- [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектура]] [[id:b5099537-09da-482f-b6ae-3fc6d96649be][процессорного ядра]]. Относится к разряду [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][RISC]]. Буква V читается как слово пять, то есть это латинское обозначение числа 5, что означает пятое поколение. На основе этой архитектуры могут разрабатываться как [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][CPU]], так и [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][MCU]].
 
@@ -100,6 +100,8 @@
 - [[https://en.wikipedia.org/wiki/RISC-V][Wikipedia [EN]​]]
 - [[https://riscv.org/][RISC-V International]]
 - [[https://riscv-alliance.ru/][Российский Альянс RISC-V]]
+- [[https://github.com/riscv/riscv-opcodes/][GitHub Repository with RISC-V Opcodes]]
+- [[https://github.com/riscv][RISC-V Specifications // GitHub]]
 
 * Courses
 

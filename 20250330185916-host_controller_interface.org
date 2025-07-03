@@ -8,7 +8,7 @@
 #+DATE: 2025-03-30
 #+FILETAGS: :computer-hardware:
 
-*Host Controller Interface* -- системный интерфейс для шин USB и FireWire.
+*Host Controller Interface* -- системный интерфейс для [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шин]] [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] и FireWire.
 
 * Resources
 
