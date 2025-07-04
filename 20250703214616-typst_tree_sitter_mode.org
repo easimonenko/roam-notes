@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       078991e8-85e2-443c-bf10-3504db4561f3
+:END:
+#+TITLE: Typst Tree-Sitter Mode
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :emacs:typst:
+
+*Typst Tree-Sitter Mode* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для языка вёрстки [[id:0bb9befc-92bc-4a72-9699-61dfe7e8b754][Typst]] с использованием Tree-Sitter.
+
+* Resources
+
+- [[https://codeberg.org/meow_king/typst-ts-mode][Git Repository]]

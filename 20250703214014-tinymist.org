@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4d6c2873-22a6-42df-b757-c8dd5661449e
+:END:
+#+TITLE: Tinymist
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS:
+
+*Tinymist* -- [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][языковой]] сервер для системы вёрстки [[id:0bb9befc-92bc-4a72-9699-61dfe7e8b754][Typst]]. Написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://github.com/Myriad-Dreamin/tinymist][GitHub Page]]
+- [[https://myriad-dreamin.github.io/tinymist/][Documentation]]
