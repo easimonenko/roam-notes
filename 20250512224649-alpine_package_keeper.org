@@ -8,7 +8,7 @@
 #+DATE: 2025-05-12
 #+FILETAGS: :package-manager:linux:alpine-linux:
 
-*Alpine Package Keeper* -- менеджер пакетов дистрибутива Alpine Linux. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
+*Alpine Package Keeper* -- менеджер пакетов дистрибутива [[id:5790b63d-6388-4644-8ed1-657cbe2ae188][Alpine Linux]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v2.
 
 * Resources
 

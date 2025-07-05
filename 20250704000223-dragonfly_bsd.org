@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       04bff5be-6eeb-49d5-b73b-92d8cdc7e48d
+:END:
+#+TITLE: DragonFly BSD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-04
+#+FILETAGS: :bsd:freebsd:
+
+*DragonFly BSD* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] для серверов на основе [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]].
+
+* Resources
+
+- [[https://www.dragonflybsd.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/DragonFly_BSD][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/DragonFly_BSD][Wikipedia [EN]​]]

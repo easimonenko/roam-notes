@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       cca92169-0ae1-444f-9321-d4697faf7477
+:END:
+#+TITLE: Parabola GNU/Linux
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :linux:
+
+*Parabola GNU/Linux* -- полностью свободный дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] на основе Arch Linux.
+
+* Resources
+
+- [[https://www.parabola.nu/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Parabola_GNU/Linux-libre][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Parabola_GNU/Linux-libre][Wikipedia [EN]​]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       43a5237d-b928-4170-9b8e-3f8850cb7501
+:END:
+#+TITLE: MidnightBSD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :bsd:freebsd:desktop:
+
+*MidnightBSD* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] с рабочим столом для ПК на основе [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]].
+
+* Resources
+
+- [[https://www.midnightbsd.org/][Home Page]]
+- [[https://github.com/midnightbsd/src][GitHub Page]]
+- [[https://en.wikipedia.org/wiki/MidnightBSD][Wikipedia [EN]​]]

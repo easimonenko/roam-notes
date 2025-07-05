@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       66b10537-d06b-4271-a13c-05bb51b8834a
+:END:
+#+TITLE: Fiwix
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :unix:
+
+*Fiwix* -- небольшое [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][ядро]] [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобной]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]]. Написано на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://www.fiwix.org/][Home Page]]
+- [[https://github.com/mikaku/Fiwix][GitHub Page]]

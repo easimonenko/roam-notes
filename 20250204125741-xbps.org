@@ -8,7 +8,7 @@
 #+DATE: 2025-02-04
 #+FILETAGS: :package-manager:linux:
 
-*XBPS* (X Binary Package System) -- менеджер пакетов. Распространяется под лицензией BSD 2-Clause. Используется в дистрибутиве Void Linux. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
+*XBPS* (X Binary Package System) -- менеджер пакетов. Распространяется под лицензией [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD]] 2-Clause. Используется в дистрибутиве [[id:2747c2dd-57e2-40d3-9ddc-cfa5eaac48c6][Void Linux]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]].
 
 * Resources
 
