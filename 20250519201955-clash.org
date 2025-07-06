@@ -13,4 +13,8 @@
 * Resources
 
 - [[https://clash-lang.org/][Home Page]]
-- [[https://github.com/clash-lang/clash-compiler][GitHub Page]]
+- [[https://github.com/clash-lang/clash-compiler][Clash Compiler GitHub Page]]
+- [[https://github.com/clash-lang/clash-starters][Clash Starters GitHub Page]]
+- [[https://github.com/clash-lang/clash-cores][Clash Cores GitHub Page]]
+- [[https://github.com/clash-lang/clash-protocols][Clash Protocols GitHub Page]]
+- [[https://github.com/clash-lang/stack-templates][Stack Templates]]

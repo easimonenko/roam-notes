@@ -8,7 +8,7 @@
 #+DATE: 2025-06-30
 #+FILETAGS: :haskell:lsp:
 
-*Haskell Language Server* -- LSP-сервер для языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Написан на языке Haskell. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+*Haskell Language Server* -- [[id:cc2d2189-c8fb-4988-a556-aa9584a70a83][LSP]]-сервер для языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Написан на языке Haskell. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
 
 * Resources
 

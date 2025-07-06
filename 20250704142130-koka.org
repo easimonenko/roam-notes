@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fadaa22b-f458-40e6-bb9b-0ba0641ee411
+:END:
+#+TITLE: Koka
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-04
+#+FILETAGS: :functional-programming:haskell:
+
+*Koka* -- функциональный язык программирования с поддержкой контроля за эффектами. Написан на языке [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://koka-lang.github.io/koka/doc/index.html][Home Page]]
+- [[https://github.com/koka-lang/koka][GitHub Page]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       217928b5-1304-433f-aacf-4414080b22a6
+:END:
+#+TITLE: Embeddable Common-Lisp
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-04
+#+FILETAGS: :common-lisp:
+
+*Embeddable Common-Lisp* -- одна из реализаций языка [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]]. Предоставляет компилятор в байт-код, интерпретатор и транслятор в код на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Написан на языке C. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU LGPL]] v2.1.
+
+* Resources
+
+- [[https://ecl.common-lisp.dev/][Home Page]]
+- [[https://gitlab.com/embeddable-common-lisp/ecl/][GitLab Page]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       abafda8a-613c-4a1f-8253-a5f31f46cba4
+:END:
+#+TITLE: Geiser
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :scheme:emacs:
+
+*Geiser* -- проект по разработке режимов [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для языка [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]].
+
+* Resources
+
+- [[https://gitlab.com/emacs-geiser][GitLab Project Page]]
