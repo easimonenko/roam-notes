@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b2adcd9b-f868-4fad-b05b-ffa32d15de25
+:END:
+#+TITLE: Borg
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :emacs:package-managers:git:
+
+*Borg* -- менеджер пакетов для [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], основанный на использовании подмодулей [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]]. Написан на [[id:26f873b6-fbe8-4667-9275-aa7141f431ba][Emacs Lisp]] и Shell. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/emacscollective/borg][GitHub Page]]
+- [[https://emacsmirror.net/manual/borg/][Manual]]
+- [[https://emacsair.me/2016/05/17/assimilate-emacs-packages-as-git-submodules/][Assimilate Emacs packages using Git submodules]]

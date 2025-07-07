@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       03ae9cc0-8637-4dd0-a7b3-e138a4a2cdc7
+:END:
+#+TITLE: straight.el
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :emacs:package-managers:
+
+*straight.el* -- менеджер пакетов [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], устанавливающий пакеты из исходных текстов, загружаемых из репозиториев [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]]. Написан на [[id:26f873b6-fbe8-4667-9275-aa7141f431ba][Emacs Lisp]] и [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/radian-software/straight.el][GitHub Page]]

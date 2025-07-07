@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f2e3bc22-81bf-4ceb-8d27-0835d719a76a
+:END:
+#+TITLE: Eask
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :emacs:devtool:project-management:
+
+*Eask* -- инструмент по управлению проектами по разработке пакетов для [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]]. Написан на языках [[id:26f873b6-fbe8-4667-9275-aa7141f431ba][Emacs Lisp]] и [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://emacs-eask.github.io/][Home Page]]
+- [[https://github.com/emacs-eask/cli][GitHub Page]]

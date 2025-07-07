@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6014028e-d90e-4bf4-bafe-af482caa67a8
+:END:
+#+TITLE: Rune
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :emacs:elisp:rust:
+
+*Rune* -- виртуальная машина для [[id:26f873b6-fbe8-4667-9275-aa7141f431ba][Emacs Lisp]], написанная на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/CeleritasCelery/rune][GitHub Page]]
