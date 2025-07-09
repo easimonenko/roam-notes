@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1aad53db-3ba0-49c2-8a2a-7d3354c441ec
+:END:
+#+TITLE: Dusk OS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-06
+#+FILETAGS: :operating-systems:
+
+*Dusk OS* -- любительская [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] для 32-разрядных [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] от автора [[id:6a78a8e6-7629-4c72-9355-c3fe6c811a84][Collapse OS]].
+
+* Resources
+
+- [[https://duskos.org/][Home Page]]
+- [[https://git.sr.ht/~vdupras/duskos][Git Repository]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4982ee2b-93bd-44e9-8967-5cd5fed1e834
+:END:
+#+TITLE: Gforth
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :forth:gnu:
+
+*Gforth* -- реализация языка программирования [[id:b7f1d0d6-173b-43e4-9dcd-c40a4c21a94b][Forth]] проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].
+
+* Resources
+
+- [[https://www.gnu.org/software/gforth/][Home Page]]
+- [[https://savannah.gnu.org/git/?group=gforth][Git Repository]]
+- [[https://ru.wikipedia.org/wiki/Gforth][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Gforth][Wikipedia [EN]​]]

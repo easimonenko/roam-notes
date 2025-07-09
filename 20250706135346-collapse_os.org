@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6a78a8e6-7629-4c72-9355-c3fe6c811a84
+:END:
+#+TITLE: Collapse OS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-06
+#+FILETAGS: :operating-systems:x86:avr:
+
+*Collapse OS* -- любительская [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], написанная с использованием языка [[id:b7f1d0d6-173b-43e4-9dcd-c40a4c21a94b][Forth]]. Ориентирована на работу с 8- и 16-разрядными [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорами]] и [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][микроконтроллерами]].
+
+* Resources
+
+- [[https://collapseos.org/][Home Page]]
+- [[https://git.sr.ht/~vdupras/collapseos][Git Repository]]

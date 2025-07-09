@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b7f1d0d6-173b-43e4-9dcd-c40a4c21a94b
+:END:
+#+TITLE: Forth
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :programming-languages:
+
+*Forth* -- язык программирования с оригинальной стековой парадигмой. Существует несколько реализаций, например, [[id:4982ee2b-93bd-44e9-8967-5cd5fed1e834][Gforth]].
+
+* Resources
+
+- [[https://forth-standard.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Форт_(язык_программирования)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Forth_(programming_language)][Wikipedia [EN]​]]
