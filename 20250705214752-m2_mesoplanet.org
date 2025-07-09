@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0ad6961e-9d05-4289-9f6d-00660a80bae9
+:END:
+#+TITLE: M2-Mesoplanet
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:
+
+*M2-Mesoplanet* -- инструмент, используемый для [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][раскрутки]] [[id:babac674-5b5d-41ad-971a-ae2dc0d9c417][M2-Planet]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/oriansj/M2-Mesoplanet][GitHub Page]]

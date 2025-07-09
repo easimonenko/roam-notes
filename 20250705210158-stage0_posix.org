@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6b92d60b-45ed-448b-9b13-22d29868759c
+:END:
+#+TITLE: stage0-posix
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:
+
+*stage0-posix* -- набор инструментов для раскрутки системы из исходных текстов. Построен с использованием подмодулей [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/oriansj/stage0-posix][GitHub Page]]

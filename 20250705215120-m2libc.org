@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       08ea327a-0a88-4ffa-babb-61a92972b150
+:END:
+#+TITLE: M2libc
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:
+
+*M2libc* -- стандартная библиотека языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] для компилятора [[id:babac674-5b5d-41ad-971a-ae2dc0d9c417][M2-Planet]]. Написана на языке C. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/oriansj/M2libc/][GitHub Page]]

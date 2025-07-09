@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       947a5172-95d7-42dd-81ba-86f5047850d3
+:END:
+#+TITLE: mes-m2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:gnu:mes:
+
+*mes-m2* -- вариант [[id:f84b717c-087e-45e3-992d-03a04cbadc2d][GNU Mes]], который может быть скомпилирован с помощью M2-Planet, чтобы потом можно было скомпилировать полный GNU Mes. Написано на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/oriansj/mes-m2][GitHub Page]]

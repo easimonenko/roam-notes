@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e5627e82-fd28-48dd-bff9-6a51c7529a55
+:END:
+#+TITLE: stage0-posix-x86
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:
+
+*stage0-posix-x86* -- часть проекта [[id:6b92d60b-45ed-448b-9b13-22d29868759c][stage0-posix]], реализующая поддержку архитектуры [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/oriansj/stage0-posix-x86][GitHub Page]]

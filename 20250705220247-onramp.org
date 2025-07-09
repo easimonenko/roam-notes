@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0e4a8719-f56f-4b91-b1ac-c146766118b1
+:END:
+#+TITLE: Onramp
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:c:
+
+*Onramp* -- компилятор языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], способный к раскрутке самого себя. Может использоваться для [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][раскрутки]] системы из исходных тектов. Написан на языках C и Assembler. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/ludocode/onramp][GitHub Page]]

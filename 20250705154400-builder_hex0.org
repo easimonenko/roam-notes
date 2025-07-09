@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e47701d4-ff19-464a-8b7d-02f54e691165
+:END:
+#+TITLE: builder-hex0
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:
+
+*builder-hex0* -- начальная [[id:20fa75b8-0a97-48fd-82ad-8d737a16cf6f][система сборки]] для процесса [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][раскрутки]] из исходных текстов. Включает в себя загрузчик, POSIX-подобное [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][ядро]], оболочку с необходимыми командами и hex0 (транслятор шестнадцатиричных кодов в двоичные). Написано на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://github.com/ironmeld/builder-hex0][GitHub Page]]

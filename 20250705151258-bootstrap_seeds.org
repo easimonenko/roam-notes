@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       be76e054-1017-4579-9ded-6d70028a2e29
+:END:
+#+TITLE: bootstrap-seeds
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:
+
+*bootstrap-seeds* -- набор начальных программ в исполняемом, шестнадцатеричном и исходном форматах для начала процесса [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][раскрутки]] из исходных текстов. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/oriansj/bootstrap-seeds][GitHub Page]]

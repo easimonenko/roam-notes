@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4df7063a-2428-4e21-bb96-1dd6ebbf27a4
+:END:
+#+TITLE: Stage0
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-03
+#+FILETAGS: :bootstrap:gnu:
+
+*Stage0* -- проект по разработке минимального набора инструментов минимального размера для осуществления воспроизводимых [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][сборок из исходных текстов]].
+
+* Resources
+
+- [[https://cgit.git.savannah.gnu.org/cgit/stage0.git][Git Repository]]

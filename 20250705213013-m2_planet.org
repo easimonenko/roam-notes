@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       babac674-5b5d-41ad-971a-ae2dc0d9c417
+:END:
+#+TITLE: M2-Planet
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-05
+#+FILETAGS: :bootstrap:c:
+
+*M2-Planet* -- компилятор подмножества языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] для использовании в процессе [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][раскрутки]] системы из исходных текстов. Написан на языке C. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/oriansj/M2-Planet][GitHub Page]]

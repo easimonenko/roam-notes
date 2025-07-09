@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       61b18b9c-2a36-4907-87bc-1158590b7b3f
+:END:
+#+TITLE: mescc-tools
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-04
+#+FILETAGS: :bootstrap:gnu:
+
+*mescc-tools* -- небольшой набор инструментов, необходимый для [[id:f84b717c-087e-45e3-992d-03a04cbadc2d][GNU Mes]], для [[id:e6af0c71-ad5f-4507-9b9f-474b13e87d6d][раскрутки]] системы из исходных текстов. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://savannah.nongnu.org/projects/mescc-tools][Home Page]]
+- [[https://cgit.git.savannah.gnu.org/cgit/mescc-tools.git][Git Repository]]
+- [[https://github.com/oriansj/mescc-tools][GitHub Page]]
