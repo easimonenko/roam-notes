@@ -8,7 +8,7 @@
 #+DATE: 2023-04-12
 #+FILETAGS: :operating-system:gnu:hurd:
 
-*GNU/Hurd* -- операционная система проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]] с ядром [[id:f30a559e-f6ca-4940-a6ff-20cdcf22e7f8][Hurd]].
+*GNU/Hurd* -- [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]] проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]] с ядром [[id:f30a559e-f6ca-4940-a6ff-20cdcf22e7f8][Hurd]].
 
 * Resources
 

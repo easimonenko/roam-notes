@@ -8,9 +8,9 @@
 #+DATE: 2023-04-06
 #+FILETAGS: :operating-system:unix:bsd:
 
-*NetBSD* -- [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобная [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], являющаяся одном из основных
-вариантов [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]].
+*NetBSD* -- [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]-подобная [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], являющаяся одним из основных вариантов [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]]. Является ответвлением от [[id:562e9ea2-c89f-4382-885a-b0f60241b82c][386BSD]].
 
 * Resources
 
 - [[https://netbsd.org/][NetBSD Home Page]]
+- [[https://cvsweb.netbsd.org/bsdweb.cgi/][CVSWeb]]

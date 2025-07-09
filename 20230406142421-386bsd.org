@@ -8,5 +8,9 @@
 #+DATE: 2023-04-06
 #+FILETAGS: :operating-system:bsd:i386:
 
-*386BSD* -- дистрибутив [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]], перенесённый на микропроцессоры семества [[id:f76b3972-3740-4068-aade-3f0053eec075][i386]].
-Его прямыми потомками являются операционные системы [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]] и [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]].
+*386BSD* -- дистрибутив [[id:02342206-0446-4c9d-9e09-208252b3ba08][BSD]], перенесённый на [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] семества [[id:f76b3972-3740-4068-aade-3f0053eec075][i386]]. Его прямыми потомками являются [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционные системы]] [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]] и [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/386BSD][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/386BSD][Wikipedia [EN]​]]

@@ -8,9 +8,7 @@
 #+DATE: 2022-12-07
 #+FILETAGS: :operating-system:linux:
 
-*Ubuntu Linux* -- популярный дистрибутив операционной системы [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]].
-Часто его называют просто *Ubuntu*. Ubuntu основывается на пакетной базе
-дистрибутива [[id:3f3186cc-0b9d-4172-af60-8a8656b2c9c1][Debian]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]].
+*Ubuntu Linux* -- популярный дистрибутив [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]]. Часто его называют просто *Ubuntu*. Ubuntu основывается на пакетной базе дистрибутива [[id:3f3186cc-0b9d-4172-af60-8a8656b2c9c1][Debian]] [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]].
 
 * Resources
 
