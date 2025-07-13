@@ -8,8 +8,10 @@
 #+DATE: 2023-04-07
 #+FILETAGS: :programming-language:lisp:
 
-*Common Lisp* -- стандартизованный вариант языка [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]].
+*Common Lisp* -- стандартизованный вариант языка [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]]. Наиболее популярная реализация [[id:89222899-bc61-4a3f-996c-8793b15dfd0c][Steel Bank Common Lisp]].
 
 * Resources
 
 - [[https://lisp-lang.org/][Common Lisp Site]]
+- [[https://ru.wikipedia.org/wiki/Common_Lisp][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Common_Lisp][Wikipedia [EN]​]]

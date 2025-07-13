@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       de98a4e4-3142-4b57-8cc6-93fb6bff0194
+:END:
+#+TITLE: SBCL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :abbreviation:
+
+*SBCL* -- сокращение от [[id:89222899-bc61-4a3f-996c-8793b15dfd0c][Steel Bank Common Lisp]].

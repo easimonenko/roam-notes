@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       80244937-c16c-4c5a-a7ab-eed3f3376d02
+:END:
+#+TITLE: Verilisp
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :hdl:dsl:fpga:common-lisp:
+
+*Verilisp* -- [[id:5abfa913-146c-44fb-b0da-82980ba450bb][HDL]], являющийся [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][DSL]] на языке [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]] для программирования [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/simoninireland/verilisp][GitHub Page]]

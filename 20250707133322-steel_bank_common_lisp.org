@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       89222899-bc61-4a3f-996c-8793b15dfd0c
+:END:
+#+TITLE: Steel Bank Common Lisp
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :common-lisp:
+
+*Steel Bank Common Lisp* (SBCL) -- одна из популярных реализаций языка [[id:c039655d-7ac0-4b66-8ba5-dcc0e006c4fb][Common Lisp]]. Написана на собственно Common Lisp, а также на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Первоначальная реализация CMU CL распространялась под лицензией типа Public Domain, остальная часть кода распространяется под различными лицензиями, в том числе [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://www.sbcl.org/][Home Page]]
+- [[https://github.com/sbcl/sbcl][GitHub Mirror]]
+- [[https://ru.wikipedia.org/wiki/Steel_Bank_Common_Lisp][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp][Wikipedia [EN]​]]
