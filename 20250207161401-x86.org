@@ -20,3 +20,4 @@
 
 - [[https://ru.wikipedia.org/wiki/X86][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/X86][Wikipedia [EN]​]]
+- [[https://en.wikipedia.org/wiki/X86_instruction_listings][x86 Instruction Listings // Wikipedia [EN]​]]

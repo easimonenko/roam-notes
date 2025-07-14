@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       36e2e80d-9f6f-4bcf-b249-74ca509080db
+:END:
+#+TITLE: UEFI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-07
+#+FILETAGS: :abbreviation:
+
+*UEFI* -- сокращение от [[id:aa4df334-5abc-43cd-a43c-13273d86a451][Unified Extensible Firmware Interface]].

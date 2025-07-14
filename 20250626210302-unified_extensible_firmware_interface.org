@@ -14,3 +14,4 @@
 
 - [[https://ru.wikipedia.org/wiki/Extensible_Firmware_Interface][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/UEFI][Wikipedia [EN]​]]
+- [[http://x86asm.net/articles/uefi-programming-first-steps/][UEFI Programming - First Steps]]
