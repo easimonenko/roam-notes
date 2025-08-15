@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f789ea0c-3590-4a07-ac82-4c16adc2c2b3
+:END:
+#+TITLE: cgit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-08-15
+#+FILETAGS: :git:
+
+*cgit* -- веб-интерфейс к серверу [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://git.zx2c4.com/cgit/about/][Home Page]]
+- [[https://git.zx2c4.com/cgit/][Git Repository]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ae35e71d-47eb-447b-8ff3-eea31fc4d725
+:END:
+#+TITLE: Proof General
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-09
+#+FILETAGS: :proof-assistant:coq:emacs:
+
+*Proof General* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для работы с [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощниками написания доказательств]], в частности, [[id:2b1a0f17-c7db-44e8-97d3-2a0f97051311][Coq]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://proofgeneral.github.io/][Home Page]]
+- [[https://github.com/ProofGeneral/PG/][GitHub Page]]

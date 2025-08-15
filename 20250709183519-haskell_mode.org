@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       dfafe3f2-ddfe-4810-befc-dd143aad29ca
+:END:
+#+TITLE: Haskell Mode
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-09
+#+FILETAGS: :haskell:emacs:
+
+*Haskell Mode* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]] для языка [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/haskell/haskell-mode][GitHub Page]]

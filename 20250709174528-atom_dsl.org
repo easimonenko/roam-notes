@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f119174c-24de-4856-ad23-8bdd2d8da5b8
+:END:
+#+TITLE: Atom DSL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-09
+#+FILETAGS: :haskell:dsl:embedded-systems:
+
+*Atom DSL* -- встраиваемый в язык [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]] [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][DSL]] для написания программ для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://github.com/tomahawkins/atom][GitHub Page]]
+- [[https://hackage.haskell.org/package/atom][Hackage Page]]
+- [[https://haskellembedded.github.io/posts/2015-02-17-atom-examples.html][Examples for the Atom library // Haskell Embedded Blog]]
+- [[https://haskellembedded.github.io/posts/2015-02-20-atom-part-2-probes.html][Atom, part 2: Probes // Haskell Embedded Blog]]

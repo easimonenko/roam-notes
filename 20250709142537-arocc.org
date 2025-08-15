@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9d4f1d70-ed1b-4196-a1a7-d319a558e4bb
+:END:
+#+TITLE: AroCC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-09
+#+FILETAGS: :c:zig:
+
+*AroCC* -- компилятор языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], написанный на языке [[id:743f81da-b9e8-41e7-bb53-67e56b738f3c][Zig]] и который можно использовать совместно с ним. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/Vexu/arocc][GitHub Page]]

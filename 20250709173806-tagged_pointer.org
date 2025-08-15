@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1d5f4c39-8b9e-4966-941e-cdda8d9e2f3d
+:END:
+#+TITLE: Tagged Pointer
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-09
+#+FILETAGS: :programming-languages:computer-architecture:
+
+*Tagged Pointer* -- разновидность указателя в языках программирования, оснащенного дополнительной информацией, называемой тегом (tag). Основыается на использовании младших бит обычного указателя в системах с выравниванием данных по размеру машинного слова.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Tagged_pointer][Wikipedia [EN]​]]

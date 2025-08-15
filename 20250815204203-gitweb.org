@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3239412e-a843-4b71-80c6-e5e4d327d706
+:END:
+#+TITLE: GitWeb
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-08-15
+#+FILETAGS: :git:
+
+*GitWeb* -- веб-интерфейс к серверу [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]] и входит в состав его исходников.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       dfe94ca6-fec8-4cc2-b666-d516cca51132
+:END:
+#+TITLE: Ion DSL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-09
+#+FILETAGS: :haskell:dsl:embedded-systems:
+
+*Ion DSL* -- встраиваемый в язык [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]] [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][DSL]] для написания программ для [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых систем]]. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://github.com/HaskellEmbedded/ion][GitHub Page]]
+- [[https://hackage.haskell.org/package/ion][Hackage Page]]
+- [[https://haskellembedded.github.io/posts/2016-09-23-introducing-ion.html][Introducing Ion // Haskell Embedded Blog]]

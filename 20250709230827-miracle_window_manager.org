@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       834e94b9-c7ad-4a17-b18f-3abb0ca99b28
+:END:
+#+TITLE: Miracle Window Manager
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-07-09
+#+FILETAGS: :wayland:
+
+*Miracle Window Manager* -- [[id:24fd1918-3c26-4fb0-a9ca-5855a5ee8531][мозаичный]] композитор [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]. Написан на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/miracle-wm-org/miracle-wm][GitHub Page]]
