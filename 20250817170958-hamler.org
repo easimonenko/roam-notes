@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2b0ff708-bb28-46e4-a515-99711958e524
+:END:
+#+TITLE: Hamler
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-08-17
+#+FILETAGS: :haskell:erlang:
+
+*Hamler* -- статически типизированный, функциональный язык программирования, похожий на [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]] и компилируемый в код Erlang.
+
+* Resources
+
+- [[https://www.hamler-lang.org/][Home Page]]
+- [[https://github.com/hamler-lang/hamler][GitHub Page]]

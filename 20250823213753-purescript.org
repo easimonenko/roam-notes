@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a9fb66fc-a9c4-4d67-b5d2-0b35232f04f2
+:END:
+#+TITLE: PureScript
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-08-23
+#+FILETAGS: :javascript:haskell:webdev:
+
+*PureScript* -- статически типизированный язык программирования семейства [[id:08dbde20-14f5-4052-adb6-7ce4204a60d4][ML]]. Очень похож на [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]] и на нём же написан, но код на нём компилируется в [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]], для запуска в браузере и на сервере. Имеет синтаксические и другие отличия от прародителя. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 3-clause.
+
+* Resources
+
+- [[https://www.purescript.org/][Home Page]]
+- [[https://github.com/purescript/purescript][GitHub Page]]

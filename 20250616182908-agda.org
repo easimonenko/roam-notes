@@ -13,6 +13,7 @@
 * Resources
 
 - [[https://wiki.portal.chalmers.se/agda/pmwiki.php][Home Page]]
+- [[https://agda.github.io/agda/][Online Documentation]]
 - [[https://github.com/agda/agda][GitHub Page]]
 - [[https://ru.wikipedia.org/wiki/Agda][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Agda_(programming_language)][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5312a25f-1680-486a-bb67-83329f89d63c
+:END:
+#+TITLE: ShellCheck
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-08-23
+#+FILETAGS: :shell:devtools:haskell:
+
+*ShellCheck* -- статический анализатор для скриптов на Shell. Написан на языке [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resoures
+
+- [[https://www.shellcheck.net/][Home Page]]
+- [[https://github.com/koalaman/shellcheck][GitHub Page]]
