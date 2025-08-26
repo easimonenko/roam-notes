@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f419405d-17f2-44f1-98a4-73ac72682fe7
+:END:
+#+TITLE: Quad Flat Package
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-08-26
+#+FILETAGS: :digital-electronics:
+
+*Quad Flat Package* (QFP) -- разновидность корпусов [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][микросхем]] с плоскими выводами, расположенными по всем четырём сторонам. Предназначены для поверхностного монтажа.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/QFP][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Quad_flat_package][Wikipedia [EN]​]]
