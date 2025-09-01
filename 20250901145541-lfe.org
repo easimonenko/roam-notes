@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6ed3bdfa-c109-4150-93d7-fa3f29f1357b
+:END:
+#+TITLE: LFE
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-01
+#+FILETAGS: :abbreviation:
+
+*LFE* -- сокращение от [[id:2980dec7-61f6-470d-9898-abb69f06bfa9][Lisp Flavoured Erlang]].

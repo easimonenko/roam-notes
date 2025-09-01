@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2980dec7-61f6-470d-9898-abb69f06bfa9
+:END:
+#+TITLE: Lisp Flavoured Erlang
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-01
+#+FILETAGS: :erlang:lisp:
+
+*Lisp Flavoured Erlang* (LFE) -- [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]]-подобный язык программирования для платформы [[id:07ca35fc-df2e-4096-bd7c-38d9738c39a5][Erlang/OTP]]. Компилятор написан на языке [[id:dcc71021-c02e-42a1-900f-a708a7efd67b][Erlang]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://lfe.io/][Home Page]]
+- [[https://github.com/lfe/lfe][GitHub Page]]
+- [[https://cnbbooks.github.io/lfe-tutorial/][The LFE Tutorial]]

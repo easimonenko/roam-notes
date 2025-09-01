@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3a8e4ae6-f86f-4b00-a1d4-823350b4dd51
+:END:
+#+TITLE: Read-Eval-Print Loop
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-01
+#+FILETAGS: :programming-languages:devtools:
+
+*Read-Eval-Print Loop* (REPL) -- технология интерактивного программирования, когда программист вводит фрагмент текста программы (Read) в специальной командной строке, запускает его на исполнение (Eval) и получает результат (Print), который затем может быть использован для дальнейшей работы с этом режиме. Предлагается как встроенная в различных языках программирования: [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]], [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]], [[id:8d7c44b4-c83d-498d-8b2c-33d14815feaa][Smalltalk]], Tcl, [[id:3267f0c3-c098-4f10-b66f-3ed5053e22a1][Perl]], [[id:59d9f226-5e64-4344-aa13-e5bafc6a603f][Python]], [[id:dcc71021-c02e-42a1-900f-a708a7efd67b][Erlang]], [[id:c59ca1fe-0c01-4606-8f27-f88fbaa3939f][Ruby]], [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]], [[id:db12138f-e0fd-47c2-850b-fb7927848e61][Scala]], Idris и многих других. Или в виде отдельного приложения.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/REPL][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop][Wikipedia [EN]​]]

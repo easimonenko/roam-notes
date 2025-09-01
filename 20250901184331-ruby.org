@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c59ca1fe-0c01-4606-8f27-f88fbaa3939f
+:END:
+#+TITLE: Ruby
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-01
+#+FILETAGS: :programming-languages:
+
+*Ruby* -- язык программирования, динамически типизированный, объектно-ориентированный с классами, примесями и возможностью создания [[id:7bba8b10-5d28-4f72-9052-c9c798bc8adf][DSL]]. Реализация написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под собственной Ruby License с возможностью перелицензивания под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2 и [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]] 2-clause.
+
+* Resources
+
+- [[https://www.ruby-lang.org/en/][Home Page]]
+- [[https://en.wikipedia.org/wiki/Ruby_(programming_language)][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Ruby][Wikipedia [RU]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       07ca35fc-df2e-4096-bd7c-38d9738c39a5
+:END:
+#+TITLE: Erlang/OTP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-01
+#+FILETAGS: :erlang:networking:
+
+*Erlang/OTP* -- набор библиотек (фреймворк) для платформы языка [[id:dcc71021-c02e-42a1-900f-a708a7efd67b][Erlang]]. Предлагаются средства по организации и управлению многопроцессными приложениями. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://www.erlang.org/][Home Page]]
+- [[https://github.com/erlang/otp/][GitHub Page]]

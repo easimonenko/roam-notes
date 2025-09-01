@@ -8,9 +8,11 @@
 #+DATE: 2023-04-07
 #+FILETAGS: :programming-language:scripting:web:
 
-*Perl* -- язык программирования, обычно используемый для написания скриптов.
-Когда-то был основным языком в веб-разработке.
+*Perl* -- язык программирования, обычно используемый для написания скриптов, динамически типизированный со своеобразной системой создания классов на основе модулей (в версии 5). Объединяет в себе возможности нескольких инструментов [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]]: sh, sed, awk. Когда-то был основным языком в веб-разработке. Основная реализация написана на [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под Artistic License или [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v1 или новее.
 
 * Resources
 
 - [[https://www.perl.org/][Perl Home Page]]
+- [[https://github.com/Perl/perl5][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Perl][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Perl][Wikipedia [EN]​]]

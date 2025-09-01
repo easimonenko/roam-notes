@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7f09c1f8-8a8b-4fd2-8293-aada46069251
+:END:
+#+TITLE: Rebar3
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-01
+#+FILETAGS: :build-tools:erlang:
+
+*Rebar3* -- [[id:20fa75b8-0a97-48fd-82ad-8d737a16cf6f][инструмент для сборки]] приложений на языке [[id:dcc71021-c02e-42a1-900f-a708a7efd67b][Erlang]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://github.com/erlang/rebar3][GitHub Page]]
