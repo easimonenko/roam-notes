@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       990c13ff-7a11-4a3c-a7ce-bfbf695f0fc4
+:END:
+#+TITLE: DIP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-08-26
+#+FILETAGS: :abbreviation:
+
+*DIP* -- сокращение от [[id:fb422f14-04d5-42df-ade9-58f87a370b9e][Dual In-Line Package]].
