@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ef79f727-c4dc-4d38-a4e3-124b0bf2622f
+:END:
+#+TITLE: ESS Technology
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-07
+#+FILETAGS: :computer-hardware:audio:
+
+*ESS Technology* -- компания по разработке и производству звуковых чипов. Базируется в Калифорнии, США.
+
+* Resources
+
+- [[https://www.esstech.com/][Home Page]]
+- [[https://en.wikipedia.org/wiki/ESS_Technology][Wikipedia [EN]​]]
+- [[https://www.dosdays.co.uk/topics/Manufacturers/ess.php][DOS Days Page]]

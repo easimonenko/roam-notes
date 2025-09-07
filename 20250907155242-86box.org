@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a51bf1ba-2f8f-4de6-8f06-f0c46a726bf8
+:END:
+#+TITLE: 86Box
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-07
+#+FILETAGS: :x86:emulators:
+
+*86Box* -- [[id:a92294c0-757e-4125-a320-4bd65accd75f][эмулятор]] [[id:e201e107-76de-4e43-8001-d83cd968d1ef][IBM PC]]-совместимых ретро-компьютеров. [[id:2bc82df9-1611-4887-8fdb-39541a8352cf][Эмулируются]] системы с [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессорами]] от [[id:6e73f3d3-48de-4171-8ce8-0b556a4df44d][Intel 8088]] до [[id:8c4a09fa-1eb5-4c76-93fd-e5e6493a472d][i686]]. Написан на языке C. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://86box.net/][Home Page]]
+- [[https://github.com/86Box/86Box/][GitHub Page]]
+- [[https://en.wikipedia.org/wiki/86Box][Wikipedia [EN]​]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0fb93985-32fc-41e9-9d0d-069b5af098ff
+:END:
+#+TITLE: Kernel Programming Language
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-06
+#+FILETAGS: :scheme:
+
+*Kernel Programming Language* -- язык программирования, похожий на [[id:229046a5-2aaa-4c96-8f9a-411623dc8e49][Scheme]], в отличие от которого рассматривает в качестве объектов первого класса не только процедуры и переменные, но и специальные формы, которые конструируются из наиболее примитивных форм.
+
+* Resources
+
+- [[https://web.cs.wpi.edu/~jshutt/kernel.html][Home Page]]
