@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4256b52e-6487-49c4-903f-049402260dd6
+:END:
+#+TITLE: Kensington Security Slot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-13
+#+FILETAGS: :computer-hardware:notebooks:laptops:
+
+*Kensington Security Slot* -- также Kensington Lock -- устройство для фиксации [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] или другого компьютерного устройства с целью защиты от незаконного завладения. По принципу работы аналогичен тросовым замкам для вело- и мототехники. На ноутбке размещается усиленное металлом место для вставки замка соединённого с тросом, которым обычно обвивают вокруг неподвижного предмета, такого как труба, ножка шкафа.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Кенсингтонский_замок][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Kensington_Security_Slot][Wikipedia [EN]​]]

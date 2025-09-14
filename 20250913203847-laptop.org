@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7929d15b-b01b-43f9-9479-7113c2895c08
+:END:
+#+TITLE: Laptop
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-13
+#+FILETAGS: :computer-architecture:
+
+*Laptop* -- лэптоп -- другое название для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]], чаще всего встречающееся в США.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Laptop][Wikipedia [EN]​]]
