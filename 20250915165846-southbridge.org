@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       362ae3c4-36bb-47fb-8434-60720f0694b7
+:END:
+#+TITLE: Southbridge
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :computer-architecture:
+
+*Southbridge* -- южный мост -- [[id:e05496d9-066f-4a63-b431-fbb4bf3489c8][цифровая интегральная схема]], непосредственно соединяющаяся с северным мостом компьютера и управляющая взаимодействием с периферией.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Южный_мост_(компьютер)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Southbridge_(computing)][Wikipedia [EN]​]]

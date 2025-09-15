@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       833e3b70-db1b-4110-a284-ee056fcb44d2
+:END:
+#+TITLE: Intel Core
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :intel:microprocessors:
+
+*Intel Core* -- семейство [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] и [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектурой]] [[id:bc9fbc49-8400-416d-b287-fbd61f38bdd0][P6]]. Представляли из себя двух- и четырёхядерные процессоры с усовершенствованным [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Intel_Core#Core][Wikipedia [EN]​]]

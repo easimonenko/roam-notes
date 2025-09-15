@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9581d2d2-231d-4951-8fa5-84ec69bfcf90
+:END:
+#+TITLE: Elixir
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :programming-languages:functional-programmnig:erlang:
+
+*Elixir* -- функциональный, динамически типизированный язык программирования для платформы [[id:07ca35fc-df2e-4096-bd7c-38d9738c39a5][Erlang/OTP]]. Синтаксически похож на [[id:c59ca1fe-0c01-4606-8f27-f88fbaa3939f][Ruby]]. Написан на самом себе и [[id:dcc71021-c02e-42a1-900f-a708a7efd67b][Erlang]]. Распространяется под [[id:08533ad8-83e1-4aac-bc71-3bf60d141e20][Apache License 2.0]].
+
+* Resources
+
+- [[https://elixir-lang.org/][Home Page]]
+- [[https://github.com/elixir-lang/elixir][GitHub Page]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e8a54c2a-7f05-4c04-ad12-e4f151544b3c
+:END:
+#+TITLE: Pentium MMX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :intel:pentium:mmx:
+
+*Pentium MMX* -- последнее поколение [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] Pentium, оснащавшееся блоком [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]]. Выпускалось с 1997 по 1999 гг.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Pentium#P55C][Wikipedia [RU]​]]

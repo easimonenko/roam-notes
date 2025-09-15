@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6fb66603-2913-44b3-b23f-44187daf01f7
+:END:
+#+TITLE: Northbridge
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :computer-architecture:
+
+*Northbridge* -- северный мост -- [[id:e05496d9-066f-4a63-b431-fbb4bf3489c8][цифровая интегральная схема]], непосредственно соединяющаяся с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессором]] и управляющая взаимодействием с [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памятью]] и высокоскоростными [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шинами]]. Также соединяется с [[id:362ae3c4-36bb-47fb-8434-60720f0694b7][южным мостом]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Северный_мост_(компьютер)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Northbridge_(computing)][Wikipedia [EN]​]]

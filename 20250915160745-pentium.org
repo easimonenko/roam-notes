@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b86d5077-03d9-4705-ba92-192ea6f4064e
+:END:
+#+TITLE: Pentium
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :intel:pentium:
+
+*Pentium* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектурой]] [[id:959d408d-fea0-4851-9101-e92b78ecd81c][P5]]. Выпускался в нескольких поколениях с 1993 по 1997 года до выхода [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]. Дальнейшие модели микропроцессоров, именовавшиеся Pentium, никакого отношения к данному микропроцессору не имели и представляли собой более дешевые разновидности других моделей.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Pentium][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Pentium][Wikipedia [EN]​]]

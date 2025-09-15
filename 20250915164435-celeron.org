@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1072268a-688c-4847-aeb3-33858c3cdbbc
+:END:
+#+TITLE: Celeron
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :intel:celeron:pentium:
+
+*Celeron* -- линейка [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], представлявших собой наиболее простые, удешевлённые разновидности других моделей. Первая модель этой линейки представляла из себя упрощённый [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Celeron][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Celeron][Wikipedia [EN]​]]

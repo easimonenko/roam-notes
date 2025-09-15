@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       78a31716-04b1-4aca-8f8b-30399e013dee
+:END:
+#+TITLE: MMX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :intel:pentium:
+
+*MMX* -- дополнительный [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][набор инструкций]], впервые появившийся в [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорах]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] Pentium MMX и реализовывавший подход SIMD. Неофициально расшифровывается как MultiMedia Extension.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/MMX][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/MMX_(instruction_set)][Wikipedia [EN]​]]

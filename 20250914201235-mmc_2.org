@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3c6282e2-850e-495c-b105-3ffd63b80455
+:END:
+#+TITLE: MMC-2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-14
+#+FILETAGS: :intel:pentium-ii:celeron:pentium-iii:
+
+*MMC-2* -- разновидность [[id:97532860-76df-497c-b426-aad16c3107df][Mobile Module Connector]] компании Intel для мобильных моделей [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессоров]] [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]], Celeron и Pentium III. Кроме собственно CPU включали в себя: северный мост Intel 443BX, L2-кэш (для ранних Pentium II), регулятор напряжения, AGP-интерфейс и шину FSB с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 100 МГц для Pentium III. Соединялся MMC-2 с системной платой посредством коннектора с 400 пинами.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/MMC-2][MMC-2 // Wikipedia [EN]​]]

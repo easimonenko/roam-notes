@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c35725ad-4116-4d60-b2e3-85395fde2747
+:END:
+#+TITLE: Intel
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :company:microelectronics:
+
+*Intel Corporation* -- американская компания, разработчик и производитель микроэлектронных устройств, таких как [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]], [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсеты]], [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]].
+
+* Resources
+
+- [[https://www.intel.com/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Intel][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Intel][Wikipedia [EN]​]]

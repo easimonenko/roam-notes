@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b7565039-f80b-45db-9bbf-5e24ec69e083
+:END:
+#+TITLE: PCem
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-14
+#+FILETAGS: :emulators:x86:
+
+*PCem* -- [[id:a92294c0-757e-4125-a320-4bd65accd75f][эмулятор]] ретро-компьютеров, в т.ч. [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]] вплоть до [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://pcem-emulator.co.uk/][Home Page]]
+- [[https://github.com/sarah-walker-pcem/pcem][GitHub Page]]

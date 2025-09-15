@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bc9fbc49-8400-416d-b287-fbd61f38bdd0
+:END:
+#+TITLE: P6
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :intel:pentium-pro:microarchitecture:
+
+*P6* -- [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектура]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], начиная с [[id:bf3a808d-56b4-4931-9e6e-f34c03481e1a][Pentium Pro]] и заканчивая [[id:833e3b70-db1b-4110-a284-ee056fcb44d2][Core]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Intel_P6][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/P6_(microarchitecture)][Wikipedia [EN]​]]

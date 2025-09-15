@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       66bd3555-5e96-40d1-b5f5-1150092d4520
+:END:
+#+TITLE: MMC-1
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-14
+#+FILETAGS: :intel:pentium:pentium-mmx:pentium-ii:celeron:
+
+*MMC-1* -- разновидность [[id:97532860-76df-497c-b426-aad16c3107df][Mobile Module Connector]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] для мобильных моделей [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессоров]] [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]], [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]], [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]]. Кроме собственно [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][CPU]] включали в себя: [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] Intel 430TX для Pentium и Pentium MMX или Intel 443BX для Pentium II и Celeron, L2-кэш, регулятор напряжения. Соединялся MMC-1 с системной платой посредством коннектора с 280 пинами.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/MMC-1][MMC-1 // Wikipedia [EN]​]]
