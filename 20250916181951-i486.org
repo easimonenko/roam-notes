@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dc676a93-f2af-46b6-b480-316225a9d06e
+:END:
+#+TITLE: i486
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-16
+#+FILETAGS: :intel:cpu:
+
+*i486* (80486) -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]]. Пришёл на смену процессору [[id:41c05c9e-07d2-4974-9586-4f237a6ad0e2][i386]]. Выпускался с 1989 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Intel_80486][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/I486][Wikipedia [EN]​]]

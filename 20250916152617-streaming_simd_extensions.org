@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       78000391-a16b-4cd9-95bf-027c07b03889
+:END:
+#+TITLE: Streaming SIMD Extensions
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-16
+#+FILETAGS: :isa:computer-architecture:
+
+*Streaming SIMD Extensions* (SSE) -- дополнительный [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][набор команд]] для [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] и [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][x86-64]], впервые появившийся в микропроцессоре [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]]. Реализует параллелизм в стиле SIMD.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/SSE][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions][Wikipedia [EN]​]]

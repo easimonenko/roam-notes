@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1315eeea-3434-4efb-b23a-46fc8679a7cd
+:END:
+#+TITLE: Intel 440FX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-16
+#+FILETAGS: :chipset:intel:pentium-pro:pentium-ii:
+
+*Intel 440FX* (Natoma) -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] для [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:bf3a808d-56b4-4931-9e6e-f34c03481e1a][Pentium Pro]] и [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]]. Полное наименование 82441FX или 82442FX. Выпускался с 1996 г.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Intel_440FX][Wikipedia [EN]​]]

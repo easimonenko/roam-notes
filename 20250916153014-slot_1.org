@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1faca528-5b1d-4a75-82a8-8531ce60b1a6
+:END:
+#+TITLE: Slot 1
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-16
+#+FILETAGS: :computer-hardware:processors:
+
+*Slot 1* -- разновидность коннектора для установки [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] на системную плату, применявшегося с [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]], [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Slot_1_(разъём)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Slot_1][Wikipedia [EN]​]]

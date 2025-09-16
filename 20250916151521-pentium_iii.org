@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       897864df-082c-4776-8022-d56899bbaf71
+:END:
+#+TITLE: Pentium III
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-16
+#+FILETAGS: :intel:pentium-iii:
+
+*Pentium III* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], являвшийся развитием и пришедший на смену [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]], и выпускавшийся с 1999 по 2007 гг. Основное отличие от Pentium II -- SIMD-устройство [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]]. Устанавливался на системную плату посредством [[id:1faca528-5b1d-4a75-82a8-8531ce60b1a6][Slot 1]] и Socket 370. Ранние модели имели [[id:7f73749a-f868-4951-a021-93fc5ccd6771][частоту]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 МГц, поздние -- 133 МГц.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Pentium_III][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Pentium_III][Wikipedia [EN]​]]

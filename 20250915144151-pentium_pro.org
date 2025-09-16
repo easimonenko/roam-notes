@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-09-15
-#+FILETAGS: :intel:microprocessors:
+#+FILETAGS: :intel:pentium-pro:microprocessors:
 
-*Pentium Pro* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] с архитектурой [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], первый с [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектурой]] [[id:bc9fbc49-8400-416d-b287-fbd61f38bdd0][P6]]. Применялся в рабочих станциях и серверах.
+*Pentium Pro* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], первый с [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектурой]] [[id:bc9fbc49-8400-416d-b287-fbd61f38bdd0][P6]]. Применялся в рабочих станциях и серверах.
 
 * Resources
 

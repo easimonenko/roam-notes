@@ -6,6 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-24
-#+FILETAGS: :computer-architecture:
+#+FILETAGS: :computer-architecture:memory:
 
 *Dynamic Random Access Memory* (DRAM) -- динамическая [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][память с произвольным доступом]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/DRAM][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Dynamic_random-access_memory][Wikipedia [EN]​]]

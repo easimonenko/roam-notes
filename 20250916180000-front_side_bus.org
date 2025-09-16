@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e3bfae31-1078-48f4-8c2a-6f66c93ebe9d
+:END:
+#+TITLE: Front-side Bus
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-16
+#+FILETAGS: :computer-architecture:cpu:
+
+*Front-side Bus* (FSB) -- системная [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шина]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] для подколючения к [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северному мосту]], [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]] и высокоскоростным устройствам. Характеризуется также своей [[id:7f73749a-f868-4951-a021-93fc5ccd6771][частотой]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Front_Side_Bus][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Front-side_bus][Wikipedia [EN]​]]

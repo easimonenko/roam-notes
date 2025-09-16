@@ -8,4 +8,4 @@
 #+DATE: 2025-09-14
 #+FILETAGS: :intel:pentium-ii:celeron:pentium-iii:
 
-*Mobile Module Connector* -- процессорный модуль компании Intel, применявшийся с мобильными [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессорами]] Pentium, Pentium MMX, [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]], Celeron и Pentium III. Существовали в двух разновидностях: [[id:66bd3555-5e96-40d1-b5f5-1150092d4520][MMC-1]] и [[id:3c6282e2-850e-495c-b105-3ffd63b80455][MMC-2]].
+*Mobile Module Connector* -- процессорный модуль компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], применявшийся с мобильными [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессорами]] [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]], [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]], [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]], [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]] и [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]]. Существовали в двух разновидностях: [[id:66bd3555-5e96-40d1-b5f5-1150092d4520][MMC-1]] и [[id:3c6282e2-850e-495c-b105-3ffd63b80455][MMC-2]].

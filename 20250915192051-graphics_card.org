@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       221836c2-47cc-4b7d-9287-7c63c41b8d1f
+:END:
+#+TITLE: Graphics Card
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-15
+#+FILETAGS: :computer-architecture:computer-graphics:
+
+*Graphics Card* -- видеокарта -- устройство компьютера, предназначенное для формирования и вывода на дисплей графического изображения. Могут иметь различное исполнение. В ранние времена это была отдельная плата (карта), отсюда и название.
+
+Другие названия:
+- video card
+- graphics accelerator
+- graphics adapter
+- video adapter
+- display adapter
+
+См. также GPU.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Видеокарта][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Graphics_card][Wikipedia [EN]​]]
