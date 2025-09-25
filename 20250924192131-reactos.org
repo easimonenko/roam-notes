@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4d6b3015-53f0-4c33-bc32-8478b420ab85
+:END:
+#+TITLE: ReactOS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-24
+#+FILETAGS: :windows:operating-systems:
+
+*ReactOS* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], совместимая с Microsoft Windows. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://reactos.org/][Home Page]]
+- [[https://github.com/reactos/reactos][GitHub Page]]
+- [[https://github.com/reactos][GitHub Projects]]

@@ -8,7 +8,7 @@
 #+DATE: 2024-12-24
 #+FILETAGS: :computer-architecture:
 
-*Single-Board Computer* (SBC) (Одноплатный компьютер) -- компьютер, целиком помещающийся на одну плату.
+*Single-Board Computer* (SBC) (Одноплатный компьютер) -- компьютер, целиком помещающийся на одну [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][плату]].
 
 * Resources
 

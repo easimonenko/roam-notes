@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ac3958c1-55dd-41a0-b992-6fbc9b415181
+:END:
+#+TITLE: CPU
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-23
+#+FILETAGS: :abbreviation:
+
+*CPU* -- сокращение от [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][Central Processing Unit]].

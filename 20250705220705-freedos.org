@@ -8,7 +8,7 @@
 #+DATE: 2025-07-05
 #+FILETAGS: :dos:kernel:operating-systems:
 
-*FreeDOS* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] реализация [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] DOS. [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][Ядро]] написано на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и Assembler. ядро распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+*FreeDOS* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободная]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]], совместимая с Microsoft DOS. [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][Ядро]] написано на языках [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и Assembler и распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
 
 * Resources
 
