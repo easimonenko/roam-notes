@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       b6bca792-77a7-40a2-8ff7-a118f31a1e68
+:END:
+#+TITLE: LifeBook C3
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-27
+#+FILETAGS: :fujitsu:lifebook:pentium-mmx:pentium-ii:celeron:
+
+*LifeBook C3* -- первая модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] компании Fujitsu марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] линейки [[id:41810a60-7f93-479e-b5cc-2a41d3cf26ff][C]], выпускавшаяся с 1998 года на базе [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессоров]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]], а затем с 1999 года на базе [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]]. Внешне два поколения отличались лишь цветом: первое было тёмно-серым, второе -- серебристого цвета с серо-коричневым оттенком.
+
+* Общие характеристики для обоих поколений
+
+- Дисплей 12.1" SVGA TFT.
+- Память [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], припаянная к системной плате.
+- Расширение памяти одним модулем 144-pin [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] типа [[id:1a07576f-9b51-4431-b104-2a7eddc007dd][PC66]].
+- Видеопамять 2 Мб.
+- Контроллер звука ES1879 компании [[id:ef79f727-c4dc-4d38-a4e3-124b0bf2622f][ESS Technology]].
+- Привод CD-ROM.
+- Дисковод 3.5".
+- Внешние интерфейсы: PS/2, LPT, COM, VGA, USB, Audio Line-in, Headphone Jack, Microphone Jack.
+- PCMCIA: два Type II или один Type III.
+- Указывающее устройство: Dome Point.
+- Операционная система: Windows 98 (предустановлена), Windows NT Workstation 4.0 (поддерживается).
+- Питание: 19V 2.8A.
+- Аккумулятор: Li-ION 10.8V 2400mAH
+- Размеры: 313.5 x 258 x 49.5.
+- Вес: 3.5 / 3.6 кг.
+
+* Первое поколение
+
+** Особенности
+
+- Процессор Pentium MMX.
+- Максимальный объём памяти 96 Мб.
+- Чипсет Intel 430TX.
+- Кеш L2 512 Кб.
+
+** Модификации
+
+| Модификация | Процессор            | Объём памяти, Мб | Объём HDD, Гб |
+|-------------+----------------------+------------------+---------------|
+| C325        | Pentium MMX, 233 MHz |               32 |           3.2 |
+| C325e       | Pentium MMX, 266 MHz |               32 |           3.2 |
+
+* Второе поколение
+
+** Особенности
+
+- Процессор Pentium II или Celeron.
+- Максимальный объём памяти 160 Мб.
+- Чипсет Intel 440DX.
+- Кеш L2 зависит от модели процессора.
+- Видео-контроллер NeoMagic MagicGraph 128XD.
+
+** Модификации
+
+| Модификация | Процессор           | Объём памяти, Мб | Объём HDD, Гб |
+|-------------+---------------------+------------------+---------------|
+| C340        | Pentium II, 233 MHz |               32 |           3.2 |
+| C342        | Celeron, 333 MHz    |               32 |           4.3 |
+| C350        | Pentium II, 266 MHz |               32 |           4.0 |
+| C352        | Celeron, 333 MHz    |               32 |           4.3 |
+| C353        | Pentium II, 300 MHz |               32 |           4.3 |
+| C360        | Pentium II, 333 MHz |               64 |           4.3 |
+
+* Resources
+
+- [[https://easimonenko.github.io/blog/2025/09/11/fujitsu-lifebook-c3-consumer-notebook-late-1990s.html][Fujitsu LifeBook C3: потребительский ноутбук конца 90-х // Блог Евгения Симоненко]]

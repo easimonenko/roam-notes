@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7a41a232-5c85-4f23-a9d3-03da18120b26
+:END:
+#+TITLE: LifeBook
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-26
+#+FILETAGS: :fujitsu:notebooks:laptops:
+
+*LifeBook* -- марка [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] японской компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]]. Существует по крайней мере с 1996 года и по сей день. Наиболее ранней моделью марки, известной автору, является модель 530T с процессором [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]] 133 МГц. В основном эта марка используется за пределами Японии. В первом десятилетии 2000-х годов эта марка также применялась совместной компанией [[id:013abaa9-5e1b-4fcb-8a96-9b5d1b0e64c2][Fujitsu Siemens Computers]]. В самой Японии ноутбуки Fujitsu представлены марками FMV, FMV-LifeBook, FMV-Biblo, модельный ряд которых частично пересекается с LifeBook. Модельный ряд, начиная с 1998 года делится на линейки с различным позиционированием. На сегодня предлагаются две линейки: U и E.
+
+* Resources
+
+- [[https://www.fujitsu.com/hk/products/computing/pc/ap/notebooks/][Актуальный модельный ряд на сайте Fujitsu Hong Kong]]
+- [[https://www.fmworld.net/biz/fmv/support/fmvmanual/lifebook2.html][Руководства на японском языке на сайте FMworld]]

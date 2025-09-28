@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6d3573f6-82f2-40ec-9d81-4212810cb937
+:END:
+#+TITLE: Fujitsu
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-09-28
+#+FILETAGS: :fujitsu:siemens:lifebook:amilo:amilo-pro:esprimo:
+
+*Fujitsu* -- японская компания, разработчик и производитель компьютеров различных классов: от ноутбуков и ПК до серверов и мейнфреймов. Изначально развивалась при сотрудничестве с компанией Siemens. А с 1999 г. по 2009 г. в Европе существовало совместное предприятие [[id:013abaa9-5e1b-4fcb-8a96-9b5d1b0e64c2][Fujitsu Siemens Computers]], выпускавшее и продававшее кроме компьютеров Fujitsu компьютеры под собственными марками Amilo, Amilo Pro, Esprimo, Scenic. После распада СП с Siemens марка Amilo продолжила существование в линейке A марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
+
+* Resources
+
+- [[https://global.fujitsu/en-global][Global Site]]
+- [[https://ru.wikipedia.org/wiki/Fujitsu][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Fujitsu][Wikipedia [EN]​]]
