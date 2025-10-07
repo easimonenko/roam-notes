@@ -6,11 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2022-12-07
-#+FILETAGS: :programming-tool:build-tool:
+#+FILETAGS: :programming-tools:build-tools:
 
-*Make* -- инструмент автоматизации, способный управлять зависимостями и вызывать для них скрипты оболочки. Часто служит для управлению сборки программных проектов. Чаще всего Make используется с языками [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]], [[id:3267f0c3-c098-4f10-b66f-3ed5053e22a1][Perl]].
+*Make* -- инструмент автоматизации, способный управлять зависимостями и вызывать для них скрипты оболочки. Часто служит для управления сборкой программных проектов. Чаще всего Make используется с языками [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]], [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]], [[id:3267f0c3-c098-4f10-b66f-3ed5053e22a1][Perl]].
 
 * Resources
 
-- [[https://en.wikipedia.org/wiki/Make_(software)][Wikipedia (en)]]
-- [[https://ru.wikipedia.org/wiki/Make][Wikipedia (ru)]]
+- [[https://en.wikipedia.org/wiki/Make_(software)][Wikipedia [EN]]]
+- [[https://ru.wikipedia.org/wiki/Make][Wikipedia [RU]]]

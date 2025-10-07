@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a5a5a050-cedf-4731-b339-29a563bec1e1
+:END:
+#+TITLE: Cowboy [Erlang]
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-07
+#+FILETAGS: :erlang:http:
+
+*Cowboy* -- сервер HTTP для платформы [[id:07ca35fc-df2e-4096-bd7c-38d9738c39a5][Erlang/OTP]].
+
+* Resources
+
+- [[https://github.com/ninenines/cowboy][GitHub Page]]

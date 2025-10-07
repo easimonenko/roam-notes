@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       40817248-e471-4c83-aac4-c1db81ec5af6
+:END:
+#+TITLE: Gun [Erlang]
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-07
+#+FILETAGS: :erlang:http:websocket:
+
+*Gun* -- клиент HTTP и WebSocket для платформы [[id:07ca35fc-df2e-4096-bd7c-38d9738c39a5][Erlang/OTP]].
+
+* Resources
+
+- [[https://github.com/ninenines/gun][GitHub Page]]

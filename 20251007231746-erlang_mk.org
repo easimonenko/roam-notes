@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7f2bc251-b6fc-4017-b364-6cfcdf6118f8
+:END:
+#+TITLE: Erlang.mk
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-07
+#+FILETAGS: :erlang:build-tools:
+
+*Erlang.mk* -- [[id:20fa75b8-0a97-48fd-82ad-8d737a16cf6f][инструмент для сборки]] и тестирования приложений [[id:07ca35fc-df2e-4096-bd7c-38d9738c39a5][Erlang/OTP]]. Основан на [[id:bc959a39-5f97-4fb5-82bc-b69e7b6b5fd4][Make]].
+
+* Resources
+
+- [[https://erlang.mk/][Home Page]]
+- [[https://erlang.mk/guide/index.html][Manual]]
+- [[https://erlang.mk/guide/getting_started.html][Getting Started]]
+- [[https://github.com/ninenines/erlang.mk][GitHub Page]]
