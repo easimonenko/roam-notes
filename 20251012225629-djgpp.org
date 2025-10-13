@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0a1d15e5-698a-4ce6-8187-85fad4b9b48c
+:END:
+#+TITLE: DJGPP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-12
+#+FILETAGS: :dos:gnu:dev-tools:
+
+*DJGPP* (DJ's GNU Programming Platform) -- набор программного обеспечения из проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]], предназначенного для разработки приложений для защищённого режима [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:f76b3972-3740-4068-aade-3f0053eec075][i386]] и работающих поверх [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] DOS.
+
+* Resources
+
+- [[https://www.delorie.com/djgpp/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/DJGPP][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/DJGPP][Wikipedia [EN]​]]

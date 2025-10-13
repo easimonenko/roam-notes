@@ -8,4 +8,4 @@
 #+DATE: 2025-01-13
 #+FILETAGS: :abbreviation:
 
-*ASIC* -- сокращение от [[id:15ec7149-1156-49a1-a813-4b3d242f50ac][Application Specific Integrated Circuit]].
+*ASIC* -- сокращение от [[id:15ec7149-1156-49a1-a813-4b3d242f50ac][Application-Specific Integrated Circuit]].
