@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       90ff92eb-2824-4cd1-8d2b-10589859bfbb
+:END:
+#+TITLE: VAX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-17
+#+FILETAGS: :dec:isa:
+
+*VAX* -- серия 32-разрядных компьютеров компании [[id:3266dd62-ff03-4a50-b1bd-bcca9bff5d7c][DEC]]. Поддерживалась виртуальная память. Производились с 1977 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/VAX][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/VAX][Wikipedia [EN]​]]

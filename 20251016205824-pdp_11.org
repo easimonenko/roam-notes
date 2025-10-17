@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9b973723-17c3-40c9-a56e-35c45c0a1417
+:END:
+#+TITLE: PDP-11
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-16
+#+FILETAGS: :pdp:dec:
+
+*PDP-11* -- 16-разрядный миникомпьютер компании DEC линейки PDP. Пришёл на смену PDP-8. Выпускался с 1970 по 1997 гг.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PDP-11][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/PDP-11][Wikipedia [EN]​]]

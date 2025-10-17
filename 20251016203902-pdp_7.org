@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       deb479e9-54a9-44b1-8840-1bc831197a73
+:END:
+#+TITLE: PDP-7
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-16
+#+FILETAGS: :pdp:dec:unix:
+
+*PDP-7* -- 18-разрядный компьютер компании [[id:3266dd62-ff03-4a50-b1bd-bcca9bff5d7c][DEC]] серии [[id:358beb79-3875-4ec6-bc88-c4a9755f575c][PDP]], имеющий [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуру]] близкую к [[id:e435e5e6-33ca-4c49-aff8-ade1fbd49f68][PDP-4]] и [[id:b0460934-dfe7-49ed-81e8-3cc9a1508999][PDP-9]]. Известен тем, что для него была разработана на языке ассемблера первая версия [[id:5d730cab-a732-4326-8fd3-85dd8aa77b1a][Unix]] под названием Unics. Выпускался с 1965 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PDP-7][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/PDP-7][Wikipedia [EN]​]]

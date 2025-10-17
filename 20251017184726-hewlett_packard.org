@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       193e91ce-c67d-4ddb-ae41-065ce21d64c0
+:END:
+#+TITLE: Hewlett-Packard
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-17
+#+FILETAGS: :computing:companies:
+
+*Hewlett-Packard* -- американская компания, производитель компьютеров. Была основана в 1932 г. В 2015 г. разделена на HP Inc. и Hewlett-Packard Enterprise.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Hewlett-Packard][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Hewlett-Packard][Wikipedia [EN]​]]

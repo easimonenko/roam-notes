@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e435e5e6-33ca-4c49-aff8-ade1fbd49f68
+:END:
+#+TITLE: PDP-4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-16
+#+FILETAGS: :pdp:dec:
+
+*PDP-4* -- 18-разрядный компьютер компании DEC линейки PDP, пришедший на смену [[id:7a98b26c-8a4c-4882-a639-4c06498e4187][PDP-1]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PDP-4][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/PDP-4][Wikipedia [EN]​]]

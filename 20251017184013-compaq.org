@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       161a4e9a-2495-4d07-a782-296d5871fa67
+:END:
+#+TITLE: Compaq
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-17
+#+FILETAGS: :computing:companies:
+
+*Compaq* (Compaq Computer Corporation) -- американская компания, производитель компьютеров в основном [[id:e201e107-76de-4e43-8001-d83cd968d1ef][IBM PC]] совместимых. Существовала с 1982 по 2002 гг. Была поглощена компанией [[id:193e91ce-c67d-4ddb-ae41-065ce21d64c0][Hewlett-Packard]], после чего бренд до 2010 г. продолжал использоваться.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Compaq][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Compaq][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7a11289b-28fd-474a-b26d-45052b8eed45
+:END:
+#+TITLE: DEC Alpha
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-17
+#+FILETAGS: :dec:risc:isa:
+
+*DEC Alpha* -- 64-разрядная [[id:cc0b1d97-d1bc-477f-8055-8b0980443568][RISC]]-[[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектура]] и серия [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:3266dd62-ff03-4a50-b1bd-bcca9bff5d7c][DEC]]. Производились с 1992 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/DEC_Alpha][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/DEC_Alpha][Wikipedia [EN]​]]

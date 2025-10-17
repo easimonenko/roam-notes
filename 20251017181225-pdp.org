@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       358beb79-3875-4ec6-bc88-c4a9755f575c
+:END:
+#+TITLE: PDP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-17
+#+FILETAGS: :pdp:dec:isa:
+
+*PDP* (Programmed Data Processor) -- линейка компьютеров компании [[id:3266dd62-ff03-4a50-b1bd-bcca9bff5d7c][DEC]]. Включала в себя различные 12-, 16-, 18- и 36-разрядные [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Programmed_Data_Processor][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Programmed_Data_Processor][Wikipedia [EN]​]]

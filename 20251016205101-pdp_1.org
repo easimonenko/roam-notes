@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7a98b26c-8a4c-4882-a639-4c06498e4187
+:END:
+#+TITLE: PDP-1
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-16
+#+FILETAGS: :pdp:dec:
+
+*PDP-1* -- первый компьютер компании DEC линейки PDP. Выпускался с 1959 по 1969 гг. Имел 18-разрядное слово данных.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/PDP-1][Wikipedia [EN]​]]

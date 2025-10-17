@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b0460934-dfe7-49ed-81e8-3cc9a1508999
+:END:
+#+TITLE: PDP-9
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-16
+#+FILETAGS: :pdp:dec:
+
+*PDP-9* -- 18-разрядный миникомпьютер компании DEC линейки PDP. Выпускался с 1966 г. Пришёл на смену [[id:deb479e9-54a9-44b1-8840-1bc831197a73][PDP-7]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PDP-9][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/PDP-9][Wikipedia [EN]​]]
