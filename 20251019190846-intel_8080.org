@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       23f9f586-bd25-4953-ad07-8f7f71698e0f
+:END:
+#+TITLE: Intel 8080
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-19
+#+FILETAGS: :intel:cpu:
+
+*Intel 8080* -- 8-разрядный [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Пришёл на смену Intel 8008. Выпускался с 1974 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Intel_8080][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Intel_8080][Wikipedia [EN]​]]

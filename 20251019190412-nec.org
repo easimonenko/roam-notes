@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6b7dd1d8-fadf-4ab2-98bc-74998eca63d1
+:END:
+#+TITLE: NEC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-19
+#+FILETAGS: :japan:electronics:
+
+*NEC* (Nippon Electric Corporation) -- японская компания, производитель электронной и компьютерной техники и телекоммуникационного оборудования. Существует с 1899 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/NEC][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/NEC][Wikipedia [EN]​]]

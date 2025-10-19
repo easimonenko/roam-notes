@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9de7f23c-4547-4bc4-b0df-abb9be27aac5
+:END:
+#+TITLE: NEC V30
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-10-19
+#+FILETAGS: :x86:cpu:nec:
+
+*NEC V30* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:6b7dd1d8-fadf-4ab2-98bc-74998eca63d1][NEC]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]]. Совместим программно и аппаратно с [[id:e5a0946e-3b6a-4fe9-bb15-a44181c20dc5][Intel 8086]]. В отличие от него имел режим эмуляции микропроцессора [[id:23f9f586-bd25-4953-ad07-8f7f71698e0f][Intel 8080]]. Производился с 1983 г.
