@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       96a5910e-d733-4b0e-b91c-b3957828da42
+:END:
+#+TITLE: Siemens
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-12
+#+FILETAGS: :companies:
+
+*Siemens AG* -- германская компания, производитель электронной и электротехники. Основана в 1847 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Siemens][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Siemens][Wikipedia [EN]​]]
+- [[https://de.wikipedia.org/wiki/Siemens][Wikipedia [DE]​]]

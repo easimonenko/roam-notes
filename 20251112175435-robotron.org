@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       fd2aec30-55bd-46a6-8b85-caf6f995cb9c
+:END:
+#+TITLE: Robotron
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-12
+#+FILETAGS: :computing:
+
+*Robotron* -- народное предприятие в ГДР, разработчик и производитель компьютеров и другой электронной техники. В частности, выпускал компьютеры совместимые с [[id:e201e107-76de-4e43-8001-d83cd968d1ef][IBM PC]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Robotron][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/VEB_Robotron][Wikipedia [EN]​]]
+- [[https://de.wikipedia.org/wiki/Kombinat_Robotron][Wikipedia [DE]​]]

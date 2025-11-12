@@ -6,11 +6,12 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-09-28
-#+FILETAGS: :fujitsu:siemens:
+#+FILETAGS: :fujitsu:siemens:computing:
 
-*Fujitsu Siemens Computers* -- совместное предприятие японской компании Fujitsu и германской Siemens по производству и продаже компьютеров в Европе. Компания существовала с 1999 г. по 2009 г. После распада СП компания продолжила существование как подразделение Fujitsu под названием Fujitsu Technology Solutions.
+*Fujitsu Siemens Computers* -- совместное предприятие японской компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] и германской [[id:96a5910e-d733-4b0e-b91c-b3957828da42][Siemens]] по производству и продаже компьютеров в Европе. Компания существовала с 1999 г. по 2009 г. После распада СП компания продолжила существование как подразделение Fujitsu под названием Fujitsu Technology Solutions.
 
 * Resources
 
 - [[https://ru.wikipedia.org/wiki/Fujitsu_Siemens_Computers][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Fujitsu_Siemens_Computers][Wikipedia [EN]​]]
+- [[https://de.wikipedia.org/wiki/Fujitsu_Siemens_Computers][Wikipedia [DE]​]]

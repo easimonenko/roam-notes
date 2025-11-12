@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       62da0cfb-9db2-4be1-b9bd-17d44e3ebaa5
+:END:
+#+TITLE: Siemens Nixdorf
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-12
+#+FILETAGS: :computing:
+
+*Siemens Nixdorf* -- дочерняя компания [[id:96a5910e-d733-4b0e-b91c-b3957828da42][Siemens AG]], образованная слиянием [[id:b27e7b06-119c-4640-a2cd-28e163fde906][Nixdorf Computer AG]] и подразделения Data Information Services. Существовала с 1990 по 1998 г. Выпускала компьютеры различных классов: от ПК и ноутбуков до мейнфреймов. В частности, компании принадлежала марка Scenic.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Siemens_Nixdorf_Informationssysteme][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Siemens_Nixdorf][Wikipedia [EN]​]]
+- [[https://de.wikipedia.org/wiki/Siemens_Nixdorf][Wikipedia [DE]​]]

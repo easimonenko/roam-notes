@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b27e7b06-119c-4640-a2cd-28e163fde906
+:END:
+#+TITLE: Nixdorf Computer
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-12
+#+FILETAGS: :computing:
+
+*Nixdorf Computer* -- компания в ФРГ, производитель электронной техники, включая компьютеры. История компании начинается в 1952 г. Своё имя получила в 1968 г. В 1992 г. была поглощена [[id:96a5910e-d733-4b0e-b91c-b3957828da42][Siemens AG]] и переименована в [[id:62da0cfb-9db2-4be1-b9bd-17d44e3ebaa5][Siemens Nixdorf]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Nixdorf_Computer][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Nixdorf_Computer][Wikipedia [EN]​]]
+- [[https://de.wikipedia.org/wiki/Nixdorf_Computer][Wikipedia [DE]​]]
