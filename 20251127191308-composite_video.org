@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       725894fd-a240-4edb-8448-b3cfc9cbe47a
+:END:
+#+TITLE: Composite Video
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-27
+#+FILETAGS: :video:computing:television:
+
+*Composite Video* -- композитный формат передачи видео, основанный на передаче нескольких сигналов на разной частоте по одному проводу. В число таких сигналов входят: яркость, цветность, [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][синхронизация]], гашение. Чаще всего в качестве коннекторов используются RCA и BNC.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Композитное_видео][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Composite_video][Wikipedia [EN]​]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a513312d-9c5f-4c44-b236-a8a1baf46aa3
+:END:
+#+TITLE: Intel 830MG
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-27
+#+FILETAGS: :intel:notebooks:laptops:
+
+*Intel 830MG* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], предназначенный для мобильных процессоров [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]]. Поддерживал [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][частотой]] 133, модули памяти [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]] и встроенную [[id:3efec6f9-19e1-492c-ab56-f9ceae8f7e27][AGP]]-видеокарту.
+
+* Resources
+
+- [[https://www.thinkwiki.org/wiki/Intel_830MG][ThinkWiki]]

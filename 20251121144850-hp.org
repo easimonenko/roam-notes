@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50ec4b0a-66b4-44b5-b728-361b0c128286
+:END:
+#+TITLE: HP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-21
+#+FILETAGS: :computing:hp:brands:
+
+*HP* -- бренд компании [[id:193e91ce-c67d-4ddb-ae41-065ce21d64c0][Hewlett-Packard]].

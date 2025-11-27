@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6a1707e2-2d5e-4e69-9683-5deef242fa48
+:END:
+#+TITLE: Pavilion
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-21
+#+FILETAGS: :computing:notebooks:laptops:hp:
+
+*Pavilion* -- потребительская марка компьютеров компании [[id:193e91ce-c67d-4ddb-ae41-065ce21d64c0][Hewlett-Packard]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/HP_Pavilion][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/HP_Pavilion][Wikipedia [EN]​]]

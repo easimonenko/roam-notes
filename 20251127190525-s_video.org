@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       54cdb985-c00f-407f-9723-42528376634e
+:END:
+#+TITLE: S-Video
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-27
+#+FILETAGS: :video:computing:television:
+
+*S-Video* -- компонентный аналоговый видеоинтерфейс. Четырёхпроводной интерфейс имеет две линии для передачи [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][синхронизированных]] сигналов яркости и цветности и две линии для земли для каждого вида сигнала. Существует также семипроводная разновидность. По сравнения с [[id:725894fd-a240-4edb-8448-b3cfc9cbe47a][композитным]] видеоинтерфейсом обеспечивает более высокое качество изображения.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/S-Video][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/S-Video][Wikipedia [EN]​]]

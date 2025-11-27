@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c96114e8-1b26-4254-aa79-6f4106aaa307
+:END:
+#+TITLE: OmniBook
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-21
+#+FILETAGS: :hp:notebooks:laptops:
+
+*OmniBook* -- марка ноутбуков компании [[id:193e91ce-c67d-4ddb-ae41-065ce21d64c0][Hewlett-Packard]]. Выпускались с 1993 по 2002 г. В 2024 г. марка была возрождена компанией HP Inc.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/HP_OmniBook][Wikipedia [EN]​]]
