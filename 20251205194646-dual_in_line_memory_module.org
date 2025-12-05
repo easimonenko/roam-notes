@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       67e4221e-4def-4004-9db5-ea2f7fd3d90c
+:END:
+#+TITLE: Dual In-line Memory Module
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-05
+#+FILETAGS: :computing:memory:
+
+*Dual In-line Memory Module* (DIMM) -- формат модулей памяти с двусторонней краевой контектной площадкой. Активно применяются в персональных компьютерах и серверах с 1990-х годов, придя на смену модулям формата SIMM.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/DIMM][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/DIMM][Wikipedia [EN]​]]

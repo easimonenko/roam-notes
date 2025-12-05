@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-24
-#+FILETAGS: :computer-architecture:memory:
+#+FILETAGS: :computer-architecture:memory:computing:
 
-*Dynamic Random Access Memory* (DRAM) -- динамическая [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][память с произвольным доступом]].
+*Dynamic Random Access Memory* (DRAM) -- динамическая [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][память с произвольным доступом]]. В отличие от [[id:8c5b7889-057d-43b5-9070-32906a60d40a][SRAM]], ячейки DRAM нуждаются в периодической регенерации, так как представляют из себя полупроводниковые конденсаторы.
 
 * Resources
 

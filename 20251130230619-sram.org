@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8459e3e5-d55d-44d6-a854-a99aaa0bb4bc
+:END:
+#+TITLE: SRAM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-30
+#+FILETAGS: :abbreviation:
+
+*SRAM* -- сокращение от [[id:8c5b7889-057d-43b5-9070-32906a60d40a][Static Random Access Memory]].

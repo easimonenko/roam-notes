@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a8b58bba-dc42-4428-b7e2-1d6b2a2a8a96
+:END:
+#+TITLE: DIMM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-05
+#+FILETAGS: :abbreviation:
+
+*DIMM* -- сокращение от [[id:67e4221e-4def-4004-9db5-ea2f7fd3d90c][Dual In-line Memory Module]].

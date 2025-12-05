@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-12-10
-#+FILETAGS: :digital-electronics:
+#+FILETAGS: :computing:memory:
 
-*SO-DIMM* (Small Outline DIMM) -- форм-фактор модулей памяти DIMM, обычно применяемых в ноутбуках.
+*SO-DIMM* (Small Outline DIMM) -- форм-фактор модулей памяти [[id:67e4221e-4def-4004-9db5-ea2f7fd3d90c][DIMM]], обычно применяемых в ноутбуках.
 
 * Resources
 

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50e646f8-3b34-423a-a0ba-78dfaf61f620
+:END:
+#+TITLE: DRAM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-11-30
+#+FILETAGS: :abbreviation:
+
+*DRAM* -- сокращение от [[id:46dff65f-189e-4ad4-a449-14849993babb][Dynamic Random Access Memory]].
