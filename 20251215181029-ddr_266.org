@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       adbf71d1-0cdd-43c0-b705-5124d84882c5
+:END:
+#+TITLE: DDR-266
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :computing:
+
+*DDR-266* -- другое название для [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]]. Подчёркивает удвоение частоты обмена, равной 133 МГц.

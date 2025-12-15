@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       adfa4603-5758-4abe-8012-5f4c1451fe78
+:END:
+#+TITLE: OmniBook XE3
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :hp:omnibook:
+
+*OmniBook XE3* -- модель ноутбуков марки [[id:c96114e8-1b26-4254-aa79-6f4106aaa307][OmniBook]] американской компании [[id:193e91ce-c67d-4ddb-ae41-065ce21d64c0][Hewlett-Packard]]. Выпускались с 2000 по 2002 гг. Имели большую вариативность и выпускались в двух поколениях. Также имели близнецов под маркой [[id:6a1707e2-2d5e-4e69-9683-5deef242fa48][Pavilion]]. Оснащались процессорами компаний [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] и AMD: Mobile Pentium III, [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]], Athlon и Duron.
+
+* Resources
+
+- [[https://habr.com/ru/articles/973944/][HP OmniBook XE3: брутальный ноутбук начала 2000-х с автономным CD-проигрывателем и хорошим звуком // Хабр]]
+- [[https://www.macdat.net/laptops/hp/omnibook_xe3.php][HP OmniBook XE3 // MacDat]]

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       ac973138-1fae-4ac4-a09d-0d8bc9ccc465
+:END:
+#+TITLE: FMV-Biblo NE7/800
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NE7/800* -- модель ноутбука потребительского класса марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Спецификация
+
+- Продуктовое обозначение модели: FMVNE7803
+- Дата начала выпуска: май 2001 г.
+- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][Процессор]]: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] Mobile Pentium III 800 МГц
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: 
+- Объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]]: 128 Мб
+- Тип памяти: [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][SDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]] [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+- Объём жёсткого диска: 30 Гб
+- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]
+- Проигрыватель компакт-дисков: DVD-ROM, CD-ROM, CD-R, CD-RW
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.90 56K
+- Дисплей: 14.1" TFT XGA (1024x768)
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Внешние интерфесы: 4 USB, FireWire S400, VGA, COM, LPT
+- Слоты PCMCIA: Type-I и Type-II или Type-III
+- Считыватель карт памяти: --
+- Операционная система: Microsoft Windows Millenium
+- Питание: 
+- Размеры: 308x282x36
+- Вес: 3.2 Кг
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7803.html][Inversenet]]
+- [[https://www.fmworld.net/product/hard/bi0105/biblo_ne.html][FMWorld]]

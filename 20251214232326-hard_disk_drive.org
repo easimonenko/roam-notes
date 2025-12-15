@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a
+:END:
+#+TITLE: Hard Disk Drive
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-14
+#+FILETAGS: :computing:
+
+*Hard Disk Drive* (HDD) -- устройство типа жёсткий диск.
+
+* Resources
+
+- 

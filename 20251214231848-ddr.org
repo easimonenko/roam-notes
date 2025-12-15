@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       58a36ec8-be43-49f2-95cf-beac168904a6
+:END:
+#+TITLE: DDR
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-14
+#+FILETAGS: :abbreviation:
+
+*DDR SDRAM* -- сокращение от [[id:6bad3868-9455-4f64-a1c9-58aa3349671b][Double Data Rate Synchronous Dynamic Random-Access Memory]].

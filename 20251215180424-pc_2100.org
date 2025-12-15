@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       38c450a6-173c-42b4-bbdc-11d63302f8b7
+:END:
+#+TITLE: PC-2100
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :dram:computer-memory:computing:
+
+*PC-2100* -- [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][чипы]] [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]] типа [[id:6bad3868-9455-4f64-a1c9-58aa3349671b][DDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], работавшие на частоте 133 МГц. Также обозначались DDR-266.
+
+* Resources
+
+- [[https://www.thinkwiki.org/wiki/PC2100][ThinkWiki]]

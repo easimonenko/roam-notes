@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0b38fbc1-a37b-4567-a201-3f44c3780722
+:END:
+#+TITLE: ATA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :abbreviation:
+
+*ATA* -- сокращение от [[id:c10327f4-e8d0-4271-be12-3039e9742c98][Advanced Technology Attachment]].

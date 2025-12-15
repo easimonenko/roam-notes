@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       9bc8ebec-c0f4-4c9f-9dde-f9a0fac14d2b
+:END:
+#+TITLE: FMV-Biblo NB75J
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-14
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NB75J* -- модель ноутбука потребительского класса марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Спецификация
+
+- Продуктовое обозначение модели: FMVNB75J
+- Дата начала выпуска: сентябрь 2004 г.
+- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][Процессор]]: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]] 725 1.6 ГГц
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel 855GM
+- Объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]]: 512 Мб
+- Тип памяти: [[id:6bad3868-9455-4f64-a1c9-58aa3349671b][DDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]] [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] (DDR-266)
+- Объём жёсткого диска: 80 Гб
+- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra ATA/100
+- Проигрыватель компакт-дисков: DVD-RAM, DVD-R, DVD+R, DVD-RW, DVD+RW, CD-R, CD+R, CD-RW, CD+RW
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T, Wakeup on LAN
+  - WiFi 802.11b/g
+  - Модем V.92 56K
+- Дисплей: 15" TFT XGA (1024x768)
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Внешние интерфесы: 4 USB2, FireWire S400, VGA
+- Слоты PCMCIA: Type-I и Type-II или Type-III
+- Считыватель карт памяти: SD
+- Операционная система: Microsoft Windows XP Home Edition SP2
+- Питание: 19V 3.16A (60W)
+- Размеры: 329x288.5x43.1
+- Вес: 3.8 Кг
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB75J.html][Inversenet]]
+- [[http://www.pc-spec.info/FUJITSU/FMV%EF%BC%8DBIBLO_NB_NB75J_FMVNB75J/][PC Spec]]

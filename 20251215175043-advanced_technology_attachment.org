@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c10327f4-e8d0-4271-be12-3039e9742c98
+:END:
+#+TITLE: Advanced Technology Attachment
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :computing:hdd:
+
+*Advanced Technology Attachment* (ATA) -- стандарт на параллельный интерфейс для подключения [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][жёстких дисков]]. Носит также название Integrated Drive Electronics (IDE). С появлением Serial ATA получил также название Parallel ATA (PATA).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/ATA][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Parallel_ATA][Wikipedia [EN]​]]

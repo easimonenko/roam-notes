@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8fd3debb-2368-47d6-97e2-0b20e0c242c9
+:END:
+#+TITLE: IDE
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :abbreviation:
+
+*IDE* -- сокращение от Integrated Drive Electronics или Integrated Development Environment.

@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-09-25
-#+FILETAGS: :dram:computer-memory:
+#+FILETAGS: :dram:computer-memory:computing:
 
-*PC100* -- [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][чипы]] памяти [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], работавшие с 64-разрядной [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шиной]] на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] 100 МГц и запитываемые 3.3 В.
+*PC100* -- [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][чипы]] [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], работавшие с 64-разрядной [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шиной]] на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] 100 МГц и запитываемые 3.3 В. Также обозначаются PC-100.
 
 * Resources
 
