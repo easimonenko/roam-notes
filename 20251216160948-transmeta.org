@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b08b99e0-e8b6-438d-ad57-93e870a06e5f
+:END:
+#+TITLE: Transmeta
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-16
+#+FILETAGS: :computing:companies:
+
+*Transmeta* -- американская компания, разработчик [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]]. Основана в 1995 г., упразднена в 2009 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Transmeta][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Transmeta][Wikipedia [EN]​]]

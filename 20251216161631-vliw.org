@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       43522c27-a5d7-4e1b-9dba-a4ac76239fb6
+:END:
+#+TITLE: VLIW
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-16
+#+FILETAGS: :abbreviation:
+
+*VLIW* -- сокращение от [[id:9108547a-e928-438d-9729-f5ec1a2291e3][Very Long Instruction Word]].

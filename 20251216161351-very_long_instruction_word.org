@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9108547a-e928-438d-9729-f5ec1a2291e3
+:END:
+#+TITLE: Very Long Instruction Word
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-16
+#+FILETAGS: :isa:computing:computer-architecture:
+
+*Very Long Instruction Word* (VLIW) -- [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектура]] [[id:08fd9589-3778-4924-b93d-9d6b0fa56877][процессоров]] с явным параллелизмом команд.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/VLIW][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Very_long_instruction_word][Wikipedia [EN]​]]

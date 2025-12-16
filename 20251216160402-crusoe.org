@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fa69c336-3c9a-47e5-a3a8-5d41b8a7d792
+:END:
+#+TITLE: Crusoe
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-16
+#+FILETAGS: :computing:microprocessors:
+
+*Crusoe* -- семейство [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] компании [[id:b08b99e0-e8b6-438d-ad57-93e870a06e5f][Transmeta]]. Выделялись оригинальной [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектурой]] класса [[id:9108547a-e928-438d-9729-f5ec1a2291e3][VLIW]]. Чаще всего использовались в компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]] с низким энергопотреблением.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Crusoe][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Transmeta_Crusoe][Wikipedia [EN]​]]

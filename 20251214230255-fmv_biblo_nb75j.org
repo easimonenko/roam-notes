@@ -19,7 +19,7 @@
 - Объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]]: 512 Мб
 - Тип памяти: [[id:6bad3868-9455-4f64-a1c9-58aa3349671b][DDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]] [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] (DDR-266)
 - Объём жёсткого диска: 80 Гб
-- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra ATA/100
+- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]/100
 - Проигрыватель компакт-дисков: DVD-RAM, DVD-R, DVD+R, DVD-RW, DVD+RW, CD-R, CD+R, CD-RW, CD+RW
 - Сетевые устройства:
   - Ethernet 100BASE-TX/10BASE-T, Wakeup on LAN

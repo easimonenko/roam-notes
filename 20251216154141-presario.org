@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0e52a697-ad53-4447-9866-574ad67af60c
+:END:
+#+TITLE: Presario
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-16
+#+FILETAGS: :computing:laptops:notebooks:pc:
+
+*Presario* -- марка персональных комьютеров (настольных и [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]]) и мониторов потребительского класса компании [[id:161a4e9a-2495-4d07-a782-296d5871fa67][Compaq]]. Существовала с 1993 по 2002 гг. После поглощения компании использовалась [[id:193e91ce-c67d-4ddb-ae41-065ce21d64c0][Hewlett-Packard]] до 2013 г.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Compaq_Presario][Wikipedia [EN]​]]
