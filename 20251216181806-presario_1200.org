@@ -8,8 +8,9 @@
 #+DATE: 2025-12-16
 #+FILETAGS: :compaq:notebooks:laptops:
 
-*Presario 1200* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:0e52a697-ad53-4447-9866-574ad67af60c][Presario]] компании [[id:161a4e9a-2495-4d07-a782-296d5871fa67][Compaq]]. Имели различное оснащение и производились с 1998 по 2000 гг. Оснащалась [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорами]] компаний AMD, [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] и Cyrix: AMD K6-2, Intel Mobile Pentium III, Intel [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]], AMD Mobile Athlon 4, Cyrix 200GXm, Intel [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]. Оснащались дисплеями 12" и 13". Поставлялись с операционными системами Microsoft Windows 98, Millenium или 2000 Professional.
+*Presario 1200* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] потребительского класса марки [[id:0e52a697-ad53-4447-9866-574ad67af60c][Presario]] компании [[id:161a4e9a-2495-4d07-a782-296d5871fa67][Compaq]]. Выполнены в едином дизайне, но имели различное оснащение и производились с 1998 по 2000 гг. Оснащалась [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорами]] компаний AMD, [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] и Cyrix: [[id:569d04f2-e927-40de-9b1e-34a8acb3a6f6][AMD-K6]], AMD K6-2, Intel [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]], Intel Mobile Pentium III, Intel [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]], AMD Mobile Athlon 4, Cyrix 200GXm. Оснащались дисплеями 12.1" и 13". Поставлялись с операционными системами Microsoft Windows 98, Millenium или 2000 Professional.
 
 * Resources
 
 - [[https://en.wikipedia.org/wiki/Compaq_Presario_1200][Wikipedia [EN]​]]
+- [[https://www.macdat.net/laptops/compaq/presario_1200_series.php][MacDat]]

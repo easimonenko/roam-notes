@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2fd71fa8-ac4b-47a2-8cb2-ec3ebc8c9274
+:END:
+#+TITLE: GPU
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :abbreviation:
+
+*GPU* -- сокращение от [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][Graphical Processing Unit]].

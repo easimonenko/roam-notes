@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       37cc3dc0-9821-4417-be6d-8c52cacc9071
+:END:
+#+TITLE: Pin Grid Array
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :digital-electronics:computing:
+
+*Pin Grid Array* (PGA) -- разновидность корпусов для [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][интегральных схем]] со штырьковыми массивами выводов по всей или части поверхности корпуса чипа. Широко применялись для [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Pin_grid_array][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Pin_grid_array][Wikipedia [EN]​]]

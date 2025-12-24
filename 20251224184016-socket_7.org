@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3f58e5e4-cfa5-41ad-9527-a6b90237ccd6
+:END:
+#+TITLE: Socket 7
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :computing:microprocessors:
+
+*Socket 7* -- [[id:37cc3dc0-9821-4417-be6d-8c52cacc9071][штырьковый]] интерфейс для установки [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] на системную плату. Использовался начиная с 1995 г. с микропроцессорами [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] такими как: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]] и [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]], [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]] K5 и [[id:569d04f2-e927-40de-9b1e-34a8acb3a6f6][K6]] и некоторыми другими.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Socket_7][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Socket_7][Wikipedia [EN]​]]

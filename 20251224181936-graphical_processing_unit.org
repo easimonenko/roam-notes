@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       94c19c84-8050-409c-94b6-de2ab3c525f3
+:END:
+#+TITLE: Graphical Processing Unit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :computing:computer-graphics:
+
+*Graphical Processing Unit* (GPU) -- специализированная [[id:e05496d9-066f-4a63-b431-fbb4bf3489c8][цифровая схема]], предназначенная для обработки цифровых изображений и ускорения [[id:895601c6-0fc9-4805-b367-5a1c1ca9ccdf][компьютерной графики]]. Поставляется в составе [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарты]] или [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсета]]. В последнии годы часто используется для ускорения матричных вычислений.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Графический_процессор][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Graphics_processing_unit][Wikipedia [EN]​]]

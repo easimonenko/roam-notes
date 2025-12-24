@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       569d04f2-e927-40de-9b1e-34a8acb3a6f6
+:END:
+#+TITLE: AMD-K6
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :cpu:amd:pentium-ii:x86-32:
+
+*AMD-K6* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] американской компании [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] с поддержкой [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]] и конкурировавший с [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]]. Выпускался с 1997 по 1998 гг. Пришёл на смену AMD-K5. Ранние модели работали на частотах 166 и 200 МГц. Затем вышла модель на 233 МГц. Поздние модели работали на 266 и 300 МГц. [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][Частота]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 66 МГц. Корпус поддерживал установку в [[id:3f58e5e4-cfa5-41ad-9527-a6b90237ccd6][Socket 7]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/K6][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/AMD_K6][Wikipedia [EN]​]]
