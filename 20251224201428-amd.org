@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4e7cbc7a-6544-4d3a-9fda-e0fa2394745d
+:END:
+#+TITLE: AMD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :abbreviation:
+
+*AMD* -- сокращение от [[id:195bba79-2207-4e87-b691-23c27d7e62dc][Advanced Micro Devices (AMD)]]

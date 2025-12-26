@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f6a37d79-ab2e-4d9e-9e25-9fa652ad5cf5
+:END:
+#+TITLE: AMD-K5
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :cpu:amd:pentium:
+
+*AMD-K5* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:4e7cbc7a-6544-4d3a-9fda-e0fa2394745d][AMD]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]], впервые полностью разработанный самостоятельно и конкурировавший с [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]. Выпускался в 1996 г. [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][Частота]] [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 50 или 66 МГц.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/K5][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/AMD_K5][Wikipedia [EN]​]]

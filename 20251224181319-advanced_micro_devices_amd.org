@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       195bba79-2207-4e87-b691-23c27d7e62dc
+:END:
+#+TITLE: Advanced Micro Devices (AMD)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-24
+#+FILETAGS: :amd:computing:cpu:
+
+*Advanced Micro Devices (AMD)* -- американская компания, разработчик и производитель [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]], [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][графических процессоров]], [[id:6d808020-f74e-44d3-a450-92656ec60d16][FPGA]], [[id:0806f9d1-9acd-44e2-a0ea-9c7b771eefd6][SoC]] и [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетов]]. Существует с 1969 г. Является основным конкурентом [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]].
+
+* Resources
+
+- [[https://www.amd.com/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/AMD][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/AMD][Wikipedia [EN]​]]

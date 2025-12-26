@@ -6,6 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2024-03-24
-#+FILETAGS: :computer-architecture:
+#+FILETAGS: :computer-architecture:digital-electronics:
 
-*Static Random Access Memory* (SRAM) -- статическая [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][память с произвольным доступом]].
+*Static Random Access Memory* (SRAM) -- статическая [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][память с произвольным доступом]]. Организуется на основе транзисторов по технологии CMOS или TTL. Не нуждается в периодическом обновлении содержимого. Может работать на высоких [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотах синхронизации]]. Чаще всего применяется в [[id:1e92f4a3-8c1c-40c0-be5b-c419ae057fc7][микроконтроллерах]] в качество основной [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]], в регистрах [[id:08fd9589-3778-4924-b93d-9d6b0fa56877][процессорных]] [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядер]] и кеш-памяти.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/SRAM_(память)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Static_random-access_memory][Wikipedia [EN]​]]
