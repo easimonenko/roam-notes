@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       86ea10aa-5c78-479c-97a3-b7f7b73844d8
+:END:
+#+TITLE: Mobile Celeron
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :intel:celeron:pentium:notebooks:laptops:
+
+*Mobile Celeron* -- линейка бюджетных [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] и [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][x86-64]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], предназначенных для установки в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуки]]. Первые модели этой линейки базировались на микроархитектуре Mobile Pentium II и Mobile Pentium III и отличались от них уменьшенным вдвое кэш L2 и отсутствием поддержки SpeedStep. Затем основывались на Mobile Pentium 4. Модели, основанные на [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]], носили название Celeron M. На базе Core Duo и Core 2 Duo моделей Celeron не существовало. А их место занимали процессоры с возрождённым названием Pentium. В первые годы микроархитектуры Core i3/i5/i7 место Celeron занимали процессоры под марками Pentium и Atom. Однако, спустя несколько лет, название Mobile Celeron было возрождено и вновь применяется для самых недорогих и неторопливых микропроцессоров Intel, отличающихся от собратьев отсутствием HyperThreading.
+
+* Resources
+
+- [[https://www.cpu-upgrade.com/CPUs/Intel/Mobile_Celeron/index.html][Intel Mobile Celeron family // CPU-Upgrade]]

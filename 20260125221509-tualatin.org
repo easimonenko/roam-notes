@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f24b9fb-220d-4131-92f0-b2b6a94e826e
+:END:
+#+TITLE: Tualatin
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS:
+
+*Tualatin* -- третье поколения ядра микропроцессора [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]], выпускавшееся с июня 2001 г. Работало на частотах от 1000 МГц до 1400 МГц совместно с шиной FSB частотой 133 МГц. Процессоры на его основе предназначались как для установки в настольные комьютеры. На основе данного ядра также выпускались процессоры Celeron, Mobile Celeron и Mobile Pentium III.

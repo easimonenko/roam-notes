@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       ac973138-1fae-4ac4-a09d-0d8bc9ccc465
+:END:
+#+TITLE: FMV-Biblo NE7
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-15
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NE7* -- модель ноутбука потребительского класса марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Дата начала выпуска: май 2001 г.
+- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][Процессор]]: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]]
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel 440MX
+- Объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]]:
+  - 128 Мб, распаяна на плате
+  - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] максимум 128 Мб
+  - итого максимальный объём: 256 Мб
+- Тип памяти: [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][SDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]] [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+- [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][Видеокарта]]: ATI RAGE Mobility P с видеопамятью 8 Мб
+- Объём жёсткого диска: 30 Гб (Pentium III) или 20 Гб (Celeron).
+- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]
+- Проигрыватель компакт-дисков: DVD-ROM, CD-ROM, CD-R, CD-RW
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.90 56K
+- Дисплей: 14.1" TFT XGA (1024x768) или SXGA+ (1400x1050)
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Внешние интерфесы: 4 USB, FireWire S400, VGA, COM, LPT
+- Слоты PCMCIA: Type-I и Type-II или Type-III
+- Операционная система: Microsoft Windows Millenium или Windows 2000 Professional
+- Программное обеспечение: Microsoft Office XP
+- Питание: 16V 3.75A, коннектор с иглой
+- Размеры: 308x282x36
+- Вес: 3.2 Кг
+
+* Модификации
+
+- NE7/75: Celeron 750 MHz 128 Kb; P/N: FMVNE7753
+- NE7/75: Celeron 750 MHz 128 Kb; P/N: FMVNE7754
+- NE7/75W: Celeron 750 MHz 128 Kb; P/N: FMVNE775W3
+- NE7/800: Pentium III 800 MHz 256 Kb; P/N: FMVNE7803
+- NE7/800W: Pentium III 800 MHz 256 Kb; P/N: FMVNE780W3
+- NE7/850H: Pentium III 850 MHz 256 Kb; P/N: FMVNE785H3
+- NE7/1000H: Pentium III 1000 MHz 256 Kb; P/N: FMVNE710H3
+
+Вариант FMVNE7754 отличался предустановленной ОС, а именно: 2000 Pro. Вариант FMVNE780W3 оснащался пультом дистанционного управления проигрывателем. Варианты FMVNE710H3 и FMVNE785H3 оснащались матрицей дисплея SXGA+ (1400x1050).
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7753.html][FMVNE7753 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7754.html][FMVNE7754 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE775W3.html][FMVNE775W3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7803.html][FMVNE7803 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE780W3.html][FMVNE780W3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE785H3.html][FMVNE785H3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE710H3.html][FMVNE710H3 // INVERSENET]]
+- [[https://www.fmworld.net/product/hard/bi0105/biblo_ne.html][FMV-Biblo NE7 Review // FMWorld]]

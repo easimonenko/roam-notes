@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       62f84a3d-ddff-48b3-b2c1-17d8e3100008
+:END:
+#+TITLE: BGA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :abbreviation:
+
+*BGA* -- сокращение от [[id:8ef2050d-c8bc-454d-a003-2202c1073359][Ball Grid Array]].

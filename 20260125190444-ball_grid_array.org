@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8ef2050d-c8bc-454d-a003-2202c1073359
+:END:
+#+TITLE: Ball Grid Array
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :microprocessors:digital-electronics:
+
+*Ball Grid Array* (BGA) -- тип корпусов [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][микросхем]], предназначенных для припаивания к [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][плате]]. Контакты образуют матрицу расплавляемых шариков. Широко используются в современных микросхемах с большим количеством выводов.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/BGA][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Ball_grid_array][Wikipedia [EN]​]]

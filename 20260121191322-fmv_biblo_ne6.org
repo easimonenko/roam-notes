@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       39562623-5c48-4f2e-8c96-0903f7cf03e8
+:END:
+#+TITLE: FMV-Biblo NE6
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-21
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NE6* -- модель ноутбука потребительского класса марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Дата начала выпуска: середина января 2001 г.
+- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][Процессор]]: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]]
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: N/A
+- Объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]]:
+  - 64 (Celeron) или 128 (Pentium III) Мб, распаяна на плате
+  - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] максимум 128 Мб
+  - итого максимальный объём: 192 (Celeron) или 256 (Pentium III) Мб
+- Тип памяти: [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][SDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]] [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+- [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][Видеокарта]]: ATI RAGE Mobility P 8 Mb (Pentium III) или EC 4 Mb (Celeron)
+- Объём жёсткого диска: 20 Гб
+- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]
+- Проигрыватель компакт-дисков: DVD-ROM, CD-ROM, CD-R, CD-RW в зависимости от варианта
+- Сетевые устройства:
+  - Ethernet ОТСУТСТВУЕТ
+  - Модем V.90 56K
+- Дисплей: 14.1" TFT XGA (1024x768) или SXGA+ (1400x1050)
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Внешние интерфесы: 4 USB, FireWire S400, VGA, COM, LPT, PS/2
+- Слоты PCMCIA: Type-I и Type-II или Type-III
+- Операционная система: Microsoft Windows Millenium или Windows 2000 Professional
+- Программное обеспечение: Microsoft Office 2000 (почти все) или OASYS V8/1-2-3 2000 (FMVNE660C2)
+- Питание: 16V 3.3A 53W, коннектор с иглой
+- Размеры: 310x290x37
+- Вес: 3.2 Кг
+
+* Модификации
+
+- NE6/60C: Celeron 600 MHz 128 Kb; CD-ROM; P/N: FMVNE660C2, FMVNE660C3
+- NE6/65R: Celeron 650 MHz 128 Kb; CD-RW; P/N: FMVNE66AR3
+- NE6/650R: Pentium III 650 MHz 256 Kb; CD-RW; P/N: FMVNE665R3, FMVNE665R4
+- NE6/650W: Pentium III 650 MHz 256 Kb; CD-RW; P/N: FMVNE665W3
+- NE6/700B: Pentium III 700 MHz 256 Kb; CD-RW + DVD-ROM; P/N: FMVNE670B3
+- NE6/750R: Pentium III 750 MHz 256 Kb; CD-RW; P/N: FMVNE675R3
+- NE6/750B: Pentium III 750 MHz 256 Kb; CD-RW + DVD-ROM; P/N: FMVNE675B3
+- NE6/850HB: Pentium III 850 MHz 256 Kb; CD-RW + DVD-ROM; P/N: FMVNE685B3
+
+Варианты FMVNE665R3 и FMVNE665R4 различались предустановленной ОС: Millenium и 2000 Pro, соответственно. Варианты FMVNE660C2 и FMVNE660C3 различались предустановленным офисным пакетом: Office 2000 и V8/1-2-3, соответственно. Вариант FMVNE665W3 оснащался пультом дистанционного управления проигрывателем. Вариант FMVNE685B3 оснащался матрицей дисплея SXGA+ (1400x1050).
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE660C2.html][FMVNE660C2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE660C3.html][FMVNE660C3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE66AR3.html][FMVNE66AR3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE665R3.html][FMVNE665R3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE665R4.html][FMVNE665R4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE665W3.html][FMVNE665W3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE670B3.html][FMVNE670B3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE675R3.html][FMVNE675R3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE675B3.html][FMVNE675B3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE685B3.html][FMVNE685B3 // INVERSENET]]
+- [[https://www.fmworld.net/product/hard/bi0101/ne_series.html][FMV-Biblo NE6 Review // FMWorld]]

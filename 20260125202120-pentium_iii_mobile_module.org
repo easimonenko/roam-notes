@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e73195f2-eb95-4554-b4e0-081937929695
+:END:
+#+TITLE: Pentium III Mobile Module
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :intel:pentium-iii:
+
+*Pentium III Mobile Module* -- разновидность [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]] с корпусом [[id:3c6282e2-850e-495c-b105-3ffd63b80455][MMC-2]] и ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]. Предназначался для установки в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуки]].
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Pentium-III/TYPE-Pentium%20III%20Mobile%20module.html][Intel Pentium III Mobile module family // CPU-World]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e711ba12-cea4-4eae-9c34-984d09634718
+:END:
+#+TITLE: Mobile Pentium III
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :intel:pentium-iii:notebooks:
+
+*Mobile Pentium III* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], базирующиеся на [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектуре]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]] и предназначенные для установки в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуки]]. Выпускались с 1999 по 2001 гг. Поставлялись в двух типах корпусов: [[id:8ef2050d-c8bc-454d-a003-2202c1073359][BGA]] и [[id:86c396a7-3d1d-49b4-81d5-bae878280d79][Socket 495]]. Имели [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][тактовую частоту]] от 400 до 1000 МГц, частоту [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 МГц, L2-кэш объёмом 256 Кб.
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Pentium-III/TYPE-Mobile%20Pentium%20III.html][Intel Mobile Pentium III microprocessor family // CPU-World]]

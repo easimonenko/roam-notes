@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1b2f82ad-997a-4067-85a6-4127f85d83bd
+:END:
+#+TITLE: Intel 80286
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-04
+#+FILETAGS: :cpu:intel:x86:
+
+*Intel 80286* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:83e017e2-f306-47cd-9b65-e17274f0fe28][x86]], расширенной средствами построения многозадачных [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционных систем]] с защитой памяти.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Intel_80286][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Intel_80286][Wikipedia [EN]​]]

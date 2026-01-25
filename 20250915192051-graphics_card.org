@@ -17,7 +17,7 @@
 - video adapter
 - display adapter
 
-См. также GPU.
+См. также [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]].
 
 * Resources
 

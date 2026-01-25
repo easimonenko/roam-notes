@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1cc3b54c-61e3-4dd6-a411-a438d93015a6
+:END:
+#+TITLE: Katmai
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :intel:pentium-iii:
+
+*Katmai* -- первое поколение [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядра]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]]. Вышло в феврале 1999 г. Работали на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотах]] от 450 до 600 МГц. Поддерживали [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шину]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с частотой 100 и 133 МГц.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Pentium_III][Wikipedia [EN]​]]

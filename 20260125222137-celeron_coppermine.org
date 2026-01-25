@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4215fdc4-f5b9-4cb2-bc29-882c08a52b28
+:END:
+#+TITLE: Celeron (Coppermine)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :intel:celeron:
+
+*Celeron (Coppermine)* -- микропроцессор линейки [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]].

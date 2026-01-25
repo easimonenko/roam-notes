@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3f5aa99a-0106-4167-b457-a9ceafd9083d
+:END:
+#+TITLE: Coppermine-T
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :intel:pentium-iii:
+
+*Coppermine-T* -- вторая редакция [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядра]] [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]], выпускавшееся с августа 2000 г. Работало на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотах]] от 800 до 1133 МГц и с частотой [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 133 МГц. Процессоры на его основе изготавливались в корпусе Socket 370.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Pentium_III][Wikipedia [EN]​]]

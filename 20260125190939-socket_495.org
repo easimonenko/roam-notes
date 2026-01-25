@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       86c396a7-3d1d-49b4-81d5-bae878280d79
+:END:
+#+TITLE: Socket 495
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :microprocessors:
+
+*Socket 495* -- разновидность матрично-штырькового типа [[id:af807915-50f8-464e-86b1-c6ef76b42a08][Socket]] корпусов [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]]. Применялся с [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] и [[id:86ea10aa-5c78-479c-97a3-b7f7b73844d8][Mobile Celeron]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Socket_495][Wikipedia [EN]​]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       aa99089a-efe9-4c17-91aa-313334a264eb
+:END:
+#+TITLE: Coppermine
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :intel:pentium-iii:celeron:
+
+*Coppermine* -- второе поколение [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядра]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]], выпускавшееся с октября 1999 по 2000 гг. по технологии 0.18 микрон, работавшее на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотах]] от 500 до 1000 МГц, поддерживавшее [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шину]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с частотами 100 и 133 МГц., имевшее кэш L2 объёмом 256 Кб и поддерживавшее наборы инструкций [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]] и [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]].
+
+Ядро Coppermine также использовалось в [[id:4215fdc4-f5b9-4cb2-bc29-882c08a52b28][Celeron]], [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] и [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]].
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Pentium-III/TYPE-Pentium%20III%20(Coppermine).html][Intel Pentium III (Coppermine) microprocessor family // CPU-World]]
+- [[https://en.wikipedia.org/wiki/Pentium_III][Wikipedia [EN]​]]

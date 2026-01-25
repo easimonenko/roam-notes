@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       af807915-50f8-464e-86b1-c6ef76b42a08
+:END:
+#+TITLE: CPU Socket
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-25
+#+FILETAGS: :computer-architecture:
+
+*CPU Socket* -- тип корпуса и способ размещения [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] на системной плате компьютера.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/CPU_socket][Wikipedia [EN]​]]
