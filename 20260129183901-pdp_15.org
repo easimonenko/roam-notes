@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       92d539c5-383d-410b-91db-cc5b8b6a2dee
+:END:
+#+TITLE: PDP-15
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-29
+#+FILETAGS: :dec:pdp:
+
+*PDP-15* -- 18-разрядный миникомпьютер компании [[id:3266dd62-ff03-4a50-b1bd-bcca9bff5d7c][DEC]] линейки [[id:358beb79-3875-4ec6-bc88-c4a9755f575c][PDP]], выпускавшийся с 1970 г. Пришёл на смену [[id:b0460934-dfe7-49ed-81e8-3cc9a1508999][PDP-9]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/PDP-15][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       de3857fb-e81b-4afe-aafd-5f0379226b2a
+:END:
+#+TITLE: NexGen
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-27
+#+FILETAGS: :amd:risc:cpu:
+
+*NexGen* -- американская компания, разработчик [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] с [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектурой]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]], конкурировавших и совместимых с [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]. Его особенностью была трансляция кода программ во внутренний код, исполнявшийся [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:18af8452-9c2d-4701-a9c4-ce351ac7d1bf][RISC]]. Была поглощена в 1995 г. компанией [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]]. После чего её разработка Nx686 была продолжена как [[id:569d04f2-e927-40de-9b1e-34a8acb3a6f6][AMD K6]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/NexGen][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/NexGen][Wikipedia [EN]​]]

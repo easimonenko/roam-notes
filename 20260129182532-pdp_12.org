@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e327f2e1-fed7-4fef-9e32-b8754eb815b7
+:END:
+#+TITLE: PDP-12
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-29
+#+FILETAGS: :dec:pdp:
+
+*PDP-12* -- 12-разрядный компьютер компании [[id:3266dd62-ff03-4a50-b1bd-bcca9bff5d7c][DEC]] семейства [[id:358beb79-3875-4ec6-bc88-c4a9755f575c][PDP]], представленный в 1969 г. и основывавшийся на наработках [[id:8ebf8560-7b25-4ded-9aaf-9050a3248848][PDP-8]] и [[id:20e72cb2-a083-421d-821a-23ebe2c19424][LINC]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/PDP-12][Wikipedia [EN]​]]

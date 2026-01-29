@@ -8,7 +8,7 @@
 #+DATE: 2024-12-24
 #+FILETAGS: :electronics:drawing:eda:
 
-*LibrePCB* -- программное обеспечение [[id:e03ae4ba-1ede-4e83-b8a7-998f58d5e4e3][EDA]] для рисования [[id:e8c829ba-fe06-41d6-a7f0-4c0d413b1a00][схем]] и [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][печатных плат]].
+*LibrePCB* -- программное обеспечение [[id:e03ae4ba-1ede-4e83-b8a7-998f58d5e4e3][EDA]] для рисования [[id:e8c829ba-fe06-41d6-a7f0-4c0d413b1a00][схем]] и [[id:79fc3bb2-5473-4295-be63-a0d26c0b93dd][печатных плат]]. Написано на языках [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]] и [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]].
 
 * Resources
 

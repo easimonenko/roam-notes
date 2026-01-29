@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       20e72cb2-a083-421d-821a-23ebe2c19424
+:END:
+#+TITLE: LINC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-29
+#+FILETAGS: :mit:
+
+*LINC* (Laboratory INstrument Computer) -- 12-разрядный компьютер, разработанный в лаборатории [[id:c7df9d33-f0fc-4dee-966d-ebeac847d1c3][MIT]] в 1962 г.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/LINC][Wikipedia [EN]​]]
