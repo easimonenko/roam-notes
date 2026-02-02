@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       80f846aa-8c1b-4d77-85ef-eb1badb8c110
+:END:
+#+TITLE: GNU Guix
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-02
+#+FILETAGS: :distributions:linux:gnu:guile:
+
+*GNU Guix* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] с собственным менеджером и архивом пакетов, написанным на [[id:d33cd41c-55d8-4ffa-907f-15ff106b952f][Guile]] и позволяющим осуществлять воспроизводимую сборку пакетов и их непрерывное обновление. В качестве [[id:d9e133f6-7d8d-40ee-a58d-e99080be4f3d][ядра]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] используется [[id:b0426579-10b8-427f-92ab-effdf6acb60c][Linux-libre]]. Предлагаются для загрузки установочные образы для [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектур]] [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][x86-64]], [[id:8c4a09fa-1eb5-4c76-93fd-e5e6493a472d][i686]] и Aarch64.
+
+* Resources
+
+- [[https://guix.gnu.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/GNU_Guix][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/GNU_Guix][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1b3527ee-8e9b-4246-a2ec-de60b6b07ea7
+:END:
+#+TITLE: Canoeboot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-01-31
+#+FILETAGS: :bootloaders:firmware:
+
+*Canoeboot* -- проект по разработке полностью [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободной]] [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивки]] [[id:8efa02e1-5066-4d16-8f95-26368a41c8c0][BIOS]] и [[id:aa4df334-5abc-43cd-a43c-13273d86a451][UEFI]] на базе [[id:bab9bac2-c5d6-43c3-a115-f8ea3f4b368e][Coreboot]]. Распространяется под лицензией [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL]] v3.
+
+* Resources
+
+- [[https://canoeboot.org/][Home Page]]
+- [[https://codeberg.org/canoeboot/cbmk][Git Repository]]

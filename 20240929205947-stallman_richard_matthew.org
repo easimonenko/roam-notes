@@ -8,5 +8,11 @@
 #+DATE: 2024-09-29
 #+FILETAGS: :person:gnu:fsf:
 
-*Ричард Столлман (Stallman, Richard Matthew)* -- основатель движения за свободное программное обеспечение,
-основатель фонда Free Software Foundation и проекта по разработке свободной операционной системы [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].
+*Ричард Столлман (Stallman, Richard Matthew)* -- основатель движения за [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободное]] программное обеспечение,
+основатель фонда [[id:5e2cc969-cf42-42b6-acd2-c0cfc1b22bab][Free Software Foundation]] и проекта по разработке свободной [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].
+
+* Resources
+
+- [[https://stallman.org/][Personal Web Site]]
+- [[https://ru.wikipedia.org/wiki/Столлман,_Ричард_Мэттью][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Richard_Stallman][Wikipedia [EN]​]]
