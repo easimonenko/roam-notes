@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e763c927-9543-4073-b968-58e01c2177a6
+:END:
+#+TITLE: Lisp Machine
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-16
+#+FILETAGS: :lisp:computer-architectures:
+
+*Lisp Machine* -- разновидность компьютеров, ориентированных на эффективное исполнение программ, написанных на языке [[id:1676b28d-455b-41f0-939c-7165c463fd25][Lisp]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Лисп-машина][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Lisp_machine][Wikipedia [EN]​]]

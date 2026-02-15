@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       16ec6166-69af-43f7-afd6-a14afb400d9b
+:END:
+#+TITLE: PGA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-13
+#+FILETAGS: :abbreviation:
+
+*PGA* -- сокращение от [[id:37cc3dc0-9821-4417-be6d-8c52cacc9071][Pin Grid Array]].
