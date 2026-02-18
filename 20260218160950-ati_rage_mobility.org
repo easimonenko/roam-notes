@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5d077f60-8cdb-41a8-8626-890b374abb99
+:END:
+#+TITLE: ATI Rage Mobility
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-18
+#+FILETAGS: :computer-graphics:ati:
+
+*ATI Rage Mobility* -- семейство [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][графических]] [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][чипов]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] линейки [[id:d2d6ae97-01f5-44cd-ac15-8fa54859c0f4][Rage]] для использования в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]], выпускавшихся с февраля 1999 г. и базирующихся на ядре Rage 4. Включало в себя чипы с названием [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][P]], M CL.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/ati-rage-mobility.g666][ATI Rage Mobility // TechPowerUp]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ae591f16-48c6-4da0-bbd8-a1fb3028a56b
+:END:
+#+TITLE: ATI Rage Mobility-P
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :computer-graphics:computer-architecture:ati:
+
+*ATI Rage Mobility-P* -- [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][графический]] [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][чип]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] семейства [[id:5d077f60-8cdb-41a8-8626-890b374abb99][ATI Rage Mobility]], выпускавшийся с февраля 1999 г. и предназначавшийся для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]]. Чип работал на частоте 75 МГц, с 64-разрядной [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шиной]] [[id:218c2739-d9ab-4440-874d-14a0ca62ca85][данных]], шиной [[id:3efec6f9-19e1-492c-ab56-f9ceae8f7e27][AGP]] 2x, памятью типа [[id:840eb719-a818-4900-891c-8340a1f97582][SDRAM]] объёмом 8 Мб.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/rage-mobility-p.c2175][ATI Rage Mobility-P // TechPowerUp]]

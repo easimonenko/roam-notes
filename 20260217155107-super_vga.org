@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d1aa84d3-f9c2-48eb-b5f1-c45419cafa36
+:END:
+#+TITLE: Super VGA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :computer-graphics:vga:computer-architecture:
+
+*Super VGA* -- расширение стандарта [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][Video Graphics Array]]. Добавлен режим 800x600 и поддержка большего количества цветов за счёт 24-битного кодирования.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/SVGA][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Super_VGA][Wikipedia [EN]​]]

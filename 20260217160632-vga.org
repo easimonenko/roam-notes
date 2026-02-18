@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ceb83cea-d2a2-499c-a523-7a11e2ec2c8f
+:END:
+#+TITLE: VGA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :abbreviation:
+
+*VGA* -- сокращение от [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][Video Graphics Array]].

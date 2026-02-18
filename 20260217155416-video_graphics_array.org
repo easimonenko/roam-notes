@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8ae452fc-0da3-4599-8f8f-5d6c57a5f931
+:END:
+#+TITLE: Video Graphics Array
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :computer-graphics:computer-architecture:
+
+*Video Graphics Array* -- стандарт на видеоподсистему компьютера, определяющий внешний компонентный интерфейс подключения графических дисплеев, [[id:656e1c2e-4186-43be-ace8-afce1862dac1][прикладной программный интерфейс]] и стандартизирующий доступные графические видеорежимы. Физический интерфейс является [[id:bd38b16e-08e2-40ed-beb2-abf9b9fe3249][аналоговым]]. Впервые появился в 1987 г. в [[id:e1951fe5-0cb2-431c-a42c-79a571bb93fd][IBM PS/2]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/VGA][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Video_Graphics_Array][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e72fe08f-18a3-4997-9f30-4487410b5106
+:END:
+#+TITLE: AMD-K6-2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :amd:cpu:x86-32:
+
+*AMD-K6-2* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][архитектуры]] [[id:bf767e43-c786-4fea-be86-b13e6dfee6b5][x86-32]] компании [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]], выпускавшийся с мая 1998 г. и являвшийся развитием [[id:569d04f2-e927-40de-9b1e-34a8acb3a6f6][AMD-K6]]. Одним из нововведений стал набор команд 3DNow!. Работали на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] от 200 до 550 МГц.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/K6-2][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/AMD_K6-2][Wikipedia [EN]​]]

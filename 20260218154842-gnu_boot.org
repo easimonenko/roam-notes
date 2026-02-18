@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e1493590-984b-4c26-a650-40a11ed37b92
+:END:
+#+TITLE: GNU Boot
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-18
+#+FILETAGS: :firmware:bootloaders:gnu:
+
+*GNU Boot* -- проект [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]], целью которого является распространение [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободных]] [[id:4191eba1-1db6-46ff-8968-0baae114c2a6][прошивок]] [[id:8efa02e1-5066-4d16-8f95-26368a41c8c0][BIOS]] и [[id:aa4df334-5abc-43cd-a43c-13273d86a451][UEFI]]. Основывается на [[id:bab9bac2-c5d6-43c3-a115-f8ea3f4b368e][Coreboot]], GRUB, [[id:d6cf6774-2c27-4758-b0f1-9f7783ebc9fd][SeaBIOS]].
+
+* Resources
+
+- [[https://www.gnu.org/software/gnuboot/][Home Page]]

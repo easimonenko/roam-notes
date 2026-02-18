@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       218c2739-d9ab-4440-874d-14a0ca62ca85
+:END:
+#+TITLE: Data Bus
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :computer-architecture:memory:bus:
+
+*Data Bus* (шина данных) -- [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шина]] в компьютере, по которой передаются данные из/в память.

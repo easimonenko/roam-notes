@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bd38b16e-08e2-40ed-beb2-abf9b9fe3249
+:END:
+#+TITLE: Analogue Signal
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :electronics:
+
+*Analogue Signal* (аналоговый сигнал) -- сигнал с произвольными значениями и непрерывный во времени.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Аналоговый_сигнал][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Analog_signal][Wikipedia [EN]​]]

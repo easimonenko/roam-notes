@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d2d6ae97-01f5-44cd-ac15-8fa54859c0f4
+:END:
+#+TITLE: ATI Rage
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-18
+#+FILETAGS: :ati:computer-graphics:
+
+*ATI Rage* -- линейка [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][графических]] [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][чипов]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]], выпускавшихся с 1996 г., пришедшая на смену линейке Mach.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/ATI_Rage][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/ATI_Rage][Wikipedia [EN]​]]
+- [[https://hmc-tech.com/lists/gpu/ati/family/rage][ATI Rage GPUs List // HMC Tech]]

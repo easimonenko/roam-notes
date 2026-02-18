@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33b466a1-0382-4d55-a71a-b7b1e5b49c28
+:END:
+#+TITLE: SVGA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-17
+#+FILETAGS: :abbreviation:
+
+*SVGA* -- сокращение от [[id:d1aa84d3-f9c2-48eb-b5f1-c45419cafa36][Super VGA]].

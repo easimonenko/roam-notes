@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5
+:END:
+#+TITLE: ATI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-18
+#+FILETAGS: :ati:computer-graphics:
+
+*ATI* -- американская компания, разработчик [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][графических]] [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][чипов]]. Основана в 1985 г. Поглощена компанией [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]] в 2006 г. Бренд использовался до 2010 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/ATI_Technologies][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/ATI_Technologies][Wikipedia [EN]​]]
