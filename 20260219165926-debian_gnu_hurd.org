@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7e2b7860-a1c4-4480-bcd9-bb478d1eaf55
+:END:
+#+TITLE: Debian GNU/Hurd
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-19
+#+FILETAGS: :gnu:hurd:debian:distributions:
+
+*Debian GNU/Hurd* -- дистрибутив [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:1cf387f2-2fe8-49a2-89cb-6ccc98c255a1][GNU/Hurd]], основанный на установщике и пакетной базе [[id:3f3186cc-0b9d-4172-af60-8a8656b2c9c1][Debian]].
+
+* Resources
+
+- [[https://www.debian.org/ports/hurd/hurd-cd][Home Page // Debian]]
+- [[https://ru.wikipedia.org/wiki/Debian_GNU/Hurd][Wikipedia [RU]​]]

@@ -6,10 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-11-27
-#+FILETAGS: :intel:notebooks:laptops:
+#+FILETAGS: :intel:notebooks:laptops:computer-graphics:
 
-*Intel 830MG* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], предназначенный для мобильных процессоров [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]]. Поддерживал [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][частотой]] 133, модули памяти [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]] и встроенную [[id:3efec6f9-19e1-492c-ab56-f9ceae8f7e27][AGP]]-видеокарту.
+*Intel 830MG* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], предназначенный для ноутбуков с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессорами]] [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] и [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]]. Поддерживал [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][частотой]] 133, модули памяти [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]] и встроенную [[id:3efec6f9-19e1-492c-ab56-f9ceae8f7e27][AGP]]-[[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]].
 
 * Resources
 
 - [[https://www.thinkwiki.org/wiki/Intel_830MG][ThinkWiki]]
+- [[https://www.techpowerup.com/gpu-specs/i830m-graphics.c1910][TechPowerUp]]

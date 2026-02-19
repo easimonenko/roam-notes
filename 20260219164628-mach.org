@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7499273b-36b0-4459-9f00-8ff6efe2ca77
+:END:
+#+TITLE: Mach
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-19
+#+FILETAGS: :microkernel:gnu:
+
+*Mach* -- [[id:2b035c11-d3ab-4b5a-a761-0048e1767749][микроядро]], разработанное в Carnegie Mellon University. Используется в [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционных системах]] [[id:1cf387f2-2fe8-49a2-89cb-6ccc98c255a1][GNU/Hurd]] и Apple MacOS X (и других).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Mach][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Mach_(kernel)][Wikipedia [EN]​]]

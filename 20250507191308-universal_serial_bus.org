@@ -8,7 +8,7 @@
 #+DATE: 2025-05-07
 #+FILETAGS: :usb:bus:
 
-*Universal Serial Bus* (USB) -- универсальная последовательная шина, спецификация на которую разрабатывает [[id:a0dd9ad8-48ad-4138-9f5a-2d7bec2c235a][USB Implementers Forum]].
+*Universal Serial Bus* (USB) -- универсальная [[id:40baaa56-33ac-4e03-974b-f0f9cb1c5735][последовательная]] [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шина]], спецификация на которую разрабатывает [[id:a0dd9ad8-48ad-4138-9f5a-2d7bec2c235a][USB Implementers Forum]].
 
 * Resources
 

@@ -6,11 +6,12 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2023-04-12
-#+FILETAGS: :kernel:gnu:
+#+FILETAGS: :kernel:gnu:microkernel:
 
-*GNU Mach* -- микроядро операционной системы GNU/Hurd проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]].
+*GNU Mach* -- [[id:2b035c11-d3ab-4b5a-a761-0048e1767749][микроядро]] [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] [[id:1cf387f2-2fe8-49a2-89cb-6ccc98c255a1][GNU/Hurd]] проекта [[id:70387987-1589-4241-b49a-f1e7d3df0743][GNU]]. Первоначально базировалось на [[id:7499273b-36b0-4459-9f00-8ff6efe2ca77][Mach]] 3, затем на Mach 4.
 
 * Resources
 
 - [[https://www.gnu.org/software/hurd/microkernel/mach/gnumach.html][GNU Mach Home Page]]
 - [[https://ftp.gnu.org/gnu/gnumach/][GNU Mach FTP Server]]
+- [[https://en.wikipedia.org/wiki/GNU_Mach][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       649ca2ab-2c5b-4960-8cd7-436152c7f077
+:END:
+#+TITLE: PS/2 Connector
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-19
+#+FILETAGS: :computer-architecture:ibm-pc:
+
+*PS/2 Connector* -- разъём в персональных компьютерах [[id:e201e107-76de-4e43-8001-d83cd968d1ef][IBM PC]] для подключения клавиатуры и мыши. Впервые появился в [[id:e1951fe5-0cb2-431c-a42c-79a571bb93fd][IBM PS/2]] в 1987 г. В старых ПК обычно имеется по два таких коннектора: один, сиреневый, для клавиатуры и один, зелёный, для мыши. В старых [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]] и более поздних ПК имелся один комбинированный разъём.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PS/2_(порт)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/PS/2_port][Wikipedia [EN]​]]

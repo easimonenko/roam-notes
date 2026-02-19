@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5120ee58-459e-44cf-a296-36d7dd3776cc
+:END:
+#+TITLE: USB Human Interface Device Class
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-19
+#+FILETAGS: :computer-architecture:usb:
+
+*USB Human Interface Device Class* (USB HID) -- класс устройств человеко-машинного интерфейса, таких как: клавиатура, мышь, сенсорные панели и дисплеи, с интерфейсом [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]].
+
+* Resources
+
+- [[https://www.usb.org/hid][Human Interface Devices (HID) Specifications and Tools // USB-IF]]
+- [[https://ru.wikipedia.org/wiki/USB_HID][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/USB_human_interface_device_class][Wikipedia [EN]​]]
+- [[https://blog.gistre.epita.fr/posts/ivan.imbert-2024-09-09-the_usb_keyboard_protocol/][The USB keyboard protocol // The Gistre Blog]]

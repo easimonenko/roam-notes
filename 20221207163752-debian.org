@@ -8,9 +8,10 @@
 #+DATE: 2022-12-07
 #+FILETAGS: :operating-system:linux:
 
-*Debian* -- популятный дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]]. У него собственный менеджер
-пакетов *dpkg* собственный инструмент управления зависимостями пакетов *apt*.
+*Debian* -- популярный и один из старейших дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]]. У него собственный менеджер пакетов *dpkg* и собственный инструмент управления зависимостями пакетов *apt*. Первый выпуск был сделан 16 августа 1993 г.
 
 * Resources
 
 - [[https://www.debian.org/][Debian Home Page]]
+- [[https://ru.wikipedia.org/wiki/Debian][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Debian][Wikipedia [EN]​]]

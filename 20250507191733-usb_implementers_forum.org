@@ -8,7 +8,7 @@
 #+DATE: 2025-05-07
 #+FILETAGS: :usb:organization:
 
-*USB Implementers Forum* (USB-IF) -- некоммерческая организация, занимающаяся протоколом USB.
+*USB Implementers Forum* (USB-IF) -- некоммерческая организация, занимающаяся протоколом [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]].
 
 * Resources
 

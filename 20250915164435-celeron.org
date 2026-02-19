@@ -14,3 +14,5 @@
 
 - [[https://ru.wikipedia.org/wiki/Celeron][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Celeron][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Список_микропроцессоров_Celeron][Список микропроцессоров Celeron // Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/List_of_Intel_Celeron_processors][List of Intel Celeron processors // Wikipedia [EN]​]]
