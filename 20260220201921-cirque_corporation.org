@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       49fff5cd-be28-4ce6-8a63-0b7812b9e3d3
+:END:
+#+TITLE: Cirque Corporation
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-20
+#+FILETAGS: :notebooks:laptops:electronics:
+
+*Cirque Corporation* -- американская дочерняя компании японской [[id:caf465a3-b192-4a47-9065-10953a76d98e][Alps Alpine]]. Производитель [[id:5fc8dc0a-1072-45ca-85d3-9ed1bfb6e06d][сенсорной панели]] для указателя мыши [[id:7a3c2e19-131f-4e13-b924-e9e78b4d3e9a][GlidePoint]], применяющейся в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Cirque_Corporation][Wikipedia [EN]​]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c4c2971a-c9d9-4121-a4d8-73aac4276756
+:END:
+#+TITLE: Intel 440ZXM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-21
+#+FILETAGS: :intel:chipsets:pentium-iii:
+
+*Intel 440ZXM* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], предназначавшийся для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессорами]] [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] и [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron (Coppermine)]]. Полное наименование 82443ZX-M. Поддерживал [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоту]] [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 МГц и модули памяти [[id:1a07576f-9b51-4431-b104-2a7eddc007dd][PC66]], [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]].
+
+* Resources
+
+- [[https://www.thinkwiki.org/wiki/Intel_440ZXM][ThinkWiki]]

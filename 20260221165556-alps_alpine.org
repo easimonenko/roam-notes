@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       caf465a3-b192-4a47-9065-10953a76d98e
+:END:
+#+TITLE: Alps Alpine
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-21
+#+FILETAGS: :electronics:companies:
+
+*Alps Alpine* -- японская компания, производитель электроники, в частности сенсорных панелей, применяемых в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]].
+
+* Resources
+
+- [[https://www.alpsalpine.com/j/][Home Page]]
+- [[https://en.wikipedia.org/wiki/Alps_Alpine][Wikipedia [EN]​]]

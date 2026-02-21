@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ad15e43a-d831-4a8f-8ccb-e9f7fd0977e8
+:END:
+#+TITLE: Touchpad
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-21
+#+FILETAGS: :electronics:
+
+*Touchpad* -- тип устройств ввода, представляющих из себя сенсорную панель и предназначенных для управления курсором. Выступает заменой мыши в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]] и других устройствах.
+
+Название является зарегистрированной  торговой маркой компании Synaptics. Поэтому другое компании называют этот тип устройств по другому, например, менее распространённое название [[id:5fc8dc0a-1072-45ca-85d3-9ed1bfb6e06d][Trackpad]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Тачпад][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Touchpad][Wikipedia [EN]​]]

@@ -13,3 +13,4 @@
 * Resources
 
 - [[https://www.cpu-world.com/CPUs/Celeron/TYPE-Mobile%20Celeron%20(Coppermine).html][Intel Mobile Celeron (Coppermine) microprocessor family // CPU-World]]
+- [[https://www.thinkwiki.org/wiki/Intel_Mobile_Celeron_(2)][ThinkWiki]]

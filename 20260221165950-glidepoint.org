@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7a3c2e19-131f-4e13-b924-e9e78b4d3e9a
+:END:
+#+TITLE: GlidePoint
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-21
+#+FILETAGS: :electronics:notebooks:
+
+*GlidePoint* -- сенсоная панель для указателя мыши, [[id:5fc8dc0a-1072-45ca-85d3-9ed1bfb6e06d][trackpad]], применяемая в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]], производства компании [[id:49fff5cd-be28-4ce6-8a63-0b7812b9e3d3][Cirque Corporation]] (ранее [[id:caf465a3-b192-4a47-9065-10953a76d98e][Alps Alpine]]).
+
+* Resources
+
+- [[https://www.cirque.com/glidepoint-trackpad-solutions][Product Page // Cirque Corp.]]
