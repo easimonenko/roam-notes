@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b33bd39e-6fba-43ad-814c-9829a399c220
+:END:
+#+TITLE: Hypervisor
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-28
+#+FILETAGS: :computing:operating-systems:
+
+*Hypervisor* -- программное обеспечение, непосредственно взаимодействующее с аппаратным обеспечением компьютера, при этом берущее на себя более ограниченный набор функций, чем [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционная система]]. Чаще всего применяется в системах виртуализации для запуска и управления несколькими, одновременно запущенными на одном компьютере системами.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Гипервизор][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Hypervisor][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       eeb4aa57-b0e7-494b-aa56-878edebc8d22
+:END:
+#+TITLE: Nonvolatile BIOS memory
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-28
+#+FILETAGS: :computing:
+
+*Nonvolatile BIOS memory* -- энергонезависимая память BIOS -- память в компьютере, предназначенная для хранения настроек [[id:8efa02e1-5066-4d16-8f95-26368a41c8c0][BIOS]]. Чаще всего выполнена как [[id:8c5b7889-057d-43b5-9070-32906a60d40a][статическая память]] по технологии CMOS. Обычно запитывается от батарейки CR2032, но могут использоваться и перезаряжаемые источники.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Энергонезависимая_память_BIOS][Wikipedia [RU]]]
+- [[https://en.wikipedia.org/wiki/Nonvolatile_BIOS_memory][Wikipedia [EN]​]]
