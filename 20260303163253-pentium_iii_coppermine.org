@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4a3630d9-66e4-4eb4-be1b-49502af49fc9
+:END:
+#+TITLE: Pentium III (Coppermine)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-03
+#+FILETAGS: :intel:pentium-iii:
+
+*Pentium III (Coppermine)* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]. Работал на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] от 500 до 1333 МГц. Имел кэш L2 256 Кб. Поддерживал частоту [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 и 133 МГц, [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][наборы инструкций]] [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]] и SSE. Выпускался в корпусах для установки в [[id:1faca528-5b1d-4a75-82a8-8531ce60b1a6][Slot 1]] и Socket 370.
+
+Пришёл на смену Pentium III с ядром [[id:1cc3b54c-61e3-4dd6-a411-a438d93015a6][Katmai]]. Был заменён на Pentium III с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]].
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Pentium-III/TYPE-Pentium%20III%20(Coppermine).html][Intel Pentium III (Coppermine) microprocessor family // CPU-World]]

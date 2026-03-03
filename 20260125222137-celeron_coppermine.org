@@ -8,4 +8,8 @@
 #+DATE: 2026-01-25
 #+FILETAGS: :intel:celeron:
 
-*Celeron (Coppermine)* -- микропроцессор линейки [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]].
+*Celeron (Coppermine)* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] линейки [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]. Работал на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотах]] от 533 МГц до 1,1 ГГц. Имел кэш L2 объёмом 128 Кб и поддерживал частоту шины [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 66 и 100 МГц и наборы инструкций [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]] и [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]]. Пришёл на смену Celeron на [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядре]] Mendocino.
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Celeron/TYPE-Celeron%20(Coppermine).html][Intel Celeron (Coppermine) microprocessor family // CPU-World]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d1f5835c-1cab-4641-b9a8-5ff2f3561619
+:END:
+#+TITLE: Mobile Celeron (Mendocino)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-02
+#+FILETAGS: :intel:celeron:pentium-ii:
+
+*Mobile Celeron (Mendocino)* -- модель [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:86ea10aa-5c78-479c-97a3-b7f7b73844d8][Mobile Celeron]], базирующаяся на [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядре]] Mendocino, разработанном на основе ядра [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]]. Предназначался для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] и был более дешёвой альтернативой для Mobile Pentium II, от которого отличался отсутствием SpeedStep. Имел [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][тактовую частоту]] от 266 до 466 МГц, поддерживал [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шину]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с частотой 66 МГц. Объём кэш L2 составлял 128 Кб. Производился в корпусах типа [[id:8ef2050d-c8bc-454d-a003-2202c1073359][BGA]] и mPGA.
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Celeron/TYPE-Mobile%20Celeron%20(Mendocino).html][Intel Mobile Celeron (Mendocino) microprocessor family // CPU-World]]

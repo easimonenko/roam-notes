@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       42e8b684-1123-4689-be67-e6afdd1a159a
+:END:
+#+TITLE: SSE
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-03
+#+FILETAGS: :abbreviation:
+
+*SSE* -- сокращение от [[id:78000391-a16b-4cd9-95bf-027c07b03889][Streaming SIMD Extensions]].

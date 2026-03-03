@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       06f97641-2139-48a4-a9e0-03963d059ff5
+:END:
+#+TITLE: Portable C Compiler
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-02
+#+FILETAGS: :c:compilers:
+
+*Portable C Compiler* (PCC) -- один из ранних и до сих пор развивающихся компиляторов языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Поставлялся с 4.4BSD. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]].
+
+* Resources
+
+- [[https://github.com/PortableCC/pcc][GitHub Page]]
+- [[https://ru.wikipedia.org/wiki/Portable_C_Compiler][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Portable_C_Compiler][Wikipedia [EN]​]]
