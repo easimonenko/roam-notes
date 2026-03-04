@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0a19f67b-3243-4433-ba3e-6489c5c03350
+:END:
+#+TITLE: Intel 830
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-04
+#+FILETAGS: :chipsets:intel:
+
+*Intel 830* -- семейство [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетов]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] для [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] и [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron (Tualatin)]]. Поддерживали [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоту]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 133 МГц и память [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][SDRAM]] [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]].
+
+Семейство включало в себя чипсеты 830M, 830MP, [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]].
+
+* Resources
+
+- [[https://www.intel.com/design/chipsets/mobile/830.htm][Mobile Intel 830 Chipset Overview // Intel]]

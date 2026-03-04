@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       62c9f483-533a-42c9-b566-fe7d1a5995fc
+:END:
+#+TITLE: Element Messenger
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-04
+#+FILETAGS: :federated:applications:messengers:
+
+*Element Messenger* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободно-распространяемое]] федеративное приложение для обмена сообщениями на основе протокола [[id:33296091-e9f5-4f52-8dba-33c18fea3bca][Matrix]]. Выпускаются две варианта: для настольного компьтера и смартфона. Вариант для ПК написан на [[id:ef72bec4-29ee-43e3-a8f1-6ac4594233e8][JavaScript]] с использованием Electron. Вариант для смартфона в зависимости от операционной системы: Java, Kotlin, Objective-C, Swift. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]].
+
+* Resources
+
+- [[https://element.io/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Element][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Element_(software)][Wikipedia [EN]​]]

@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-11-27
-#+FILETAGS: :intel:notebooks:laptops:computer-graphics:
+#+FILETAGS: :chipsets:intel:notebooks:laptops:computer-graphics:
 
-*Intel 830MG* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], предназначенный для ноутбуков с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессорами]] [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] и [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]]. Поддерживал [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][частотой]] 133, модули памяти [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]] и встроенную [[id:3efec6f9-19e1-492c-ab56-f9ceae8f7e27][AGP]]-[[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]].
+*Intel 830MG* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] семейства [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетов]] [[id:0a19f67b-3243-4433-ba3e-6489c5c03350][830]], предназначенный для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессорами]] [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III]] и [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]. Поддерживал [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][частотой]] 133, модули памяти [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]] и встроенную [[id:3efec6f9-19e1-492c-ab56-f9ceae8f7e27][AGP]]-[[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]].
 
 * Resources
 

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a
+:END:
+#+TITLE: Mobile Pentium II
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-04
+#+FILETAGS: :cpu:intel:pentium-ii:
+
+*Mobile Pentium II* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] линейки [[id:e4016bbc-f14a-43b5-9afa-f1ede8d6da7e][Pentium II]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], предназначенные для использования в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]]. Изготавливался в корпусках различных типов в том числе: [[id:66bd3555-5e96-40d1-b5f5-1150092d4520][MMC-1]], [[id:3c6282e2-850e-495c-b105-3ffd63b80455][MMC-2]], mPGA, BGA. Производился в 1998 и 1999 гг.
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Pentium-II/TYPE-Mobile%20Pentium%20II.html][Intel Mobile Pentium II microprocessor family // CPU-World]]

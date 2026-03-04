@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       33296091-e9f5-4f52-8dba-33c18fea3bca
+:END:
+#+TITLE: Matrix Protocol
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-04
+#+FILETAGS: :web:protocols:messaging:
+
+*Matrix Protocol* -- протокол обмена сообщениями в федеративной сети. Основывается на таких технологиях Веб, как WebRTC, RESTful API, JSON.
+
+* Resources
+
+- [[https://matrix.org/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/Matrix][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Matrix_(protocol)][Wikipedia [EN]​]]

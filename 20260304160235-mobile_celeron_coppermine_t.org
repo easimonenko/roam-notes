@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b9fd4e4e-42c0-4d17-843b-052535a6cbc8
+:END:
+#+TITLE: Mobile Celeron (Coppermine-T)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-04
+#+FILETAGS: :cpu:intel:celeron:notebooks:
+
+*Mobile Celeron (Coppermine-T)* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] линейки [[id:86ea10aa-5c78-479c-97a3-b7f7b73844d8][Mobile Celeron]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с ядром [[id:3f5aa99a-0106-4167-b457-a9ceafd9083d][Coppermine-T]], предназначенные для использования в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]]. Работали на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] от 700 до 933 МГц. Имели кэш L2 объёмом 128 Кб. Поддерживали частоту [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 133 МГц, наборы команд [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]] и [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]].
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/Celeron/TYPE-Mobile%20Celeron%20(Coppermine-T).html][Intel Mobile Celeron (Coppermine-T) microprocessor family // CPU-World]]
