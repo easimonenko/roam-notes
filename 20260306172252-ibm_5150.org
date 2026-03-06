@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ce72568a-ce04-424f-b4f4-5bf0f624cfd6
+:END:
+#+TITLE: IBM 5150
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-06
+#+FILETAGS: :ibm-pc:ibm:computing:
+
+*IBM 5150* -- первое поколение компьютеров компании [[id:80ce0f04-65b5-4767-b670-56d3cd22d608][IBM]] линейки [[id:e201e107-76de-4e43-8001-d83cd968d1ef][Personal Computer]]. Оснащались микропроцессором [[id:6e73f3d3-48de-4171-8ce8-0b556a4df44d][Intel 8088]] и имели открытую архитектуру, способствовавшую появлению совместимых с ним компьютеров от других производителей.
+
+Преемником модели стала [[id:0c6a072a-10e1-4510-9c54-e76a6aa471d2][IBM PC/XT]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/IBM_PC][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/IBM_Personal_Computer][Wikipedia [EN]​]]

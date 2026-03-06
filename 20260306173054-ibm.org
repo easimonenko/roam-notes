@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       80ce0f04-65b5-4767-b670-56d3cd22d608
+:END:
+#+TITLE: IBM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-06
+#+FILETAGS: :computing:
+
+*IBM* (International Business Machines) -- американская компания, разработчик и производитель компьютеров.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/IBM][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/IBM][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0c6a072a-10e1-4510-9c54-e76a6aa471d2
+:END:
+#+TITLE: IBM PC/XT
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-05
+#+FILETAGS: :ibm-pc:intel:
+
+*IBM PC/XT* -- второе поколение [[id:e201e107-76de-4e43-8001-d83cd968d1ef][IBM PC]]. Представлено в 1983 г. Производилось до 1987 г. Является экстенсивным развитием первого поколения: добавлена поддержка [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]], CGA, увеличен объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]], дисковод стал двухсторонним. Поздние варианты оснащались процессором [[id:1b2f82ad-997a-4067-85a6-4127f85d83bd][Intel 80286]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/IBM_PC/XT][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/IBM_Personal_Computer_XT][Wikipedia [EN]​]]

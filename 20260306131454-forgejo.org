@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       94351848-f724-414a-93c9-f45959de1ae5
+:END:
+#+TITLE: Forgejo
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-06
+#+FILETAGS: :git:services:
+
+*Forgejo* -- [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][свободное]] программное обеспечение для организации веб-сервиса по ведению программных проектов, аналогичного GitHub. Написано на [[id:b7c17b5d-7186-4ba4-8046-4b4a36045e07][Go]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://forgejo.org/][Home Page]]
+- [[https://codeberg.org/forgejo/forgejo][Git Repository // Codeberg]]

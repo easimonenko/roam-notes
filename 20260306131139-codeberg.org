@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       92244f3a-8af2-4e9e-b3f0-854cd0185912
+:END:
+#+TITLE: Codeberg
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-06
+#+FILETAGS: :git:services:
+
+*Codeberg* -- некоммерческий сервис для разработчиков открытых программных проектов, аналогичный GitHub, на основе [[id:94351848-f724-414a-93c9-f45959de1ae5][Forgejo]].
+
+* Resources
+
+- [[https://codeberg.org/][Home Page]]
+- [[https://blog.codeberg.org/][Blog]]
+- [[https://docs.codeberg.org/][Documentation]]

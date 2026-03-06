@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ec161921-6122-40b8-865d-9d3eb795f7b0
+:END:
+#+TITLE: IBM PC/AT
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-25
+#+FILETAGS: :ibm-pc:
+
+*IBM PC/AT* -- третье поколение [[id:e201e107-76de-4e43-8001-d83cd968d1ef][IBM PC]]. Характеризуется применением [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] [[id:1b2f82ad-997a-4067-85a6-4127f85d83bd][Intel 80286]], сопроцессора Intel 80287, 16-разрядной шины данных и 24-разрядной шины адреса, позволившей адресовать до 16 Мб памяти.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/IBM_PC/AT][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/IBM_Personal_Computer_AT][Wikipedia [EN]​]]
