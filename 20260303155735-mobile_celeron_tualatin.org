@@ -8,8 +8,9 @@
 #+DATE: 2026-03-03
 #+FILETAGS: :intel:celeron:
 
-*Mobile Celeron (Tualatin)* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] на основе [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядра]] [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]], применявшего также в [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]]. Работал на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] от 650 МГц до 1333 МГц. Имел кэш L2 256 Кб. Поддерживал частоту [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 и 133 МГц, наборы инструкций [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]] и SSE. В отличие от Mobile Pentium III-M не поддерживал SpeedStep. Производился в корпусах [[id:8ef2050d-c8bc-454d-a003-2202c1073359][BGA]] и Socket 479.
+*Mobile Celeron (Tualatin)* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] на основе [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядра]] [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]], применявшегося также в [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]]. Работал на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] от 650 МГц до 1333 МГц. Имел кэш L2 256 Кб. Поддерживал частоту [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 133 МГц и 100 МГц на моделях [[id:0d9d2821-5a8d-477c-9791-5cdb4b9ccd91][LV]] и [[id:aadfd397-3d73-47ae-aef6-e6f1f9d00537][ULV]], наборы инструкций [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]] и [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]]. В отличие от Mobile Pentium III-M не поддерживал SpeedStep. Производился в корпусах [[id:8ef2050d-c8bc-454d-a003-2202c1073359][BGA]] и Socket 479.
 
 * Resources
 
 - [[https://www.cpu-world.com/CPUs/Celeron/TYPE-Mobile%20Celeron%20(Tualatin).html][Intel Mobile Celeron (Tualatin) microprocessor family // CPU-World]]
+- [[https://www.thinkwiki.org/wiki/Intel_Mobile_Celeron_(3)][Intel Mobile Celeron (3) // ThinkWiki]]

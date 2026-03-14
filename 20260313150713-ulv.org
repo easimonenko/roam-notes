@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       aadfd397-3d73-47ae-aef6-e6f1f9d00537
+:END:
+#+TITLE: ULV
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-13
+#+FILETAGS: :computing:cpu:
+
+*ULV* (Ultra Low Voltage) -- сверхнизкое напряжение. Как и [[id:0d9d2821-5a8d-477c-9791-5cdb4b9ccd91][LV]] применяется к [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорам]] с пониженным напряжение питания для устройств с низком энергопотреблением и высокой мобильностью (субкомпактные [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуки]], планшетные компьютеры, смартфоны).

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0d9d2821-5a8d-477c-9791-5cdb4b9ccd91
+:END:
+#+TITLE: LV
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-13
+#+FILETAGS: :computing:cpu:
+
+*LV* (Low Voltage) -- низкое напряжение. Как и [[id:aadfd397-3d73-47ae-aef6-e6f1f9d00537][ULV]] применяется к моделям [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] с пониженным напряжением питания и предназначенным для использования в компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]] и других портативных устройствах.
