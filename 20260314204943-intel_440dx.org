@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c166c17b-66d0-4b1b-88ce-46a3254771b3
+:END:
+#+TITLE: Intel 440DX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-14
+#+FILETAGS: :intel:computer-architecture:
+
+*Intel 440DX* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Другое обозначение 82443DX. Предназначался для использования с [[id:d1f5835c-1cab-4641-b9a8-5ff2f3561619][Mobile Celeron (Mendocino)]]. Поддерживал [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 66 МГц и [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][память]] [[id:1a07576f-9b51-4431-b104-2a7eddc007dd][PC66]].
+
+* Resources
+
+- [[https://www.thinkwiki.org/wiki/Intel_440DX][Intel 440DX // ThinkWiki]]

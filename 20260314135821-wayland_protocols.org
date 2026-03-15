@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ece55d0e-1c93-4ec8-8346-0f7a8353458d
+:END:
+#+TITLE: Wayland Protocols
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-14
+#+FILETAGS: :wayland:
+
+*Wayland Protocols* -- набор протоколов, дополняющих основной [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-протокол.
+
+* Resources
+
+- [[https://gitlab.freedesktop.org/wayland/wayland-protocols][Git Repository]]

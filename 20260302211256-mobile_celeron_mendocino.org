@@ -13,3 +13,4 @@
 * Resources
 
 - [[https://www.cpu-world.com/CPUs/Celeron/TYPE-Mobile%20Celeron%20(Mendocino).html][Intel Mobile Celeron (Mendocino) microprocessor family // CPU-World]]
+- [[https://www.thinkwiki.org/wiki/Intel_Mobile_Celeron_(1)][Intel Mobile Celeron (1) // ThinkWiki]]

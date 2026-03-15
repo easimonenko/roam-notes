@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e1f5c21c-ba10-45c3-94f1-c8061dff40cf
+:END:
+#+TITLE: Intel 82371EB
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-14
+#+FILETAGS: :intel:computing:
+
+*Intel 82371EB* -- [[id:362ae3c4-36bb-47fb-8434-60720f0694b7][южный мост]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсета]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Другое название PIIX4E.
+
+* Resources
+
+- [[https://www.thinkwiki.org/wiki/Intel_82371EB][Intel 82371EB // ThinkWiki]]

@@ -14,3 +14,5 @@
 
 - [[https://ru.wikipedia.org/wiki/Гипервизор][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Hypervisor][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Сравнение_виртуальных_машин][Сравнение виртуальных машин // Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software][Comparison of platform virtualization software // Wikipedia [EN]​]]

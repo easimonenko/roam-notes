@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f2d18fc5-9d2d-4580-9a26-c267338d977c
+:END:
+#+TITLE: Objective-C
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-14
+#+FILETAGS: :c:
+
+*Objective-C* -- объектно-ориентированный язык программирования, являющийся расширением языка [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]] и реализующий идеи из языка [[id:8d7c44b4-c83d-498d-8b2c-33d14815feaa][Smalltalk]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Objective-C][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Objective-C][Wikipedia [EN]​]]
