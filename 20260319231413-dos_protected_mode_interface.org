@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b46afa8f-012e-4817-a8b7-1a178ffbb9c9
+:END:
+#+TITLE: DOS Protected Mode Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-19
+#+FILETAGS: :dos:ibm-pc:
+
+*DOS Protected Mode Interface* (DPMI) -- [[id:656e1c2e-4186-43be-ace8-afce1862dac1][программный интерфейс]] для [[id:7886d136-b5f7-4818-a389-74fdf8942966][DOS]], позволявший использовать её приложениями возможности защищёного режима [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:1b2f82ad-997a-4067-85a6-4127f85d83bd][Intel 80286]] и [[id:f76b3972-3740-4068-aade-3f0053eec075][i386]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/DPMI][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/DOS_Protected_Mode_Interface][Wikipedia [EN]​]]

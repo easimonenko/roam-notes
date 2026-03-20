@@ -18,3 +18,4 @@
 
 - [[https://ru.wikipedia.org/wiki/Pentium_III][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Pentium_III][Wikipedia [EN]​]]
+- [[https://en.wikipedia.org/wiki/List_of_Intel_Pentium_III_processors][List of Intel Pentium III processors // Wikipedia [EN]​]]

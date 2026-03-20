@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d0f1142b-9e64-47d5-a3ba-16320f6a211b
+:END:
+#+TITLE: River Wayland Compositor
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-03-16
+#+FILETAGS: :wayland:zig:
+
+*River Wayland Compositor* -- модульный [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композитор, в котором реализация базового протокола и [[id:e5ae5c8c-553f-4072-9a4a-6e07fc93bae6][оконный менеджер]] разделены. Написан на языке [[id:743f81da-b9e8-41e7-bb53-67e56b738f3c][Zig]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://isaacfreund.com/software/river/][Home Page]]
+- [[https://codeberg.org/river/river][Git Repository // Codeberg]]

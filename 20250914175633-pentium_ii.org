@@ -13,10 +13,12 @@
 Выпускался в различных исполнениях для монтажа на системной плате:
 - [[id:1faca528-5b1d-4a75-82a8-8531ce60b1a6][Slot 1]] для настольных ПК и серверов;
 - MMC ([[id:97532860-76df-497c-b426-aad16c3107df][Mobile Module Connector]]) для ноутбуков;
-- BGA для припаивания к плате, а также в составе MMC;
-- PGA для замены Pentium Pro с коннектором Socket 8.
+- [[id:8ef2050d-c8bc-454d-a003-2202c1073359][BGA]] для припаивания к плате, а также в составе MMC;
+- [[id:37cc3dc0-9821-4417-be6d-8c52cacc9071][PGA]] для замены Pentium Pro с коннектором Socket 8.
 
 * Resources
 
 - [[https://ru.wikipedia.org/wiki/Pentium_II][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Pentium_II][Wikipedia [EN]​]]
+- [[https://ru.wikipedia.org/wiki/Список_микропроцессоров_Pentium_II][Список микропроцессоров Pentium II // Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/List_of_Intel_Pentium_II_processors][List of Intel Pentium II processors // Wikipedia [EN]​]]
