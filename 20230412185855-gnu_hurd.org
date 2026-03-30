@@ -13,6 +13,7 @@
 * Resources
 
 - [[https://www.gnu.org/software/hurd/][GNU Hurd Kernel Home Page]]
+- [[https://cgit.git.savannah.gnu.org/cgit/hurd/hurd.git/][Git Page]]
 - [[https://ftp.gnu.org/gnu/hurd/][GNU Hurd FTP Server]]
 - Neal H. Walfield, Marcus Brinkmann. A Critique of the GNU Hurd Multi-Server Operating System
 - [[https://ru.wikipedia.org/wiki/GNU_Hurd][Wikipedia [RU]​]]

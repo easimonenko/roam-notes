@@ -15,3 +15,4 @@
 - [[https://lisp-lang.org/][Common Lisp Site]]
 - [[https://ru.wikipedia.org/wiki/Common_Lisp][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Common_Lisp][Wikipedia [EN]​]]
+- [[https://cl-cookbook.sourceforge.net/][The Common Lisp Cookbook]]
