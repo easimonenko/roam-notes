@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b119ab9a-ac1f-4959-bc31-e274b3373681
+:END:
+#+TITLE: Xenocara
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-04-23
+#+FILETAGS: :openbsd:x-window-system:
+
+*Xenocara* -- проект по интеграции [[id:8d338041-f251-4315-8663-b9baef055fef][X.Org]] в [[id:712a249d-e77c-418e-ad95-dd24162c0764][OpenBSD]]. Базируется на версии 7.7 и разрабатывается независимо.
+
+* Resources
+
+- [[https://www.xenocara.org/][Home Page]]
+- [[https://en.wikipedia.org/wiki/Xenocara][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       21bb4e7b-81ef-4b75-971a-d058b3421f42
+:END:
+#+TITLE: Merom
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-04-26
+#+FILETAGS: :cpu:intel:64bit:
+
+*Merom* -- [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядро]] [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][64-разрядных]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] семейства Core. Пришли на смену [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][CPU]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. На базе этого ядра выпускались двухядерные Core 2 Duo, Pentium Dual Core и Celeron Dual Core, одноядерные Core 2 Solo, Celeron M и Celeron. Производились в корпусах Socket M, Socket P, BGA479. [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][Тактовая частота]] составляла от 1.0 до 2.8 ГГц. Производились с 2006 по 2009 гг.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Merom][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Merom_(microprocessor)][Wikipedia [EN]​]]

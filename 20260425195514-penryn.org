@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6479e41e-97f9-474f-a6ef-aa0bb6b67786
+:END:
+#+TITLE: Penryn
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-04-25
+#+FILETAGS: :cpu:intel:64bit:
+
+*Penryn* -- [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядро]] [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][64-разрядных]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] семейства Core. Пришли на смену [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][CPU]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]. На базе этого ядра выпускались четырёх ядерные Core 2 Quad и Extreme, двухъядерные Core 2 Duo и Pentium Dual Core, одноядерные Core 2 Solo и Celeron M. [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][Тактовая частота]] составляла от 1.2 до 3.3 ГГц. В зависимости от [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсета]] могли работать с памятью DDR2 или DDR3. Процессоры производились с 2007 по 2011 гг.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Penryn][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Penryn_(microprocessor)][Wikipedia [EN]​]]
