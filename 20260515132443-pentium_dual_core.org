@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6bc537cc-b2c9-44e4-80ca-e1f19d2b2e59
+:END:
+#+TITLE: Pentium Dual-Core
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-15
+#+FILETAGS: :intel:x86-32:x86-64:
+
+*Pentium Dual-Core* -- линейка двухядерных [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], основанных на ядрах [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]], [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] и [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]]. От Core Duo и Core 2 Duo в основном отличались уменьшенным до 1 или 2 Мб объёмом L2-кэш и сниженной [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]]: 667 -> 533, 800 -> 667, 1066 -> 800. Устанавливались в те же разъёмы, что и старшие Core, и работали с теми же [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетами]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Pentium_Dual-Core][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Pentium_Dual-Core][Wikipedia [EN]​]]
+- [[https://www.cpu-world.com/CPUs/Pentium_Dual-Core/index.html][Intel Pentium Dual-Core processor families // CPU-World]]

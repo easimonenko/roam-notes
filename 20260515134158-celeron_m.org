@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7714cce4-bbeb-4f4a-942a-4901b9dd114e
+:END:
+#+TITLE: Celeron M
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-15
+#+FILETAGS: :intel:celeron:x86-32:
+
+*Celeron M* -- линейка [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], базировавшихся на [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядрах]] Banias (модели 310, 320, 330, 340), Dothan (модели 205, 350, 360, 370, 380, 390), [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]] (модели 512, 410, 420, 430, 450), [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] (модели 520, 530, 540, 550, 560, 570, 575, 585) и [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]] (модели 920, 925). От базировавшихся на тех же ядрах [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]] и Core отличались не только одноядерностью, но также уменьшенным вдвое L2-кэш и отсутствием технологии SpeedStep.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Celeron#Celeron_M][Wikipedia [EN]​]]

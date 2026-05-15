@@ -6,7 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-07-03
-#+FILETAGS: :linux:
+#+FILETAGS: :linux:gnu:bsd:
 
 *Hyperbola GNU/Linux* -- полностью свободный дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]] на основе Arch Linux. Также команда разрабатывает дистрибутив HyperbolaBSD на основе [[id:ea6dfd3d-03ee-46de-b055-f8488a8e9213][FreeBSD]].
 
@@ -14,3 +14,4 @@
 
 - [[https://www.hyperbola.info/][Home Page]]
 - [[https://en.wikipedia.org/wiki/Hyperbola_GNU/Linux-libre][Wikipedia [EN]​]]
+- [[https://git.hyperbola.info:50100/][Git Repositories]]

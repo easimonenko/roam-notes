@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5d015e83-9e62-4f69-a826-dfd2ebb107a0
+:END:
+#+TITLE: Socket P
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-13
+#+FILETAGS: :intel:cpu:
+
+*Socket P* -- разъём для мобильных [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] с ядрами [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] и [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]] Core 2 Duo (серии T5xx0, T6xx0, T7xx0, T8x00, P7xx0, P8xx0, P9xx0), [[id:6bc537cc-b2c9-44e4-80ca-e1f19d2b2e59][Pentium Dual-Core]] (T23x0, T2410, T3x00, T4x00) и [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Поддерживалась [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 400, 533, 667, 800 и 1066 МГц.
+
+Другое название: mPGA478MN.
+
+Пришёл на смену [[id:ce1d6441-841d-4ad0-bb7c-95c6c54deab4][Socket M]] (mPGA478MT).
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Socket_P][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Socket_P][Wikipedia [EN]​]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1ee90b56-cc65-42d1-9c54-9b5370c1074a
+:END:
+#+TITLE: Elpher
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-13
+#+FILETAGS: :emacs:gopher:gemini:browser:
+
+*Elpher* -- режим [[id:d5bb6273-4ab4-46dc-82e1-cbe584b102b7][GNU Emacs]], предоставляющий клиент (браузер) к серверам по протоколам Gopher и Gemini.
+
+* Resources
+
+- [[https://thelambdalab.xyz/elpher/][Home Page (Web)]]
+- [[gopher://thelambdalab.xyz/1/projects/elpher/][Home Page (Gopher)]]
+- [[https://elpa.nongnu.org/nongnu/doc/elpher.html][Documentation]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ce1d6441-841d-4ad0-bb7c-95c6c54deab4
+:END:
+#+TITLE: Socket M
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-12
+#+FILETAGS: :intel:cpu:
+
+*Socket M* -- разъём для мобильных [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с 478 контактами. Применялся с 2006 г. с процессорами Core Solo и Core Duo на ядре [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]], ранними Core 2 Duo на ядре [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] (серии T5x00 и T7x00), Celeron M серий 4 и 5, Pentium Dual-Core. Несовместим с Socket 478 и Socket P. Совместим с Socket 479 для процессоров Core. Поддерживалась [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 533, 667 и 800 МГц. Использовался с [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетами]] Intel 945PM, 945GM, PM965, GM965.
+
+Другое название: mPGA478MT.
+
+Пришёл на смену Socket 478 и [[id:15287e14-396d-47f4-b56b-1e73c0dc28eb][Socket 479m]]. Был заменён на Socket P.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Socket_M][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Socket_M][Wikipedia [EN]​]]
+- [[https://www.cpu-world.com/Sockets/Socket%20M%20(mPGA478MT).html][Socket M / Socket mPGA478MT // CPU-World]]
