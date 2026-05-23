@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a890bb98-3b3d-4e1c-a362-ce36f241ea18
+:END:
+#+TITLE: Core Solo
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-15
+#+FILETAGS: :intel:x86-32:
+
+*Core Solo* -- линейка одноядерных [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]].

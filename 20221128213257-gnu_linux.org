@@ -13,3 +13,4 @@
 * References
 
 - [[https://www.gnu.org/gnu/linux-and-gnu.en.html][Linux and the GNU System]]
+- [[https://www.gnu.org/distros/free-distros.html][Свободные дистрибутивы GNU/Linux // GNU.org]]

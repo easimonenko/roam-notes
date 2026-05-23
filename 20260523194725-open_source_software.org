@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8733e320-55c2-4c16-b2f8-16e9979b13df
+:END:
+#+TITLE: Open-Source Software
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-23
+#+FILETAGS: :opennes:free-software:
+
+*Open-Source Software* -- открытое программное обеспечение. Часто коротко: открытые исходники и open source. Термин введён и обоснован Эриком Реймондом в его "The Cathedral and the Bazaar" (Собор и базар). Предпосылки движения Open Source радикально отличаются от таковых у [[id:acc2a94c-32ea-40c4-86a0-d8de3085f574][Free Software]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Открытое_программное_обеспечение][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Open-source_software][Wikipedia [EN]​]]

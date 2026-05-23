@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1b8a9e41-cef1-4b45-bc17-ac8b7875cd1b
+:END:
+#+TITLE: Gemini
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-05-23
+#+FILETAGS: :internet:networking:
+
+*Gemini* -- гипертекстовый протокол Интернета прикладного уровня. Более простой чем HTTP.
+
+* Resources
+
+- [[gemini://geminiprotocol.net][Home Page (Gemini)]]
+- [[https://ru.wikipedia.org/wiki/Gemini_(протокол)][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Gemini_(protocol)][Wikipedia [EN]​]]
