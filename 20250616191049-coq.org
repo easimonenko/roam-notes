@@ -8,10 +8,11 @@
 #+DATE: 2025-06-16
 #+FILETAGS: :proof-assistant:
 
-*Coq* -- [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощник в доказательстве теорем]]. Переименован в Rocq. Написан на OCaml.
+*Coq* -- [[id:76c9d08d-bb4f-45c4-9cdc-a3d6a5530ab6][помощник в доказательстве теорем]]. Переименован в Rocq. Написан на [[id:393bbbe6-c7f1-49bc-9f99-0902c1fec58a][OCaml]].
 
 * Resources
 
 - [[https://rocq-prover.org/][Home Page]]
+- [[https://github.com/rocq-prover/rocq][GitHub Page]]
 - [[https://ru.wikipedia.org/wiki/Coq][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Rocq][Wikipedia [EN]​]]

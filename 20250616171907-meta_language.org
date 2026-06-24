@@ -6,7 +6,7 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-06-16
-#+FILETAGS: :programming-languages:
+#+FILETAGS: :functional-programming:programming-languages:
 
 *Meta Language* (ML) -- функциональный, статически типизированный язык программирования, являющийся прародителем семейства языков, названного в его честь.
 

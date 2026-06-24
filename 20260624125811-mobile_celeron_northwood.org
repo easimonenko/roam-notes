@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       99901151-0933-415d-98a1-925c29b13522
+:END:
+#+TITLE: Mobile Celeron (Northwood)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-24
+#+FILETAGS: :intel:celeron:
+
+*Mobile Celeron (Northwood)* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]], применявшемся также в [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]]. Предназначался для домашних и бюджетных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]]. Выпускался в 2003 г. Различные модификации имели [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоту]] от 1,4 до 2,5 ГГц. Оснащались кеш L2 объёмом 256 Кб. Поддерживали частоту шину [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 400 МГц. Поддерживали наборы команд [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]], [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]] и [[id:c1c5fa02-de81-4782-91e7-8eac4877dedd][SSE2]]. Сочетались с чипсетами 852GM, 855GME и 855PM. Устанавливались в [[id:e1cb2e2a-883d-4b4c-97ad-d4d218caa364][Socket 478]].
+
+* Resources
+
+- [[https://www.cpu-upgrade.com/CPUs/Intel/Mobile_Celeron/index.html][Intel Mobile Celeron // CPU-Upgrade]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a1741b66-49c2-4265-9556-f27e0ba5aa6c
+:END:
+#+TITLE: Pentium 4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-24
+#+FILETAGS: :intel:pentium-4:
+
+*Pentium 4* -- линейка [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектурой]] Netburst. Первое поколение с ядром Willamette было предсталено в 2000 г. Должна была заменить линейку [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]], однако сосуществовала с ней, а затем с [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]]. Линейка состояла из широкого спектра микропроцессоров, поддерживавших в том числе 64-битную разрядность и двухядерность и предназначавшихся для различных классов компьютеров. Для ноутбуков выпускались линейки [[id:fa3705f2-b78f-42dc-aef7-274262577e09][Mobile Pentium 4]] и [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Pentium_4][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Pentium_4][Wikipedia [EN]​]]
+- [[https://www.cpu-upgrade.com/CPUs/Intel/Pentium_4/index.html][Intel Pentium 4 family // CPU-Upgrade]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c1c5fa02-de81-4782-91e7-8eac4877dedd
+:END:
+#+TITLE: Streaming SIMD Extensions 2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-24
+#+FILETAGS: :intel:pentium-4:sse:
+
+*Streaming SIMD Extensions 2* -- дополнение к расширению [[id:b52935f3-ec13-47f1-b74a-c194ede41f2b][набора]] команд [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]]. Впервые появилось в [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядре]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]] в 2000 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/SSE2][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/SSE2][Wikipedia [EN]​]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c6654eb1-2f7b-4331-a714-be146bc90e39
+:END:
+#+TITLE: Northwood
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-24
+#+FILETAGS: :intel:cpu:pentium-4:
+
+*Northwood* -- [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядро]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Было предсталено в 2002 г. и пришло на смену ядру Willamette.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Pentium_4#Northwood][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Pentium_4#Northwood][Wikipedia [EN]​]]

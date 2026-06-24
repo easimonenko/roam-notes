@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       06f1eb83-9ffa-42af-bdee-015cf30193ac
+:END:
+#+TITLE: SSE2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-24
+#+FILETAGS: :abbreviation:
+
+*SSE2* -- сокращение от [[id:c1c5fa02-de81-4782-91e7-8eac4877dedd][Streaming SIMD Extensions 2]].

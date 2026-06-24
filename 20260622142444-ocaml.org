@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       393bbbe6-c7f1-49bc-9f99-0902c1fec58a
+:END:
+#+TITLE: OCaml
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-22
+#+FILETAGS: :functional-programming:programming-language:
+
+*OCaml* -- функциональный, статически типизированный язык программирования. Является развитием Caml. Принадлежит семейству языков [[id:08dbde20-14f5-4052-adb6-7ce4204a60d4][ML]]. Распространяется под GNU LGPL v2.1.
+
+* Resources
+
+- [[https://ocaml.org/][Home Page]]
+- [[https://en.wikipedia.org/wiki/OCaml][Wikipedia [EN]​]]
