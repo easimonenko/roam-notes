@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ead0a012-c8f9-457c-8b61-5b820bb0676a
+:END:
+#+TITLE: Socket 370
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-30
+#+FILETAGS: :cpu:intel:pentium-iii:celeron:
+
+*Socket 370* -- разновидность [[id:af807915-50f8-464e-86b1-c6ef76b42a08][сокета]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]], применявшегося с [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:897864df-082c-4776-8022-d56899bbaf71][Pentium III]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Socket_370][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Socket_370][Wikipedia [EN]​]]

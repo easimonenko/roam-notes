@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       48f0fbbd-8732-453c-a778-664ff5fa0ab7
+:END:
+#+TITLE: Intel 855PM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-30
+#+FILETAGS: :chipset:intel:
+
+*Intel 855PM* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], применявшийся совместно с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорами]] [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]], [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron (Northwood)]], [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]], [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]], [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]] и др. Предполагал использование отдельной [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарты]], такой как ATI Radeon.
+
+* Resources
+
+- [[https://www.cpu-upgrade.com/mb-Intel_(chipsets)/855PM.html][Intel 855PM chipset processor support // CPU-Upgrade]]

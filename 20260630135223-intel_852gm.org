@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       be888717-f7fe-49bb-b981-6464b3bbff9d
+:END:
+#+TITLE: Intel 852GM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-30
+#+FILETAGS: :chipset:intel:
+
+*Intel 852GM* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], применявшийся с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорами]] [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron (Northwood)]] и [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]]. Включал в себя встроенную [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]].
+
+* Resources
+
+- [[https://www.cpu-upgrade.com/mb-Intel_(chipsets)/852GM.html][Intel 852GM chipset processor support // CPU-Upgrade]]

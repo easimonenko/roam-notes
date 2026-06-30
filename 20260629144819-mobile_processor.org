@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f213cd3c-1d54-44cd-89aa-c582c7e93c16
+:END:
+#+TITLE: Mobile Processor
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-06-29
+#+FILETAGS: :cpu:
+
+*Mobile Processor* -- разновидность [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] для мобильных устройств, таких как: [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуки]], планшеты, смартфоны.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Mobile_processor][Wikipedia [EN]​]]
