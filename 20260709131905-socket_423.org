@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0f3578bb-26a9-40da-9ae2-efe6417e6210
+:END:
+#+TITLE: Socket 423
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-07-09
+#+FILETAGS: :intel:cpu:
+
+*Socket 423* -- разъём для [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]] с ядром Willamette компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]].
+
+Был заменён на [[id:e1cb2e2a-883d-4b4c-97ad-d4d218caa364][Socket 478]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Socket_423][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Socket_423][Wikipedia [EN]​]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       84982bbd-cdfe-4312-8783-09cff0cc1c6b
+:END:
+#+TITLE: Socket 479
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-07-09
+#+FILETAGS: :intel:cpu:
+
+*Socket 479* -- разъём для [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильных]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] и [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron (Tualatin)]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Поддерживалась [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 100 и 133 МГц.
+
+Другое название: mPGA478A.
+
+Пришёл на смену [[id:86c396a7-3d1d-49b4-81d5-bae878280d79][Socket 495]]. Был заменён на [[id:15287e14-396d-47f4-b56b-1e73c0dc28eb][Socket 479m]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Socket_479][Wikipedia [EN]​]]
