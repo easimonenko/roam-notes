@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b9b708f2-008c-4cfb-839f-868b34cb0909
+:END:
+#+TITLE: Celeron M (Yonah)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-07-28
+#+FILETAGS: :intel:x86-32:
+
+*Celeron M (Yonah)* -- одноядерные [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильные]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] линейки [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]] на базе [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядра]] [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Модели: 512, 410, 420, 430, 450.
