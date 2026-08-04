@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2026-05-15
-#+FILETAGS: :intel:x86-32:
+#+FILETAGS: :intel:x86-32:core-solo:
 
-*T1350* -- одноядерный 32-разрядный [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:a890bb98-3b3d-4e1c-a362-ce36f241ea18][Core Solo]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Поддерживает Enhanced SpeedStep. Применялся в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]].
+*T1350* -- одноядерный [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильный]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:a890bb98-3b3d-4e1c-a362-ce36f241ea18][Core Solo]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Поддерживает Enhanced SpeedStep.
 
 Характеристики:
 
@@ -20,3 +20,4 @@
 * Resources
 
 - [[https://www.cpu-world.com/CPUs/Core_Solo/Intel-Core%20Solo%20T1350%20LF80538GE0362M%20(BX80538T1350).html][Intel Core Solo T1350 // CPU-World]]
+- [[https://www.techpowerup.com/cpu-specs/core-solo-t1350.c412][Intel Core Solo T1350 // TECHPOWERUP]]

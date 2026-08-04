@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       271e3b0c-99b1-42ad-b64c-baa18bca5cb3
+:END:
+#+TITLE: Celeron M 430
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-08-04
+#+FILETAGS: :intel:celeron-m:
+
+*Celeron M 430* -- модель одноядерного [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильного]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]] линейки [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Имел [[id:8a07a5ed-d380-4bbf-9461-6630a516481e][тактовую]] [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоту]] 1.733 МГц, объём кэш L2 1 Мб и поддерживал частоту [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 533 МГц. Предназначался для установки в [[id:ce1d6441-841d-4ad0-bb7c-95c6c54deab4][Socket M]]. Использовался совместно с чипсетом Intel 940GML.
+
+По производительности близок к [[id:a890bb98-3b3d-4e1c-a362-ce36f241ea18][Core Solo]], однако не поддерживает технологию SpeedStep.
+
+Взаимозаменяем с другими Celeron M серии 400 (410, 420, 440, 450) и некоторыми Core Solo (серия T1x50), [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] (серия T2x50) и [[id:6bc537cc-b2c9-44e4-80ca-e1f19d2b2e59][Pentium Dual-Core]] (T2060, T2080, T2130).
+
+* Resources
+
+- [[https://www.cpu-upgrade.com/CPUs/Intel/Celeron_M/430.html][Intel Celeron M 430 CPU // CPU-Upgrade]]

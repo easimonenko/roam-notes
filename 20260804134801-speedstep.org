@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       762c4ef1-2fee-4ef0-a0af-de2787af0c45
+:END:
+#+TITLE: SpeedStep
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-08-04
+#+FILETAGS: :intel:
+
+*SpeedStep* -- технология динамического изменения [[id:8a07a5ed-d380-4bbf-9461-6630a516481e][тактовой]] [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоты]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессора]], применяемая в различных моделях процессоров компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Впервые появилась в [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] и переключала частоту с номинальной до пониженной. В дальнейшем была заменена на более продвинутую [[id:88d3616f-164f-43c4-a8f8-08b4bb8c97e3][Enhanced SpeedStep]].

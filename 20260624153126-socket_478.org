@@ -8,7 +8,9 @@
 #+DATE: 2026-06-24
 #+FILETAGS: :intel:cpu:pentium-4:
 
-*Socket 478* -- разъём для [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядрами]] [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]], большинства Prescott и некоторых Willamette компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Поддерживалась [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 400, 533 и 800 МГц.
+*Socket 478* -- разъём типа [[id:af807915-50f8-464e-86b1-c6ef76b42a08][Socket]] для [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]] и [[id:1072268a-688c-4847-aeb3-33858c3cdbbc][Celeron]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядрами]] [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]], большинства Prescott и некоторых Willamette компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Поддерживалась [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 400, 533 и 800 МГц.
+
+Другие названия: mPGA478, mPGA478B.
 
 * Resources
 

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f79cd00c-b7f1-4720-a67f-cb4cd8134072
+:END:
+#+TITLE: T2300E
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-08-04
+#+FILETAGS: :intel:x86-32:core-duo:
+
+*T2300E* -- двухядерный [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильный]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] линейки [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Имел [[id:8a07a5ed-d380-4bbf-9461-6630a516481e][тактовую]] [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоту]] 1.667 МГц, объём кэш L2 2 Мб. Поддерживал частоту [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 667 МГц и технологию [[id:88d3616f-164f-43c4-a8f8-08b4bb8c97e3][Enhanced SpeedStep]]. Предназначался для установки в [[id:ce1d6441-841d-4ad0-bb7c-95c6c54deab4][Socket M]].
+
+* Resources
+
+- [[https://www.cpu-upgrade.com/CPUs/Intel/Core_Duo/T2300E_(Socket_M).html][Intel Core Duo T2300E (Socket M) CPU // CPU-Upgrade]]

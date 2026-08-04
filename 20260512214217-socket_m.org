@@ -8,11 +8,11 @@
 #+DATE: 2026-05-12
 #+FILETAGS: :intel:cpu:
 
-*Socket M* -- разъём для мобильных [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с 478 контактами. Применялся с 2006 г. с процессорами Core Solo и Core Duo на ядре [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]], ранними Core 2 Duo на ядре [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] (серии T5x00 и T7x00), Celeron M серий 4 и 5, Pentium Dual-Core. Несовместим с Socket 478 и Socket P. Совместим с Socket 479 для процессоров Core. Поддерживалась [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 533, 667 и 800 МГц. Использовался с [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетами]] Intel 945PM, 945GM, PM965, GM965.
+*Socket M* -- разъём типа [[id:af807915-50f8-464e-86b1-c6ef76b42a08][Socket]] для [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильных]] [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессоров]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с 478 контактами. Применялся с 2006 г. с процессорами [[id:a890bb98-3b3d-4e1c-a362-ce36f241ea18][Core Solo]] и [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] на ядре [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]], ранними Core 2 Duo на ядре [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] (серии T5x00 и T7x00), [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] серий 4 и 5, [[id:6bc537cc-b2c9-44e4-80ca-e1f19d2b2e59][Pentium Dual-Core]]. Несовместим с Socket 478 и Socket P. Поддерживалась [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] с [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частотой]] 533, 667 и 800 МГц. Использовался с [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетами]] Intel 945PM, 945GM, PM965, GM965.
 
 Другое название: mPGA478MT.
 
-Пришёл на смену Socket 478 и [[id:15287e14-396d-47f4-b56b-1e73c0dc28eb][Socket 479m]]. Был заменён на Socket P.
+Пришёл на смену [[id:e1cb2e2a-883d-4b4c-97ad-d4d218caa364][Socket 478]] и [[id:15287e14-396d-47f4-b56b-1e73c0dc28eb][Socket 479m]]. Был заменён на [[id:5d015e83-9e62-4f69-a826-dfd2ebb107a0][Socket P]].
 
 * Resources
 
