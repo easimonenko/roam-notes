@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       12ea1d49-cc56-4e63-bffe-24832fcc41c8
+:END:
+#+TITLE: Aspire 5612WLMi
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-08-05
+#+FILETAGS: :acer:aspire:intel:
+
+*Aspire 5612WLMi* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] марки Aspire компании Acer.
+
+Характеристики:
+
+- Год выпуска: 2006.
+- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][Процессор]]: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] [[id:6ad8216c-5091-4449-a4f2-44dbea89b94a][T2300]].
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel 945GM.
+- [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][Память]]: 512 Мб DDR2.
+- Дисплей: 15.4" WXGA 1280x800 CrystalBrite.
+- [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][Видеокарта]]: NVIDIA GeForce Go 7300.
+- Видеопамять: до 256 Мб из RAM.
+- [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: 80 Гб 5400 об/мин.
+- DVD: Super Multi Double Layer, DVD-RW.
+- WiFi: Intel PRO Wireless 3945ABG, 802.11a/b/g.
+- Ethernet: .
+- Другое: TouchPad,  Web Camera, Microphone.
+- ОС: Windows XP Home Edition SP2.
+- Аккумулятор: 4000 mAh, 3 часа.
+- Размеры: 358x264x35.5
+- Вес: .
+
+* Resources
+
+- [[https://mobilespecs.net/laptop/Acer/Acer_Aspire_5612WLMIi.html][Acer Aspire 5612WLMIi specs // MobileSpecs]]

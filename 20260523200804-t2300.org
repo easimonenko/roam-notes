@@ -8,7 +8,7 @@
 #+DATE: 2026-05-23
 #+FILETAGS: :intel:x86-32:
 
-*T2300* -- двухядерный 32-разрядный [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Поддерживает Enhanced SpeedStep. Применялся в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]].
+*T2300* -- двухядерный 32-разрядный [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильный]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Поддерживает [[id:88d3616f-164f-43c4-a8f8-08b4bb8c97e3][Enhanced SpeedStep]].
 
 Характеристики:
 

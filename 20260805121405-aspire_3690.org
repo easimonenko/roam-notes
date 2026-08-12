@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       d8a403ab-22ab-48f3-a6df-9e3de7d64f15
+:END:
+#+TITLE: Aspire 3690
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-08-05
+#+FILETAGS: :acer:aspire:intel:
+
+*Aspire 3690* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] марки Aspire компании Acer.
+
+Характеристики:
+
+- Год выпуска: 2006.
+- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][Процессор]]: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] 410, 420, [[id:271e3b0c-99b1-42ad-b64c-baa18bca5cb3][430]].
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel 940GML.
+- [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][Память]]: 256 Мб DDR2.
+- Дисплей: 15.4" WXGA 1280x800 CrystalBrite.
+- Видеокарта: Intel Graphics Media Accelerator 950.
+- [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][Видеопамять]]: до 224 Мб из RAM.
+- [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: 40 Гб 5400 об/мин.
+- DVD: Super Multi Double Layer, DVD-RW.
+- WiFi: Intel PRO Wireless 3945ABG, 802.11a/b/g.
+- Ethernet: .
+- PCMCIA: Type II.
+- Коннекторы: 4 [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:54cdb985-c00f-407f-9723-42528376634e][S-Video]], Audio Line-out, Line-In.
+- Другое: TouchPad,  Web Camera, Microphone.
+- ОС: Windows XP Home Edition SP2.
+- Аккумулятор: 4000 mAh, 3 часа.
+- Размеры: 357.9x264.9x35.8
+- Вес: .
+
+* Resources
+
+- [[https://www.miniputer.com/Acer/Aspire_3690.html][Acer Aspire 3690 notebook specifications // Miniputer]]
