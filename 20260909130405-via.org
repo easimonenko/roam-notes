@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       720a0917-0b7d-43d3-bce9-1a6abcbe7ff8
+:END:
+#+TITLE: VIA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-09
+#+FILETAGS: :cpu:chipsets:
+
+*VIA Technologies* -- тайваньская компания, разработчик [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][микросхем]], включая [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсеты]], [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] и [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][память]]. Основана в 1987 г.
+
+* Resources
+
+- [[https://www.viatech.com/en/][Home Page]]
+- [[https://ru.wikipedia.org/wiki/VIA_Technologies][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/VIA_Technologies][Wikipedia [EN]​]]

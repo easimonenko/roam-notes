@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b815f9ae-5a30-44c0-a5cd-659e09a092f6
+:END:
+#+TITLE: RIVA 128
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-06
+#+FILETAGS: :nvidia:gpu:
+
+*RIVA 128* -- [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] компании nVidia с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] NV3, выпущенное в 1997 г. Поддерживало ускорение 3D-графики и видео в форматах MPEG1 и MPEG2. Поддерживало [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:3efec6f9-19e1-492c-ab56-f9ceae8f7e27][AGP]] и [[id:13d0f774-615e-42cb-891b-ed547515966d][PCI]]. Максимальный объём памяти 4 Мб типа SGRAM, подключаемой к GPU по 128-разрядной шине с частотой 100 МГц.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/RIVA_128][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/RIVA_128][Wikipedia [EN]​]]

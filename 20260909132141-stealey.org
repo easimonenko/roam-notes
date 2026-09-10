@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c35d0de0-1970-4353-b1fb-819d0a5c0178
+:END:
+#+TITLE: Stealey
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-09
+#+FILETAGS: :cpu:intel:
+
+*Stealey* -- [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядро]] [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильных]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] A100 и A110. Является развитием ядра Dothan. Процессоры с этим ядром работали на частотах 600 (A100) и 800 (A110) МГц. Предназначался для ультрамобильных компьютерных устройств. Процессоры выпускались полтора года с июня 2007 по 2008 гг.
+
+* Resource
+
+- [[https://en.wikipedia.org/wiki/Stealey][Wikipedia [EN]​]]
