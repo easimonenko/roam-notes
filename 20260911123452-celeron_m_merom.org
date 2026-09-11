@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7d84721a-36d4-4976-99bd-074f8ba7a4cd
+:END:
+#+TITLE: Celeron M (Merom)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-11
+#+FILETAGS: :intel:celeron-m:
+
+*Celeron M (Merom)* -- серия [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][64-разрядных]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] линейки [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]. Процессоры обозначались тремя цифрами, первой из которых была 5. Поэтому ещё эту серию называют пятой. Пришли на смену [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]] (четвёртая серия).
