@@ -8,7 +8,7 @@
 #+DATE: 2026-06-30
 #+FILETAGS: :chipset:intel:
 
-*Intel 852GM* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], применявшийся с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорами]] [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron (Northwood)]] и [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]]. Включал в себя встроенную [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]].
+*Intel 852GM* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], применявшийся с [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессорами]] [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron (Northwood)]] и [[id:7714cce4-bbeb-4f4a-942a-4901b9dd114e][Celeron M]] на ядрах [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]] и [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]. Включал в себя встроенную [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]].
 
 * Resources
 

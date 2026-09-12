@@ -8,8 +8,9 @@
 #+DATE: 2026-05-15
 #+FILETAGS: :intel:celeron:x86-32:
 
-*Celeron M* -- линейка [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], базировавшихся на [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядрах]] Banias (модели 310, 320, 330, 340), Dothan (модели 205, 350, 360, 370, 380, 390), [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]] (модели 512, 410, 420, 430, 450), [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] (модели 520, 530, 540, 550, 560, 570, 575, 585) и [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]] (модели 920, 925). От базировавшихся на тех же ядрах [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]] и Core отличались не только одноядерностью, но также уменьшенным вдвое L2-кэш и отсутствием технологии SpeedStep.
+*Celeron M* -- линейка [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], базировавшихся на ядрах [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]] (модели 310, 320, 330, 340), [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]] (модели 205, 350, 360, 370, 380, 390), [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]] (модели 512, 410, 420, 430, 450), [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] (модели 520, 530, 540, 550, 560, 570, 575, 585) и [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]] (модели 920, 925). От базировавшихся на тех же ядрах [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]] и Core отличались не только одноядерностью, но также уменьшенным вдвое L2-[[id:75958749-0319-4957-80a7-0d13149ca1bb][кэш]] и отсутствием технологии [[id:762c4ef1-2fee-4ef0-a0af-de2787af0c45][SpeedStep]].
 
 * Resources
 
 - [[https://ru.wikipedia.org/wiki/Celeron#Celeron_M][Wikipedia [EN]​]]
+- [[https://www.cpu-upgrade.com/CPUs/Intel/Celeron_M/index.html][Intel Celeron M family // CPU-Upgrade]]

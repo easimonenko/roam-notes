@@ -8,14 +8,14 @@
 #+DATE: 2026-05-23
 #+FILETAGS: :intel:x86-32:
 
-*T2300* -- двухядерный 32-разрядный [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильный]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] с [[id:b5099537-09da-482f-b6ae-3fc6d96649be][ядром]] [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Поддерживает [[id:88d3616f-164f-43c4-a8f8-08b4bb8c97e3][Enhanced SpeedStep]].
+*T2300* -- двухядерный 32-разрядный [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильный]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессор]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]. Поддерживает [[id:88d3616f-164f-43c4-a8f8-08b4bb8c97e3][Enhanced SpeedStep]].
 
 Характеристики:
 
 - [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][Частота]] ядра: 1.667 МГц.
-- Частота [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шины]] [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]]: 667 МГц.
-- Разъём: [[id:ce1d6441-841d-4ad0-bb7c-95c6c54deab4][Socket M]] и [[id:8ef2050d-c8bc-454d-a003-2202c1073359][BGA]].
-- Объём L2-кэш: 2 Мб.
+- Скорость [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]]: 667 MT/s.
+- Корпус: под [[id:ce1d6441-841d-4ad0-bb7c-95c6c54deab4][Socket M]] или [[id:8ef2050d-c8bc-454d-a003-2202c1073359][BGA]].
+- Объём L2-[[id:75958749-0319-4957-80a7-0d13149ca1bb][кэш]]: 2 Мб.
 
 * Resources
 
