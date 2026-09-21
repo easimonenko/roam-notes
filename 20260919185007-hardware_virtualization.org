@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3238ff44-1b40-4025-b074-a5967da41e9c
+:END:
+#+TITLE: Hardware Virtualization
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-19
+#+FILETAGS: :computing:operating-systems:
+
+*Hardware Virtualization* -- аппаратная виртуализация -- технология виртуализации, встроенная в [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессор]] и позволяющая запускать на одном процессоре несколько экземпляров [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Аппаратная_виртуализация][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Hardware_virtualization][Wikipedia [EN]​]]

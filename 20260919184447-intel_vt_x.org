@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a2fd5948-5a20-4c70-b4f7-8d84240f3973
+:END:
+#+TITLE: Intel VT-x
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-19
+#+FILETAGS: :intel:operating-systems:
+
+*Intel VT-x* -- технология [[id:3238ff44-1b40-4025-b074-a5967da41e9c][аппаратной виртуализации]] [[id:ef8348e8-ed96-4d0e-ab69-8d31eba7b6b5][процессора]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Появилась в 2005 г. в процессорах [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]]. Работает совместно с [[id:b33bd39e-6fba-43ad-814c-9829a399c220][гипервизором]] и позволяет запускать на одном процессоре несколько экземпляров [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]].

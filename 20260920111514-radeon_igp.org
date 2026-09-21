@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       26fa508f-ecf7-4f3f-bb4d-3ce2bfe29107
+:END:
+#+TITLE: Radeon IGP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-20
+#+FILETAGS: :ati:gpu:chipsets:
+
+*Radeon IGP* -- линейка [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетов]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] со встроенным [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]].
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/?generation=ATI%20Radeon%20IGP][Список чипсетов на TechPowerUp]]

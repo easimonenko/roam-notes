@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b173be87-25da-4469-8cda-7d0fe6b4e364
+:END:
+#+TITLE: FMV-LifeBook
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-19
+#+FILETAGS: :fujitsu:japan:lifebook:
+
+*FMV-LifeBook* -- марка ноутбуков компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Модельный ряд схож с маркой [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] для внешних рынков, но имеет значительные отличия. Часть моделей родственны моделям LifeBook, но имеют отличия.

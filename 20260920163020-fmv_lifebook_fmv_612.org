@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       33cffc38-7af0-453b-8fb0-d170316ac946
+:END:
+#+TITLE: FMV-LifeBook FMV-612
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-20
+#+FILETAGS: :fujitsu:fmv:lifebook:intel:
+
+*FMV-LifeBook FMV-612* -- модель ноутбука компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] для внутреннего японского рынка. Разновидность модели [[id:23f2e937-8b77-45f1-933b-531f25c11cc5][FMV-LifeBook FMV-6120]].
+
+* Характеристики
+
+Процессор: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron (Tualatin)]], 1200 МГц
+Память: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]], 128 Мб
+Чипсет: [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][Intel 830MG]] с частотой [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 133 МГц
+Дисплей: 13.3" XGA TFT 1024x768
+Карты расширения: один слот PCMCIA Type I или II
+CD-проигрыватель: CD-ROM
+Внешний дисплей: UXGA 1600x1200
+Сеть: Ether net 100BASE-TX/10BASE-T
+Коннекторы: VGA, USB x 2, IrDA
+Размеры: 293x236.5x29.5
+Вес: 1.7 кг
+Начало производства: 2002-10-09
+
+* Модификации
+
+| Обозначение          | Процессор, модель, частота |      Объём |    Объём | Операционная система      |
+|                      |                            | памяти, Мб | HDD, ГГб |                           |
+|----------------------+----------------------------+------------+----------+---------------------------|
+| FMV-612MG3 FMV3MGCL2 | Mobile Celeron, 1200 МГц   |        128 |       20 | Windows 2000 Professional |
+| FMV-612MG3 FMV3MGCL3 | Mobile Celeron, 1200 МГц   |        128 |       20 | Windows XP Professional   |

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f
+:END:
+#+TITLE: Radeon IGP 340M
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-20
+#+FILETAGS: :ati:radeon:intel:
+
+*Radeon IGP 340M* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] со встроенным [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] RS200. Представлен 5 октября 2002 г. Применялся с процессорами [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]].
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/radeon-igp-340m.c674][ATI Radeon IGP 340M // TechPowerUp]]

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       8fc2fdd8-5b79-4cbe-b4d2-648d9ec894a6
+:END:
+#+TITLE: LifeBook E2010
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-19
+#+FILETAGS: :fujitsu:lifebook:intel:ati:
+
+*LifeBook E2010* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]]. В Европе модель производилась и продавалась компанией [[id:013abaa9-5e1b-4fcb-8a96-9b5d1b0e64c2][Fujitsu Siemens Computers]]. Разделяла шасси с моделью E7110 и отличалась от неё использованием [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсета]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]]. Это же шасси позже использовалось в моделях C1110 и E4010.
+
+* Характеристики
+
+- Процессор: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]], 2000 МГц
+- Память: [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]], максимальный объём 1024 Мб
+- Чипсет: [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][Radeon IGP 340M]]
+- [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: 30 Гб
+- Дисплей: 14" XGA TFT 1024x768 или 15.1" SXGA+ 1400x1050
+- Видеокарта: ATI Radeon RS200
+- Сеть: Ethernet 100BASE-T/10BASE-T
+- Модем: V.90
+- Звук: AC97, SigmaTel STAC9767
+- CD-проигрыватель: CD-R/RW
+- Коннекторы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, IrDA, RJ45, RJ11, [[id:54cdb985-c00f-407f-9723-42528376634e][S-Video]], Audio In, Audio Out, Replicator Port
+- Слоты расширения: PCMCIA, два Type I или Type II или один Type III
+- Блок питания: 19V 4.22A
+- Аккумулятор: 14.4V 3800 mAH
+- Операционная система: Windows XP Home Edition
+- Размер: 325.5x272.5x36.5 (14")
+- Вес: 2.65 кг
