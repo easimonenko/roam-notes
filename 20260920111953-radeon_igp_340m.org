@@ -8,8 +8,9 @@
 #+DATE: 2026-09-20
 #+FILETAGS: :ati:radeon:intel:
 
-*Radeon IGP 340M* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] со встроенным [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] RS200. Представлен 5 октября 2002 г. Применялся с процессорами [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]].
+*Radeon IGP 340M* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсета]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] со встроенным [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] RS200. Представлен 5 октября 2002 г. Применялся с процессорами [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]]. Поддерживает память DDR-200 и [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]. Работает совместно с южным мостом ATI [[id:ff37a536-a517-4a4c-8056-b3c9800a1273][IXP 200]].
 
 * Resources
 
 - [[https://www.techpowerup.com/gpu-specs/radeon-igp-340m.c674][ATI Radeon IGP 340M // TechPowerUp]]
+- [[https://3dnews.ru/121324][Чипсет ATi Radeon IGP // 3DNews]]

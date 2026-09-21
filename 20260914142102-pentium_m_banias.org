@@ -8,7 +8,7 @@
 #+DATE: 2026-09-14
 #+FILETAGS: :intel:pentium-m:
 
-*Pentium M (Banias)* -- [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильные]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] первого поколения линейки [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Работали с памятью [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]. Выпускались с марта 2003 г. и пришли на смену [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]]. В 2004 г. были замещены на [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M (Dothan)]]. Производиль в корпусах под [[id:15287e14-396d-47f4-b56b-1e73c0dc28eb][Socket 479m]].
+Pentium M (Banias)* -- первое поколение [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильных]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] линейки [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]]. Работали с памятью [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]. Выпускались с марта 2003 г. и пришли на смену [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]]. В 2004 г. были замещены на [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M (Dothan)]]. Производились в корпусах под [[id:15287e14-396d-47f4-b56b-1e73c0dc28eb][Socket 479m]].
 
 * Модели
 

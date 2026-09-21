@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ff37a536-a517-4a4c-8056-b3c9800a1273
+:END:
+#+TITLE: IXP 200
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-21
+#+FILETAGS: :ati:chipsets:
+
+*IXP 200* -- [[id:362ae3c4-36bb-47fb-8434-60720f0694b7][южный мост]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсета]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]], включающий в себя контроллер сети Ethernet 3Com и шести портовый контроллер [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0. Работает совместно с северным мостом ATI [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][Radeon IGP 340M]].
+
+* Resources
+
+- [[https://3dnews.ru/121324][Чипсет ATi Radeon IGP // 3DNews]]
