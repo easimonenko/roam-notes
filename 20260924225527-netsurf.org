@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       e786b1a4-78d5-43bd-9297-9d81f8277a61
+:END:
+#+TITLE: NetSurf
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :web:no-ai:
+
+*NetSurf* -- [[id:417c859d-b6c2-40f6-ac87-454c751251a8][графический]] веб-браузер. Написан на языке C. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://www.netsurf-browser.org/][Home Page]]
+- [[git://git.netsurf-browser.org/netsurf.git][Git Repository]]

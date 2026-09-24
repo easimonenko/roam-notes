@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       81dff3d1-198e-4a93-a6b9-b9200c84f334
+:END:
+#+TITLE: Package Manager
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :operating-systems:
+
+*Package Manager* -- менеджер пакетов -- программное обеспечение по управлению пакетами программ и библиотек. Выполняет функции установки, обновления и удаления пакетов. Существую менеджеры пакетов предоставляющие функцию по сборке пакетов из исходных текстов. Работает во взаимодействии с каталогом пакетов и архивом пакетов. Может являться неотъемлемой частью [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]] или дополнять её.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Система_управления_пакетами][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Package_manager][Wikipedia [EN]​]]

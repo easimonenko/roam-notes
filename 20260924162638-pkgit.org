@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f7b20861-4e28-406e-a2cb-f2425c56adfc
+:END:
+#+TITLE: pkgit
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :package-managers:no-ai:
+
+*pkgit* -- [[id:81dff3d1-198e-4a93-a6b9-b9200c84f334][менеджер]] пакетов, основанный на использовании [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]]. Написан с использованием языка [[id:55966219-c71e-4e75-a1ed-7f143dc1f4c5][Lua]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://git.symlinx.net/pkgit/about/][Home Page]]
+- [[https://git.symlinx.net/pkgit][Git Repository]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e47e2fd4-9b22-4e38-9a14-2f9e244db6c5
+:END:
+#+TITLE: pkgsrc
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :netbsd:package-managers:package-catalogs:no-ai:
+
+*pkgsrc* -- [[id:81dff3d1-198e-4a93-a6b9-b9200c84f334][менеджер]] и каталог пакетов операционной системы [[id:a0278ab4-827d-4a69-9c7b-ddc19580f836][NetBSD]]. Предоставляет функцию по сборке пакетов из исходных текстов. Каталог пакетов доступен для загрузки с сервера CVS.
+
+* Resources
+
+- [[https://pkgsrc.org/][Home Page]]

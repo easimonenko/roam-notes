@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2b4d8743-a986-4127-be73-1ef41e3d8899
+:END:
+#+TITLE: Niri
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :wayland:ai-favorable:
+
+*Niri* -- [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композитор. Написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/niri-wm/niri][GitHub Page]]
+- [[https://wiki.gentoo.org/wiki/Niri][Gentoo Wiki]]

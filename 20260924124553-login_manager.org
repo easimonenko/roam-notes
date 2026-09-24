@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       88594912-deb2-43b8-b8bf-58febfcc1653
+:END:
+#+TITLE: Login Manager
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :unix:
+
+*Login Manager* -- системный сервис [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобных]] систем, обеспечиващий процесс входа в систему.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Login_manager][Wikipedia [EN]​]]

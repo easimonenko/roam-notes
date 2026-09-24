@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       edab9d0f-1b52-4a76-a113-8ebb04b7ce15
+:END:
+#+TITLE: Vivarium
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :wayland:no-ai:
+
+*Vivarium* -- [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композитор. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+
+* Resources
+
+- [[https://github.com/inclement/vivarium][GitHub Page]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       176df0b0-6b68-49ba-80e6-6b0eaa0b3134
+:END:
+#+TITLE: Game of Trees
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :scm:vcs:openbsd:no-ai:
+
+*Game of Trees* (GOT) -- система [[id:ac46122d-600f-4e86-b904-e721b5ff2d69][управления]] версиями исходных текстов программ. Разработана в [[id:712a249d-e77c-418e-ad95-dd24162c0764][OpenBSD]] в качестве упрощённой альтернативы для [[id:1909cd0a-b30f-4769-bd71-9dd9ca3eb2f5][Git]]. Совместима со служебными данными Git. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:39a52314-606c-4bce-9563-ae2bbf86bb9e][BSD License]].
+
+* Resources
+
+- [[https://gameoftrees.org/][Home Page]]

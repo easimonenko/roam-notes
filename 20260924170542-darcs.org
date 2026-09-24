@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       579c307b-5793-4c5b-bd78-411ea462e20e
+:END:
+#+TITLE: Darcs
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :scm:vcs:haskell:no-ai:
+
+*Darcs* -- система [[id:ac46122d-600f-4e86-b904-e721b5ff2d69][управления]] версиями исходных текстов программ. Написана на языке [[id:c5c55d95-c907-421c-8fa9-225594a8348a][Haskell]].
+
+* Resources
+
+- [[https://darcs.net/][Home Page]]

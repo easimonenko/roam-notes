@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f93cfe4-70f4-43d7-974b-fc4791e968e6
+:END:
+#+TITLE: TUI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :abbreviation:
+
+*TUI* -- сокращение от [[id:c6a5b91e-890d-4038-8926-b15c102c9819][Text-based User Interface]].

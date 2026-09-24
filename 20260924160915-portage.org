@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1109e3b5-e161-4c3e-9d73-450fc712df22
+:END:
+#+TITLE: Portage
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :package-managers:
+
+*Portage* -- [[id:81dff3d1-198e-4a93-a6b9-b9200c84f334][менеджер]] пакетов с функцией сборки пакетов из исходных текстов. Разработан специально для Gentoo.
+
+* Resources
+
+- [[https://wiki.gentoo.org/wiki/Portage][Gentoo Wiki]]
+- [[https://gitweb.gentoo.org/proj/portage.git][Git Page]]

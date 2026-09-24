@@ -6,10 +6,12 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-06-15
-#+FILETAGS: :daemon:rust:
+#+FILETAGS: :linux:daemon:rust:
 
-*greetd* -- системный сервис, обеспечиващий процесс входа в систему. Написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
+*greetd* -- [[id:88594912-deb2-43b8-b8bf-58febfcc1653][менеджер входа]] для [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобных]] систем. Написан на языке [[id:9a0f7be6-3f32-49e5-a487-6211a090c2f3][Rust]]. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v3.
 
 * Resources
 
 - [[https://sr.ht/~kennylevinsen/greetd/][Git Repository]]
+- [[https://wiki.gentoo.org/wiki/Greetd][Gentoo Wiki]]
+- [[https://wiki.archlinux.org/title/Greetd][Arch Wiki]]

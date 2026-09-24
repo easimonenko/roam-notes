@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       52342429-9012-4029-b85f-8f57b9220739
+:END:
+#+TITLE: Sound Server
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :audio:sound:unix:
+
+*Sound Server* -- звуковой сервер -- сервис [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобной]] системы для предоставления приложениям доступа к звуковым устройствам.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Звуковой_сервер][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Sound_server][Wikipedia [EN]​]]

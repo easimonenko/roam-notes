@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c6a5b91e-890d-4038-8926-b15c102c9819
+:END:
+#+TITLE: Text-based User Interface
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :user-interfaces:
+
+*Text-based User Interface* (TUI) -- текстовый интерфейс пользователя -- интерфейс пользователя программ, не использующий графические возможность компьютера и основанный только на использовании символов текстового терминала.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Текстовый_интерфейс_пользователя][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Text-based_user_interface][Wikipedia [EN]​]]
+- [[https://github.com/rothgar/awesome-tuis][Awesome TUIs // GitHub]]

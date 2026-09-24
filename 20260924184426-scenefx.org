@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7cfd651e-803b-462c-8fcf-3b82a98c54cc
+:END:
+#+TITLE: SceneFX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :wayland:
+
+*SceneFX* -- [[id:656e1c2e-4186-43be-ace8-afce1862dac1][API]] для отрисовки, заменяющее таковое из [[id:bfde0f8f-87ef-4829-a6da-fbbcedb7d495][wlroots]]. Написано на языке C. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/wlrfx/scenefx][GitHub Page]]

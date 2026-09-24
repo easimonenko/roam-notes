@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3c0bef6f-ecb7-4886-860a-eb09421e4069
+:END:
+#+TITLE: Display Manager
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :unix:linux:
+
+*Display Manager* -- системный сервис [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобных]] систем, предоставляющий доступ к терминалу системы после [[id:88594912-deb2-43b8-b8bf-58febfcc1653][входа]] в неё.
+
+* Resources
+
+- [[https://wiki.archlinux.org/title/Display_manager][Arch Wiki]]

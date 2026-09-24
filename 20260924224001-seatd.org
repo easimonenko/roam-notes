@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       965b75ac-3f0b-42fb-84ff-945a17e736b3
+:END:
+#+TITLE: seatd
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :unix:linux:
+
+*seatd* -- менеджер сессий для [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобных]] систем. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://git.sr.ht/~kennylevinsen/seatd][Git Page // SourceHut]]
+- [[https://wiki.gentoo.org/wiki/Seatd][Gentoo Wiki]]

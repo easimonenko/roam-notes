@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8cd8fd7c-3992-419a-857f-9905c5b2da28
+:END:
+#+TITLE: cdm
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :unix:linux:bash:no-ai:
+
+*cdm* -- Console Display Manager -- [[id:3c0bef6f-ecb7-4886-860a-eb09421e4069][дисплейный менеджер]] для [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобных]] систем с [[id:c6a5b91e-890d-4038-8926-b15c102c9819][текстовым]] интерфейсом. Написан на Bash. Распространяется под [[id:9541deca-d668-45d6-9a8e-c295d2435c2f][GNU GPL License]] v2.
+
+* Resources
+
+- [[https://github.com/evertiro/cdm][GitHub Page]]
+- [[https://wiki.archlinux.org/title/CDM][Arch Wiki]]

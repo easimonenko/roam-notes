@@ -27,3 +27,4 @@ Git и Mercurial являются децентрализованными, а б�
 * Resources
 
 - [[https://en.wikipedia.org/wiki/Version_control][Wikipedia [EN]​]]
+- [[https://en.wikipedia.org/wiki/List_of_version-control_software][List of version-control software // Wikipedia [EN]​]]

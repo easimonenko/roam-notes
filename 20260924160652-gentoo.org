@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bd213a1d-fc03-4bf4-9abe-b0d875d8dd36
+:END:
+#+TITLE: Gentoo
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :gnu-linux:linux:distributions:
+
+*Gentoo* -- дистрибутив [[id:608e9bf8-da7a-4156-b4c8-089f57f5d143][GNU/Linux]], основанный на менеджере пакетов [[id:1109e3b5-e161-4c3e-9d73-450fc712df22][Portage]] и системе инициализации [[id:ca47cc5c-8515-4f41-b12a-4c8856088ac8][OpenRC]].
+
+* Resources
+
+- [[https://www.gentoo.org/][Home Page]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b8f2e859-7713-49a5-a709-fe393b3ff2e1
+:END:
+#+TITLE: SwayFX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :wayland:no-ai:
+
+*SwayFX* -- [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композитор, являющийся ответвлением от [[id:c21db3d3-2c4a-441e-a4df-14802110411a][Sway]]. Использует для отрисовки собственный API [[id:7cfd651e-803b-462c-8fcf-3b82a98c54cc][SceneFX]]. Написан на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/wlrfx/swayfx][GitHub Page]]

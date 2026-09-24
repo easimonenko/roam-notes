@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       09ec2b58-e329-4a1b-ae00-cb2bded61691
+:END:
+#+TITLE: sndio
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-24
+#+FILETAGS: :audio:sound:openbsd:no-ai:
+
+*sndio* -- подсистема [[id:712a249d-e77c-418e-ad95-dd24162c0764][OpenBSD]] для поддержки звуковых карт и интерфейсов. Ко всему прочему включает в себя [[id:52342429-9012-4029-b85f-8f57b9220739][звуковой сервер]]. Написана на языке [[id:ce679fa3-32dc-44ff-876d-b5f150096992][C]]. Распространяется под лицензией ISC.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Sndio][Wikipedia [EN]​]]
