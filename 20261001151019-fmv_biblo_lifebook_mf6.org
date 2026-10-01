@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       81f806ad-0d2d-4760-89d5-55df096a7eb3
+:END:
+#+TITLE: FMV-Biblo LifeBook MF6
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-01
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook MF6* -- модель линейки [[id:e19af800-ba4c-482e-9705-ce84fee671d6][FMV-Biblo LifeBook MF]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron (Coppermine)]]
+- Объём оперативной памяти:
+  - 64 Мб
+  - максимальный объём 256 Мб
+- Тип памяти: SDR SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+- Видеокарта: ATI RAGE Mobility-M с видеопамятью 4 Мб
+- Дисплей: 12.1" TFT XGA (1024x768)
+- Жёсткий диск: 6 Гб Ultra DMA/33
+- Разрешение внешнего дисплея: SXGA (1280x1024)
+- Проигрыватель компакт-дисков: DVD-ROM (MF7/700), CD-RW, CD-R, CD-ROM
+- Слоты PCMCIA: Type-I или Type-II
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T (у MF7/600W отсутствует)
+  - Модем V.90 56K
+- Внешние интерфесы: 2 x USB, FireWire S400, VGA, IrDA
+- Операционная система: Microsoft Windows 95 OSR2.1
+- Презентован: 2000-01-19
+- Начало производства: 2000-01-25
+- Размеры: 288 x 225 x 24.5-30.5
+- Вес: 1.7 кг
+
+* Модификации
+
+| Название      | P/N        | Процессор:              |
+|               |            | модель, частота         |
+|---------------+------------+-------------------------|
+| FMV-6500MF6/X | FMV6MF6XL5 | Mobile Pentium III, 500 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV6MF6XL5.html][FMV-BIBLO LIFEBOOK FMV-6500MF6/X // INVERSENET]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e19af800-ba4c-482e-9705-ce84fee671d6
+:END:
+#+TITLE: FMV-Biblo LifeBook MF
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-01
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook MF* -- линейка ультрапортативных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] для внутреннего рынка Японии компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] под "двойной" маркой FMV-Biblo и [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]]. Для внешнего рынка, в том числе европейского и российского, у моделей этой серии существовали двойняшки линейки LifeBook S Line. Почти все модели этой серии оснащались процессорами Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]], дисплеями TFT 12.1" XGA и отличались компактными размерами и малым весом.
+
+* Модели
+
+| Модель | Процессор, частота,     |      Объём |     Год |
+|        | МГц                     | памяти, Мб | произв. |
+|--------+-------------------------+------------+---------|
+| MF4    | Mobile Celeron, 450     |            |     200 |
+| [[id:00e3a9f2-afb8-45bc-9c30-e08d7fe77d90][MF5]]    | Mobile Pentium III, 400 |         32 |    1999 |
+| [[id:81f806ad-0d2d-4760-89d5-55df096a7eb3][MF6]]    | Mobile Pentium III, 500 |         64 |    2000 |
+| [[id:069b8c92-8896-4d66-a4ee-511bd513e797][MF7]]    | Mobile Pentium III, 600 |        128 |         |

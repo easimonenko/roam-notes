@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       279f92cb-3ce5-4a38-bd35-13ec0bf44cea
+:END:
+#+TITLE: SMART
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-30
+#+FILETAGS: :computing:operating-systems:
+
+*SMART* -- Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.) -- система мониторинга состояния [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]] и SSD. Связана с протоколами [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]] и SATA. SMART реализуется как на стороне контроллера диска, так и со стороны [[id:668ea4fd-84dd-4e28-8ed1-77539e6b610d][операционной системы]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/S.M.A.R.T.][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Self-Monitoring,_Analysis_and_Reporting_Technology][Wikipedia [EN]​]]
+- [[https://wiki.archlinux.org/title/S.M.A.R.T.][Arch Wiki]]

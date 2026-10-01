@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       01f9e507-f8f8-4710-830d-009387270653
+:END:
+#+TITLE: FMV-Biblo MF4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-01
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MF4* -- модель линейки [[id:e19af800-ba4c-482e-9705-ce84fee671d6][FMV-Biblo LifeBook MF]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]].
+
+- Годы производства: -- 2000-08
+
+* Модификации
+
+| Название | P/N        | Процессор:          |
+|          |            | модель, частота     |
+|----------+------------+---------------------|
+| MF4/45D  | FMVMF445D3 | Mobile Celeron, 450 |
+
+* Resources

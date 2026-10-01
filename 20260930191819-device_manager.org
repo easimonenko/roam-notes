@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c14d6ef2-4516-4bb6-967a-376b94ebe211
+:END:
+#+TITLE: Device Manager
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-30
+#+FILETAGS: :unix:linux:bsd:
+
+*Device Manager* -- сервис [[id:d7896743-e295-4553-8050-8ff1f597360d][Unix-подобной]] системы, управляющий содержимым каталога /dev, в котором располагаются файлы устройств.
+
+* Resources
+
+- [[https://wiki.alpinelinux.org/wiki/Device_Manager][Alpine Wiki]]
