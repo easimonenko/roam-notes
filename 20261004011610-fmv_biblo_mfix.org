@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4d98af9b-f71a-457d-9722-797c455e162a
+:END:
+#+TITLE: FMV-Biblo MFIX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-04
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MFIX* -- серия ультрапортативных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:e19af800-ba4c-482e-9705-ce84fee671d6][MF]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Модели
+
+| Название | P/N       | Процессор:          | Объём       | Объём    | Дата        | Дата начала  |
+| модели   |           | модель, частота     | памяти (Мб) | HDD (Гб) | презентации | производства |
+|----------+-----------+---------------------+-------------+----------+-------------+--------------|
+| MFIX26   | FMVMF9261 | Mobile Celeron, 266 | 64          | 4.3      | 1999-01-27  | 1999-02      |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMF9261.html][FMV-BIBLO MFIX26 FMVMF9261 // INVERSENET]]

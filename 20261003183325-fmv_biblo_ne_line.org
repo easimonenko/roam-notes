@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9175c352-9503-4ba3-acbc-c7a18dcbf6b4
+:END:
+#+TITLE: FMV-Biblo NE Line
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NE Line* -- линейка домашних ноутбуков марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Первой серией моделей стала [[id:6ef6aac7-db20-4d1d-b6bb-95cbfa9a2adb][FMV-Biblo NE]]. представленная в мае 1999 г.
+
+* Resources
+
+- [[https://www.fmworld.net/product/former/biblo/b_ne.html][FMV-Biblo NE // FMVWorld]]

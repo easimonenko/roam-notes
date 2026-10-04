@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       7fb05462-3c6a-4e88-9ef9-9daa502fa2bf
+:END:
+#+TITLE: LifeBook P701
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS:
+
+*LifeBook P701* -- ультрапортативная модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]].
+
+* Общая спецификация
+
+- Процессор: Intel Core i5 или Mobile Celeron
+- Оперативная память:
+  - Тип памяти: DDR3-1333 PC3-10600
+  - Объём: 2048 Мб
+  - Два слота [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+- Дисплей: 12.1" WXGA 1280x800
+- Операционная система: Windows 7 Professional 64bit
+- Размеры: 283 x 215 x 26.3
+- Вес: 
+
+* Модификации
+
+| Название | P/N       | Процессор:               |       Объём |    Объём |        Дата | Дата начала  |
+|          |           | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | презентации | производства |
+|----------+-----------+--------------------------+-------------+----------+-------------+--------------|
+| P701/C   | FMVNGP4NM | Core i5 2520M, 2500      |        2048 |      160 |  2011-04-21 | 2011-05-05   |
+| P701/C   | FMVNGP4UM | Mobile Celeron 847, 1100 |        2048 |      160 |     2011-07 | 2011-08      |
+
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNGP4NM.html][LIFEBOOK P701/C FMVNGP4NM // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNGP4UM.html][LIFEBOOK P701/C FMVNGP4UM // INVERSENET]]

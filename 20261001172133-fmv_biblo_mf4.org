@@ -8,7 +8,7 @@
 #+DATE: 2026-10-01
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo MF4* -- модель линейки [[id:e19af800-ba4c-482e-9705-ce84fee671d6][FMV-Biblo LifeBook MF]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]].
+*FMV-Biblo MF4* -- ультрапортативная модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] линейки [[id:e19af800-ba4c-482e-9705-ce84fee671d6][MF]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
 
 - Годы производства: -- 2000-08
 

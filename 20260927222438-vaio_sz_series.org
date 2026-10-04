@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       0c6bf2ec-bd26-41bf-8784-773a372d3da4
+:END:
+#+TITLE: VAIO SZ Series
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-27
+#+FILETAGS: :sony:vaio:
+
+*VAIO SZ Series* -- серия ультрапортативных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] премиум-класса марки [[id:21dacb8b-6f5f-4f73-ab42-fc6e129de5ca][VAIO]] компании [[id:37cca7d0-e46b-4d91-bd8b-73c3b06cd3e0][Sony]]. Производилась с 2006 по 2008 гг. Оснащалась процессорами [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] и [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядрами [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] и [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]]. дисплеем 13.3" WXGA, памятью DDR2 и двумя видеокартами производства Intel и Nvidia. На фоне конкурентов ноутбуки выделялись малыми толщиной и весом. Размер моделей составлял: 315 x 234 x 22.8-32 мм. Вес составлял в обычном исполнении 1.86 кг, в премиум -- 1.67 кг. В премиум исполнении дисплей имел светодиодную подсветку и меньшую толщину. Обычные модели отличались серебристым цветом, а премиум -- чёрным.
+
+В качестве конкурентов можно рассматривать модели S6410 и S6420 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] компании Fujitsu.
+
+* Модели
+
+| Модель      | Процессор     | Тип и объём    | Видеокарта                           | Операционная           |     Год |
+|             |               | памяти, Мб     |                                      | система                | произв. |
+|-------------+---------------+----------------+--------------------------------------+------------------------+---------|
+| SZ1         | T2400 / T2500 | DDR2-667       | GMA 950 и GeForce Go 7400, 256 Мб    | Windows XP             |    2006 |
+| SZ3         | T5600 / T7200 | DDR2-667       | GMA 950 и GeForce Go 7400, 256 Мб    | Windows XP или Vista   |    2007 |
+| SZ4         | T5600 / T7200 | DDR2-667       | GMA X3100 и GeForce 8400M GS, 256 Мб | Windows Vista Business |    2007 |
+| SZ5         | T7200         | DDR2-667       | GMA X3100 и GeForce 8400M GS, 256 Мб | Windows Vista Business |    2007 |
+| SZ6         | T7500         | DDR2-667, 2048 | GMA X3100 и GeForce 8400M GS, 256 Мб | Windows Vista Business |    2007 |
+| SZ7         | T8100         | DDR2-800       | GMA X3100 и GeForce 8400M GS, 256 Мб | Windows Vista Business |    2008 |
+| SZ7 Premium | T9300         | DDR2-800       | GMA X3100 и GeForce 8400M GS, 256 Мб | Windows Vista Business |    2008 |
+
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Sony_Vaio_SZ_series][Wikipedia [EN]​]]
+- [[https://vaiolibrary.com/VGN-SZ_(XP)][VGN-SZ (XP) // VAIO Library]]
+- [[https://vaiolibrary.com/VGN-SZ_(Vista)][VGN-SZ (Vista) // VAIO Library]]

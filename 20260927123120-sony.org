@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       37cca7d0-e46b-4d91-bd8b-73c3b06cd3e0
+:END:
+#+TITLE: Sony
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-27
+#+FILETAGS: :electronics:companies:
+
+*Sony Corporation* -- японская компания в сфере разработки и производства [[id:25284465-6b9f-4190-b863-c0c0d95aefd4][электроники]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Sony_Corporation][Wikipedia [RU]​]]

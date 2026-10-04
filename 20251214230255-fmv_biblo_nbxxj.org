@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       9bc8ebec-c0f4-4c9f-9dde-f9a0fac14d2b
+:END:
+#+TITLE: FMV-Biblo NBxxJ
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2025-12-14
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NBxxJ* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:fb5cfdea-19ea-4467-a4c7-7587daaf67c2][NB]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:492cb082-d057-4860-bf1f-22275dbb8816][Pentium M (Banias)]] и [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M (Dothan)]]
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel 855GM
+- Объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]]: 512 Мб
+- Тип памяти: DDR SDRAM [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] (DDR-266)
+- Объём жёсткого диска: 80 Гб
+- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]/100
+- Проигрыватель компакт-дисков: DVD-RAM, DVD-R, DVD+R, DVD-RW, DVD+RW, CD-R, CD+R, CD-RW, CD+RW
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T, Wakeup on LAN
+  - WiFi 802.11b/g
+  - Модем V.92 56K
+- Дисплей: 15" TFT XGA (1024x768)
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Внешние интерфесы: 4 USB2, FireWire S400, VGA
+- Слоты PCMCIA: Type-I и Type-II или Type-III
+- Считыватель карт памяти: SD
+- Операционная система: Microsoft Windows XP Home Edition SP2
+- Питание: 19V 3.16A (60W)
+- Размеры: 329x288.5x43.1
+- Вес: 3.8 Кг
+
+* Модели
+
+| Название | P/N        | Процессор:            |       Объём |    Объём |        Дата |  Дата начала |
+| модели   |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | презентации | производства |
+|----------+------------+-----------------------+-------------+----------+-------------+--------------|
+| NB75J    | FMVNB75J   | Pentium M 725, 1600   |         512 |       80 |  2004-09-08 |   2004-09-11 |
+| NB90J/TS | FMVNB90JTS | Pentium M 735, 1700   |         512 |       80 |  2004-09-08 |   2004-09-25 |
+
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB75J.html][FMV-BIBLO NB NB75J FMVNB75J // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB90JTS.html][FMV-BIBLO NB NB90J/TS FMVNB90JTS // INVERSENET]]
+- [[http://www.pc-spec.info/FUJITSU/FMV%EF%BC%8DBIBLO_NB_NB75J_FMVNB75J/][FMV-BIBLO NB NB75J FMVNB75J // PC Spec]]

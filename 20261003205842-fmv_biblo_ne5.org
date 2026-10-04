@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       81adbb45-b6a0-4268-8772-0a9dae40fffd
+:END:
+#+TITLE: FMV-Biblo NE5
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NE5* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]]
+- Оперативная память:
+  - объём: 64 Мб на плате
+  - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] максимум 128 Мб
+  - тип памяти: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - максимальный объём: 192 Мб
+- Видеокарта: [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][ATI RAGE Mobility-P]]
+- Дисплей: 14.1" TFT XGA (1024x768)
+- Внешние интерфесы: 4 USB, FireWire S400, VGA, COM, LPT, PS/2
+- Операционная система: Windows Millenium
+- Размеры: 310 x 290 x 37
+- Вес: 3.2 кг
+
+* Модели
+
+| Название | P/N        | Процессор:              | Объём       | Объём    | Дата        | Дата начала  |
+| модели   |            | модель, частота (МГц)   | памяти (Мб) | HDD (Гб) | презентации | производства |
+|----------+------------+-------------------------+-------------+----------+-------------+--------------|
+| NE5/600R | FMVNE560R3 | Mobile Pentium III, 600 | 64          | 20       | 2000-09-26  | 2000-09-29   |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE560R3.html][FMV-BIBLO NE5/600R FMVNE560R3 // INVERSENET]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f7941f2e-b151-4728-af45-fb5ba82cb997
+:END:
+#+TITLE: Hyper-Threading
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-28
+#+FILETAGS: :intel:computer-architecture:
+
+*Hyper-Threading Technology* -- технология компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], впервые представленная в микроархитектуре [[id:8602d73a-1b5f-4292-8d11-d893f1bcac0f][NetBurst]]. в 2002 г. в [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]] и Xeon. При наличии поддержки, процессор программно выглядит как двухъядерный, при наличии единственного ядра. Параллелизм достигается за счёт динамического распределения ресурсов процессора между этими ядрами, а также двух экземпляров наборов регистров и контроллера прерываний APIC. Поддержка HTT имелась не у всех Pentium 4, а у Pentium M, Core Duo, Core 2 Duo и других процессорах на тех же ядрах и вовсе отсутствовала. Поддержка HTT вновь появляется в линейке Core i3, i5, i7.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Гиперпоточность][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Hyper-threading][Wikipedia [EN]​]]

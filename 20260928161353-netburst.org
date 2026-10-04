@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8602d73a-1b5f-4292-8d11-d893f1bcac0f
+:END:
+#+TITLE: NetBurst
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-28
+#+FILETAGS: :intel:pentium-4:
+
+*NetBurst* -- [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектура]] микропроцессоров семейства [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]]. Была представлена 20 ноября 2000 г. Должна была сменить микроархитектуру [[id:bc9fbc49-8400-416d-b287-fbd61f38bdd0][P6]]. Однако сосуществовала с ней в лице таких процессоров как Pentium III и Pentium M, и была замещена микропроцессорами с ядрами [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]] и [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] на всё той же P6. Отличительной чертой была большая длина конвейера и высокая тактовая частота, сопровождавшаяся большим тепловыделением. Впервые появилась технология [[id:f7941f2e-b151-4728-af45-fb5ba82cb997][Hyper-Threading]]. Первым ядром с NetBurst стало Willamette.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/NetBurst][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/NetBurst][Wikipedia [EN]​]]

@@ -16,3 +16,4 @@
 - [[https://cvsweb.netbsd.org/bsdweb.cgi/][CVSWeb]]
 - [[https://ru.wikipedia.org/wiki/NetBSD][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/NetBSD][Wikipedia [EN]​]]
+- [[https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/][NetBSD 11 from scratch // Luis Falcon]]

@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       4dfb3304-1276-46eb-b36a-925c71166616
+:END:
+#+TITLE: FMV-Biblo NBxxE
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NBxxE* -- серия моделей недорогих домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:fb5cfdea-19ea-4467-a4c7-7587daaf67c2][NB]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+Серия выполнена на том же шасси и в том же дизайне, что и предшествовавшая серия [[id:2a9625d3-27d8-4fc3-a16f-8e226614a965][NBxxC]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]] или [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron (Northwood)]]
+- Оперативная память:
+  - тип памяти DDR [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]]
+  - 256 Мб непосредственно на плате
+  - дополнительно в слот [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] до 512 Мб
+  - максимальный объём 768 Мб
+- Видеокарта: ATI [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][Radeon IGP 340M]]
+- Южный мост: ALI M1535+ со скоростью [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 400 MT/s
+- Дисплей: 15.1" TFT XGA (1024x768)
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- HDD Ultra ATA/100 40 или 60 Гб
+- Дисковод FDD
+- PCMCIA: 2 x Type II или 1 x Type III
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.92 56K
+- Внешние интерфесы: 4 x USB, FireWire S400, VGA
+- Дата презентации: 2003-09-24
+- Дата начала производства: 2003-09-27
+- Размеры: 325.3 x 282 x 39
+- Вес: 3.5 кг
+
+* Модели
+
+| Название | P/N       | Процессор:              |    Объём | Тип DVD         | Операционная            |
+|          |           | модель, частота (МГц)   | HDD (Мб) | проигрыв.       | система                 |
+|----------+-----------+-------------------------+----------+-----------------+-------------------------|
+| NB50E    | FMVNB50E  | Mobile Celeron, 2000    |       40 | CD-RW / DVD-ROM | Windows XP Home         |
+| NB50E    | FMVNB50EP | Mobile Celeron, 2000    |       40 | CD-RW / DVD-ROM | Windows XP Professional |
+| NB53E    | FMVNB53E  | Mobile Celeron, 2000    |       40 | DVD-RW          | Windows XP Home         |
+| NB55E    | FMVNB55E  | Mobile Celeron, 2000    |       40 | DVD-RAM         | Windows XP Home         |
+| NB55E/T  | FMVNB55ET | Mobile Celeron, 2000    |       60 | DVD-RAM         | Windows XP Home         |
+| NB70E    | FMVNB70E  | Mobile Pentium-4M, 2200 |       60 | DVD-RAM         | Windows XP Home         |
+| NB70E/T  | FMVNB70ET | Mobile Pentium-4M, 2200 |       60 | DVD-RAM         | Windows XP Home         |
+
+Модели с суффиксом T оснащались TV-приёмником и пультом ДУ.
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB50E.html][FMV-BIBLO NB50E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB50EP.html][FMV-BIBLO NB50E (P) // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB53E.html][FMV-BIBLO NB53E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55E.html][FMV-BIBLO NB55E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55ET.html][FMV-BIBLO NB55E/T // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB70E.html][FMV-BIBLO NB70E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB70ET.html][FMV-BIBLO NB70E/T // INVERSENET]]

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       91b016ff-a73c-4678-b3e1-5735a60ed27e
+:END:
+#+TITLE: FMV-Biblo LifeBook NU4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook NU4* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]] или [[id:d1f5835c-1cab-4641-b9a8-5ff2f3561619][Mobile Celeron (Mendocino)]]
+- Оперативная память:
+  - объём: 32 или 64 Мб
+  - максимальный объём: 256 Мб
+- Видеокарта: [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][ATI Rage Mobility-P]]
+- Внешние интерфейсы: 2 x USB, COM, LPT, VGA, IrDA
+- PCMCIA: 2 x Type I или II или 1 x Type III
+- Операционная система: Windows 95 OSR2.1 или Windows 98, Windows NT 4.0 SP4
+- Размеры: 308 x 266 x 42
+- Вес: 3.2 кг
+
+* Модели
+
+| Название      | P/N        | Процессор:             |       Объём |    Объём |  Дисплей |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)  | памяти (Мб) | HDD (Гб) |          | презентации | производства |
+|---------------+------------+------------------------+-------------+----------+----------+-------------+--------------|
+| FMV-6333NU4/Y | FMV4NUTYC5 | Mobile Celeron, 333    |          32 |      3.2 | 13.0 HPA |  1999-05-19 |   1999-06-05 |
+| FMV-6333NU4/Y | FMV4NUTYC6 | Mobile Celeron, 333    |          32 |      3.2 | 13.0 HPA |  1999-05-19 |   1999-06-05 |
+| FMV-633NU4C/W | FMV4NUTWB6 | Mobile Celeron, 333    |          32 |      4.3 |     12.1 |  1999-05-19 |   1999-06-05 |
+| FMV-6333NU4/X | FMV4NU1XA0 | Mobile Pentium II, 333 |          32 |      4.3 |     13.3 |  1999-05-19 |   1999-06-05 |
+| FMV-6333NU4/X | FMV4NU1XC0 | Mobile Pentium II, 333 |          32 |      4.3 |     13.3 |  1999-05-19 |   1999-06-05 |
+| FMV-6400NU4/L | FMV4NU4L35 | Mobile Pentium II, 400 |          64 |      6.4 |     14.1 |  1999-06-15 |   1999-06-25 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUTYC5.html][FMV-BIBLO LIFEBOOK FMV-6333NU4/Y FMV4NUTYC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUTYC6.html][FMV-BIBLO LIFEBOOK FMV-6333NU4/Y FMV4NUTYC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUTWB6.html][FMV-BIBLO LIFEBOOK FMV-633NU4C/W FMV4NUTWB6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU1XA0.html][FMV-BIBLO LIFEBOOK FMV-6333NU4/X FMV4NU1XA0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU1XC0.html][FMV-BIBLO LIFEBOOK FMV-6333NU4/X FMV4NU1XC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4L35.html][FMV-BIBLO LIFEBOOK FMV-6400NU4/L FMV4NU4L35 // INVERSENET]]

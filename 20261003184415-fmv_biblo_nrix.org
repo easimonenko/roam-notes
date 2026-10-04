@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       f7bfe6a6-be80-4959-8423-2dd790626f51
+:END:
+#+TITLE: FMV-Biblo NRIX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NRIX* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:d1f5835c-1cab-4641-b9a8-5ff2f3561619][Mobile Celeron (Mendocino)]] или [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]]
+- Оперативная память:
+  - объём: 64
+  - максимальный объём: 128
+- Чипсет: [[id:993d359c-04b6-4960-9421-0b8f297f5242][Intel 440BX]]
+- Видеокарта: ATI 3D RAGE LT PRO
+- Внешние интерфейсы: 1 x USB, COM, LPT, VGA, IrDA
+- Сеть:
+  - Модем V.90 56K
+- Операционная система: Windows 98
+- Размеры: 308 x 258 x 35
+- Вес: 2.5 кг
+
+* Модели
+
+| Название | P/N        | Процессор:            |       Объём |    Объём | Дисплей |        Дата |  Дата начала |
+|          |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) |         | презентации | производства |
+|----------+------------+-----------------------+-------------+----------+---------+-------------+--------------|
+| NRIX26X  | FMVNR96X3Z | Mobile Celeron, 266   |          64 |      6.4 |    13.3 |     1999-03 |      1999-03 |
+| NRIX30L  | FMVNR930L3 | Mobile Celeron, 300   |          64 |      6.4 |    14.1 |  1999-01-27 |   1999-02-05 |
+| NRIX30L  |            | Mobile Pentium II     |             |          |         |     1999-03 |      1999-03 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNR96X3Z.html][FMV-BIBLO NRIX26X FMVNR96X3Z // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNR930L3.html][FMV-BIBLO NRIX30L FMVNR930L3 // INVERSENET]]
+- [[https://www.fmworld.net/product/former/bi9901/index.html][FMV-BIBLO NRIX // FMVWorld]]

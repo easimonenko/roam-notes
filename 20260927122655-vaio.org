@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       21dacb8b-6f5f-4f73-ab42-fc6e129de5ca
+:END:
+#+TITLE: VAIO
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-27
+#+FILETAGS: :notebooks:laptops:
+
+*VAIO* -- марка настольных компьютеров и [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] компании [[id:37cca7d0-e46b-4d91-bd8b-73c3b06cd3e0][Sony]]. В настоящее время марка выделена в отделью компанию, не принадлежащую Sony.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/VAIO][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Vaio][Wikipedia [EN]​]]
+- [[https://vaiolibrary.com/Welcome_to_the_VAIO_Library][VAIO Library]]

@@ -8,7 +8,7 @@
 #+DATE: 2026-09-19
 #+FILETAGS: :fujitsu:fmv:lifebook:intel:pentium-iii:
 
-*FMV-LifeBook FMV-6120* -- модель ноутбука компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] для внутреннего японского рынка. Разновидность модели [[id:33cffc38-7af0-453b-8fb0-d170316ac946][FMV-LifeBook FMV-612]].
+*FMV-LifeBook FMV-6120* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] для внутреннего японского рынка. Разновидность модели [[id:33cffc38-7af0-453b-8fb0-d170316ac946][FMV-LifeBook FMV-612]].
 
 * Характеристики
 
@@ -32,3 +32,7 @@
 | FMV-6120MG3 FMV3MG9L2 | Mobile Pentium III-M, 1200 МГц |        128 |       20 | Windows 2000 Professional |
 | FMV-6120MG3 FMV3MG9L3 | Mobile Pentium III-M, 1200 МГц |        128 |       20 | Windows XP Professional   |
 | FMV-6120MG3 FMV3MG9L7 | Mobile Pentium III-M, 1200 МГц |        128 |       20 | Windows Millenium Edition |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3MG9L3.html][FMV-LIFEBOOK FMV-6120MG3 FMV3MG9L3 // INVERSENET]]

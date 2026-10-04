@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       d5c35c4b-5c4e-48df-9252-ffbdf704093c
+:END:
+#+TITLE: FMV-Biblo NBxxS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NBxxS* -- серия домашних ноутбуков линейки NB марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M (Yonah)]], [[id:a890bb98-3b3d-4e1c-a362-ce36f241ea18][Core Solo]]
+- Оперативная память:
+  - объём: 512 Мб в одном слоте
+  - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - тип памяти: DDR2-533 PC2-4200
+- Видеокарта: ATI Radeon Xpress 200M
+- Дисплей: 14.1" TFT XGA (1024x768)
+- Проигрыватель компакт-дисков: DVD-RAM, DVD-RW, CD-RW
+- Сетевые устройства:
+  - Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+  - WiFi a/b/g
+  - Модем V.92 56K
+- Внешние интерфесы: 5 x USB, FireWire S400, VGA
+- Слоты PCMCIA: 1 x Type-I или Type-II
+- Слоты ExpressCard x 1
+- Дисковод FDD
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Операционная система: Windows XP Home Edition SP2
+- Размеры: 329 x 283 x 40.5
+- Вес: 3.6-4.0 кг
+  
+* Модели
+
+| Название | P/N      | Процессор:            |       Объём |    Объём |        Дата |  Дата начала |
+| модели   |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | презентации | производства |
+|----------+----------+-----------------------+-------------+----------+-------------+--------------|
+| NB50S    | FMVNB50S | Celeron M 380, 1600   |         512 |      100 |  2006-04-11 |   2006-04-14 |
+| NB55S    | FMVNB55S | Celeron M 380, 1600   |         768 |      100 |  2006-04-11 |   2006-04-14 |
+| NB70S    | FMVNB70S | Core Solo T1300, 1667 |         512 |      100 |  2006-04-11 |   2006-04-14 |
+| NB75S    | FMVNB75S | Core Solo T1300, 1667 |         768 |      120 |  2006-04-11 |   2006-04-21 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB50S.html][FMV-BIBLO NB NB50S FMVNB50S // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB70S.html][FMV-BIBLO NB NB70S FMVNB70S // INVERSENET]]

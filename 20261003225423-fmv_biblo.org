@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b3ad9890-6f4f-45f3-9719-8767dc462ab3
+:END:
+#+TITLE: FMV-Biblo
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-03
+#+FILETAGS: :fujitsu:notebooks:
+
+*FMV-Biblo* -- марка ноутбуков компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Сначала, с конца 1990-х годов она использовалась  для всех моделей ноутбуков, затем применялась только к домашним, а для корпоративных использовались марки FMV-Biblo LifeBook, а затем [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] и [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].

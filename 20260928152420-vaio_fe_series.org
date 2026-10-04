@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       97316253-7bb3-4433-9ac9-bdf1523fe7c7
+:END:
+#+TITLE: VAIO FE Series
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-09-28
+#+FILETAGS: :sony:vaio:notebooks:laptops:
+
+*VAIO FE Series* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] для развлечений марки [[id:21dacb8b-6f5f-4f73-ab42-fc6e129de5ca][VAIO]] компании [[id:37cca7d0-e46b-4d91-bd8b-73c3b06cd3e0][Sony]]. Серия выпускалась с 2006 по середину 2007 гг. Ноутбуки оснащались процессорами Intel [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] T2300 и T2400 и [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] T5500, T5600, T7200, видеокартой Nvidia GeForce Go 7400 и памятью DDR2-533 (поздние DDR2-667) объёмом 1024 Мб.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Sony_Vaio_FE_series][Wikipedia [EN]​]]
+- [[https://vaiolibrary.com/VGN-FE][VGN-FE // VAIO Library]]
