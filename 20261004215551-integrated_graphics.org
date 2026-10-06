@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b72bea55-0946-40f8-bbe8-09d38dd2e666
+:END:
+#+TITLE: Integrated Graphics
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-04
+#+FILETAGS: :computing:gpu:chipsets:
+
+*Integrated Graphics* -- встроенная графика -- подход в построении компьютерных систем, при котором вместо отдельной [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарты]] применяется [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]], интегрированный в [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]]. Другой характерной чертой является отсутствие собственной видеопамяти и использование участка памяти в обычной [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][RAM]].
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/Graphics_processing_unit#Integrated_graphics][Wikipedia [EN]​]]

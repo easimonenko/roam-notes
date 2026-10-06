@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4312d707-fd70-4f20-9ca5-57b03ee0006e
+:END:
+#+TITLE: ATI RS100
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-05
+#+FILETAGS: :ati:rage:gpu:rs100:
+
+*ATI RS100* -- [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] с архитектурой Rage 6. Выпускался с 5 октября 2002 г.
+
+Использовался в следующих видеокартах линейки Radeon IGP: [[id:99752337-0bb6-46d0-84a9-9e3acad11e75][320M]], 320.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/ati-rs100.g620][ATI RS100 // TechPowerUp]]

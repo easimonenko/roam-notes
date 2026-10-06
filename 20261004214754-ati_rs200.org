@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       5529607c-1cc6-41f3-946f-389f1915f2cc
+:END:
+#+TITLE: ATI RS200
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-04
+#+FILETAGS: :ati:rage:gpu:rs200:
+
+*ATI RS200* -- [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] с архитектурой Rage 6. Выпускался с 1 мая 2002 г.
+
+Использовался в следующих видеокартах линейки Radeon IGP: 330M, [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][340M]], 345M, 350M.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/ati-rs200.g617][ATI RS200 // TechPowerUp]]
