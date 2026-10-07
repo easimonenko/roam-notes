@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       695e2c40-738a-4606-b99b-c97853e4f510
+:END:
+#+TITLE: FMV-LifeBook MG/H
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-06
+#+FILETAGS: :fujitsu:fmv-lifebook:lifebook:
+
+*FMV-LifeBook MG/H* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. На внешних рынках предлагалась её разновидность S7010 под маркой [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M (Dothan)]] или [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M (Banias)]]
+- Чипсет: Intel 855GME с Pentium M или 852GM с Celeron M
+- Оперативная память:
+  - тип: DDR-333 с Pentium M или DDR-266 с Celeron M
+  - объём: 256 Мб
+  - максимальный объём: 2 Гб с Pentium M или 1 Гб с Celeron M
+- Дисплей: 14.1" XGA
+- Операционная система: Windows XP Professional или Windows 2000 Professional
+- Размеры: 307 x 249 x 25.4
+- Вес: 1.82 кг
+
+* Модели
+
+| Название    | P/N       | Процессор:          |       Объём |    Объём |        Дата |  Дата начала |
+| модели      |           | модель, частота     | памяти (Мб) | HDD (Гб) | презентации | производства |
+|-------------+-----------+---------------------+-------------+----------+-------------+--------------|
+| FMV-820MGH  | FMVMGH2B3 | Celeron M 310, 1200 |         256 |       20 |  2004-05-10 |      2004-05 |
+| FMV-830MG/H | FMVMGH3HB | Celeron M 340, 1500 |         256 |       20 |  2004-10-14 |      2004-11 |
+| FMV-820MGH  | FMVMGH2E3 | Pentium M 715, 1500 |         256 |       20 |  2004-05-10 |      2004-05 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGH2B3.html][FMV-LIFEBOOK FMV-820MGH FMVMGH2B3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGH3HB.html][FMV-LIFEBOOK FMV-830MG/H FMVMGH3HB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGH2E3.html][FMV-LIFEBOOK FMV-820MGH FMVMGH2E3 // INVERSENET]]

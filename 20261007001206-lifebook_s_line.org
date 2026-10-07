@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7449e7e2-bff3-43a3-80b9-9a253bf10294
+:END:
+#+TITLE: LifeBook S Line
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-07
+#+FILETAGS: :fujitsu:lifebook:fmv-lifebook:
+
+*LifeBook S Line* -- линейка компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внешних рынков. В Европе и России продавались модели, произведённые совместным предприятием [[id:013abaa9-5e1b-4fcb-8a96-9b5d1b0e64c2][Fujitsu Siemens Computers]]. Линейка включала в себя модели с дисплеями 12.1", 13.3"и 14.1". Для внутреннего рынка предлагались разновидности моделей этой линейки под маркой [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]].
