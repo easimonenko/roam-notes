@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70fa2d7d-d61f-46c1-9e8d-cfc1d640d10e
+:END:
+#+TITLE: Mobile Chipset
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-08
+#+FILETAGS: :chipsets:notebooks:laptops:
+
+*Mobile Chipset* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]], предназначенный для использования в мобильных устройствах, таких как [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуки]], совместно с [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильными]] процессорами.

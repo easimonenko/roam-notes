@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2026-03-04
-#+FILETAGS: :cpu:intel:celeron:notebooks:
+#+FILETAGS: :cpu:intel:celeron:notebooks:mobile-processors:
 
-*Mobile Celeron Module* -- [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] линейки [[id:86ea10aa-5c78-479c-97a3-b7f7b73844d8][Mobile Celeron]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]]. Производились в корпусах [[id:66bd3555-5e96-40d1-b5f5-1150092d4520][MMC-1]] и [[id:3c6282e2-850e-495c-b105-3ffd63b80455][MMC-2]]. Работали на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] от 266 до 600 МГц. Имели кэш L2 объёмом 128 Кб. Поддерживали частоту [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 66 и 100 МГц.
+*Mobile Celeron Module* -- [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильные]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] линейки [[id:86ea10aa-5c78-479c-97a3-b7f7b73844d8][Mobile Celeron]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] , предназначенные для установки в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуки]]. Производились в корпусах [[id:66bd3555-5e96-40d1-b5f5-1150092d4520][MMC-1]] и [[id:3c6282e2-850e-495c-b105-3ffd63b80455][MMC-2]]. Работали на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] от 266 до 600 МГц. Имели [[id:75958749-0319-4957-80a7-0d13149ca1bb][кэш]] L2 объёмом 128 Кб. Поддерживали частоту [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 66 и 100 МГц.
 
 * Resources
 

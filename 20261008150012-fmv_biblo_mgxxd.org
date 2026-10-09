@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       5797c10c-507c-4807-a9f0-e21406b4bb27
+:END:
+#+TITLE: FMV-Biblo MGxxD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-08
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MGxxD* -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:0831976b-d826-4419-9adf-87f29561092f][MG]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron (Tualatin)]]
+- Память:
+  - тип: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]],
+  - объём: 256 Мб
+  - максимальный объём: 1024 Мб
+- Чипсет: Intel [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]] с частотой [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 133 МГц
+- Дисплей: 13.3" XGA TFT 1024x768
+- Карты расширения: один слот PCMCIA Type I или II
+- Проигрыватель компакт-дисков: DVD-ROM, CD-RW
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+  - модем V.90 56K
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, IrDA, FireWire S400
+- Внешний дисплей: UXGA 1600x1200
+- Размеры: 293x236.5x29.5
+- Вес: 1.7 кг
+
+* Модели
+
+| Название | P/N      | Процессор:            | Объём       | Объём    | Операционная        | Дата        | Дата начала  |
+| модели   |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система             | презентации | производства |
+|----------+----------+-----------------------+-------------+----------+---------------------+-------------+--------------|
+| MG12D    | FMVMG12D | Mobile Celeron, 1266  | 256         | 40       | Windows XP Home SP1 | 2003-05-13  | 2003-05-17   |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG12D.html][FMV-BIBLO MG12D FMVMG12D // INVERSENET]]

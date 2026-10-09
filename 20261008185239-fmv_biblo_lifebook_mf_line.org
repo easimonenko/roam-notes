@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       21794e44-e389-4c9c-9b48-dd048545c7d6
+:END:
+#+TITLE: FMV-Biblo LifeBook MF Line
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-08
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook MF Line* -- линейка ультрапортативных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. С 2000 г. линейка плавно продолжилась под тем же название [[id:66c7c523-ab1f-48e3-a855-707ccc9966b0][MF]], но под маркой [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]].

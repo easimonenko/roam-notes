@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       203b1fb4-1723-4e46-9755-cb763983a063
+:END:
+#+TITLE: FMV-Biblo LifeBook MF6
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-08
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook MF6* -- серия ультрапортативных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:21794e44-e389-4c9c-9b48-dd048545c7d6][MF]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании  [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия пришла на смену серии [[id:00e3a9f2-afb8-45bc-9c30-e08d7fe77d90][MF5]] и производилась с января 2000 г.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Оперативная память:
+  - тип: SDR SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]] 
+  - объём: 64 Мб
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 256 Мб
+- Видеокарта: ATI RAGE Mobility-M с видеопамятью 4 Мб
+- Дисплей: 12.1" TFT XGA (1024x768)
+- Жёсткий диск: 6 Гб Ultra DMA/33
+- Разрешение внешнего дисплея: SXGA (1280x1024)
+- Проигрыватель компакт-дисков: CD-RW, CD-R, CD-ROM
+- Слоты PCMCIA: Type-I или Type-II
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.90 56K
+- Внешние интерфесы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], IrDA
+- Операционная система:
+- Размеры: 288 x 225 x 24.5-30.5
+- Вес: 1.7 кг
+
+* Модификации
+
+| Название      | P/N        | Процессор:              |      Объём |    Объём | Операционная |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)   | памяти, Мб | HDD (Гб) | система      | презентации | производства |
+|---------------+------------+-------------------------+------------+----------+--------------+-------------+--------------|
+| FMV-645MF6C/W | FMV6MFGWL6 | Mobile Celeron, 450     |         64 |        6 |              |  2000-02-15 |   2000-02-27 |
+| FMV-645MF6C/W | FMV6MFGWD2 | Mobile Celeron, 450     |         64 |        6 |              |  2000-02-15 |   2000-02-27 |
+| FMV-6500MF6/X | FMV6MF6XL5 | Mobile Pentium III, 500 |         64 |        6 |              |  2000-01-10 |   2000-01-27 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV6MFGWL6.html][FMV-BIBLO LIFEBOOK FMV-645MF6C/W FMV6MFGWL6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV6MF6XL5.html][FMV-BIBLO LIFEBOOK FMV-6500MF6/X // INVERSENET]]

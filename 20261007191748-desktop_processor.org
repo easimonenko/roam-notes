@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       60d8a1d6-a348-454e-a2a0-d79ada544313
+:END:
+#+TITLE: Desktop Processor
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-07
+#+FILETAGS: :computing:cpu:
+
+*Desktop Processor* -- разновидность [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоров]] для настольных компьютеров в различных исполнениях и для различных назначений.

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4e7e9c43-28e4-4e44-a9dc-64f41328fe5f
+:END:
+#+TITLE: Radeon IGP 320
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-07
+#+FILETAGS: :ati:radeon:amd:integrated-graphics:
+
+*Radeon IGP 320* -- [[id:6fb66603-2913-44b3-b23f-44187daf01f7][северный мост]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсета]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] со [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенным]] [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] [[id:4312d707-fd70-4f20-9ca5-57b03ee0006e][RS100]]. Представлен 5 октября 2002 г. Применялся с [[id:60d8a1d6-a348-454e-a2a0-d79ada544313][настольными]] процессорами [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]] Athlon64.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/radeon-igp-320.c3362][ATI Radeon IGP 320 // TechPowerUp]]

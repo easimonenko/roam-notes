@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       d7187a47-63b6-41e9-9185-33f98f7a53f7
+:END:
+#+TITLE: FMV-Biblo MGxxJ
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-08
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MGxxJ* -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:0831976b-d826-4419-9adf-87f29561092f][MG]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Память:
+  - тип: DDR SDRAM PC-2700
+  - объём: 512 Мб
+  - расширение: два слота [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 2048 Мб
+- Чипсет: Intel 855GME со скоростью [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 400 MT/s
+- Дисплей: 14.1" XGA
+- Слоты расширения: PCMCIA 2 x Type I или Type II или 1 x Type III
+- Проигрыватель компакт-дисков: DVD-RAM/RW, CD-RW
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+  - модем V.92 56K
+  - WiFi a/b/g
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 3, FireWire S400
+- Внешний дисплей: UXGA 1600x1200
+- Размеры: 306 x 247 x 25.4
+- Вес: 1.77 кг
+
+* Модели
+
+| Название | P/N      | Процессор:            | Объём       | Объём    | Операционная     | Дата        | Дата начала  |
+| модели   |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
+|----------+----------+-----------------------+-------------+----------+------------------+-------------+--------------|
+| MG75J    | FMVMG75J | Pentium M 735, 1700   | 512         | 80       | Windows XP Prof. | 2004-09-08  | 2004-09-25   |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG75J.html][FMV-BIBLO MG75J FMVMG75J // INVERSENET]]

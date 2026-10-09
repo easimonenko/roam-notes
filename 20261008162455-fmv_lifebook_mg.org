@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       813f6579-5b3e-4aa2-a27f-8edd81345b8c
+:END:
+#+TITLE: FMV-LifeBook MG
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-08
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook MG* -- серия компактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия была выпущена в конце 2001 г. и явилась родоначальницей линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]], в которой на протяжении нескольких лет сохранялись конструкция и дизайн.
+
+* Общая спецификация
+
+Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+Память: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]], 128 Мб
+Чипсет: Intel [[id:74003cec-13de-4cd8-acfa-331f1f08cf0b][440MX]] с частотой [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 МГц
+Видеокарта: ATI RAGE Mobility-M1
+Дисплей: 13.3" XGA TFT 1024x768
+Карты расширения: один слот PCMCIA Type I или II
+Проигрыватель компакт-дисков: CD-ROM
+Внешний дисплей: UXGA 1600x1200
+Сеть: Ethernet 100BASE-TX/10BASE-T
+Коннекторы: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, IrDA
+Размеры: 293x236.5x29.5
+Вес: 1.7 кг
+
+* Модели
+
+| Название   | P/N      | Процессор:                | Объём       | Объём    | Операционная    | Дата        | Дата начала  |
+| модели     |          | модель, частота (МГц)     | памяти (Мб) | HDD (Гб) | система         | презентации | производства |
+|------------+----------+---------------------------+-------------+----------+-----------------+-------------+--------------|
+| FMV-6800MG | FMVMG313 | Mobile Pentium III-M, 800 | 128         | 15       | Windows XP Pro. | 2001-10-25  | 2001-11      |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG313.html][FMV-LIFEBOOK FMV-6800MG FMVMG313 // INVERSENET]]

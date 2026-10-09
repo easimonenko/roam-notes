@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       66c7c523-ab1f-48e3-a855-707ccc9966b0
+:END:
+#+TITLE: FMV-LifeBook MF Line
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-08
+#+FILETAGS:
+
+*FMV-LifeBook MF Line* -- линейка ультрапортативных корпоративных ноутбуков марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Является продолжением линейки 

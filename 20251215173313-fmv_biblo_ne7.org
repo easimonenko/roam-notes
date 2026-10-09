@@ -8,19 +8,21 @@
 #+DATE: 2025-12-15
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo NE7* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] потребительского класса линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-Biblo NE7* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+Пришла на смену серии [[id:39562623-5c48-4f2e-8c96-0903f7cf03e8][NE6]]. При сохранении стилистики и конструктивных решений новая серия предложала обновлённый дизайн и изменённую конструкцию.
 
 * Общая спецификация
 
 - Дата начала выпуска: май 2001 г.
-- Процессор: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]]
-- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel 440MX
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]]
+- Чипсет: Intel [[id:74003cec-13de-4cd8-acfa-331f1f08cf0b][440MX]]
 - Оперативная память:
   - тип памяти: SDR SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
   - 128 Мб, распаяна на плате
   - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] максимум 128 Мб
   - итого максимальный объём: 256 Мб
-- [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][Видеокарта]]: [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][ATI RAGE Mobility-P]] с видеопамятью 8 Мб
+- Видеокарта: [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][ATI RAGE Mobility-P]] с видеопамятью 8 Мб
 - Объём жёсткого диска: 30 Гб (Pentium III) или 20 Гб (Celeron).
 - Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]
 - Проигрыватель компакт-дисков: DVD-ROM, CD-ROM, CD-R, CD-RW
@@ -30,7 +32,7 @@
   - Модем V.90 56K
 - Дисплей: 14.1" TFT XGA (1024x768) или SXGA+ (1400x1050)
 - Разрешение внешнего дисплея: UXGA (1600x1200)
-- Внешние интерфесы: 4 x USB, FireWire S400, VGA, COM, LPT
+- Внешние интерфесы: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT
 - Слоты PCMCIA: Type-I и Type-II или Type-III
 - Операционная система: Microsoft Windows Millenium или Windows 2000 Professional
 - Программное обеспечение: Microsoft Office XP
