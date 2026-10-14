@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2b9294f9-9c4d-471f-bee4-33889a9ca6d1
+:END:
+#+TITLE: DDR
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :abbreviation:
+
+*DDR* -- сокращение от [[id:c27bb71e-3462-4f78-b170-66a984cf7365][Double Data Rate]].

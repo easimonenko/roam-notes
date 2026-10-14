@@ -12,13 +12,13 @@
 
 * Общая спецификация
 
-- Процессор: Intel [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Процессор: Intel [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]] или [[id:492cb082-d057-4860-bf1f-22275dbb8816][Pentium M]] с ядром Banias или [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
 - Память:
   - тип: DDR SDRAM PC-2700
   - объём: 512 Мб
   - расширение: два слота [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
   - максимальный объём: 2048 Мб
-- Чипсет: Intel 855GME со скоростью [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 400 MT/s
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]] с Celeron M или [[id:c857707c-9d0c-4a6e-a539-4de4df1daa31][855GME]] с Pentium M со скоростью [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 400 MT/s
 - Дисплей: 14.1" XGA
 - Слоты расширения: PCMCIA 2 x Type I или Type II или 1 x Type III
 - Проигрыватель компакт-дисков: DVD-RAM/RW, CD-RW
@@ -33,11 +33,15 @@
 
 * Модели
 
-| Название | P/N      | Процессор:            | Объём       | Объём    | Операционная     | Дата        | Дата начала  |
-| модели   |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
-|----------+----------+-----------------------+-------------+----------+------------------+-------------+--------------|
-| MG75J    | FMVMG75J | Pentium M 735, 1700   | 512         | 80       | Windows XP Prof. | 2004-09-08  | 2004-09-25   |
+| Название | P/N      | Процессор:            |       Объём |    Объём | Операционная        |        Дата |  Дата начала |
+| модели   |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система             | презентации | производства |
+|----------+----------+-----------------------+-------------+----------+---------------------+-------------+--------------|
+| MG50J    | FMVMG50J | Celeron M 340, 1500   |         256 |       60 | Windows XP Home SP2 |  2004-09-08 |   2004-09-18 |
+| MG70J    | FMVMG70J | Pentium M 725, 1600   |         256 |       60 | Windows XP Home SP2 |  2004-09-08 |   2004-09-18 |
+| MG75J    | FMVMG75J | Pentium M 735, 1700   |         512 |       80 | Windows XP Prof.    |  2004-09-08 |   2004-09-25 |
 
 * Resources
 
-- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG75J.html][FMV-BIBLO MG75J FMVMG75J // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50J.html][FMV-BIBLO MG MG50J FMVMG50J // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70J.html][FMV-BIBLO MG MG70J FMVMG70J // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG75J.html][FMV-BIBLO MG MG75J FMVMG75J // INVERSENET]]

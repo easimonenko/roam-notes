@@ -42,5 +42,6 @@
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMF655R3.html][FMV-BIBLO MF6/55R FMVMF655R3 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMF660R3.html][FMV-BIBLO MF6/600R FMVMF660R3 // INVERSENET]]
 - [[https://www.fmworld.net/product/hard/bi0101/mf_series.html][FMVWorld]]

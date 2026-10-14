@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a146cd0e-5d8e-48ca-a9f8-42bf789fe45f
+:END:
+#+TITLE: PC-1600
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :dram:computer-memory:computing:
+
+*PC-1600* -- [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][чипы]] [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]] типа [[id:6bad3868-9455-4f64-a1c9-58aa3349671b][DDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], работавшие на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] 100 МГц. Также обозначались [[id:ec3d4b69-4056-4f60-ac14-2a5eaa6690bf][DDR-200]]. Обозначение подчёркивает скорость передачи данных 1600 MB/s.

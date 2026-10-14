@@ -6,6 +6,11 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2025-11-30
-#+FILETAGS: :memory:computing:
+#+FILETAGS: :memory:computing:digital-electronics:
 
-*Double Data Rate Synchronous Dynamic Random-Access Memory* (DDR SDRAM) -- разновидность [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], особенностью которой является передача данных как по фронту [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][тактового сигнала]], так и по его спаду, за счёт чего такая память работет быстрее в два раза, чем [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][SDR SDRAM]].
+*Double Data Rate Synchronous Dynamic Random-Access Memory* (DDR SDRAM) -- разновидность [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], особенностью которой является передача данных как по фронту [[id:ef85db82-4e06-4022-ad84-be41d8d03aaf][тактового сигнала]], так и по его спаду, используя подход [[id:c27bb71e-3462-4f78-b170-66a984cf7365][DDR]], за счёт чего такая память работет быстрее в два раза, чем [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][SDR SDRAM]].
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/DDR_SDRAM][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/DDR_SDRAM][Wikipedia [EN]​]]

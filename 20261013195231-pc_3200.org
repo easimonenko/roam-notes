@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1f9d829d-8999-4f2f-a696-0f590a55aa8d
+:END:
+#+TITLE: PC-3200
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :dram:computer-memory:computing:
+
+*PC-3200* -- [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][чипы]] [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]] типа [[id:6bad3868-9455-4f64-a1c9-58aa3349671b][DDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], работавшие на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] 200 МГц. Также обозначались [[id:e6d2dce0-32ba-470b-b369-fcc978faf3ca][DDR-400]]. Обозначение подчёркивает скорость передачи данных 3200 MB/s.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e6d2dce0-32ba-470b-b369-fcc978faf3ca
+:END:
+#+TITLE: DDR-400
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :computing:ram:ddr:
+
+*DDR-400* -- другое название для [[id:1f9d829d-8999-4f2f-a696-0f590a55aa8d][PC-3200]]. Подчёркивает удвоение частоты обмена, равной 200 МГц.

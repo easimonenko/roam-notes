@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       db3a6db0-2ba5-4fc1-9eb0-cb973c72a581
+:END:
+#+TITLE: PC-2700
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :dram:computer-memory:computing:
+
+*PC-2700* -- [[id:e7cbfa8e-528f-4ae2-b508-b5d717e7ecb6][чипы]] [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][памяти]] типа [[id:6bad3868-9455-4f64-a1c9-58aa3349671b][DDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]], работавшие на [[id:de41536f-fbe1-44e2-adfd-dcca42c69655][частоте]] 166 МГц. Также обозначались DDR-333. Обозначение подчёркивает скорость передачи данных 2700 MB/s.

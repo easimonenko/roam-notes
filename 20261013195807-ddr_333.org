@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bdd250ba-2357-4059-ba5a-0f11d35d4f20
+:END:
+#+TITLE: DDR-333
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :computing:ram:ddr:
+
+*DDR-333* -- другое название для [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]]. Подчёркивает удвоение частоты обмена, равной 166 МГц.

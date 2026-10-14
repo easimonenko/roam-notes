@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       328fa82b-09a0-437f-9d0b-fa6d40ed8017
+:END:
+#+TITLE: mPGA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :cpu:intel:
+
+*mPGA* -- микро-[[id:37cc3dc0-9821-4417-be6d-8c52cacc9071][PGA]] -- линейка разъёмов типа [[id:af807915-50f8-464e-86b1-c6ef76b42a08][Socket]], применявшихся с микропроцессорами компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]].

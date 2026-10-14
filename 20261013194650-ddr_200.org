@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ec3d4b69-4056-4f60-ac14-2a5eaa6690bf
+:END:
+#+TITLE: DDR-200
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-13
+#+FILETAGS: :computing:ram:ddr:
+
+*DDR-200* -- другое название для [[id:a146cd0e-5d8e-48ca-a9f8-42bf789fe45f][PC-1600]]. Подчёркивает удвоение частоты обмена, равной 100 МГц.
