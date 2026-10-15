@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       eef07e5c-e936-4430-9535-c7b046238a79
+:END:
+#+TITLE: ALI M1535+
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-14
+#+FILETAGS: :chipsets:
+
+*ALI M1535+* -- [[id:362ae3c4-36bb-47fb-8434-60720f0694b7][южный мост]] [[id:70fa2d7d-d61f-46c1-9e8d-cfc1d640d10e][мобильного]] чипсета компании [[id:ef9fb14d-e585-4f99-b036-2cdd3a35114a][ALI]]. Использовался совместно с северным мостом линейки ATI [[id:26fa508f-ecf7-4f3f-bb4d-3ce2bfe29107][Radeon IGP]]. Поддерживал скорость FSB 400 MT/s.

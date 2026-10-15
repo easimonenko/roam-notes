@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ef9fb14d-e585-4f99-b036-2cdd3a35114a
+:END:
+#+TITLE: Acer Laboratories Incorporated
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-14
+#+FILETAGS: :digital-electronics:companies:
+
+*Acer Laboratories Incorporated* -- также Acer Labs Inc. -- сокращённо ALi -- тайваньская компания, разработчик и производитель [[id:d5f7a0e3-5ca2-4873-b1c3-7906bb133a11][сверхбольших]] интегральных схем для компьютеров и [[id:2138a56b-6da7-459d-ac36-b58795ebb04c][встраиваемых]] систем.
+
+* Resources
+
+- [[https://en.wikipedia.org/wiki/ALi_Corporation][Wikipedia [EN]​]]

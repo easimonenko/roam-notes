@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       aaf14f05-fe23-4be2-bf42-c0c2bb6ae9b8
+:END:
+#+TITLE: FMV-Biblo NS
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-14
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NS* -- серия компактных ноутбуков марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Память:
+  - расширение: [[id:a8b58bba-dc42-4428-b7e2-1d6b2a2a8a96][DIMM]] x 1
+  - максимальный объём: 128 Мб
+- Видеокарта: NeoMagic MagicGraph128XD
+- Дисплей: 13.3" XGA
+- Проигрыватель компакт-дисков: CD-ROM
+- Дисковод FDD
+- Внешние интерфесы: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, COM, LPT, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], IrDA
+- Слоты расширения: PCMCIA Typew I или Type II x 1
+- Размеры: 303 x 239 x 25
+- Вес: 1.89-1.98 кг
+
+** С процессором Mobile Pentium II
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]]
+- Чипсет:
+  - северный мост: Intel [[id:993d359c-04b6-4960-9421-0b8f297f5242][440BX]]
+
+  
+** С процессором Mobile Pentium II PE
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II PE]]
+- Чипсет:
+  - северный мост: Intel [[id:c166c17b-66d0-4b1b-88ce-46a3254771b3][440DX]]
+
+* Модели
+
+| Название  | P/N        | Процессор:                |       Объём |    Объём | Операционная |        Дата |  Дата начала |
+|           |            | модель, частота (МГц)     | памяти (Мб) | HDD (Гб) | система      | презентации | производства |
+|-----------+------------+---------------------------+-------------+----------+--------------+-------------+--------------|
+| NSVIII23X | FMVNS823X1 | Mobile Pentium II, 233    |          64 |      4.3 | Windows 98   |  1998-10-28 |      1998-11 |
+| NSVIII23X | FMVNS823X3 | Mobile Pentium II, 233    |          64 |      4.3 | Windows 98   |  1998-10-28 |      1998-11 |
+| NSIX26X   | FMVNS926X1 | Mobile Pentium II PE, 233 |          64 |      4.3 | Windows 98   |  1999-01-27 |      1999-02 |
+| NSIX26X   | FMVNS926X3 | Mobile Pentium II PE, 233 |          64 |      4.3 | Windows 98   |  1999-01-27 |      1999-02 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNS823X1.html][FMV-BIBLO NSVIII23X FMVNS823X1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNS823X3.html][FMV-BIBLO NSVIII23X FMVNS823X3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNS926X1.html][FMV-BIBLO NSIX26X FMVNS926X1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNS926X3.html][FMV-BIBLO NSIX26X FMVNS926X3 // INVERSENET]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       860914df-056f-419f-ba0f-2c8262f11d75
+:END:
+#+TITLE: ALI
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-14
+#+FILETAGS: :abbreviation:
+
+*ALI* -- сокращение для наименования компании [[id:ef9fb14d-e585-4f99-b036-2cdd3a35114a][Acer Laboratories Incorporated]], ныне ALi Corporation.
