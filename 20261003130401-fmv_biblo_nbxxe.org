@@ -31,7 +31,7 @@
   - Ethernet 100BASE-TX/10BASE-T
   - Модем V.92 56K
 - Внешние интерфесы: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]]
-- Операционная система: Windows XP Home SP1a или Professional
+- Операционная система: Windows XP Home SP1a или Professional (индекс P)
 - Размеры: 325.3 x 282 x 39
 - Вес: 3.5 кг
 
@@ -41,12 +41,12 @@
 |          |           | модель, частота (МГц)   | HDD (Гб) | проигрыв.       | система          | презентации | производства |
 |----------+-----------+-------------------------+----------+-----------------+------------------+-------------+--------------|
 | NB50E    | FMVNB50E  | Mobile Celeron, 2000    |       40 | CD-RW / DVD-ROM | Windows XP Home  |  2003-09-24 |   2003-09-27 |
-| NB50E    | FMVNB50EP | Mobile Celeron, 2000    |       40 | CD-RW / DVD-ROM | Windows XP Prof. |             |              |
+| NB50E    | FMVNB50EP | Mobile Celeron, 2000    |       40 | CD-RW / DVD-ROM | Windows XP Prof. |  2003-09-24 |   2003-10-11 |
 | NB53E    | FMVNB53E  | Mobile Celeron, 2000    |       40 | DVD-RW          | Windows XP Home  |  2003-09-24 |   2003-09-27 |
 | NB55E    | FMVNB55E  | Mobile Celeron, 2000    |       40 | DVD-RAM         | Windows XP Home  |  2003-09-24 |   2003-09-27 |
-| NB55E/T  | FMVNB55ET | Mobile Celeron, 2000    |       60 | DVD-RAM         | Windows XP Home  |             |              |
+| NB55E/T  | FMVNB55ET | Mobile Celeron, 2000    |       60 | DVD-RAM         | Windows XP Home  |  2003-09-24 |   2003-09-27 |
 | NB70E    | FMVNB70E  | Mobile Pentium-4M, 2200 |       60 | DVD-RAM         | Windows XP Home  |  2003-09-24 |   2003-09-27 |
-| NB70E/T  | FMVNB70ET | Mobile Pentium-4M, 2200 |       60 | DVD-RAM         | Windows XP Home  |             |              |
+| NB70E/T  | FMVNB70ET | Mobile Pentium-4M, 2200 |       60 | DVD-RAM         | Windows XP Home  |  2003-09-24 |   2003-09-27 |
 
 Модели с суффиксом T оснащались TV-приёмником и пультом ДУ.
 

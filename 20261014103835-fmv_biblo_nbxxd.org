@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       c760d8c1-0ea1-404c-b8e1-7e35d88a0538
+:END:
+#+TITLE: FMV-Biblo NBxxD
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-14
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NBxxD* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:fb5cfdea-19ea-4467-a4c7-7587daaf67c2][NB]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с мая 2003 г. и пришла на смену серии [[id:2a9625d3-27d8-4fc3-a16f-8e226614a965][NBxxC]] и предшествовала серии [[id:4dfb3304-1276-46eb-b36a-925c71166616][NBxxE]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]] или [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron]] с ядром [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]]
+- Чипсет:
+  - северный мост: ATI [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][Radeon IGP 340M]]
+  - южный мост: ALI [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
+- Оперативная память:
+  - тип памяти: DDR [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]]
+  - объём: 256 Мб непосредственно на плате
+  - расширение: один слот [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] до 512 Мб
+  - максимальный объём 768 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 14.1" или 15" XGA
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- HDD: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]/100 30-60 Гб
+- Проигрыватель компакт-дисков: DVD-ROM / CD-RW или DVD-RW (индекс V) или DVD-RAM (индекс D)
+- Дисковод FDD
+- Слоты расширения: PCMCIA 2 x Type II или 1 x Type III
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.92 56K
+- Внешние интерфесы: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]]
+- Операционная система: Windows XP Home SP1 или Professional (индекс P)
+- Размеры: 325.3 x 282 x 39.1
+- Вес: 3.5 кг
+
+* Модели
+
+| Название | P/N        | Процессор:               |       Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+| модели   |            | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|----------+------------+--------------------------+-------------+----------+-------+------------------+-------------+--------------|
+| NB18D    | FMVNB18D   | Mobile Celeron, 1800     |         256 |       30 |  14.1 | Windows XP Home  |  2003-05-13 |   2003-05-17 |
+| NB18D/F  | FMVNB18DF  | Mobile Celeron, 1800     |         256 |       40 |  14.1 | Windows XP Home  |  2003-05-13 |   2003-05-17 |
+| NB18D/F  | FMVNB18DFP | Mobile Celeron, 1800     |         256 |       40 |  14.1 | Windows XP Prof. |  2003-05-13 |   2003-05-24 |
+| NB18D/L  | FMVNB18DL  | Mobile Celeron, 1800     |         256 |       40 |    15 | Windows XP Home  |  2003-05-13 |   2003-05-17 |
+| NB18D/L  | FMVNB18DLP | Mobile Celeron, 1800     |         256 |       40 |    15 | Windows XP Prof. |  2003-05-13 |   2003-05-24 |
+| NB18D/V  | FMVNB18DV  | Mobile Celeron, 1800     |         256 |       40 |    15 | Windows XP Home  |  2003-05-13 |   2003-05-17 |
+| NB18D/D  | FMVNB18DD  | Mobile Celeron, 1800     |         256 |       60 |    15 | Windows XP Home  |  2003-05-13 |   2003-05-17 |
+| NB19D    | FMVNB19D   | Mobile Pentium 4-M, 1900 |         256 |       60 |    15 | Windows XP Home  |  2003-05-13 |   2003-05-17 |
+| NB19D/D  | FMVNB19DD  | Mobile Pentium 4-M, 1900 |         256 |       60 |    15 | Windows XP Home  |  2003-05-13 |   2003-05-17 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18D.html][FMV-BIBLO NB18D FMVNB18D // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18DF.html][FMV-BIBLO NB18D/F FMVNB18DF // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18DFP.html][FMV-BIBLO NB18D/F FMVNB18DFP // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18DL.html][FMV-BIBLO NB18D/L FMVNB18DL // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18DLP.html][FMV-BIBLO NB18D/L FMVNB18DLP // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18DV.html][FMV-BIBLO NB18D/V FMVNB18DV // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18DD.html][FMV-BIBLO NB18D/D FMVNB18DD // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB19D.html][FMV-BIBLO NB19D FMVNB19D // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB19DD.html][FMV-BIBLO NB19D/D FMVNB19DD // INVERSENET]]

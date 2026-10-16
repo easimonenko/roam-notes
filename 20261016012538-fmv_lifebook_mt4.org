@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       8f3aba8b-1df0-4d4f-a3fa-6f48076117e3
+:END:
+#+TITLE: FMV-LifeBook MT4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-16
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook MT4* -- серия ультракомпактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:20aab6a8-b9a3-4e5b-8550-2952cb041693][MT]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:492cb082-d057-4860-bf1f-22275dbb8816][Pentium M ULV]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]]
+- Чипсет: Intel [[id:881ef932-4626-4621-a2cd-0ba8264996eb][855GM]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
+  - максимальный объём: 1024 Мб
+- Дисплей: 12.1" XGA 1024x768
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]]
+- Слоты расширения:
+  - CompactFlash Type I или Type II x 1
+  - PCMCIA Type I или Type II x 1
+- Операционная система: Windows 2000 Prof. SP4, XP Prof. SP1a, Home
+- Размер: 268 x 225 x 23.9
+- Вес: 1.19 кг
+
+* Модели
+
+| Название    | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Оперционная        |        Дата |  Дата начала |
+|             |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-------------+------------+-----------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-7090MT4 | FMV4MTWL2  | Pentium M ULV, 900    |      128 |       20 |  12.1 | Windows 2000 Prof. |  2003-04-17 |      2003-06 |
+| FMV-7090MT4 | FMV4MTWL8  | Pentium M ULV, 900    |      128 |       20 |  12.1 | Windows XP Home    |  2003-04-17 |      2003-06 |
+| FMV-7090MT4 | FMV4MTWL3  | Pentium M ULV, 900    |      128 |       20 |  12.1 | Windows XP Prof.   |  2003-04-17 |      2003-06 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4MTWL2.html][FMV-LIFEBOOK FMV-7090MT4 FMV4MTWL2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4MTWL8.html][FMV-LIFEBOOK FMV-7090MT4 FMV4MTWL8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4MTWL3.html][FMV-LIFEBOOK FMV-7090MT4 FMV4MTWL3 // INVERSENET]]

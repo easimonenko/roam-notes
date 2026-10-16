@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       881ef932-4626-4621-a2cd-0ba8264996eb
+:END:
+#+TITLE: Intel 855GM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-15
+#+FILETAGS: :chipsets:intel:
+
+*Intel 855GM* -- [[id:70fa2d7d-d61f-46c1-9e8d-cfc1d640d10e][мобильный]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Выпускался с марта 2003 г. Поддерживал память [[id:ec3d4b69-4056-4f60-ac14-2a5eaa6690bf][DDR-200]] и [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]. Включал интегрированную видеокарту Extreme Graphics 2.
+
+* Resources
+
+- [[https://pchardware.org/chipsets/intel-855gm/][Intel 855GM // PCHardware]]

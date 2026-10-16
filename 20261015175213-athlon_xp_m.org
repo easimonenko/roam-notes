@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       aeb242fc-1a97-4420-8663-d61680283de1
+:END:
+#+TITLE: Athlon XP-M
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-15
+#+FILETAGS: :amd:mobile-processors:
+
+*Athlon XP-M* -- линейка [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильных]] процессоров компании [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]] с микроархитектурой K7. Основывался на двух ядрах: Thoroughbred и Barton, отличавшихся размером L2-кэш: 256 и 512 Кб, соответственно. Поддерживались наборы инструкций [[id:78a31716-04b1-4aca-8f8b-30399e013dee][MMX]], 3DNow!, [[id:78000391-a16b-4cd9-95bf-027c07b03889][SSE]]. Выпускались в корпусах под Socket A и Socket 563. Поддерживали шину FSB со скоростью 266 MT/s.
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/K7/TYPE-Athlon%20XP-M.html][AMD Athlon XP-M microprocessor family // CPU-World]]
+- [[https://en.wikipedia.org/wiki/List_of_AMD_Athlon_XP_processors][List of AMD Athlon XP processors // Wikipedia [EN]​]]
