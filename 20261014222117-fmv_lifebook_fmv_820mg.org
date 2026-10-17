@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       0e2b34fe-6955-49d5-ac13-8b781c083400
+:END:
+#+TITLE: FMV-LifeBook FMV-820MG
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-14
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook FMV-820MG* -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии [[id:f68e322a-ba67-4a34-879a-155a70c7be50][MG5]], предложив новый дизайн, но сохранив конструкцию. Попутно произошла смена пренципа наименования серий и моделей. На смену серии пришла [[id:04cbb46d-32df-4377-bc0b-b32b7572222d][FMV-830MG]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M]] или [[id:492cb082-d057-4860-bf1f-22275dbb8816][Pentium M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]]
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]] с Celeron M или [[id:c857707c-9d0c-4a6e-a539-4de4df1daa31][855GME]] с Pentium M
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]] с Celeron M или [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]] [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]] с Pentium M
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 1024 Мб
+- Дисплей: 13.3" XGA 1024x768
+- HDD: Ultra ATA/100
+- Проигрыватель компакт-дисков: 
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 3, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], IrDA
+- Слоты расширения:
+  - PCMCIA Type I или Type II x 1
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP1a, XP Prof. SP1a, 2000 Prof. SP4
+- Размеры: 293 x 236.5 x 29.6 мм
+- Вес: 1.59 кг
+  
+* Модели
+
+| Название  | P/N      | Процессор:            |       Объём |    Объём | Операционная       |        Дата |  Дата начала |
+|           |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система            | презентации | производства |
+|-----------+----------+-----------------------+-------------+----------+--------------------+-------------+--------------|
+| FMV-820MG | FMVMG2BA | Celeron M 310, 1200   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-05 |
+| FMV-820MG | FMVMG2BB | Celeron M 310, 1200   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-05 |
+| FMV-820MG | FMVMG2B8 | Celeron M 310, 1200   |         256 |       20 | Windows XP Home    |  2004-05-10 |      2004-05 |
+| FMV-820MG | FMVMG2B3 | Celeron M 310, 1200   |         256 |       20 | Windows XP Prof.   |  2004-05-10 |      2004-05 |
+| FMV-820MG | FMVMG2EA | Pentium M 1.5, 1500   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-05 |
+| FMV-820MG | FMVMG2EB | Pentium M 1.5, 1500   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-05 |
+| FMV-820MG | FMVMG2E8 | Pentium M 1.5, 1500   |         256 |       20 | Windows XP Home    |  2004-05-10 |      2004-05 |
+| FMV-820MG | FMVMG2E3 | Pentium M 1.5, 1500   |         256 |       20 | Windows XP Prof.   |  2004-05-10 |      2004-05 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2BA.html][FMV-LIFEBOOK FMV-820MG FMVMG2BA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2BB.html][FMV-LIFEBOOK FMV-820MG FMVMG2BB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2B8.html][FMV-LIFEBOOK FMV-820MG FMVMG2B8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2B3.html][FMV-LIFEBOOK FMV-820MG FMVMG2B3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2EA.html][FMV-LIFEBOOK FMV-820MG FMVMG2EA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2EB.html][FMV-LIFEBOOK FMV-820MG FMVMG2EB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2E8.html][FMV-LIFEBOOK FMV-820MG FMVMG2E8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG2E3.html][FMV-LIFEBOOK FMV-820MG FMVMG2E3 // INVERSENET]]

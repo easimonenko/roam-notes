@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       885669ae-fc8c-44c0-9e49-fb3c948e1384
+:END:
+#+TITLE: AMD K7
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-16
+#+FILETAGS: :amd:
+
+*AMD K7* -- [[id:235008e4-a34e-42fb-821d-c6d8c1e7a4fc][микроархитектура]] процессоров компании [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]], пришедшая на смену микпроархитектуре K6-2 и K6-III. На ней базировались ядра [[id:60d8a1d6-a348-454e-a2a0-d79ada544313][настольных]] процессоров Athlon, Athlon XP, Athlon MP, Duron и Sempron и [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильных]] процессоров Athlon 4, [[id:aeb242fc-1a97-4420-8663-d61680283de1][Athlon XP-M]] и Mobile Duron. Выпуск процессоров с этой микроархитектурой начат в июне 1999 г.
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/K7/index.html][AMD K7 processor families // CPU-World]]

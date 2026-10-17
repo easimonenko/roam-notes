@@ -6,6 +6,10 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2026-10-03
-#+FILETAGS: :fujitsu:notebooks:
+#+FILETAGS: :fujitsu:notebooks:fmv-biblo:lifebook:
 
-*FMV-Biblo* -- марка ноутбуков компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Сначала, с конца 1990-х годов она использовалась  для всех моделей ноутбуков, затем применялась только к домашним, а для корпоративных использовались марки FMV-Biblo LifeBook, а затем [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] и [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
+*FMV-Biblo* -- марка [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Ноутбуки под этой маркой выпускались с февраля 1995 г. Исторически марка стала продолжением марки [[id:a04fac53-3da9-400e-bcd3-f9e25d966837][FMV-NoteBook]]. Сначала она использовалась  для всех моделей ноутбуков, но с октября 1998 г. стала применяться только к домашним (потребительским), а для корпоративных использовались марки сначала [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]], а затем [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] и [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
+
+* Resources
+
+- [[https://museum.ipsj.or.jp/en/computer/personal/0062.html][FMV-BIBLO LIFEBOOK Series // IPSJ Computer Museum]]

@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       04cbb46d-32df-4377-bc0b-b32b7572222d
+:END:
+#+TITLE: FMV-LifeBook FMV-830MG
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-16
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook FMV-830MG* -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии [[id:0e2b34fe-6955-49d5-ac13-8b781c083400][FMV-820MG]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]] или [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]] с Celeron M или [[id:c857707c-9d0c-4a6e-a539-4de4df1daa31][855GME]] с Pentium M
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]] с Celeron M или [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]] [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]] с Pentium M
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 1024 Мб
+- Дисплей: 13.3" XGA 1024x768
+- HDD: Ultra ATA/100
+- Проигрыватель компакт-дисков: 
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 3, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], IrDA
+- Слоты расширения:
+  - PCMCIA Type I или Type II x 1
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP2, XP Prof. SP2, 2000 Prof. SP4
+- Размеры: 293 x 236.5 x 29.6 мм
+- Вес: 1.59 кг
+
+* Модели
+
+| Название  | P/N      | Процессор:            |       Объём |    Объём | Операционная       |        Дата |  Дата начала |
+|           |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система            | презентации | производства |
+|-----------+----------+-----------------------+-------------+----------+--------------------+-------------+--------------|
+| FMV-830MG | FMVMG3HB | Celeron M 340, 1500   |         256 |       20 | Windows 2000 Prof. |  2004-10-14 |      2004-10 |
+| FMV-830MG | FMVMG3H8 | Celeron M 340, 1500   |         256 |       20 | Windows XP Home    |  2004-10-14 |      2004-10 |
+| FMV-830MG | FMVMG3H3 | Celeron M 340, 1500   |         256 |       20 | Windows XP Prof.   |  2004-10-14 |      2004-10 |
+| FMV-830MG | FMVMG3KB | Pentium M 725, 1600   |         256 |       20 | Windows 2000 Prof. |  2004-10-14 |      2004-10 |
+| FMV-830MG | FMVMG3K8 | Pentium M 725, 1600   |         256 |       20 | Windows XP Home    |  2004-10-14 |      2004-10 |
+| FMV-830MG | FMVMG3K3 | Pentium M 725, 1600   |         256 |       20 | Windows XP Prof.   |  2004-10-14 |      2004-10 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3H8.html][FMV-LIFEBOOK FMV-830MG FMVMG3H8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3HB.html][FMV-LIFEBOOK FMV-830MG FMVMG3HB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3H3.html][FMV-LIFEBOOK FMV-830MG FMVMG3H3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3KB.html][FMV-LIFEBOOK FMV-830MG FMVMG3KB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3K8.html][FMV-LIFEBOOK FMV-830MG FMVMG3K8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3K3.html][FMV-LIFEBOOK FMV-830MG FMVMG3K3 // INVERSENET]]

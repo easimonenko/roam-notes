@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b47e8a01-81e2-41b9-abc8-5775aab4aac8
+:END:
+#+TITLE: Athlon
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-16
+#+FILETAGS: :amd:athlon:
+
+*Athlon* -- линейка [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессоров]] компании [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]], начавшаяся с выходом 23 июня 1999 г. одноименного процессора и применённой в нём микроархитектуры [[id:885669ae-fc8c-44c0-9e49-fb3c948e1384][K7]]. В дальнейшем линейка пополнилась процессорами с [[id:8e78a016-24a9-4d9d-a136-687d94fa8af2][64-разрядной]] архитектурой и микроархитектурой K8. Линейка включет в себя модели высокопроизводительных микропроцессорв. Для менее производительных и менее дорогих применялись другие названия линеек: Duron и Sempron.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/Athlon][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Athlon][Wikipedia [EN]​]]
