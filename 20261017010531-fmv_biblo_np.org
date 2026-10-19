@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       91e70a62-d8e1-4401-bcbb-d045262daf2f
+:END:
+#+TITLE: FMV-Biblo NP
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-17
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NP* -- серия ноутбуков линейки NP марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]] или [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]
+- Дисплей: 12.1" TFT
+- Чипсет: Intel 430TX
+- Память:
+  - тип: SDRAM
+  - объём: 16 или 32 Мб
+  - расширение: 1 x [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 48 или 96 Мб
+- Видеокарта: Trident Cyber9385 с Pentium и NeoMagic MagicGraph128XD с Pentium MMX
+- Проигрыватель компакт-дисков: CD-ROM
+- Сеть: модем K56
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, PS/2, IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95 или Windows 3.1 и MS-DOS 6.2
+- Размеры: 297 x 232 x 28-31 мм
+- Вес: 1.9-2.0 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|              |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|--------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-5133NP/W | FMV53NPW1  | Pentium, 133          |       16 |      1.3 |  12.1 | Windows 3.1  |             |      1996-12 |
+| FMV-5133NP/W | FMV53NPW5  | Pentium, 133          |       16 |      1.3 |  12.1 | Windows 95   |             |      1996-12 |
+| FMV-5133NP/W | FMV53NPWS1 | Pentium, 133          |       16 |      1.3 |  12.1 | Windows 95   |             |      1996-12 |
+| FMV-5133NP/W | FMV53NPWS2 | Pentium, 133          |       16 |      1.3 |  12.1 | Windows 95   |             |      1996-12 |
+| FMV-5133NP/W | FMV53NPWS3 | Pentium, 133          |       16 |      1.3 |  12.1 | Windows 95   |             |      1996-12 |
+| FMV-5233NP/W | FMV5BNPW5  | Pentium MMX, 233      |       32 |      3.2 |  12.1 | Windows 95   |  1998-06-08 |      1998-06 |
+| FMV-5233NP/W | FMV5BNPW8  | Pentium MMX, 233      |       32 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |      1998-11 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NPW1.html][FMV-BIBLO FMV-5133NP/W 13A FMV53NPW1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NPW5.html][FMV-BIBLO FMV-5133NP/W FMV53NPW5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NPWS1.html][FMV-BIBLO FMV-5133NP/W ST FMV53NPWS1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NPWS2.html][FMV-BIBLO FMV-5133NP/W ST FMV53NPWS2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NPWS3.html][FMV-BIBLO FMV-5133NP/W FMV53NPWS3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5BNPW5.html][FMV-BIBLO FMV-5233NP/W FMV5BNPW5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5BNPW8.html][FMV-BIBLO FMV-5233NP/W FMV5BNPW8 // INVERSENET]]
