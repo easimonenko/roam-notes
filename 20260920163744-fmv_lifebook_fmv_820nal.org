@@ -6,31 +6,69 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2026-09-20
-#+FILETAGS:
+#+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook FMV-820NAL* -- модель ноутбука компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] для внутреннего японского рынка.
+*FMV-LifeBook FMV-820NAL* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
 
 * Характеристики
 
-Процессор: [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M (Banias)]], 1200 МГц
-Память: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]], 256 Мб, максимальный объём 1024 Мб
-Чипсет: [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][Intel 852GM]] со скоростью FSB 400 MT/s
-Дисплей: 14.1" XGA TFT 1024x768
-CD-проигрыватель: CD-ROM
-FDD: есть
-Коннекторы: 4 x USB 2.0, VGA, COM, LPT, IrDA
-Сеть: 100BASE-TX/10BASE-T
-Карты расширения: ва слота PCMCIA Type I или II или один Type III
-Звук: AC97
-Внешний дисплей: UXGA 1600x1200
-Размеры: 333x285x33.2
-Вес: 3.2 кг
-Начало производства: 2004-05-10
+- Процессор: Intel [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]] или [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - объём: 256 Мб
+  - максимальный объём: 1024 Мб
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]] с Celeron M или [[id:c857707c-9d0c-4a6e-a539-4de4df1daa31][855GME]] с Pentium M
+- Дисплей: 14.1" XGA TFT 1024x768
+- HDD: Ultra ATA/100
+- Проигрыватель компакт-дисков: CD-ROM
+- Дисковод FDD
+- Внешний интерфейс: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, IrDA, PS/2
+- Сеть:
+  - Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Слоты расширения: 2 x PCMCIA Type I или II или 1 x Type III
+- Звук: AC97
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP1a, Prof. SP1a, 2000 Prof. SP4
+- Размеры: 333 x 285 x 33.2
+- Вес: 3.0-3.2 кг
 
 * Модификации
 
-| Обозначение           | Процессор, модель, частота | Объём      | Объём    | Операционная система    |
-|                       |                            | памяти, Мб | HDD, ГГб |                         |
-|-----------------------+----------------------------+------------+----------+-------------------------|
-| FMV-820NAL FMVNAL2BC3 | Celeron M, 1200 МГц        | 256        | 20       | Windows XP Professional |
-|                       |                            |            |          |                         |
+| Название   | P/N        | Процессор:            |       Объём |    Объём | Операционная       |        Дата |  Дата начала |
+|            |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система            | презентации | производства |
+|------------+------------+-----------------------+-------------+----------+--------------------+-------------+--------------|
+| FMV-820NAL | FMVNAL2BAA | Celeron M 310, 1200   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2BAB | Celeron M 310, 1200   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2BA8 | Celeron M 310, 1200   |         256 |       20 | Windows XP Home    |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2BA3 | Celeron M 310, 1200   |         256 |       20 | Windows XP Prof.   |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2BC8 | Celeron M 310, 1200   |         256 |       20 | Windows XP Home    |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2BC3 | Celeron M 310, 1200   |         256 |       20 | Windows XP Prof.   |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2BCA | Celeron M 310, 1200   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2BCB | Celeron M 310, 1200   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FAA | Pentium M 745, 1800   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FAB | Pentium M 745, 1800   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FA8 | Pentium M 745, 1800   |         256 |       20 | Windows XP Home    |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FA3 | Pentium M 745, 1800   |         256 |       20 | Windows XP Prof.   |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FCA | Pentium M 745, 1800   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FCB | Pentium M 745, 1800   |         256 |       20 | Windows 2000 Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FC8 | Pentium M 745, 1800   |         256 |       20 | Windows XP Home    |  2004-05-10 |      2004-06 |
+| FMV-820NAL | FMVNAL2FC3 | Pentium M 745, 1800   |         256 |       20 | Windows XP Prof.   |  2004-05-10 |      2004-06 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BAA.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BAA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BAB.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BAB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BA8.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BA3.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BC8.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BC8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BC3.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BCA.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BCA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2BCB.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2BCB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FAA.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FAA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FAB.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FAB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FA8.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FA3.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FCA.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FCA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FCB.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FCB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FC8.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FC8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAL2FC3.html][FMV-LIFEBOOK FMV-820NAL FMVNAL2FC3 // INVERSENET]]

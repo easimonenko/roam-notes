@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       b186ff6d-e8ad-4482-bd5f-aed61254d22b
+:END:
+#+TITLE: FMV-LifeBook NA Line
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-19
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NA Line* -- линейка корпоративных настольных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
