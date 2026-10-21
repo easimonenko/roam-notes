@@ -8,15 +8,13 @@
 #+DATE: 2026-01-21
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo NE6* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
-
-Пришла на смену серии [[id:81adbb45-b6a0-4268-8772-0a9dae40fffd][NE5]] и основана на том же шасси и дизайне.
+*FMV-Biblo NE6* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии [[id:81adbb45-b6a0-4268-8772-0a9dae40fffd][NE5]] в январе 2001 г. и сохраниля дизайн и конструкцию предшественницы. Была заменена на серию [[id:ac973138-1fae-4ac4-a09d-0d8bc9ccc465][NE7]] в мае 2001 г.
 
 * Общая спецификация
 
 - Дата начала выпуска: середина января 2001 г.
 - Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]]
-- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: N/A
+- Чипсет: N/A
 - Оперативная память:
   - 64 (Celeron) или 128 (Pentium III) Мб, распаяна на плате
   - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] максимум 128 Мб
@@ -25,14 +23,14 @@
 - Тип памяти: [[id:67dba1d2-e93b-4e67-9af3-56e53e9cd73f][SDR]] [[id:c856bafe-09bf-420b-a6dc-d8e1c526baf4][SDRAM]] [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
 - Видеокарта: [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][ATI RAGE Mobility-P]] 8 Mb (Pentium III) или -EC 4 Mb (Celeron)
 - Объём жёсткого диска: 20 Гб
-- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]
+- Тип интерфейса HDD: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]
 - Проигрыватель компакт-дисков: DVD-ROM, CD-ROM, CD-R, CD-RW в зависимости от варианта
 - Сетевые устройства:
   - Ethernet ОТСУТСТВУЕТ
   - Модем V.90 56K
 - Дисплей: 14.1" TFT XGA (1024x768) или SXGA+ (1400x1050)
 - Разрешение внешнего дисплея: UXGA (1600x1200)
-- Внешние интерфесы: 4 x USB, FireWire S400, VGA, COM, LPT, PS/2
+- Внешние интерфесы: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], FireWire S400
 - Слоты PCMCIA: Type-I и Type-II или Type-III
 - Операционная система: Microsoft Windows Millenium или Windows 2000 Professional
 - Программное обеспечение: Microsoft Office 2000 (почти все) или OASYS V8/1-2-3 2000 (FMVNE660C2)

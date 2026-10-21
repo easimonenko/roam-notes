@@ -8,16 +8,64 @@
 #+DATE: 2026-10-04
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo NE3* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-Biblo NE3* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии NE2. Была заменена на серию [[id:20f229dd-d7fd-4ac4-a24b-555b1cc67ca7][NE4]] в мае 2000 г. с сохранением дизайна и конструкции.
+
+* Общая спецификация
+
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 64 Мб
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
+  - максимальный объём: 192 Мб
+- Дисплей: 14.1" XGA 1024x768 или 12.1" SVGA 800x600
+- HDD: Ultra ATA
+- CD-Player: CD-RW/R/ROM или CD-ROM
+- FDD
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 1, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, PS/2, IrDA
+- Сеть: модем 56K V.90
+- Операционная система: Windows 98 SE
+- Размеры: 308 x 282 (274) x 38 (40) мм
+- Вес: 3.2 (3.3) кг
+
+** С процессором Intel
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][Rage Mobility-P]]
+
+** С процессором AMD
+
+- Процессор: AMD [[id:d2218a58-1f29-498b-980c-6f8fc684b11e][Mobile K6-2-P]]
+- Видеокарта: Trident Cyber 9525DVD
 
 * Модели
 
-|           |            |                         |    |    |            |         |
-|-----------+------------+-------------------------+----+----+------------+---------|
-| NE3/500LR | FMVNE350R3 | Mobile Pentium III, 500 | 64 | 12 | 2000-01-19 | 2000-01 |
-|           |            |                         |    |    |            |         |
-
+| Название  | P/N        | Процессор:              |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|           |            | модель, частота (МГц)   | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|-----------+------------+-------------------------+----------+----------+-------+--------------+-------------+--------------|
+| NE3/43E   | FMVNE343E  | Mobile Celeron, 433     |       64 |        9 |  12.1 | Windows 98   |  2000-01-19 |      2000-01 |
+| NE3/45    | FMVNE3451  | Mobile K6-2-P, 450      |       64 |       12 |  12.1 | Windows 98   |  2000-01-19 |      2000-01 |
+| NE3/45    | FMVNE3453  | Mobile K6-2-P, 450      |       64 |       12 |  12.1 | Windows 98   |  2000-01-19 |      2000-01 |
+| NE3/45LK  | FMVNE345K3 | Mobile K6-2-P, 450      |       64 |       12 |  14.1 | Windows 98   |  2000-01-19 |      2000-01 |
+| NE3/500L  | FMVNE350L1 | Mobile Pentium III, 500 |       64 |       12 |  14.1 | Windows 98   |  2000-01-19 |      2000-01 |
+| NE3/500L  | FMVNE350L3 | Mobile Pentium III, 500 |       64 |       12 |  14.1 | Windows 98   |  2000-01-19 |      2000-01 |
+| NE3/500LR | FMVNE350R3 | Mobile Pentium III, 500 |       64 |       12 |  14.1 | Windows 98   |  2000-01-19 |      2000-01 |
+| NE3/45L   | FMVNE345L1 | Mobile Celeron, 450     |       64 |       12 |  14.1 | Windows 98   |  2000-02-15 |      2000-02 |
+| NE3/45L   | FMVNE345L2 | Mobile Celeron, 450     |       64 |       12 |  14.1 | Windows 98   |  2000-02-15 |      2000-02 |
+| NE3/45L   | FMVNE345L3 | Mobile Celeron, 450     |       64 |       12 |  14.1 | Windows 98   |  2000-02-15 |      2000-02 |
+| NE3/45LW  | FMVNE345W3 | Mobile Celeron, 450     |       64 |       12 |  14.1 | Windows 98   |  2000-02-15 |      2000-02 |
+| NE3/45LR  | FMVNE345R3 | Mobile Celeron, 450     |       64 |       12 |  14.1 | Windows 98   |  2000-02-15 |      2000-02 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE343E.html][FMV-BIBLO NE3/43E FMVNE343E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE345W3.html][FMV-BIBLO NE3/45LW FMVNE345W3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE345L1.html][FMV-BIBLO NE3/45L FMVNE345L1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE345L2.html][FMV-BIBLO NE3/45L FMVNE345L2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE345L3.html][FMV-BIBLO NE3/45L FMVNE345L3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE345R3.html][FMV-BIBLO NE3/45LR FMVNE345R3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE350L1.html][FMV-BIBLO NE3/500L FMVNE350L1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE350L3.html][FMV-BIBLO NE3/500L FMVNE350L3 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE350R3.html][FMV-BIBLO NE3/500LR FMVNE350R3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE3451.html][FMV-BIBLO NE3/45 FMVNE3451 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE3453.html][FMV-BIBLO NE3/45 FMVNE3453 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE345K3.html][FMV-BIBLO NE3/45LK FMVNE345K3 // INVERSENET]]

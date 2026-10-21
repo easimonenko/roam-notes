@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d2218a58-1f29-498b-980c-6f8fc684b11e
+:END:
+#+TITLE: Mobile K6-2-P
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-20
+#+FILETAGS: :amd:mobile-processors:
+
+*Mobile K6-2-P* -- [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильные]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][микропроцессоры]] поколения [[id:e72fe08f-18a3-4997-9f30-4487410b5106][K6-2]] компании [[id:195bba79-2207-4e87-b691-23c27d7e62dc][AMD]]. Работали на частотах: 350, 366, 380, 400, 433, 450, 475 и 500 МГц. Поддерживали частоту [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 МГц, некоторые ещё и 66 МГц. Изготавливались в керамических корпусах под [[id:af807915-50f8-464e-86b1-c6ef76b42a08][Socket]] Super 7. Были представлены 20 сентября 1999 г.
+
+* Resources
+
+- [[https://www.cpu-world.com/CPUs/K6-2/TYPE-Mobile%20K6-2-P.html][AMD Mobile K6-2-P microprocessor family // CPU-World]]
