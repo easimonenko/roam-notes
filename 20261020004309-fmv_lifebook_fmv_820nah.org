@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       8c2b6f43-2d33-42d9-8404-57e96c5350f2
+:END:
+#+TITLE: FMV-LifeBook FMV-820NAH
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-20
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook FMV-820NAH* -- серия настольных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:fa3705f2-b78f-42dc-aef7-274262577e09][Mobile Pentium 4]]
+- Чипсет: Intel 852GME
+- Память:
+  - тип: [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]] [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]]
+  - расшириние: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2 до 1024 Мб
+  - максимальный объём: 2048 Мб
+- Дисплей: 14.1" XGA 1024x768
+- HDD: RAID1, Ultra ATA/100
+- Дисковод FDD
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10-BASE-T
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, COM, LPT, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], PS/2, IrDA
+- Операционная система: Windows 2000 Prof. SP4
+- Размеры: 329 x 299 x 44.5 мм
+- Вес: 3.7 кг
+
+* Модели
+
+| Название   | P/N        | Процессор:             | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
+|            |            | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|------------+------------+------------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-820NAH | FMVNAH21FB | Mobile Pentium 4, 2800 | 256      | 20       | 14.1  | Windows 2000 | 2004-05-10  | 2004-05      |
+|            |            |                        |          |          |       |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH21FB.html][FMV-LIFEBOOK FMV-820NAH FMVNAH21FB // INVERSENET]]

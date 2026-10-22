@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       c8d93093-d8b2-4893-96d7-78f287e89dff
+:END:
+#+TITLE: FMV-Biblo NA/X
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-17
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NA/X* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:3000a14b-636e-464c-bfba-f1df22d1cc3f][NA]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]
+- Чипсет: Intel 430TX или [[id:993d359c-04b6-4960-9421-0b8f297f5242][440BX]]
+- Память:
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2 до 128 Мб
+  - максимальный объём: 160 Мб
+- Видеокарта: Trident Cyber 9397 или ATI 3D Rage LT Pro
+- Дисплей: 13.3" TFT XGA 1024x768
+- Проигрыватель компакт-дисков: CD-ROM
+- Дисковод FDD
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, PS/2, IrDA, MIDI
+- Операционная система: Windows 98, NT 4.0
+- Размеры: 308 x 256 x 59 мм
+- Вес: 4 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:             |    Объём |    Объём | Диаг. | Операционная   |        Дата |  Дата начала |
+|              |            | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
+|--------------+------------+------------------------+----------+----------+-------+----------------+-------------+--------------|
+| FMV-5233NA/X | FMV1NA2XC6 | Pentium MMX, 233       |       32 |      3.2 |  13.3 | Windows 98     |  1998-07-16 |      1998-08 |
+| FMV-6233NA/X | FMV1NA6XA0 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-06-08 |      1998-06 |
+|              |            |                        |          |          |       |                |             |              |
+|              |            |                        |          |          |       |                |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV1NA2XC6.html][FMV-BIBLO FMV-5233NA/X FMV1NA2XC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV1NA6XA0.html][FMV-BIBLO FMV-6233NA/X FMV1NA6XA0 // INVERSENET]]

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       20f229dd-d7fd-4ac4-a24b-555b1cc67ca7
+:END:
+#+TITLE: FMV-Biblo NE4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-20
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NE4* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии [[id:5da3dc61-5869-4824-8396-538e5667ec36][NE3]] в мае 2000 г, сохранив дизайн и конструкцию. Была заменена на серию [[id:81adbb45-b6a0-4268-8772-0a9dae40fffd][NE5]] в сентябре 2000 г.
+
+* Общая спецификация
+
+- Процессор: AMD Mobile K6-III+
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
+  - максимальный объём: 192 Мб
+- Видеокарта: Trident Cyber 9525DVD
+- Дисплей: 12.1" SVGA 800x600
+- HDD: Ultra ATA
+- CD-Player: CD-ROM
+- FDD
+- Сеть: модем K56 V.90
+- Внешние интерфесы: 1 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]]
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 98 SE
+- Размеры: 308 x 282 x 38
+- Вес: 3.2 кг
+
+| Название | P/N        | Процессор:            | Объём       | Объём    | Дата        | Дата начала  |
+| модели   |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | презентации | производства |
+|----------+------------+-----------------------+-------------+----------+-------------+--------------|
+| NE4/45K  | FMVNE445K3 | Mobile K6-III+, 450   | 64          | 12       | 2000-05-10  | 2000-05      |
+|          |            |                       |             |          |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE445K3.html][FMV-BIBLO NE4/45K FMVNE445K3 // INVERSENET]]

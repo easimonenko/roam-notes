@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       c68a0033-4ed7-421b-ad65-4db06a818c95
+:END:
+#+TITLE: FMV-LifeBook NU2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-21
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NU2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки NU марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
+- Чипсет: Intel [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]]
+- Память:
+  - тип: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]]
+  - максимальный объём: 512 Мб
+- Дисплей: 14.1" XGA 1024x768
+- HDD: Ultra ATA
+- CD-Player: CD-ROM
+- FDD
+- Внешние интерфесы: 1 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows XP Prof.
+- Размеры: 325 x 268 x 46.5 мм
+- Вес: 3.3 кг
+
+* Модели
+
+| Название   | P/N      | Процессор:            | Объём       | Объём    | Операционная | Дата        | Дата начала  |
+| модели     |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система      | презентации | производства |
+|------------+----------+-----------------------+-------------+----------+--------------+-------------+--------------|
+| FMV-610NU2 | FMV2NUBD | Mobile Celeron, 1066  | 64          | 20       | Windows 98   | 2002-04-24  | 2002-04      |
+|            |          |                       |             |          |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NUBD6.html][FMV-LIFEBOOK FMV-610NU2 FMV2NUBD6 // INVERSENET]]

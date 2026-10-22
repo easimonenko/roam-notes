@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       c53c849e-4b63-434b-a978-7343374b24ad
+:END:
+#+TITLE: FMV-LifeBook FMV-820NA
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-20
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook FMV-820NA* -- серия настольных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron]]
+- Чипсет:
+  - северный мост: ATI [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][RADEON IGP 340M]]
+  - южный мост: ALI [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2 до 512 Мб
+  - максимальный объём: 1024 Мб
+- Дисплей: 14.1" XGA 1024x768
+- HDD: Ultra ATA/100
+- Сеть: Ethernet 1000BAS-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: USB x 4, VGA, COM, LPT, PS/2, IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Prof. SP1a
+- Размеры: 318 x 269.5 x 45.1 мм
+- Вес: 3.2 кг
+
+* Модели
+
+| Название  | P/N       | Процессор:            | Объём    | Объём    | Диаг. | Операционная     | Дата        | Дата начала  |
+|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|-----------+-----------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| FMV-820NA | FMVNA2CC3 | Mobile Celeron, 2400  | 256      | 20       | 14.1  | Windows XP Prof. | 2004-05-10  | 2004-05      |
+|           |           |                       |          |          |       |                  |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA2CC3.html][FMV-LIFEBOOK FMV-820NA FMVNA2CC3 // INVERSENET]]

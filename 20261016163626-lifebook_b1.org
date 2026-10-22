@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0e4d9df4-1c00-478b-9f34-6f2a87635234
+:END:
+#+TITLE: LifeBook B1
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-16
+#+FILETAGS: :fujitsu:lifebook:
+
+*LifeBook B1* -- серия ультракомпактных ноутбуков серии B марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]].
+
+* Resources
+
+- [[https://sandbox.cz/~covex/hw/b112/B112_142_specs.html][LifeBook B Series Detailed Specifications. Pre-configured Models: B112, B142]]
+- [[https://sandbox.cz/~covex/hw/b112/index.html][Fujitsu Lifebook B112 and B142: how to disassemble]]

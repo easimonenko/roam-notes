@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       04663a34-f567-4823-8ef4-ccf69e26e146
+:END:
+#+TITLE: FMV-Biblo LifeBook NU2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-16
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook NU2* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NU под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+
+* Модели
+
+| Название      | P/N | Процессор:             | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
+|               |     | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+-----+------------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-6300NU2/X |     | Mobile Pentium II, 300 | 32       | 3.2      | 13.3  |              |             |              |
+
+* Resources
+
+- [[https://museum.ipsj.or.jp/en/computer/personal/0062.html][FMV-BIBLO LIFEBOOK Series // IPSJ Computer Museum]]

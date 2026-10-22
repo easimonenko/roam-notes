@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       92a9fa76-dae8-485f-91c5-b9d4784b426f
+:END:
+#+TITLE: FMV-LifeBook NA2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-20
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NA2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии NA. Была заменена на серию NA3.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]] с ядром [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]]
+- Чипсет: Intel 845MP
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+- Видеокарта: ATI Mobility Radeon, 16 Мб
+- HDD: Ultra ATA/100
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Внешние интерфесы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows ME
+- Размеры: 318 x 269.5 x 45.1 мм
+- Вес: 3.4 кг
+
+* Модели
+
+| Название    | P/N | Процессор:               | Объём       | Объём    | Операционная | Дата        | Дата начала  |
+| модели      |     | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | система      | презентации | производства |
+|-------------+-----+--------------------------+-------------+----------+--------------+-------------+--------------|
+| FMV-7000NA2 |     | Mobile Pentium 4-M, 1800 | 128         | 20       | Windows ME   | 2002-04-24  | 2002-06      |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/20020425P39267.html][FMV-LIFEBOOK FMV-7000NA2 // INVERSENET]]
