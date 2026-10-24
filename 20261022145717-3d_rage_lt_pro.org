@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a6bb0707-cb6f-4e12-860c-ecea97f32072
+:END:
+#+TITLE: 3D RAGE LT PRO
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-22
+#+FILETAGS: :ati:rage:
+
+*3D RAGE LT PRO* -- [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарта]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] с GPU [[id:03a5da66-fc9f-4f40-92d7-b74550aa1c2d][Mach64 LB]]. Выпускалась как в варианте для настольных компьютеров, так и для [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]]. Выпускалась с 1 ноября 1997 г. Пришла на смену видеокартам Mach64.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/rage-lt-pro-agp.c643][ATI Rage LT PRO AGP // TechPowerUp]]

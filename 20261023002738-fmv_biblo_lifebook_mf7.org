@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       ef85aadf-6be1-452c-9e82-34c4cb63b6e3
+:END:
+#+TITLE: FMV-Biblo LifeBook MF7
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo LifeBook MF7* -- серия ультракомпактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:21794e44-e389-4c9c-9b48-dd048545c7d6][MF]] марки FMV-Biblo LifeBook компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с мая 2000 г. и пришла на смену серии [[id:203b1fb4-1723-4e46-9755-cb763983a063][MF6]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Оперативная память:
+  - тип: SDR SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 64 Мб
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 256 Мб
+- Видеокарта: Trident Cyber 9525DVD
+- Дисплей: 12.1" TFT SVGA (1024x768)
+- Жёсткий диск: 6 Гб Ultra DMA/33
+- Разрешение внешнего дисплея: SXGA (1280x1024)
+- Проигрыватель компакт-дисков: CD-RW, CD-R, CD-ROM
+- Слоты PCMCIA: Type-I или Type-II
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.90 56K
+- Внешние интерфесы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, IrDA
+- Операционная система: Windows 95 OSR2.1
+- Размеры: 288 x 225 x 24.5 мм
+- Вес: 1.7 кг
+
+* Модификации
+
+| Название      | P/N        | Процессор:            | Объём      | Объём    | Операционная | Дата        | Дата начала  |
+|               |            | модель, частота (МГц) | памяти, Мб | HDD (Гб) | система      | презентации | производства |
+|---------------+------------+-----------------------+------------+----------+--------------+-------------+--------------|
+| FMV-645MF7C/W | FMV7MFGWL5 | Mobile Celeron, 450   | 64         | 6        | Windows 95   | 2000-05-10  | 2000-05      |
+|               |            |                       |            |          |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7MFGWL5.html][FMV-BIBLO LIFEBOOK FMV-645MF7C/W FMV7MFGWL5 // INVERSENET]]

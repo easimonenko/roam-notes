@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       496e7f7e-2283-457e-b9c2-33c2110db62f
+:END:
+#+TITLE: FMV-Biblo NC/S
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS:
+
+*FMV-Biblo NC/S* -- серия ультрапортативных ноутбуков линейки NC марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с декабря 1996 г. и стала первой серией в своей линейке.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]
+- Память:
+  - максимальный объём: 48 Мб
+- Видеокарта: NeoMagic NM2090
+- Дисплей: 7.2" DSTN
+- Слоты расширения: PCMCIA Type I или II x 1
+- Размеры: 230 x 170 x 35 мм
+- Вес: 1.1 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:            |       Объём |    Объём | Операционная | Дата        | Дата начала  |
+| модели       |            | модель, частота (МГц) | памяти (Мб) | HDD (Mб) | система      | презентации | производства |
+|--------------+------------+-----------------------+-------------+----------+--------------+-------------+--------------|
+| FMV-5100NC/S | FMV50NCS5  | Pentium, 100          |          16 |      810 | Windows 95   |             | 1996-12      |
+| FMV-5100NC/S | FMV50NCS5E | Pentium, 100          |          16 |      810 | Windows 95   |             | 1996-12      |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NCS5.html][FMV-BIBLO FMV-5100NC/S FMV50NCS5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NCS5E.html][FMV-BIBLO FMV-5100NC/S FMV50NCS5E // INVERSENET]]

@@ -6,9 +6,9 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2026-10-17
-#+FILETAGS:
+#+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook MC9* -- серия ультракомпактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки MC марки FMV-LifeBook компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Фактически является продолжением серии [[id:613c6608-8922-44a4-b161-ca933139aca4][MC9]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]].
+*FMV-LifeBook MC9* -- серия ультракомпактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:593465b7-904a-4eff-96e9-007718d88040][MC]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Фактически является продолжением серии [[id:613c6608-8922-44a4-b161-ca933139aca4][MC9]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]].
 
 * Общая спецификация
 
@@ -19,7 +19,7 @@
   - объём: 128 Мб
   - расширение: 1 x [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
   - максимальный объём: 256 Мб
-- Видеокарта: ATI Rage Mobility-M
+- Видеокарта: ATI [[id:697e1375-5072-49b6-8c17-e05ba06ea29e][RAGE Mobility-M]]
 - Дисплей: 10.4 SVGA 800x600
 - HDD: Ultra ATA
 - Сеть:

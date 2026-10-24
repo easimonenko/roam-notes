@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       03a5da66-fc9f-4f40-92d7-b74550aa1c2d
+:END:
+#+TITLE: Mach64 LB
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-22
+#+FILETAGS: :ati:rage:
+
+*Mach64 LB* -- GPU компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] с архитектурой Rage 3. Выпускалось с 1 ноября 1997 г.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/ati-mach64-lb.g1137][ATI Mach64 LB // INVERSENET]]

@@ -19,7 +19,7 @@
   - объём: 64 Мб
   - расширение: 1 x [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
   - максимальный объём: 256 Мб
-- Видеокарта: ATI Rage Mobility-M
+- Видеокарта: ATI [[id:697e1375-5072-49b6-8c17-e05ba06ea29e][RAGE Mobility-M]]
 - Дисплей: 10.4 SVGA 800x600
 - HDD: Ultra ATA
 - Сеть:

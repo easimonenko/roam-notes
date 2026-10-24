@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       ff5b9431-2b8e-4fe9-b94e-93e662c5dc9c
+:END:
+#+TITLE: FMV-Biblo NA/W
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NA/W* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:3000a14b-636e-464c-bfba-f1df22d1cc3f][NA]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с февраля 1996 г. и в июне 1996 г. была заменена на серию [[id:f6246ab9-6d1a-4fe9-bfd3-bb1b54c898ce][NA2/W]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]
+- Память:
+  - максимальный объём: 72 или 80 Мб
+- Видеокарта: Trident Cyber9385
+- Дисплей: 11.3" TFT
+- CD-проигрыватель: CD-ROM
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Операционная система: Windows 3.1, 95
+- Размеры: 299 x 261 x 58 мм
+- Вес: 3.7-3.9 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная | Дата        |  Дата начала |
+|              |            | модель, частота (МГц) | RAM (Мб) | HDD (Мб) | дисп. | система      | презентации | производства |
+|--------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-5100NA/W | FMV50NAWS3 | Pentium, 100          |       16 |      810 |  11.3 | Windows 95   |             |      1996-02 |
+| FMV-5133NA/W | FMV53NAWK1 | Pentium, 133          |       16 |     1000 |  11.3 | Windows 3.1  |             |      1996-03 |
+| FMV-5133NA/W | FMV53NAWK5 | Pentium, 133          |       16 |     1000 |  11.3 | Windows 3.1  |             |      1996-03 |
+| FMV-5133NA/W | FMV53NAWL1 | Pentium, 133          |       16 |     1000 |  11.3 | Windows 3.1  |             |      1996-03 |
+| FMV-5133NA/W | FMV53NAWL5 | Pentium, 133          |       16 |     1000 |  11.3 | Windows 95   |             |      1996-03 |
+|              |            |                       |          |          |       |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NAWS3.html][FMV-BIBLO FMV-5100NA/W FMV50NAWS3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAWK1.html][FMV-BIBLO FMV-5133NA/W FMV53NAWK1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAWK5.html][FMV-BIBLO FMV-5133NA/W FMV53NAWK5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAWL1.html][FMV-BIBLO FMV-5133NA/W FMV53NAWL1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAWL5.html][FMV-BIBLO FMV-5133NA/W FMV53NAWL5 // INVERSENET]]

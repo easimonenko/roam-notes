@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       593465b7-904a-4eff-96e9-007718d88040
+:END:
+#+TITLE: FMV-LifeBook MC Line
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-22
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook MC Line* -- линейки ультракомпактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Отличительные черта моделей этой линейки: дисплеи до 10.4" и отсутствие CD-проигрывателя.

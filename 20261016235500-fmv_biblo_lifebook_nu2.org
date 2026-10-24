@@ -8,15 +8,106 @@
 #+DATE: 2026-10-16
 #+FILETAGS: :fujitsu:fmv-biblo:lifebook:
 
-*FMV-Biblo LifeBook NU2* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NU под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+*FMV-Biblo LifeBook NU2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NU под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]]
+- Чипсет: Intel [[id:993d359c-04b6-4960-9421-0b8f297f5242][440BX]]
+- Память:
+  - тип: SDRAM ECC
+  - максимальный объём: 192 Мб
+- Видеокарта: Trident Cyber 9388
+- Дисплей: 13.3" XGA (с буквой X) или 12.1" SVGA (с буквой W)
+- HDD: Ultra ATA
+- CD-проигрыватель: отсутствовал
+- Дисковод FDD
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95, 98, NT 4.0
+- Размеры: 309 x 248 x 49 мм
+- Вес: 3.1 кг
 
 * Модели
 
-| Название      | P/N | Процессор:             | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
-|               |     | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
-|---------------+-----+------------------------+----------+----------+-------+--------------+-------------+--------------|
-| FMV-6300NU2/X |     | Mobile Pentium II, 300 | 32       | 3.2      | 13.3  |              |             |              |
+| Название      | P/N        | Процессор:             |    Объём |    Объём | Диаг. | Операционная   |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
+|---------------+------------+------------------------+----------+----------+-------+----------------+-------------+--------------|
+| FMV-6233NU2/W | FMV2NU6WA5 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6WA6 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6WA0 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6WB5 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6WB6 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6WB0 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6W15 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6W16 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6W10 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6W25 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6W26 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/W | FMV2NU6W20 | Mobile Pentium II, 233 |       32 |      3.2 |  12.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6XA5 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6XA6 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6XA0 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6XB5 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6XB6 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6XB0 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6X15 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6X16 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6X10 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6X25 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6X26 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NU2/X | FMV2NU6X20 | Mobile Pentium II, 233 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8XA5 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8XA6 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8XA0 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8XB5 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8XB6 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8XB0 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8X15 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8X16 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8X10 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8X25 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8X26 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6300NU2/X | FMV2NU8X20 | Mobile Pentium II, 300 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6WA5.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6WA5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6WA6.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6WA6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6WA0.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6WA0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6WB5.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6WB5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6WB6.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6WB6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6WB0.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6WB0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6W15.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6W15 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6W16.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6W16 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6W10.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6W10 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6W25.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6W25 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6W26.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6W26 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6W20.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/W FMV2NU6W20 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6XA5.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6XA5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6XA6.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6XA6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6XA0.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6XA0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6XB5.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6XB5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6XB6.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6XB6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6XB0.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6XB0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6X15.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6X15 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6X16.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6X16 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6X10.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6X10 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6X25.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6X25 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6X26.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6X26 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU6X20.html][FMV-BIBLO LIFEBOOK FMV-6233NU2/X FMV2NU6X20 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8XA5.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8XA5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8XA6.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8XA6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8XA0.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8XA0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8XB5.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8XB5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8XB6.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8XB6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8XB0.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8XB0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8X15.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8X15 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8X16.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8X16 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8X10.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8X10 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8X25.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8X25 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8X26.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8X26 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NU8X20.html][FMV-BIBLO LIFEBOOK FMV-6300NU2/X FMV2NU8X20 // INVERSENET]]
 - [[https://museum.ipsj.or.jp/en/computer/personal/0062.html][FMV-BIBLO LIFEBOOK Series // IPSJ Computer Museum]]

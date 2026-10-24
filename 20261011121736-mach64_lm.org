@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ddb7e235-d5d6-4929-be10-0b055ad7ea28
+:END:
+#+TITLE: Mach64 LM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-11
+#+FILETAGS: :ati:rage:
+
+*Mach64 LM* -- [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][GPU]] с архитектурой Rage 3 компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]]. Выпускалось с 1 февраля 1999 г.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/ati-mach64-lm.g666][ATI Mach64 LM // TechPowerUp]]

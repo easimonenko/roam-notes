@@ -8,15 +8,58 @@
 #+DATE: 2026-10-16
 #+FILETAGS: :fujitsu:fmv-biblo:lifebook:
 
-*FMV-Biblo LifeBook NA2* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:a549cd6a-7346-4ae7-830a-a4117a1a1ea8][NA]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NA под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+*FMV-Biblo LifeBook NA2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:a549cd6a-7346-4ae7-830a-a4117a1a1ea8][NA]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NA под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]]
+- Чипсет: Intel [[id:993d359c-04b6-4960-9421-0b8f297f5242][440BX]]
+- Память:
+  - тип: SDRAM ECC
+  - максимальный объём: 192 Мб
+- Видеокарта: ATI [[id:a6bb0707-cb6f-4e12-860c-ecea97f32072][3D RAGE LT PRO]]
+- Дисплей: 14.1" XGA 1024x768
+- HDD: Ultra ATA
+- CD-проигрыватель: CD-ROM (с индексе C) или отсутствовал (в индексе A)
+- Дисковод FDD
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], MIDI, IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95, 98, NT 4.0
+- Размеры: 310 x 261 x 56 мм
+- Вес: 3.7 кг
 
 * Модели
 
-| Название      | P/N | Процессор:             | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
-|               |     | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
-|---------------+-----+------------------------+----------+----------+-------+--------------+-------------+--------------|
-| FMV-6300NA2/L |     | Mobile Pentium II, 300 | 32       | 3.2      | 14.1  |              |             |              |
+| Название      | P/N        | Процессор:             |    Объём |    Объём | Диаг. | Операционная   |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
+|---------------+------------+------------------------+----------+----------+-------+----------------+-------------+--------------|
+| FMV-6233NA2/L | FMV2NA6LA5 | Mobile Pentium II, 233 |       32 |      3.2 |  14.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NA2/L | FMV2NA6LA6 | Mobile Pentium II, 233 |       32 |      3.2 |  14.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NA2/L | FMV2NA6LC6 | Mobile Pentium II, 233 |       32 |      3.2 |  14.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6233NA2/L | FMV2NA6LA0 | Mobile Pentium II, 233 |       32 |      3.2 |  14.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6233NA2/L | FMV2NA6LC5 | Mobile Pentium II, 233 |       32 |      3.2 |  14.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6233NA2/L | FMV2NA6LC0 | Mobile Pentium II, 233 |       32 |      3.2 |  14.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6300NA2/L | FMV2NA8LC5 | Mobile Pentium II, 300 |       32 |      3.2 |  14.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6300NA2/L | FMV2NA8LA5 | Mobile Pentium II, 300 |       32 |      3.2 |  14.1 | Windows 95     |  1998-10-28 |      1998-11 |
+| FMV-6300NA2/L | FMV2NA8LA6 | Mobile Pentium II, 300 |       32 |      3.2 |  14.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6300NA2/L | FMV2NA8LA0 | Mobile Pentium II, 300 |       32 |      3.2 |  14.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
+| FMV-6300NA2/L | FMV2NA8LC6 | Mobile Pentium II, 300 |       32 |      3.2 |  14.1 | Windows 98     |  1998-10-28 |      1998-11 |
+| FMV-6300NA2/L | FMV2NA8LC0 | Mobile Pentium II, 300 |       32 |      3.2 |  14.1 | Windows NT 4.0 |  1998-10-28 |      1998-11 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA6LA5.html][FMV-BIBLO LIFEBOOK FMV-6233NA2/L FMV2NA6LA5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA6LA6.html][FMV-BIBLO LIFEBOOK FMV-6233NA2/L FMV2NA6LA6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA6LC6.html][FMV-BIBLO LIFEBOOK FMV-6233NA2/L FMV2NA6LC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA6LA0.html][FMV-BIBLO LIFEBOOK FMV-6233NA2/L FMV2NA6LA0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA6LC5.html][FMV-BIBLO LIFEBOOK FMV-6233NA2/L FMV2NA6LC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA6LC0.html][FMV-BIBLO LIFEBOOK FMV-6233NA2/L FMV2NA6LC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA8LC5.html][FMV-BIBLO LIFEBOOK FMV-6300NA2/L FMV2NA8LC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA8LA5.html][FMV-BIBLO LIFEBOOK FMV-6300NA2/L FMV2NA8LA5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA8LA6.html][FMV-BIBLO LIFEBOOK FMV-6300NA2/L FMV2NA8LA6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA8LA0.html][FMV-BIBLO LIFEBOOK FMV-6300NA2/L FMV2NA8LA0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA8LC6.html][FMV-BIBLO LIFEBOOK FMV-6300NA2/L FMV2NA8LC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NA8LC0.html][FMV-BIBLO LIFEBOOK FMV-6300NA2/L FMV2NA8LC0 // INVERSENET]]
 - [[https://museum.ipsj.or.jp/en/computer/personal/0062.html][FMV-BIBLO LIFEBOOK Series // IPSJ Computer Museum]]

@@ -34,7 +34,7 @@
 - Процессор: Intel [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron]] с ядром [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]]
 - Чипсет:
   - северный мост:  ATI Radeon IGP
-  - южный мост:  ALIM1535+
+  - южный мост:  ALi [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
 - Видеокарта: ATI Radeon IGP [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][340M]]
 
 ** С процессорами AMD
@@ -42,7 +42,7 @@
 - Процессор: AMD Mobile Athlon XP
 - Чипсет:
   - северный мост:  ATI Radeon IGP
-  - южный мост:  ALIM1535+
+  - южный мост:  ALi [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
 - Видеокарта: ATI Radeon IGP [[id:99752337-0bb6-46d0-84a9-9e3acad11e75][320M]]
 
 * Модели
@@ -52,6 +52,7 @@
 | Название | P/N       | Процессор:               |    Объём |    Объём | Дисп. | Операционная     |        Дата |  Дата начала |
 | модели   |           | модель, частота (МГц)    | RAM (Мб) | HDD (Гб) |       | система          | презентации | производства |
 |----------+-----------+--------------------------+----------+----------+-------+------------------+-------------+--------------|
+| NB15B    | FMVNB15B  | Mobile Celeron, 1500     |      256 |       40 |  15.1 | Windows XP Home  |  2002-10-08 |   2002-11-01 |
 | NB15B    | FMVNB15BP | Mobile Celeron, 1500     |      256 |       40 |  15.1 | Windows XP Prof. |  2002-10-08 |   2002-11-01 |
 | NB16B    | FMVNB16B  | Mobile Pentium 4-M, 1600 |      256 |       40 |  15.1 | Windows XP Home  |  2002-10-08 |   2002-10-11 |
 | NB18B    | FMVNB18B  | Mobile Pentium 4-M, 1800 |      256 |       60 |  15.1 | Windows XP Home  |  2002-10-08 |   2002-10-18 |
@@ -61,13 +62,14 @@
 | Название | P/N        | Процессор:                   |    Объём |    Объём | Дисп. | Операционная     |        Дата | Дата начала  |
 | модели   |            | модель, частота (МГц)        | RAM (Мб) | HDD (Гб) |       | система          | презентации | производства |
 |----------+------------+------------------------------+----------+----------+-------+------------------+-------------+--------------|
-| NB14B/R  | FMVNB14BRP | Mobile Athlon XP 1400+, 1200 |      256 |       30 |  14.1 | Windows XP Prof. |  2002-10-08 | 2002-11-01   |
 | NB14B    | FMVNB14B   | Mobile Athlon XP 1400+, 1200 |      256 |       40 |  14.1 | Windows XP Home  |  2002-10-08 | 2002-10-11   |
+| NB14B/R  | FMVNB14BRP | Mobile Athlon XP 1400+, 1200 |      256 |       30 |  14.1 | Windows XP Prof. |  2002-10-08 | 2002-11-01   |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB15B.html][FMV-BIBLO NB15B FMVNB15B // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB15BP.html][FMV-BIBLO NB15B FMVNB15BP // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB16B.html][FMV-BIBLO NB16B FMVNB16B // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB18B.html][FMV-BIBLO NB18B FMVNB18B // INVERSENET]]
-- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB14BRP.html][FMV-BIBLO NB14B/R FMVNB14BRP // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB14B.html][FMV-BIBLO NB14B FMVNB14B // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB14BRP.html][FMV-BIBLO NB14B/R FMVNB14BRP // INVERSENET]]

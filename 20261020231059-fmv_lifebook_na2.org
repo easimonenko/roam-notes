@@ -8,7 +8,7 @@
 #+DATE: 2026-10-20
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook NA2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии NA. Была заменена на серию NA3.
+*FMV-LifeBook NA2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Была заменена на серию NA3.
 
 * Общая спецификация
 
@@ -23,17 +23,19 @@
 - Внешние интерфесы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Внешний дисплей: UXGA 1600x1200
-- Операционная система: Windows ME
+- Операционная система: Windows ME, 2000 Prof.
 - Размеры: 318 x 269.5 x 45.1 мм
 - Вес: 3.4 кг
 
 * Модели
 
-| Название    | P/N | Процессор:               | Объём       | Объём    | Операционная | Дата        | Дата начала  |
+| Название    | P/N | Процессор:               |       Объём |    Объём | Операционная |        Дата |  Дата начала |
 | модели      |     | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | система      | презентации | производства |
 |-------------+-----+--------------------------+-------------+----------+--------------+-------------+--------------|
-| FMV-7000NA2 |     | Mobile Pentium 4-M, 1800 | 128         | 20       | Windows ME   | 2002-04-24  | 2002-06      |
+| FMV-7000NA2 |     | Mobile Pentium 4-M, 1700 |         128 |       20 | Windows 2000 |  2002-04-24 |      2002-06 |
+| FMV-7000NA2 |     | Mobile Pentium 4-M, 1800 |         128 |       20 | Windows ME   |  2002-04-24 |      2002-06 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/20020425P39237.html][FMV-LIFEBOOK FMV-7000NA2 P4/1.7G-M // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/20020425P39267.html][FMV-LIFEBOOK FMV-7000NA2 // INVERSENET]]

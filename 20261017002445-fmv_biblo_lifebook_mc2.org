@@ -6,17 +6,43 @@
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2026-10-17
-#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+#+FILETAGS: :fujitsu:fmv-biblo:fmv-lifebook:
 
-*FMV-Biblo LifeBook MC2* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7bddb80e-aea0-4a25-babf-5262fbf2983c][MC]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки MC под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+*FMV-Biblo LifeBook MC2* -- серия ультракомпактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7bddb80e-aea0-4a25-babf-5262fbf2983c][MC]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки MC под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]
+- Чипсет: Intel [[id:153f1f1d-74ef-4861-b83a-aaa72a59660f][430TX]]
+- Память:
+  - тип: [[id:840eb719-a818-4900-891c-8340a1f97582][SDRAM]]
+  - максимальный объём: 96 Мб
+- Видеокарта: NeoMagic MagicGraph128XD
+- Дисплей: 8.4" SVGA
+- CD-проигрыватель: отсутствовал
+- Дисковод FDD
+- Сеть:
+  - модем 56K V.90
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, IrDA
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Операционная система: Windows 95, 98
+- Размеры: 230 x 170 x 29 мм
+- Вес: 1.1 кг
 
 * Модели
 
-| Название      | P/N | Процессор:            | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
-|               |     | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
-|---------------+-----+-----------------------+----------+----------+-------+--------------+-------------+--------------|
-| FMV-5233MC2/W |     | Pentium MMX, 233      | 32       | 3.2      | 8.4   |              |             |              |
+| Название      | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|               |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+-----------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-5233MC2/W | FMV2MC2W5 | Pentium MMX, 233      |       32 |      3.2 |   8.4 | Windows 95   |  1998-10-28 |      1998-11 |
+| FMV-5233MC2/W | FMV2MC2W6 | Pentium MMX, 233      |       32 |      3.2 |   8.4 | Windows 98   |  1998-10-28 |      1998-11 |
+| FMV-5233MC2/W | FMV2MC2T5 | Pentium MMX, 233      |       32 |      3.2 |   8.4 | Windows 95   |  1998-10-28 |      1998-11 |
+| FMV-5233MC2/W | FMV2MC2T6 | Pentium MMX, 233      |       32 |      3.2 |   8.4 | Windows 98   |  1998-10-28 |      1998-11 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MC2W5.html][FMV-BIBLO LIFEBOOK FMV-5233MC2/W FMV2MC2W5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MC2W6.html][FMV-BIBLO LIFEBOOK FMV-5233MC2/W FMV2MC2W6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MC2T5.html][FMV-BIBLO LIFEBOOK FMV-5233MC2/W FMV2MC2T5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MC2T6.html][FMV-BIBLO LIFEBOOK FMV-5233MC2/W FMV2MC2T6 // INVERSENET]]
 - [[https://museum.ipsj.or.jp/en/computer/personal/0062.html][FMV-BIBLO LIFEBOOK Series // IPSJ Computer Museum]]

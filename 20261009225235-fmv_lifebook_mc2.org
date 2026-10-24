@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       28662791-e7d6-4d8e-911a-58f73a97945c
+:END:
+#+TITLE: FMV-LifeBook MC2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-09
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook MC2* -- серия ультракомпактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки MC марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Чипсет: Intel [[id:74003cec-13de-4cd8-acfa-331f1f08cf0b][440MX]]
+- Оперативная память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 128 Мб
+  - расширение: 1 x [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 256 Мб
+- Видеокарта: ATI [[id:697e1375-5072-49b6-8c17-e05ba06ea29e][RAGE Mobility-M]], 4 Мб
+- Дисплей: 10.4" TFT SVGA 800x600
+- Внешний дисплей: SXGA 1280x1024
+- HDD: 20 Гб Ultra ATA/33
+- Слоты расширения: PCMCIA Type II x 2 или Type III x 1
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], IrDA
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.90 56K
+- Размеры: 252 x 216 x 21.8 мм
+- Вес: 1.29 кг
+
+* Модели
+
+| Название   | P/N        | Процессор:            |       Объём |    Объём | Операционная           |        Дата |  Дата начала |
+| модели     |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система                | презентации | производства |
+|------------+------------+-----------------------+-------------+----------+------------------------+-------------+--------------|
+| FMV-665MC2 | FMV2MCLM6  | Mobile Celeron, 650   |          64 |       20 | Windows 98 SE          |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLM7  | Mobile Celeron, 650   |          64 |       20 | Windows ME             |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTL6 | Mobile Celeron, 650   |          64 |       20 | Windows 98 SE          |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTL7 | Mobile Celeron, 650   |          64 |       20 | Windows ME             |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTM2 | Mobile Celeron, 650   |          64 |       20 | Windows 2000 Prof. SP2 |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTM3 | Mobile Celeron, 650   |          64 |       20 | Windows XP Prof.       |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTM6 | Mobile Celeron, 650   |          64 |       20 | Windows 98 SE          |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTM7 | Mobile Celeron, 650   |          64 |       20 | Windows ME             |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLL6  | Mobile Celeron, 650   |         128 |       20 | Windows 98 SE          |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLL7  | Mobile Celeron, 650   |         128 |       20 | Windows ME             |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLL2  | Mobile Celeron, 650   |         128 |       20 | Windows 2000 Prof. SP2 |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLL3  | Mobile Celeron, 650   |         128 |       20 | Windows XP Prof.       |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLM2  | Mobile Celeron, 650   |         128 |       20 | Windows 2000 Prof. SP2 |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLM3  | Mobile Celeron, 650   |         128 |       20 | Windows XP Prof.       |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTL2 | Mobile Celeron, 650   |         128 |       20 | Windows 2000 Prof. SP2 |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTL3 | Mobile Celeron, 650   |         128 |       20 | Windows XP Prof.       |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLW2  | Mobile Celeron, 650   |         128 |       20 | Windows 2000 Prof. SP2 |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLW3  | Mobile Celeron, 650   |         128 |       20 | Windows XP Prof.       |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTW2 | Mobile Celeron, 650   |         128 |       20 | Windows 2000 Prof. SP2 |  2002-04-24 |      2002-04 |
+| FMV-665MC2 | FMV2MCLTW3 | Mobile Celeron, 650   |         128 |       20 | Windows XP Prof.       |  2002-04-24 |      2002-04 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLM6.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLM6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLM7.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLM7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTL6.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTL6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTL7.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTL7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTM2.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTM2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTM3.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTM3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTM6.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTM6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTM7.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTM7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLL6.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLL6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLL7.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLL7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLL2.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLL2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLL3.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLL3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLM2.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLM2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLM3.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLM3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTL2.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTL2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTL3.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTL3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLW2.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLW2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLW3.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLW3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTW2.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTW2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MCLTW3.html][FMV-LIFEBOOK FMV-665MC2 FMV2MCLTW3 // INVERSENET]]

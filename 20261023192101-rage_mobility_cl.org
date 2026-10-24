@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b4a8289f-124b-4a95-825d-0aea84610467
+:END:
+#+TITLE: RAGE Mobility-CL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS: :ati:rage:
+
+*RAGE Mobility-CL* -- мобильная [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарта]] линейки [[id:c624f9d3-f4c1-4b74-a26d-897a624e3fa3][RAGE Mobility]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] с GPU [[id:ddb7e235-d5d6-4929-be10-0b055ad7ea28][Mach64 LM]] с архитектурой Rage 3. Была представлена 2 ноября 1998 г. и производилась с 1 февраля 1999 г.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/rage-mobility-cl.c2177][ATI Rage Mobility-CL // TechPowerUp]]

@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       6ae90ae8-3420-4e51-b4f2-f90469763c52
+:END:
+#+TITLE: FMV-Biblo LifeBook MC8
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook MC8* -- серия ультракомпактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7bddb80e-aea0-4a25-babf-5262fbf2983c][MC]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с октября 2000 г. С мая 2001 г. была заменена на серию [[id:613c6608-8922-44a4-b161-ca933139aca4][MC9]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Чипсет: Intel [[id:74003cec-13de-4cd8-acfa-331f1f08cf0b][440MX]]
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 64 Мб
+  - расширение: 1 x [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 256 Мб
+- Видеокарта: ATI [[id:697e1375-5072-49b6-8c17-e05ba06ea29e][RAGE Mobility-M]]
+- Дисплей: 10.4 SVGA 800x600
+- HDD: Ultra ATA
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95 OSR2.1, 98 SE, Millenium Ed., 2000 Prof.
+- Размеры: 252 x 216 x 22 мм
+- Вес: 1.34 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:            | Объём       | Объём    | Операционная | Дата        | Дата начала  |
+|              |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система      | презентации | производства |
+|--------------+------------+-----------------------+-------------+----------+--------------+-------------+--------------|
+| FMV-650MC8/W | FMV8MCHTM5 | Mobile Celeron, 500   | 64          | 10       | Windows 95   | 2000-10-16  | 2000-10      |
+|              |            |                       |             |          |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8MCHTM5.html][FMV-BIBLO LIFEBOOK FMV-650MC8/W FMV8MCHTM5 // INVERSENET]]

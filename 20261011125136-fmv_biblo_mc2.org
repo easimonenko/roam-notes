@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       189538ea-f168-40a9-9786-fb063ed67f06
+:END:
+#+TITLE: FMV-Biblo MC2
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-11
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MC2* -- серия ультракомпактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки MC марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- Процессор: Intel Mobile Celeron
+- Оперативная память:
+  - объём: 64 Мб
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1, 128 Мб
+  - максимальный объём: 192 Мб
+- Видеокарта: NeoMagic MagicGraph128XD
+- Дисплей: 10.4" TFT SVGA 800x600
+- HDD: 6.4 Гб Ultra ATA
+- Слоты расширения: PCMCIA Type I или II x 1
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, IrDA
+- Сеть:
+  - Модем V.90 56K
+- Размеры: 250 x 199 x 24 мм
+- Вес: 1.4 кг
+
+* Модели
+
+| Название | P/N       | Процессор:            |       Объём |    Объём | Операционная  |        Дата |  Дата начала |
+| модели   |           | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система       | презентации | производства |
+|----------+-----------+-----------------------+-------------+----------+---------------+-------------+--------------|
+| MC2/40   | FMVMC240  | Mobile Celeron, 400   |          64 |      6.4 | Windows 98 SE |  1999-10-21 |      1999-11 |
+| MC2/40   | FMVMC240S | Mobile Celeron, 400   |          64 |      6.4 | Windows 98 SE |  1999-10-21 |      1999-11 |
+
+Модель с индексом S оснащалась пакетом программ OASYS V7.
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMC240.html][FMV-BIBLO MC2/40 FMVMC240 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMC240S.html][FMV-BIBLO MC2/40 FMVMC240S // INVERSENET]]

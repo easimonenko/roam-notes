@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       153f1f1d-74ef-4861-b83a-aaa72a59660f
+:END:
+#+TITLE: Intel 430TX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS: :intel:chipsets:pentium-mmx:
+
+*Intel 430TX* -- [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], использовавшийся с процессорами [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]. Выпускался с февраля 1997 г.
+
+* Resources
+
+- [[https://pchardware.org/chipsets/intel-430tx/][Intel 430TX // PCHardware]]

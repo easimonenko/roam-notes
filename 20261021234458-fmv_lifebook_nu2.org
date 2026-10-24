@@ -8,7 +8,7 @@
 #+DATE: 2026-10-21
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook NU2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки NU марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-LifeBook NU2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с апреля 2002 г. Была заменена на серию [[id:489d608c-54cf-49cb-afb4-fe8ac1651fae][NU3]].
 
 * Общая спецификация
 
@@ -19,9 +19,9 @@
   - максимальный объём: 512 Мб
 - Дисплей: 14.1" XGA 1024x768
 - HDD: Ultra ATA
-- CD-Player: CD-ROM
-- FDD
-- Внешние интерфесы: 1 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Внешние интерфейсы: 1 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Операционная система: Windows XP Prof.
 - Размеры: 325 x 268 x 46.5 мм

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ba7ac842-ac70-43e4-9e3a-2a52331337fd
+:END:
+#+TITLE: RAGE Mobility-M1
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS: :ati:rage:
+
+*RAGE Mobility-M1* -- мобильный [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][графический]] чип компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]], выпускавшийся с 1 февраля 1999 г.
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/rage-mobility-m1.c1593][ATI Rage Mobility-M1 // TechPowerUp]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       33a740b3-4934-4c67-8ee9-da8631c108cb
+:END:
+#+TITLE: FMV-LifeBook NU Line
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-23
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NU Line* -- линейка бюджетных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] с конкурентноспособной ценой марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену линейке [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки FMV-Biblo LifeBook.

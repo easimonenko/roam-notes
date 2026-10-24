@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5d077f60-8cdb-41a8-8626-890b374abb99
+:END:
+#+TITLE: RAGE Mobility
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-02-18
+#+FILETAGS: :computer-graphics:ati:rage:
+
+*RAGE Mobility* -- семейство [[id:94c19c84-8050-409c-94b6-de2ab3c525f3][графических]] чипов компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] линейки [[id:d2d6ae97-01f5-44cd-ac15-8fa54859c0f4][RAGE]] для использования в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]], представленные в ноябре 1998 г., выпускавшихся с февраля 1999 г., базирующихся на архитектуре Rage 4 и пришедшее на смену RAGE LT и RAGE LT Pro. Включало в себя чипы с названием C, EC, L, M2, [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][P]], [[id:697e1375-5072-49b6-8c17-e05ba06ea29e][M]], M1, M3, M4 и [[id:b4a8289f-124b-4a95-825d-0aea84610467][CL]].
+
+* Resources
+
+- [[https://www.techpowerup.com/gpu-specs/ati-rage-mobility.g666][ATI Rage Mobility // TechPowerUp]]
