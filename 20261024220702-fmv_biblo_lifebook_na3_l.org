@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       d222668b-2a61-4741-bd15-289f5beb1930
+:END:
+#+TITLE: FMV-Biblo LifeBook NA3/L
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-24
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook NA3/L* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:a549cd6a-7346-4ae7-830a-a4117a1a1ea8][NA]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с февраля 1999 г. и пришла на смену серии [[id:3e8d71ca-a4e7-4c3f-9324-a57045b220e9][NA2]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]]
+- Чипсет: Intel [[id:993d359c-04b6-4960-9421-0b8f297f5242][440BX]]
+- Память:
+  - тип: SDRAM ECC
+  - максимальный объём: 192 Мб
+- Видеокарта: ATI [[id:a6bb0707-cb6f-4e12-860c-ecea97f32072][3D RAGE LT PRO]]
+- Дисплей: 14.1" XGA 1024x768
+- HDD: Ultra ATA
+- CD-проигрыватель: CD-ROM (с индексе C) или отсутствовал (в индексе A)
+- Дисковод FDD
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], MIDI, IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95, 98, NT 4.0
+- Размеры: 310 x 261 x 56 мм
+- Вес: 3.5 кг
+
+* Модели
+
+| Название      | P/N        | Процессор:                | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
+|               |            | модель, частота (МГц)     | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+------------+---------------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-6266NA3/L | FMV3NA7LA5 | Mobile Pentium II PE, 266 | 32       | 4.3      | 14.1  | Windows 95   | 1999-01-27  | 1999-02      |
+|               |            |                           |          |          |       |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NA7LA5.html][FMV-BIBLO LIFEBOOK FMV-6266NA3/L FMV3NA7LA5 // INVERSENET]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c791633b-9151-45e1-b25e-88c7eb6e59ad
+:END:
+#+TITLE: Glx-Dock (Cairo-Dock)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-24
+#+FILETAGS: :wayland:gui:
+
+*Glx-Dock (Cairo-Dock)* -- [[id:397a1938-4328-4d49-9a44-c06a9a325022][пускач]], работающий под [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композиторами.
+
+* Resources
+
+- [[https://www.glx-dock.org/][Home Page]]

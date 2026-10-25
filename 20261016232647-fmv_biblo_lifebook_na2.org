@@ -8,7 +8,7 @@
 #+DATE: 2026-10-16
 #+FILETAGS: :fujitsu:fmv-biblo:lifebook:
 
-*FMV-Biblo LifeBook NA2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:a549cd6a-7346-4ae7-830a-a4117a1a1ea8][NA]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NA под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+*FMV-Biblo LifeBook NA2* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:a549cd6a-7346-4ae7-830a-a4117a1a1ea8][NA]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NA под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г. В феврале 1999 г. была заменена на серию [[id:d222668b-2a61-4741-bd15-289f5beb1930][NA3/L]].
 
 * Общая спецификация
 

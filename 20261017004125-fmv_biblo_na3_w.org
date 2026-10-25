@@ -13,11 +13,14 @@
 * Общая спецификация
 
 - Процессор: Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]
+- Память:
+  - максимальный объём: 80 Мб
+- Видеокарта: Trident Cyber9385
 - Дисплей: 12.1" TFT
-- Проигрыватель компакт-дисков: CD-ROM
+- CD-проигрыватель: CD-ROM
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
-- Операционная система: Windows 3.1 и MS-DOS 6.2
-- Размеры: 296 x 240 x 48 мм
+- Операционная система: Windows 3.1 и MS-DOS 6.2, Windows 95
+- Размеры: 296 x 240 x 48 мм (P-133) или 310 x 267 x 56 мм (P-150)
 - Вес: 3.9 кг
 
 * Модели
@@ -27,9 +30,18 @@
 |---------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
 | FMV-5133NA3/W | FMV53NA3W1 | Pentium, 133          |       16 |      1.3 |  12.1 | Windows 3.1  |             |      1996-11 |
 | FMV-5133NA3/W | FMV53NA3W5 | Pentium, 133          |       16 |      1.3 |  12.1 | WIndows 95   |             |      1996-11 |
-|               |            |                       |          |          |       |              |             |              |
+| FMV-5150NA3/W | FMV55NA3W1 | Pentium, 150          |       16 |      1.6 |  12.1 | Windows 3.1  |             |      1996-11 |
+| FMV-5150NA3/W | FMV55NA3W5 | Pentium, 150          |       16 |      1.6 |  12.1 | Windows 95   |             |      1996-11 |
+| FMV-5150NA3/W | FMV55NA3S1 | Pentium, 150          |       32 |      1.6 |  12.1 | Windows 95   |             |   1996-11-22 |
+| FMV-5150NA3/W | FMV55NA3S2 | Pentium, 150          |       32 |      1.6 |  12.1 | Windows 95   |             |   1996-11-22 |
+| FMV-5150NA3/W | FMV55NA3S3 | Pentium, 150          |       32 |      1.6 |  12.1 | Windows 95   |             |   1996-11-22 |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NA3W1.html][FMV-BIBLO FMV-5133NA3/W FMV53NA3W1 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NA3W5.html][FMV-BIBLO FMV-5133NA3/W FMV53NA3W5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV55NA3W1.html][FMV-BIBLO FMV-5150NA3/W FMV55NA3W1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV55NA3W5.html][FMV-BIBLO FMV-5150NA3/W FMV55NA3W5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV55NA3S1.html][FMV-BIBLO FMV-5150NA3/W FMV55NA3S1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV55NA3S2.html][FMV-BIBLO FMV-5150NA3/W FMV55NA3S2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV55NA3S3.html][FMV-BIBLO FMV-5150NA3/W FMV55NA3S3 // INVERSENET]]

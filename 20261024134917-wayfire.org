@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       717bad29-f481-4fb3-a701-8ec7e03438d1
+:END:
+#+TITLE: Wayfire
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-24
+#+FILETAGS: :wayland:
+
+*Wayfire* -- [[id:569c838d-8fbe-44c9-9a0b-f1b94fb4d25d][Wayland]]-композитор, построенный на идеях Compiz и библиотеке [[id:bfde0f8f-87ef-4829-a6da-fbbcedb7d495][wlroots]]. Написан на языке [[id:5fb63215-fbc4-4c38-8444-779c123ae2e8][C++]]. Распространяется под [[id:b4eb4f4d-19f9-4c9b-a9c8-d35221a539a9][MIT License]].
+
+* Resources
+
+- [[https://github.com/WayfireWM/wayfire][GitHub Page]]
+- [[https://wiki.gentoo.org/wiki/Wayfire][Gentoo Wiki]]

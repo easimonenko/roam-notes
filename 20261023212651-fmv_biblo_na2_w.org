@@ -14,9 +14,9 @@
 
 - Процессор: Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]
 - Память:
-  - максимальный объём: 72 Мб
+  - максимальный объём: 48 Мб (P-120) или 72 Мб (P-133)
 - Видеокарта: Trident Cyber9385
-- Дисплей: 12.1" TFT
+- Дисплей: 11.3" TFT (P-120) или 12.1" TFT (P-133)
 - CD-проигрыватель: CD-ROM
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Операционная система: MS-DOS 6.2, Windows 3.1, Windows 95
@@ -26,16 +26,18 @@
 * Модели
 
 | Название      | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная | Дата        |  Дата начала |
-|               |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|               |            | модель, частота (МГц) | RAM (Мб) | HDD (Мб) | дисп. | система      | презентации | производства |
 |---------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
-| FMV-5133NA2/W | FMV53NA2L1 | Pentium, 133          |       16 |        1 |  12.1 | Windows 3.1  |             |      1996-06 |
-| FMV-5133NA2/W | FMV53NA2L5 | Pentium, 133          |       16 |        1 |  12.1 | Windows 95   |             |      1996-06 |
-| FMV-5133NA2/W | FMV53NA2S1 | Pentium, 133          |       16 |        1 |  12.1 | Windows 95   |             |      1996-06 |
-| FMV-5133NA2/W | FMV53NA2S2 | Pentium, 133          |       16 |        1 |  12.1 | Windows 95   |             |      1996-06 |
-| FMV-5133NA2/W | FMV53NA2S3 | Pentium, 133          |       16 |        1 |  12.1 | Windows 95   |             |      1996-06 |
+| FMV-5120NA2/W | FMV52NA2S3 | Pentium, 120          |       16 |      810 |  11.3 | Windows 95   |             |      1996-06 |
+| FMV-5133NA2/W | FMV53NA2L1 | Pentium, 133          |       16 |     1000 |  12.1 | Windows 3.1  |             |      1996-06 |
+| FMV-5133NA2/W | FMV53NA2L5 | Pentium, 133          |       16 |     1000 |  12.1 | Windows 95   |             |      1996-06 |
+| FMV-5133NA2/W | FMV53NA2S1 | Pentium, 133          |       16 |     1000 |  12.1 | Windows 95   |             |      1996-06 |
+| FMV-5133NA2/W | FMV53NA2S2 | Pentium, 133          |       16 |     1000 |  12.1 | Windows 95   |             |      1996-06 |
+| FMV-5133NA2/W | FMV53NA2S3 | Pentium, 133          |       16 |     1000 |  12.1 | Windows 95   |             |      1996-06 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV52NA2S3.html][FMV-BIBLO FMV-5120NA2/W FMV52NA2S3 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NA2L1.html][FMV-BIBLO FMV-5133NA2/W FMV53NA2L1 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NA2L5.html][FMV-BIBLO FMV-5133NA2/W FMV53NA2L5 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NA2S1.html][FMV-BIBLO FMV-5133NA2/W FMV53NA2S1 // INVERSENET]]

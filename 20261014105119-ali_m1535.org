@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       eef07e5c-e936-4430-9535-c7b046238a79
 :END:
-#+TITLE: ALI M1535+
+#+TITLE: ALi M1535+
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0

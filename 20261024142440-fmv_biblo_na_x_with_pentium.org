@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       06e893d2-9249-4b7c-96d1-ec728049cfd2
+:END:
+#+TITLE: FMV-Biblo NA/X (with Pentium)
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-24
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NA/X (with Pentium)* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:3000a14b-636e-464c-bfba-f1df22d1cc3f][NA]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. С июня 1998 г. под тем же названием выпускалась по дизайну и конструкции другая серия [[id:c8d93093-d8b2-4893-96d7-78f287e89dff][NA/X]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]
+- Память:
+  - максимальный объём: 72 Мб или 80 Мб (с Pentium 133 и 150)
+- Видеокарта: Trident Cyber9385 с Pentium 150
+- Дисплей: 10.4" TFT или 12.1" TFT
+- CD-проигрыватель: CD-ROM (мог отсутствовать)
+- Дисковод FDD: внешний у некоторых моделей с CD-ROM
+- Слоты расширения: PCMCIA 2 x Type II или 1 x Type III
+- Операционная система: MS-DOS 6.2, Windows 3.1, Windows 95
+- Размеры: 299 x 261 x 58 мм
+- Вес: 3.8-4.2 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная | Дата        |  Дата начала |
+|              |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|--------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-575NA/X  | FMV57NAXJ1 | Pentium, 75           |        8 |      810 |  10.4 | Windows 3.1  |             |      1995-05 |
+| FMV-575NA/X  | FMV57NAXH1 | Pentium, 75           |        8 |      810 |  10.4 | Windows 3.1  |             |      1995-05 |
+| FMV-5120NA/X | FMV51NAXJ1 | Pentium, 120          |        8 |      810 |  10.4 | Windows 3.1  |             |      1995-10 |
+| FMV-5120NA/X | FMV51NAXJ5 | Pentium, 120          |        8 |      810 |  10.4 | Windows 95   |             |      1995-10 |
+| FMV-5120NA/X | FMV51NAXH1 | Pentium, 120          |        8 |      810 |  10.4 | Windows 3.1  |             |      1995-10 |
+| FMV-5120NA/X | FMV51NAXH5 | Pentium, 120          |        8 |      810 |  10.4 | Windows 95   |             |      1995-10 |
+| FMV-5133NA/X | FMV53NAXM1 | Pentium, 133          |       16 |      1.2 |  12.1 | Windows 3.1  |             |      1996-03 |
+| FMV-5133NA/X | FMV53NAXM5 | Pentium, 133          |       16 |      1.2 |  12.1 | Windows 95   |             |      1996-03 |
+| FMV-5133NA/X | FMV53NAXN1 | Pentium, 133          |       16 |      1.2 |  12.1 | Windows 3.1  |             |      1996-03 |
+| FMV-5133NA/X | FMV53NAXN5 | Pentium, 133          |       16 |      1.2 |  12.1 | Windows 95   |             |      1996-03 |
+| FMV-5150NA/X | FMV55NAXQ1 | Pentium, 150          |       16 |      1.3 |  12.1 | Windows 3.1  |             |      1996-08 |
+| FMV-5150NA/X | FMV55NAXQ5 | Pentium, 150          |       16 |      1.3 |  12.1 | Windows 95   |             |      1996-08 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV57NAXJ1.html][FMV-BIBLO FMV-575NA/X FMV57NAXJ1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV57NAXH1.html][FMV-BIBLO FMV-575NA/X FMV57NAXH1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV51NAXJ1.html][FMV-BIBLO FMV-5120NA/X FMV51NAXJ1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV51NAXJ5.html][FMV-BIBLO FMV-5120NA/X FMV51NAXJ5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV51NAXH1.html][FMV-BIBLO FMV-5120NA/X FMV51NAXH1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV51NAXH5.html][FMV-BIBLO FMV-5120NA/X FMV51NAXH5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAXM1.html][FMV-BIBLO FMV-5133NA/X FMV53NAXM1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAXM5.html][FMV-BIBLO FMV-5133NA/X FMV53NAXM5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAXN1.html][FMV-BIBLO FMV-5133NA/X FMV53NAXN1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NAXN5.html][FMV-BIBLO FMV-5133NA/X FMV53NAXN5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV55NAXQ1.html][FMV-BIBLO FMV-5150NA/X FMV55NAXQ1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV55NAXQ5.html][FMV-BIBLO FMV-5150NA/X FMV55NAXQ5 // INVERSENET]]

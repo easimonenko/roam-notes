@@ -23,3 +23,4 @@ Wayland призван заменить [[id:86a72a95-6bd3-48c2-a567-7bcc387336c
 - [[https://gitlab.freedesktop.org/wayland][Git Repositories]]
 - [[https://ru.wikipedia.org/wiki/Wayland][Wikipedia [RU]​]]
 - [[https://en.wikipedia.org/wiki/Wayland_(protocol)][Wikipedia [EN]​]]
+- [[https://wiki.gentoo.org/wiki/Wayland][Gentoo Wiki]]
