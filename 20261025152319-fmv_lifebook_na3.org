@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       9994f281-1416-40ca-87ca-dd5b46946327
+:END:
+#+TITLE: FMV-LifeBook NA3
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-25
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NA3* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с октября 2002 г. и пришла на смену серии [[id:92a9fa76-dae8-485f-91c5-b9d4784b426f][NA2]]. В апреле 2003 г. была заменена на серию [[id:019a1f37-e993-4fd9-8708-073c62e36323][NA4]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]] с ядром [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]]
+- Чипсет:
+  - северный мост: ATI [[id:26fa508f-ecf7-4f3f-bb4d-3ce2bfe29107][Radeon IGP]]
+  - южный мост: ALi [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 1024 Мб
+- Видеокарта: ATI [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][Radeon IGP 340M]], 16 Мб
+- Дисплей: 14.1" XGA 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Внешние интерфесы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows ME, 2000 Prof.
+- Размеры: 318 x 269.5 x 47.3 мм
+- Вес: 3.1 кг
+
+* Модели
+
+| Название    | P/N       | Процессор:               | Объём       | Объём    | Операционная | Дата        | Дата начала  |
+| модели      |           | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | система      | презентации | производства |
+|-------------+-----------+--------------------------+-------------+----------+--------------+-------------+--------------|
+| FMV-7000NA3 | FMVNA32A7 | Mobile Pentium 4-M, 1800 | 128         | 20       | Windows ME   | 2002-10-09  | 2002-10      |
+|             |           |                          |             |          |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA32A7.html][FMV-LIFEBOOK FMV-7000NA3 FMVNA32A7 // INVERSENET]]

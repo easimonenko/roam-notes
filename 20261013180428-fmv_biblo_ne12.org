@@ -8,7 +8,7 @@
 #+DATE: 2026-10-13
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo NE12* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Сменила серию [[id:3d2caec8-2e77-4f45-95cc-fb97e6dae6ed][NE9]], при этом сама стала последней в линейке.
+*FMV-Biblo NE12* -- серия премиальных домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с мая 2002 г. и сменила серию [[id:3d2caec8-2e77-4f45-95cc-fb97e6dae6ed][NE9]], став последней в линейке.
 
 * Общая спецификация
 
@@ -28,7 +28,7 @@
   - Ethernet 100BASE-TX/10BASE-T
   - Модем V.90 56K
   - WiFi b
-- Внешние интерфесы: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, PS/2
+- Внешние интерфесы: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]]
 - Слоты PCMCIA: Type-II x 2 или Type-III
 - Разрешение внешнего дисплея: UXGA (1600x1200)
 - Операционная система: Microsoft Windows XP Home Edition

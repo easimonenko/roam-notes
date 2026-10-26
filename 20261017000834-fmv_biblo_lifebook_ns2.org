@@ -8,7 +8,7 @@
 #+DATE: 2026-10-17
 #+FILETAGS: :fujitsu:fmv-biblo:lifebook:
 
-*FMV-Biblo LifeBook NS2* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:120f5203-ec67-491b-9955-a520dd422c49][NS]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NS под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г.
+*FMV-Biblo LifeBook NS2* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:120f5203-ec67-491b-9955-a520dd422c49][NS]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Исторически первая серия линейки NS под маркой FMV-Biblo LifeBook. Вышла в октябре 1998 г. В феврале 1999 г. была заменена на серию [[id:7fa81d4a-2c99-46ec-8d63-9c289a445d55][NS3]].
 
 * Общая спецификация
 

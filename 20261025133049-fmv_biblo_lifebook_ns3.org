@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       7fa81d4a-2c99-46ec-8d63-9c289a445d55
+:END:
+#+TITLE: FMV-Biblo LifeBook NS3
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-25
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook NS3* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:120f5203-ec67-491b-9955-a520dd422c49][NS]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с февраля 1999 г. и пришла на смену серии [[id:a688e008-5c1d-4972-b657-8800a78acf7f][NS2]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]]
+- Чипсет: Intel [[id:c166c17b-66d0-4b1b-88ce-46a3254771b3][440DX]]
+- Память:
+  - тип: SDRAM ECC
+  - максимальный объём: 192 Мб
+- Видеокарта: NeoMagic MagicGraph128XD
+- Дисплей: 13.3" XGA
+- HDD: Ultra ATA
+- CD-проигрыватель: отсутствовал
+- Дисковод FDD
+- Сеть:
+  - модем 56K V.90
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 1, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Операционная система: Windows 95, 98, NT 4.0
+- Размеры: 303 x 229 x 25 мм
+- Вес: 1.98 кг
+
+* Модели
+
+| Название      | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная   |        Дата |  Дата начала |
+|               |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
+|---------------+-----------+------------------------+----------+----------+-------+----------------+-------------+--------------|
+| FMV-6266NS3/X | FMV3NS7X5 | Mobile Pentium PE, 266 |       32 |      3.2 |  13.3 | Windows 95     |  1999-01-27 |      1999-02 |
+| FMV-6266NS3/X | FMV3NS7X6 | Mobile Pentium PE, 266 |       32 |      3.2 |  13.3 | Windows 98     |  1999-01-27 |      1999-02 |
+| FMV-6266NS3/X | FMV3NS7X0 | Mobile Pentium PE, 266 |       32 |      3.2 |  13.3 | Windows NT 4.0 |  1999-01-27 |      1999-02 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NS7X5.html][FMV-BIBLO LIFEBOOK FMV-6266NS3/X FMV3NS7X5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NS7X6.html][FMV-BIBLO LIFEBOOK FMV-6266NS3/X FMV3NS7X6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NS7X0.html][FMV-BIBLO LIFEBOOK FMV-6266NS3/X FMV3NS7X0 // INVERSENET]]

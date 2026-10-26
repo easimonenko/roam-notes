@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       0e86c350-409d-4cc4-8a42-9e54cc9e9a05
+:END:
+#+TITLE: FMV-Biblo NE8
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-25
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NE8* -- серия премиальных домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:9175c352-9503-4ba3-acbc-c7a18dcbf6b4][NE]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с октября 2001 г. и пришла на смену серии [[id:ac973138-1fae-4ac4-a09d-0d8bc9ccc465][NE7]], сохранив дизайн и конструкцию. В январе 2002 г. была заменена на серию [[id:3d2caec8-2e77-4f45-95cc-fb97e6dae6ed][NE9]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Оперативная память:
+  - тип памяти: SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 256 Мб на плате
+  - расширение: слот [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] 128 Мб или 512 Мб
+  - максимальный объём: 384 Мб
+- Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][RAGE Mobility-P]]
+- Дисплей: 14.1" TFT XGA (1024x768)
+- HDD: Ultra ATA
+- Проигрыватель компакт-дисков: DVD-ROM, CD-ROM, CD-R, CD-RW
+- Дисковод FDD
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.90 56K
+  - Bluetooth Ver1.1 (с индеком W и H)
+- Внешние интерфесы: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]]
+- Слоты расширения: PCMCIA 2 x Type-I и Type-II или Type-III
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Операционная система: Microsoft Windows XP Home Edition
+- Программное обеспечение: Microsoft Office XP
+- Питание: 16V 3.75A, коннектор с иглой
+- Размеры: 308 x 282 x 36.0
+- Вес: 3.2 кг 
+
+* Модели
+
+| Название  | P/N       | Процессор:               |       Объём |    Объём |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | презентации | производства |
+|-----------+-----------+--------------------------+-------------+----------+-------------+--------------|
+| NE8/85    | FMVNE885  | Mobile Celeron, 850      |         256 |       30 |  2002-01-16 |   2002-02-01 |
+| NE8/900   | FMVNE890  | Mobile Pentium III, 900  |         256 |       40 |  2001-10-23 |   2001-10-27 |
+| NE8/900W  | FMVNE890W | Mobile Pentium III, 900  |         256 |       40 |  2001-10-23 |   2001-10-27 |
+| NE8/1000H | FMVNE810H | Mobile Pentium III, 1000 |         256 |       40 |  2001-10-23 |   2001-10-27 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE885.html][FMV-BIBLO NE8/85 FMVNE885 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE890.html][FMV-BIBLO NE8/900 FMVNE890 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE890W.html][FMV-BIBLO NE8/900W FMVNE890W // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE810H.html][FMV-BIBLO NE8/1000H FMVNE810H // INVERSENET]]
