@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9a85db08-bbe1-4603-8f5b-ac1ea7581114
+:END:
+#+TITLE: LifeBook B Series
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-26
+#+FILETAGS: :fujitsu:lifebook:
+
+*LifeBook B Series* -- линейка ноутбуков с сенсорным экраном марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]].

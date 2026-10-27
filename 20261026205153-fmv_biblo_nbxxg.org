@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       a95ca346-745f-4098-8a08-7db90db6c50a
+:END:
+#+TITLE: FMV-Biblo NBxxG
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-26
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NBxxG* -- серия моделей недорогих домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:fb5cfdea-19ea-4467-a4c7-7587daaf67c2][NB]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия производилась с января 2004 г.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]] или [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron]] с ядром [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]]
+- Чипсет:
+  - северный мост: ATI [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][Radeon IGP 340M]]
+  - южный мост: ALI [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
+- Оперативная память:
+  - тип памяти: DDR [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]]
+  - объём: 256 Мб непосредственно на плате
+  - расширение: один слот [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] до 512 Мб
+  - максимальный объём 768 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.1" TFT XGA (1024x768)
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- HDD Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]/100 40 или 60 Гб
+- Дисковод FDD
+- Слоты расширения: PCMCIA 2 x Type II или 1 x Type III
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.92 56K
+- Внешние интерфесы: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], FireWire S400, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]]
+- Операционная система: Windows XP Home SP1a или Professional (индекс P)
+- Размеры: 325.3 x 282 x 39
+- Вес: 3.5 кг
+
+* Модели
+
+| Название | P/N       | Процессор:            | Объём    | Объём    | Тип DVD   | Операционная    | Дата        | Дата начала  |
+|          |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | проигрыв. | система         | презентации | производства |
+|----------+-----------+-----------------------+----------+----------+-----------+-----------------+-------------+--------------|
+| NB55G/T  | FMVNB55GT | Mobile Celeron, 2200  | 256      | 60       | DVD-RAM   | Windows XP Home | 2004-01-06  | 2004-01-10   |
+|          |           |                       |          |          |           |                 |             |              |
+
+Модели с суффиксом T оснащались TV-приёмником и пультом ДУ.
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55GT.html][FMV-BIBLO NB55G/T FMVNB55GT // INVERSENET]]

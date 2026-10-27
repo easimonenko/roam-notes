@@ -17,23 +17,35 @@
 - Память:
   - максимальный объём: 96 Мб
 - Видеокарта: Trident Cyber 9388-1
-- Дисплей: 12.1" HPA SVGA 800x600
+- Дисплей: 12.1" SVGA 800x600 HPA (с индексом D) или TFT (без индекса) или 13.3" TFT XGA 1024x768
 - CD-проигрыватель: CD-ROM
 - Дисковод FDD
 - Сеть: модем 56K
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 1, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Операционная система: Windows 98
 - Размеры: 312 x 258 x 48 мм
 - Вес: 3.2 кг
   
 * Модели
 
-| Название | P/N        | Процессор:            | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
+| Название | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
 |          |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
 |----------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
-| NEVII20D | FMVNE720D1 | Pentium MMX, 200      | 32       | 3.2      | 12.1  | Windows 98   | 1998-07-16  | 1998-07-25   |
-|          |            |                       |          |          |       |              |             |              |
+| NEVII20D | FMVNE720D1 | Pentium MMX, 200      |       32 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |   1998-07-25 |
+| NEVII20D | FMVNE720D3 | Pentium MMX, 200      |       32 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |   1998-07-25 |
+| NEVII20  | FMVNE7201  | Pentium MMX, 200      |       64 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |   1998-07-25 |
+| NEVII20  | FMVNE7203  | Pentium MMX, 200      |       64 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |   1998-07-25 |
+| NEVII23X | FMVNE723X1 | Pentium MMX, 233      |       64 |      3.2 |  13.3 | Windows 98   |  1998-07-16 |      1998-08 |
+| NEVII23X | FMVNE723X3 | Pentium MMX, 233      |       64 |      3.2 |  13.3 | Windows 98   |  1998-07-16 |      1998-08 |
+| NEVII23X | FMVNE73X3U | Pentium MMX, 233      |       64 |      3.2 |  13.3 | Windows 98   |     1998-07 |      1998-07 |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE720D1.html][FMV-BIBLO NEVII20D FMVNE720D1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE720D3.html][FMV-BIBLO NEVII20D FMVNE720D3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7201.html][FMV-BIBLO NEVII20 FMVNE7201 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7203.html][FMV-BIBLO NEVII20 FMVNE7203 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE723X1.html][FMV-BIBLO NEVII23X FMVNE723X1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE723X3.html][FMV-BIBLO NEVII23X FMVNE723X3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE73X3U.html][FMV-BIBLO NEVII23X FMVNE73X3U // INVERSENET]]

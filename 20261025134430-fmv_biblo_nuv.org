@@ -17,7 +17,7 @@
 - Память:
   - максимальный объём: 96 Мб
 - Видеокарта: Trident Cyber 9382-1
-- Дисплей: 12.1" TFT SVGA 800x600
+- Дисплей: 12.1" TFT / DSTN (с индексом D) SVGA 800x600
 - CD-проигрыватель: CD-ROM
 - Дисковод FDD
 - Сеть: модем 56K
@@ -28,12 +28,27 @@
 
 * Модели
 
-| Название | P/N       | Процессор:            | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
-|          |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
-|----------+-----------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
-| NUV16    | FMVNU5161 | Pentium MMX, 166      | 32       | 2.1      | 12.1  | Windows 95   | 1998-02-05  | 1998-02      |
-|          |           |                       |          |          |       |              |             |              |
+| Название | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|          |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|----------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| NUV16    | FMVNU5161  | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16    | FMVNU5162  | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16    | FMVNU5163  | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16D   | FMVNU516D1 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16D   | FMVNU516D2 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16D   | FMVNU516D3 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16X   | FMVNU516X1 | Pentium MMX, 166      |       32 |      3.2 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16X   | FMVNU516X2 | Pentium MMX, 166      |       32 |      3.2 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| NUV16X   | FMVNU516X3 | Pentium MMX, 166      |       32 |      3.2 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5161.html][FMV-BIBLO NUV16 FMVNU5161 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5162.html][FMV-BIBLO NUV16 FMVNU5162 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5163.html][FMV-BIBLO NUV16 FMVNU5163 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU516D1.html][FMV-BIBLO NUV16D FMVNU516D1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU516D2.html][FMV-BIBLO NUV16D FMVNU516D2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU516D3.html][FMV-BIBLO NUV16D FMVNU516D3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU516X1.html][FMV-BIBLO NUV16X FMVNU516X1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU516X2.html][FMV-BIBLO NUV16X FMVNU516X2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU516X3.html][FMV-BIBLO NUV16X FMVNU516X3 // INVERSENET]]
