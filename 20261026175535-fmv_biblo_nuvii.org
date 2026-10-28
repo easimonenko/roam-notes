@@ -8,7 +8,7 @@
 #+DATE: 2026-10-26
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo NUVII* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:cb879849-3fbe-497f-882f-afc9816da79d][NU]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с июля 1998 г. и пришла на смену серии [[id:7af02171-185a-4050-bcc0-2d01f7d9bdd2][NUVI]].
+*FMV-Biblo NUVII* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:cb879849-3fbe-497f-882f-afc9816da79d][NU]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с июля 1998 г. и пришла на смену серии [[id:7af02171-185a-4050-bcc0-2d01f7d9bdd2][NUVI]]. В ноябре 1998 г. была заменена на серию [[id:a88e656b-cb7d-49a2-ad05-85eaab9609a9][NUVIII]].
 
 * Общая спецификация
 
@@ -17,24 +17,35 @@
 - Память:
   - максимальный объём: 128 Мб
 - Видеокарта: Trident Cyber 9382-1
-- Дисплей: 12.1" TFT XGA 1024x768
+- Дисплей: 12.1" TFT или HPA (с индексом D) SVGA 800x600
 - CD-проигрыватель: CD-ROM
 - Дисковод FDD
 - Сеть: модем 56K
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 1, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Операционная система: Windows 98
-- Размеры: 294 x 240 x 54
+- Размеры: 294 x 240 x 54 мм
 - Вес: 3.4 кг
-  
+
 * Модели
 
-| Название | P/N       | Процессор:            | Объём        | Объём     | Дата        | Дата начала  |
-| модели   |           | модель, частота (МГц) | памяти (МГц) | HDD (МГц) | презентации | производства |
-|----------+-----------+-----------------------+--------------+-----------+-------------+--------------|
-| NUVII23  | FMVNU7231 | Pentium MMX, 233      | 64           | 3.2       | 1998-07-16  | 1998-07-25   |
-|          |           |                       |              |           |             |              |
+| Название | P/N        | Процессор:            |        Объём |     Объём |        Дата |  Дата начала |
+| модели   |            | модель, частота (МГц) | памяти (МГц) | HDD (МГц) | презентации | производства |
+|----------+------------+-----------------------+--------------+-----------+-------------+--------------|
+| NUVII23D | FMVNU723D1 | Pentium MMX, 233      |           64 |       3.2 |  1998-07-16 |   1998-07-25 |
+| NUVII23D | FMVNU723D2 | Pentium MMX, 233      |           64 |       3.2 |  1998-07-16 |   1998-07-25 |
+| NUVII23D | FMVNU723D3 | Pentium MMX, 233      |           64 |       3.2 |  1998-07-16 |   1998-07-25 |
+| NUVII23  | FMVNU7231  | Pentium MMX, 233      |           64 |       3.2 |  1998-07-16 |   1998-07-25 |
+| NUVII23  | FMVNU7232  | Pentium MMX, 233      |           64 |       3.2 |  1998-07-16 |   1998-07-25 |
+| NUVII23  | FMVNU7233  | Pentium MMX, 233      |           64 |       3.2 |  1998-07-16 |   1998-07-25 |
+| NUVII23  | FMVNU7233Z | Pentium MMX, 233      |           64 |       3.2 |     1998-07 |      1998-07 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU723D1.html][FMV-BIBLO NUVII23D FMVNU723D1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU723D2.html][FMV-BIBLO NUVII23D FMVNU723D2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU723D3.html][FMV-BIBLO NUVII23D FMVNU723D3 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU7231.html][FMV-BIBLO NUVII23 FMVNU7231 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU7232.html][FMV-BIBLO NUVII23 FMVNU7232 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU7233.html][FMV-BIBLO NUVII23 FMVNU7233 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU7233Z.html][FMV-BIBLO NUVII23 FMVNU7233Z // INVERSENET]]

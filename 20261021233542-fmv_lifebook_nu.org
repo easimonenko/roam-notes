@@ -8,32 +8,107 @@
 #+DATE: 2026-10-21
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook NU* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки NU марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с ноября 2001 г. В апреле 2002 г. была заменена на серия [[id:c68a0033-4ed7-421b-ad65-4db06a818c95][NU2]].
+*FMV-LifeBook NU* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с ноября 2001 г. и пришла на смену серии NU/L. В апреле 2002 г. была заменена на серию [[id:c68a0033-4ed7-421b-ad65-4db06a818c95][NU2]].
 
 * Общая спецификация
 
-- Процессор: Intel [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
+- Процессор: Intel [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] или [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
 - Чипсет: Intel [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]]
 - Память:
   - тип: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]]
   - максимальный объём: 1024 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
 - Дисплей: 14.1" XGA 1024x768
-- HDD: Ultra ATA
-- CD-Player: CD-ROM
-- FDD
-- Внешние интерфесы: 1 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Внешние интерфесы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
-- Операционная система: Windows XP Prof.
+- Операционная система: Windows 98 SE, ME, NT 4.0 SP6a, 2000 Prof., XP Home, XP Prof.
 - Размеры: 318 x 268 x 46 мм
 - Вес: 3.3 кг
 
 * Модели
 
-| Название   | P/N      | Процессор:                | Объём       | Объём    | Операционная     | Дата        | Дата начала  |
-| модели     |          | модель, частота (МГц)     | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
-|------------+----------+---------------------------+-------------+----------+------------------+-------------+--------------|
-| FMV-6866NU | FMVNU533 | Mobile Pentium III-M, 866 | 128         | 15       | Windows XP Prof. | 2001-10-25  | 2001-11      |
+| Название   | P/N      | Процессор:                 |       Объём |    Объём | Операционная       |        Дата |  Дата начала |
+| модели     |          | модель, частота (МГц)      | памяти (Мб) | HDD (Гб) | система            | презентации | производства |
+|------------+----------+----------------------------+-------------+----------+--------------------+-------------+--------------|
+| FMV-686NU  | FMVNUU16 | Mobile Celeron, 866        |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-686NU  | FMVNUUA7 | Mobile Celeron, 866        |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-686NU  | FMVNUUC3 | Mobile Celeron, 866        |         128 |       15 | Windows XP Prof.   |  2001-10-25 |      2001-11 |
+| FMV-686NU  | FMVNUUE7 | Mobile Celeron, 866        |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU510 | Mobile Pentium III-M, 866  |         128 |       15 | Windows NT 4.0     |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU512 | Mobile Pentium III-M, 866  |         128 |       15 | Windows 2000 Prof. |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU513 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Prof.   |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU516 | Mobile Pentium III-M, 866  |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU517 | Mobile Pentium III-M, 866  |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU518 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Home    |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU530 | Mobile Pentium III-M, 866  |         128 |       15 | Windows NT 4.0     |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU533 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Prof.   |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU536 | Mobile Pentium III-M, 866  |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU537 | Mobile Pentium III-M, 866  |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5A0 | Mobile Pentium III-M, 866  |         128 |       15 | Windows NT 4.0     |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5A2 | Mobile Pentium III-M, 866  |         128 |       15 | Windows 2000 Prof. |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5A3 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Prof.   |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5A6 | Mobile Pentium III-M, 866  |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5A7 | Mobile Pentium III-M, 866  |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5A8 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Home    |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5C0 | Mobile Pentium III-M, 866  |         128 |       15 | Windows NT 4.0     |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5C6 | Mobile Pentium III-M, 866  |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5C7 | Mobile Pentium III-M, 866  |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5C8 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Home    |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5D3 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Prof.   |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5D6 | Mobile Pentium III-M, 866  |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5D7 | Mobile Pentium III-M, 866  |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5E2 | Mobile Pentium III-M, 866  |         128 |       15 | Windows 2000 Prof. |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5E3 | Mobile Pentium III-M, 866  |         128 |       15 | Windows 2000 Prof. |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5E6 | Mobile Pentium III-M, 866  |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5E7 | Mobile Pentium III-M, 866  |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6866NU | FMVNU5E8 | Mobile Pentium III-M, 866  |         128 |       15 | Windows XP Home    |  2001-10-25 |      2001-11 |
+| FMV-6000NU | FMVNU610 | Mobile Pentium III-M, 1000 |         128 |       15 | Windows NT 4.0     |  2001-10-25 |      2001-11 |
+| FMV-6000NU | FMVNU617 | Mobile Pentium III-M, 1000 |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
+| FMV-6000NU | FMVNU6A0 | Mobile Pentium III-M, 1000 |         128 |       15 | Windows NT 4.0     |  2001-10-25 |      2001-11 |
+| FMV-6000NU | FMVNU6A6 | Mobile Pentium III-M, 1000 |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-6000NU | FMVNU6A7 | Mobile Pentium III-M, 1000 |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUU16.html][FMV-LIFEBOOK FMV-686NU FMVNUU16 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUUA7.html][FMV-LIFEBOOK FMV-686NU FMVNUUA7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUUC3.html][FMV-LIFEBOOK FMV-686NU FMVNUUC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUUE7.html][FMV-LIFEBOOK FMV-686NU FMVNUUE7 // INVERSENET]]
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU510.html][FMV-LIFEBOOK FMV-6866NU FMVNU510 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU512.html][FMV-LIFEBOOK FMV-6866NU FMVNU512 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU513.html][FMV-LIFEBOOK FMV-6866NU FMVNU513 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU516.html][FMV-LIFEBOOK FMV-6866NU FMVNU516 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU517.html][FMV-LIFEBOOK FMV-6866NU FMVNU517 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU518.html][FMV-LIFEBOOK FMV-6866NU FMVNU518 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU530.html][FMV-LIFEBOOK FMV-6866NU FMVNU530 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU533.html][FMV-LIFEBOOK FMV-6866NU FMVNU533 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU536.html][FMV-LIFEBOOK FMV-6866NU FMVNU536 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU537.html][FMV-LIFEBOOK FMV-6866NU FMVNU537 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5A0.html][FMV-LIFEBOOK FMV-6866NU FMVNU5A0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5A2.html][FMV-LIFEBOOK FMV-6866NU FMVNU5A2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5A3.html][FMV-LIFEBOOK FMV-6866NU FMVNU5A3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5A6.html][FMV-LIFEBOOK FMV-6866NU FMVNU5A6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5A7.html][FMV-LIFEBOOK FMV-6866NU FMVNU5A7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5A8.html][FMV-LIFEBOOK FMV-6866NU FMVNU5A8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5C0.html][FMV-LIFEBOOK FMV-6866NU FMVNU5C0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5C6.html][FMV-LIFEBOOK FMV-6866NU FMVNU5C6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5C7.html][FMV-LIFEBOOK FMV-6866NU FMVNU5C7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5C8.html][FMV-LIFEBOOK FMV-6866NU FMVNU5C8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5D3.html][FMV-LIFEBOOK FMV-6866NU FMVNU5D3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5D6.html][FMV-LIFEBOOK FMV-6866NU FMVNU5D6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5D7.html][FMV-LIFEBOOK FMV-6866NU FMVNU5D7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5E2.html][FMV-LIFEBOOK FMV-6866NU FMVNU5E2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5E3.html][FMV-LIFEBOOK FMV-6866NU FMVNU5E3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5E6.html][FMV-LIFEBOOK FMV-6866NU FMVNU5E6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5E7.html][FMV-LIFEBOOK FMV-6866NU FMVNU5E7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU5E8.html][FMV-LIFEBOOK FMV-6866NU FMVNU5E8 // INVERSENET]]
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU610.html][FMV-LIFEBOOK FMV-6000NU FMVNU610 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU617.html][FMV-LIFEBOOK FMV-6000NU FMVNU617 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU6A0.html][FMV-LIFEBOOK FMV-6000NU FMVNU6A0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU6A6.html][FMV-LIFEBOOK FMV-6000NU FMVNU6A6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU6A7.html][FMV-LIFEBOOK FMV-6000NU FMVNU6A7 // INVERSENET]]
