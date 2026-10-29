@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7e852c3b-1fc1-451d-a592-8614f922b8e0
+:END:
+#+TITLE: ExpressCard
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-28
+#+FILETAGS: :computing:
+
+*ExpressCard* -- семейство слотов расширения с поддержкой шин [[id:89ccfaeb-766e-44ac-8db3-459ab12b6ceb][PCI Express]] и [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0. Чаще всего использовались в [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуках]]. Был вытеснен USB 3.0.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/ExpressCard][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/ExpressCard][Wikipedia [EN]​]]

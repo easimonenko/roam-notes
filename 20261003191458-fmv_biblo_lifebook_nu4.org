@@ -13,12 +13,12 @@
 * Общая спецификация
 
 - Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]] или [[id:d1f5835c-1cab-4641-b9a8-5ff2f3561619][Mobile Celeron (Mendocino)]]
-- Оперативная память:
+- Память:
   - объём: 32 или 64 Мб
   - максимальный объём: 256 Мб
-- Видеокарта: [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][ATI Rage Mobility-P]]
+- Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][RAGE Mobility-P]]
 - Внешние интерфейсы: 2 x USB, COM, LPT, VGA, IrDA
-- PCMCIA: 2 x Type I или II или 1 x Type III
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Операционная система: Windows 95 OSR2.1 или Windows 98, Windows NT 4.0 SP4
 - Размеры: 308 x 266 x 42
 - Вес: 3.2 кг

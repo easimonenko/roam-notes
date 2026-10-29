@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       ff930e34-ff82-42c7-bd94-59c07bce4da7
+:END:
+#+TITLE: FMV-Biblo NBxxL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-28
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NBxxL* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:fb5cfdea-19ea-4467-a4c7-7587daaf67c2][NB]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+
+* Общая спецификация
+
+- HDD: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]/100 x 2 (с индексом T, TS и W)
+- CD-проигрыватель: DVD-RAM, DVD-R, DVD+R, DVD-RW, DVD+RW, CD-R, CD+R, CD-RW, CD+RW
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T, Wakeup on LAN
+  - WiFi 802.11a/b/g
+  - Модем V.92 56K
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Внешние интерфесы: 4 x USB 2.0, FireWire S400, VGA
+- Считыватель карт памяти: SD
+- Операционная система: Microsoft Windows XP Home Edition SP2
+- Питание: 19V 3.16A (60W)
+
+** Модель с дисплеем 15"
+
+- Процессор: Intel [[id:8ca59fb2-28e9-4b14-b7d3-e31c4606d86f][Celeron M]] или [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]] или [[id:881ef932-4626-4621-a2cd-0ba8264996eb][855GM]]
+- Память:
+  - 512 Мб на плате
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
+- Дисплей: 15" XGA 1024x768
+- Слоты расширения: PCMCIA Type-I/II x 2 или Type-III x 1
+- Размеры: 329 x 288.5 x 43.1 мм
+- Вес: 4.0 кг (3.4 кг с одним диском)
+
+** Модель с диплеем 17"
+
+- Процессор: Intel [[id:094550ce-5282-4eaf-8f39-92e28359030e][Pentium M]] с ядром [[id:cbe111c8-0567-48e1-912e-0f6c9a248549][Sonoma]]
+- Чипсет: Intel [[id:3045d739-7651-49fb-a3d1-6dce48686042][915GM]]
+- Память:
+  - 512 Мб на плате
+  - тип: PC2-4200 DDR2-533
+- Дисплей: 17" WXGA+ 1440x900
+- Слоты расширения: PCMCIA Type-I/II x 1 и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Размеры: 405 x 295 x 45.5 мм
+- Вес: 4.6 кг
+
+** Модель с процессором AMD
+
+- Процессор: AMD Mobile Turion 64
+- Чипсет: ATI Radeon Xpress 200M
+- Память:
+  - тип: [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]] [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]]
+- Слоты расширения: PCMCIA Type-I/II x 1 и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Вес: 3.9 кг
+
+* Модели
+
+| Название | P/N        | Процессор:                   |       Объём | Объём    | Диаг. |        Дата |  Дата начала |
+| модели   |            | модель, частота (МГц)        | памяти (Мб) | HDD (Гб) | дисп. | презентации | производства |
+|----------+------------+------------------------------+-------------+----------+-------+-------------+--------------|
+| NB50L    | FMVNB50L   | Celeron M 360, 1400          |         256 | 80       |    15 |  2005-04-19 |   2005-04-23 |
+| NB55L    | FMVNB55L   | Celeron M 360, 1400          |         512 | 100      |    15 |  2005-04-19 |   2005-04-23 |
+| NB55L/T  | FMVNB55LT  | Celeron M 360, 1400          |         512 | 80 + 40  |    15 |  2005-04-19 |   2005-04-23 |
+| NB60L/W  | FMVNB60LW  | Celeron M 360, 1400          |         512 | 80 + 40  |    17 |  2005-04-19 |   2005-04-23 |
+| NB75L    | FMVNB75L   | Pentium M 735, 1700          |         512 | 100      |    15 |  2005-04-19 |   2005-04-23 |
+| NB75L/T  | FMVNB75LT  | Pentium M 735, 1700          |         512 | 80 + 80  |    15 |  2005-04-19 |   2005-04-23 |
+| NB75L/TS | FMVNB75LTS | Pentium M 735, 1700          |         512 | 80 + 80  |    15 |  2005-04-19 |   2005-04-23 |
+| NB90L/W  | FMVNB90LW  | Pentium M 740, 1733          |         512 | 80 + 80  |    17 |  2005-04-19 |   2005-04-23 |
+| NB80L    | FMVNB80L   | Mobile Turion 64 ML-34, 1800 |         512 | 100      |    15 |  2005-04-19 |   2005-04-23 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB50L.html][FMV-BIBLO NB NB50L FMVNB50L // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55L.html][FMV-BIBLO NB NB55L FMVNB55L // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55LT.html][FMV-BIBLO NB/TV NB55L/T FMVNB55LT // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB75L.html][FMV-BIBLO NB NB75L FMVNB75L // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB75LT.html][FMV-BIBLO NB/TV NB75L/T FMVNB75LT // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB75LTS.html][FMV-BIBLO NB/TV NB75L/TS FMVNB75LTS // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB60LW.html][FMV-BIBLO NB/TV NB60L/W FMVNB60LW // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB90LW.html][FMV-BIBLO NB/TV NB90L/W FMVNB90LW // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB80L.html][FMV-BIBLO NB NB80L FMVNB80L // INVERSENET]]

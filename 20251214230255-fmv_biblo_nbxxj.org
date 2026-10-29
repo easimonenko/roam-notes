@@ -12,38 +12,65 @@
 
 * Общая спецификация
 
-- Процессор: Intel [[id:492cb082-d057-4860-bf1f-22275dbb8816][Pentium M (Banias)]] и [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M (Dothan)]]
-- [[id:f6c2f375-228c-445b-9369-2568eda457ac][Чипсет]]: Intel 855GM
-- Объём [[id:0a438d7f-f260-4a7f-83a9-f568eb2489f0][оперативной памяти]]: 512 Мб
-- Тип памяти: DDR SDRAM [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] (DDR-266)
-- Объём жёсткого диска: 80 Гб
-- Тип интерфейса [[id:bdd1a7fe-9b07-4eae-9fd9-feede71d2e5a][HDD]]: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]/100
-- Проигрыватель компакт-дисков: DVD-RAM, DVD-R, DVD+R, DVD-RW, DVD+RW, CD-R, CD+R, CD-RW, CD+RW
+- HDD: Ultra [[id:c10327f4-e8d0-4271-be12-3039e9742c98][ATA]]/100
+- CD-проигрыватель: DVD-RAM, DVD-R, DVD+R, DVD-RW, DVD+RW, CD-R, CD+R, CD-RW, CD+RW
+- Дисковод FDD
 - Сетевые устройства:
   - Ethernet 100BASE-TX/10BASE-T, Wakeup on LAN
   - WiFi 802.11b/g
   - Модем V.92 56K
 - Дисплей: 15" TFT XGA (1024x768)
 - Разрешение внешнего дисплея: UXGA (1600x1200)
-- Внешние интерфесы: 4 USB2, FireWire S400, VGA
-- Слоты PCMCIA: Type-I и Type-II или Type-III
+- Внешние интерфесы: 4 x USB 2.0, FireWire S400, VGA
+- Слоты расширения: PCMCIA Type-I/II x 2 или Type-III x 1
 - Считыватель карт памяти: SD
-- Операционная система: Microsoft Windows XP Home Edition SP2
+- Операционная система: Microsoft Windows XP Home Edition SP2 или XP Prof. SP2
 - Питание: 19V 3.16A (60W)
-- Размеры: 329x288.5x43.1
-- Вес: 3.8 Кг
+- Размеры: 329 x 288.5 x 43.1 мм
+- Вес: 3.6-3.9 кг
+
+** Модификации с процессором Intel
+
+- Процессор: Intel [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]] или [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]].
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]] с Celeron M или [[id:881ef932-4626-4621-a2cd-0ba8264996eb][855GM]] с Pentium M
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][интегрированная]]
+- Память:
+  - 512 Мб на плате
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+
+** Модификации с процессором AMD
+
+- Процессор: AMD Athlon64
+- Чипсет: Nvidia nForce3 150 Go
+- Видеокарта: Nvidia GeForce 4 420 Go
+- Память:
+  - тип: [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]] [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]]
 
 * Модели
 
 | Название | P/N        | Процессор:            |       Объём |    Объём |        Дата |  Дата начала |
 | модели   |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | презентации | производства |
 |----------+------------+-----------------------+-------------+----------+-------------+--------------|
+| NB50J    | FMVNB50J   | Celeron M 340, 1500   |         256 |       60 |  2004-09-08 |   2004-09-11 |
+| NB50J    | FMVNB50JP  | Celeron M 340, 1500   |         256 |       60 |  2004-09-08 |   2004-10-02 |
+| NB55J    | FMVNB55J   | Celeron M 340, 1500   |         256 |       80 |  2004-09-08 |   2004-09-11 |
+| NB55J/T  | FMVNB55JT  | Celeron M 340, 1500   |         256 |       80 |  2004-09-08 |   2004-09-18 |
 | NB75J    | FMVNB75J   | Pentium M 725, 1600   |         512 |       80 |  2004-09-08 |   2004-09-11 |
+| NB90J/T  | FMVNB90JT  | Pentium M 735, 1700   |         512 |       80 |  2004-09-08 |   2004-09-18 |
 | NB90J/TS | FMVNB90JTS | Pentium M 735, 1700   |         512 |       80 |  2004-09-08 |   2004-09-25 |
+| NB80J    | FMVNB80J   | Athlon64 2700+, 1600  |         512 |      100 |  2004-09-08 |   2004-09-25 |
 
+Модификации с индексом T поддерживали приём телесигнала и оснащались пультом.
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB50J.html][FMV-BIBLO NB NB50J FMVNB50J // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB50JP.html][FMV-BIBLO NB NB50J FMVNB50JP // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55J.html][FMV-BIBLO NB NB55J FMVNB55J // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55JT.html][FMV-BIBLO NB NB55J/T FMVNB55JT // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB75J.html][FMV-BIBLO NB NB75J FMVNB75J // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB90JT.html][FMV-BIBLO NB NB90J/T FMVNB90JT // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB90JTS.html][FMV-BIBLO NB NB90J/TS FMVNB90JTS // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB80J.html][FMV-BIBLO NB NB80J FMVNB80J // INVERESENET]]
+
 - [[http://www.pc-spec.info/FUJITSU/FMV%EF%BC%8DBIBLO_NB_NB75J_FMVNB75J/][FMV-BIBLO NB NB75J FMVNB75J // PC Spec]]

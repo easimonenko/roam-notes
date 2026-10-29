@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       71911db0-5951-4deb-9ba5-568a5c406bca
+:END:
+#+TITLE: FMV-Biblo LOOX
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-28
+#+FILETAGS: :fujitsu:fmv-biblo:loox:
+
+*FMV-Biblo LOOX* -- марка ультракомпактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.

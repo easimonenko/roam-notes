@@ -8,8 +8,9 @@
 #+DATE: 2026-10-12
 #+FILETAGS: :intel:pentium-m:chipsets:
 
-*Intel 855GME* -- [[id:70fa2d7d-d61f-46c1-9e8d-cfc1d640d10e][мобильный]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], применявшийся с микропроцессорами Intel [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]]. Включал в себя [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенную]] [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]] и контроллер памяти.
+*Intel 855GME* -- [[id:70fa2d7d-d61f-46c1-9e8d-cfc1d640d10e][мобильный]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]], применявшийся с микропроцессорами Intel [[id:e1fd34ed-c178-4d1c-bdf4-3ff42f8cce80][Pentium M]]. Включал в себя [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенную]] [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][видеокарту]] Extreme Graphics 2 и контроллер памяти. Выпускался с марта 2003 г. Поддерживал память [[id:ec3d4b69-4056-4f60-ac14-2a5eaa6690bf][DDR-200]], [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]], [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]] объёмом до 2048 Мб.
 
 * Resources
 
+- [[https://pchardware.org/chipsets/intel-855gme/][Intel 855GME // PCHardware]]
 - [[https://www.cpu-upgrade.com/mb-Intel_(chipsets)/855GME.html][Intel 855GME chipset processor support // CPU-Upgrade]]

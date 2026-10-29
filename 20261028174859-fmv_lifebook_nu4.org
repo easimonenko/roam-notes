@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       45f29caf-9660-4d80-ba27-9b4143cfe279
+:END:
+#+TITLE: FMV-LifeBook NU4
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-28
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NU4* -- серия корпоративных ноутбуков линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с апреля 2003 г. и пришла на смену серии [[id:489d608c-54cf-49cb-afb4-fe8ac1651fae][NU3]]. Не следует путать с одновременно выпускавшейся серией [[id:68c2919c-5e45-4de6-a0da-3a8cf2503d75][NU4/B]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:86ea10aa-5c78-479c-97a3-b7f7b73844d8][Mobile Celeron]] или [[id:cd792990-e498-4b6e-a120-4cc50eb4af7c][Mobile Pentium 4-M]] с ядром [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 1024 Мб
+- Чипсет:
+  - северный мост: ATI [[id:26fa508f-ecf7-4f3f-bb4d-3ce2bfe29107][Radeon IGP]]
+  - южный мост: ALi [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
+- Видеокарта: ATI [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][Radeon IGP 340M]]
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Сеть: Ethernet 100BASE-TX/10-BASE-T
+- Внешние интерфейсы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP1a, XP Prof. SP1a
+- Размеры: 318 x 269.5 x 45.1-47.3 мм
+- Вес: 3.0-3.1 кг
+
+* Модели
+
+| Название   | P/N       | Процессор:            |       Объём |    Объём | Операционная     |        Дата |  Дата начала |
+| модели     |           | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
+|------------+-----------+-----------------------+-------------+----------+------------------+-------------+--------------|
+| FMV-718NU4 | FMV4NUHA8 | Mobile Celeron, 1800  |         128 |       20 | Windows XP Home  |  2003-04-17 |      2003-04 |
+| FMV-718NU4 | FMV4NUHC3 | Mobile Celeron, 1800  |         128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
+| FMV-718NU4 | FMV4NUHC8 | Mobile Celeron, 1800  |         128 |       20 | Windows XP Home  |  2003-04-17 |      2003-04 |
+|            |           |                       |             |          |                  |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHA8.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHC3.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHC8.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHC8 // INVERSENET]]

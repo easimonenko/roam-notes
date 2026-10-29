@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       68c2919c-5e45-4de6-a0da-3a8cf2503d75
 :END:
-#+TITLE: FMV-LifeBook NU4
+#+TITLE: FMV-LifeBook NU4/B
 #+AUTHOR: Evgeny Simonenko
 #+LANGUAGE: Russian
 #+LICENSE: CC BY-SA 4.0
 #+DATE: 2026-10-03
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook NU4* -- серия корпоративных ноутбуков линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия родственна [[id:4dfb3304-1276-46eb-b36a-925c71166616][FMV-Biblo NBxxE]].
+*FMV-LifeBook NU4/B* -- серия корпоративных ноутбуков линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия родственна [[id:4dfb3304-1276-46eb-b36a-925c71166616][FMV-Biblo NBxxE]]. Выпускалась с апреля 2003 г. и пришла на смену модели [[id:e53df209-0cf4-4e03-9d69-8f2fda8243a5][NU3/B]]. В феврале 2004 г. была заменена на модель [[id:ccd4747b-caff-4e2a-820c-707367d285bd][NU5]].
 
 * Общая спецификация
 
@@ -36,14 +36,15 @@
 
 * Модели
 
-| Название       | P/N        | Процессор:               |    Объём |    Объём | Операционная    |        Дата |  Дата начала |
-|                |            | модель, частота (МГц)    | RAM (Мб) | HDD (Гб) | система         | презентации | производства |
-|----------------+------------+--------------------------+----------+----------+-----------------+-------------+--------------|
-| FMV-718NU4/B   | FMV4NUBHH8 | Mobile Celeron, 1800     |      128 |       20 | Windows XP Home |  2003-04-17 |      2003-04 |
-| FMV-718NU4/BX  | FMVNBX22N  | Mobile Celeron, 1800     |      256 |       20 | Windows 2000    |  2003-05-28 |      2003-05 |
-| FMV-718NU4/BX  | FMVNBX22P  | Mobile Celeron, 1800     |      256 |       20 | Windows 2000    |  2003-05-28 |      2003-05 |
-| FMV-7180NU4/BX | FMVNBX12P  | Mobile Pentium 4-M, 1800 |      256 |       20 | Windows 2000    |  2003-05-28 |      2003-05 |
-|                |            |                          |          |          |                 |             |              |
+| Название       | P/N        | Процессор:               |    Объём |    Объём | Операционная     |        Дата |  Дата начала |
+|                |            | модель, частота (МГц)    | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
+|----------------+------------+--------------------------+----------+----------+------------------+-------------+--------------|
+| FMV-718NU4/B   | FMV4NUBHH8 | Mobile Celeron, 1800     |      128 |       20 | Windows XP Home  |  2003-04-17 |      2003-04 |
+| FMV-718NU4/BX  | FMVNBX22N  | Mobile Celeron, 1800     |      256 |       20 | Windows 2000     |  2003-05-28 |      2003-05 |
+| FMV-718NU4/BX  | FMVNBX22P  | Mobile Celeron, 1800     |      256 |       20 | Windows 2000     |  2003-05-28 |      2003-05 |
+| FMV-7180NU4/BX | FMVNBX12P  | Mobile Pentium 4-M, 1800 |      256 |       20 | Windows 2000     |  2003-05-28 |      2003-05 |
+| FMV-7190NU4/B  | FMV4NUB4H3 | Mobile Pentium 4-M, 1900 |      128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
+|                |            |                          |          |          |                  |             |              |
 
 * Resources
 
@@ -51,3 +52,4 @@
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNBX22N.html][FMV-LIFEBOOK FMV-718NU4/BX FMVNBX22N // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNBX22P.html][FMV-LIFEBOOK FMV-718NU4/BX FMVNBX22P // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNBX12P.html][FMV-LIFEBOOK FMV-7180NU4/BX FMVNBX12P // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUB4H3.html][FMV-LIFEBOOK FMV-7190NU4/B FMV4NUB4H3 // INVERSENET]]

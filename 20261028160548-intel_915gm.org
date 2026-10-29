@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3045d739-7651-49fb-a3d1-6dce48686042
+:END:
+#+TITLE: Intel 915GM
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-28
+#+FILETAGS: :intel:mobile-chipsets:
+
+*Intel 915GM* -- [[id:70fa2d7d-d61f-46c1-9e8d-cfc1d640d10e][мобильный]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с поддержкой шины [[id:89ccfaeb-766e-44ac-8db3-459ab12b6ceb][PCI Express]]. Был представлен в январе 2005г. и пришёл на смену чипсету [[id:881ef932-4626-4621-a2cd-0ba8264996eb][855GM]]. Поддерживалась память [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]], DDR2-400, DDR2-533 объёмом до 2048 Мб. Использовался с процессорами [[id:094550ce-5282-4eaf-8f39-92e28359030e][Pentium M]] платформы [[id:cbe111c8-0567-48e1-912e-0f6c9a248549][Sonoma]] и южным мостом ICH6-M.
+
+* Resources
+
+- [[https://pchardware.org/chipsets/intel-915gm/][Intel 915GM // PCHardware]]

@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       06e67075-a59e-4d5d-bed8-2ebe3cd3ddec
+:END:
+#+TITLE: FMV-LifeBook NU2/E
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-28
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NU2/E* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с апреля 2002 г. одновременно с моделью [[id:c68a0033-4ed7-421b-ad65-4db06a818c95][NU2]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
+- Чипсет: VIA Twister-T
+- Память:
+  - тип: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]]
+  - максимальный объём: 512 Мб
+- Дисплей: 15.1" XGA 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Сеть: 100BASE-TX/10BASE-T
+- Внешние интерфейсы: 2 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]]
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 2000 Prof., XP Prof.
+- Размеры: 330 x 267 x 35 мм
+- Вес: 3.2 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:            |       Объём |    Объём | Операционная       |        Дата |  Дата начала |
+| модели       |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система            | презентации | производства |
+|--------------+------------+-----------------------+-------------+----------+--------------------+-------------+--------------|
+| FMV-612NU2/E | FMV2NUECH2 | Mobile Celeron, 1200  |         128 |       20 | Windows 2000 Prof. |  2002-04-24 |      2002-05 |
+| FMV-612NU2/E | FMV2NUECH3 | Mobile Celeron, 1200  |         128 |       20 | Windows XP Prof.   |  2002-04-24 |      2002-05 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NUECH2.html][FMV-LIFEBOOK FMV-612NU2/E FMV2NUECH2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2NUECH3.html][FMV-LIFEBOOK FMV-612NU2/E FMV2NUECH3 // INVERSENET]]

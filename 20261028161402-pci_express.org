@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       89ccfaeb-766e-44ac-8db3-459ab12b6ceb
+:END:
+#+TITLE: PCI Express
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-28
+#+FILETAGS: :bus:computing:
+
+*PCI Express* (PCIe) -- компьютерная [[id:7bff63f8-b568-4f88-87c5-bacc1b7ee527][шина]] с [[id:40baaa56-33ac-4e03-974b-f0f9cb1c5735][последовательной]] передачей данных, поддерживающая программный протокол шины [[id:13d0f774-615e-42cb-891b-ed547515966d][PCI]], которой и пришла на смену. Была представлена в 2003 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/PCI_Express][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/PCI_Express][Wikipedia [EN]​]]

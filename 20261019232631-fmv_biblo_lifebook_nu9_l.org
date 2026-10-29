@@ -8,11 +8,11 @@
 #+DATE: 2026-10-19
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-Biblo LifeBook NU9/L* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-Biblo LifeBook NU9/L* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
 
 * Общая спецификация
 
-- Процессор: Intel Mobile Celeron или [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]]
+- Процессор: Intel [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] или [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]]
 - Чипсет: Intel 810EM
 - Память:
   - тип: SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
@@ -22,7 +22,7 @@
 - HDD: Ultra ATA
 - Дисковод FDD
 - Сеть: Ethernet 100BASE-TX/10BASE-T
-- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, PS/2, IrDA
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Операционная система: Windows 2000 Prof., NT 4.0 SP6a
 - Размеры: 318 x 268 x 46 мм
