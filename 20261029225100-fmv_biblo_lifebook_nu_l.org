@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       8e6ec035-722e-4e81-a610-3d2285cf094c
+:END:
+#+TITLE: FMV-Biblo LifeBook NU/L
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-29
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-Biblo LifeBook NU/L* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с апреля 2001 г. одновременно с моделью [[id:df361bb5-ec1f-4334-aa98-49d5865b66ca][NU9/L]] и была ей родственна.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]]
+- Чипсет: Intel 815EM
+- Память:
+  - тип: SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
+  - максимальный объём: 512 Мб
+- Дисплей: 14.1" XGA 1024x768
+- HDD: Ultra ATA
+- Дисковод FDD
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 98 SE
+- Размеры: 318 x 268 x 46 мм
+- Вес: 3.3 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:              | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
+|              |            | модель, частота (МГц)   | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|--------------+------------+-------------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-6000NU/L | FMVNU1L2A6 | Mobile Pentium III, 750 | 64       | 10       | 14.1  | Windows 98   | 2001-04-16  | 2001-05      |
+|              |            |                         |          |          |       |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2A6.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2A6 // INVERSENET]]
+

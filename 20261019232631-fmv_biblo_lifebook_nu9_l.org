@@ -8,7 +8,7 @@
 #+DATE: 2026-10-19
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-Biblo LifeBook NU9/L* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-Biblo LifeBook NU9/L* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с апреля 2001 г. и пришла на смену модели [[id:288ed115-359d-40b2-91c9-35adf9fe8d72][NU8]].
 
 * Общая спецификация
 

@@ -12,11 +12,6 @@
 
 * Общая спецификация
 
-- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M (Yonah)]], [[id:a890bb98-3b3d-4e1c-a362-ce36f241ea18][Core Solo]]
-- Оперативная память:
-  - объём: 512 Мб в одном слоте
-  - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
-  - тип памяти: DDR2-533 PC2-4200
 - Видеокарта: ATI Radeon Xpress 200M
 - Дисплей: 14.1" TFT XGA (1024x768)
 - Проигрыватель компакт-дисков: DVD-RAM, DVD-RW, CD-RW
@@ -30,20 +25,43 @@
 - Дисковод FDD
 - Разрешение внешнего дисплея: UXGA (1600x1200)
 - Операционная система: Windows XP Home Edition SP2
+
+** С процессорами Intel
+
+- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] или [[id:a890bb98-3b3d-4e1c-a362-ce36f241ea18][Core Solo]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]
+- Память:
+  - объём: 512 Мб в одном слоте
+  - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - тип памяти: DDR2-533 PC2-4200
 - Размеры: 329 x 283 x 40.5
 - Вес: 3.6-4.0 кг
+
+** С процессорами AMD
+
+- Процессор: AMD Sempron
+- Память:
+  - тип: [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]] [[id:bdd250ba-2357-4059-ba5a-0f11d35d4f20][DDR-333]]
+  - максимальный объём: 1536 Мб
+- Размеры: 329 x 288.5 x 41.5-43.5 мм
+- Вес: 3.5-3.9 кг
 
 * Модели
 
 | Название | P/N      | Процессор:            |       Объём |    Объём |        Дата |  Дата начала |
 | модели   |          | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | презентации | производства |
 |----------+----------+-----------------------+-------------+----------+-------------+--------------|
+| NB40S    | FMVNB40S | Sempron 3000+, 1800   |         512 |       80 |  2006-04-11 |   2006-04-14 |
 | NB50S    | FMVNB50S | Celeron M 380, 1600   |         512 |      100 |  2006-04-11 |   2006-04-14 |
 | NB55S    | FMVNB55S | Celeron M 380, 1600   |         768 |      100 |  2006-04-11 |   2006-04-14 |
 | NB70S    | FMVNB70S | Core Solo T1300, 1667 |         512 |      100 |  2006-04-11 |   2006-04-14 |
 | NB75S    | FMVNB75S | Core Solo T1300, 1667 |         768 |      120 |  2006-04-11 |   2006-04-21 |
+| NB80S    | FMVNB80S | Turion64 MT-34, 1800  |         768 |      120 |  2006-04-11 |   2006-04-21 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB40S.html][FMV-BIBLO NB NB40S FMVNB40S // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB50S.html][FMV-BIBLO NB NB50S FMVNB50S // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB55S.html][FMV-BIBLO NB NB55S FMVNB55S // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB70S.html][FMV-BIBLO NB NB70S FMVNB70S // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB75S.html][FMV-BIBLO NB NB75S FMVNB75S // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB80S.html][FMV-BIBLO NB NB80S FMVNB80S // INVERSENET]]
