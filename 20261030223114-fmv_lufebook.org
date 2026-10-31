@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       086a2548-afe6-446f-ac7f-caa77bacb4ea
+:END:
+#+TITLE: FMV-LufeBook
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-30
+#+FILETAGS:
+
+*FMV-LufeBook*
+

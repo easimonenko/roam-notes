@@ -25,13 +25,18 @@
 
 * Модели
 
-| Название | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная | Дата        |  Дата начала |
-|          |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
-|----------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
-| 13NU     | FMVDC13NUJ | Pentium, 133          |       16 |      1.3 |  11.3 | Windows 95   |             |   1997-06-27 |
-| 13NU     | FMVDC13NUS | Pentium, 133          |       32 |      1.3 |  11.3 | Windows 95   |             |   1997-06-27 |
+| Название      | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная | Дата        |  Дата начала |
+|               |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| 13NU          | FMVDC13NUJ | Pentium, 133          |       16 |      1.3 |  11.3 | Windows 95   |             |   1997-06-27 |
+| 13NU          | FMVDC13NUS | Pentium, 133          |       32 |      1.3 |  11.3 | Windows 95   |             |   1997-06-27 |
+| FMV-5133NU/DC | FMV53NUDCJ | Pentium, 133          |       32 |      1.0 |  11.3 | Windows 95   |             |   1997-01-01 |
+| FMV-5133NU/DC | FMV53NUDCS | Pentium, 133          |       32 |      1.0 |  11.3 | Windows 95   |             |   1997-01-01 |
+|               |            |                       |          |          |       |              |             |              |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVDC13NUJ.html][FMV-BIBLO 13NU FMVDC13NUJ // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVDC13NUS.html][FMV-BIBLO 13NU FMVDC13NUS // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NUDCJ.html][FMV-BIBLO FMV-5133NU/DC FMV53NUDCJ // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NUDCS.html][FMV-BIBLO FMV-5133NU/DC FMV53NUDCS // INVERSENET]]

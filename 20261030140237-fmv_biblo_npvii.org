@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       2d0e281f-2c5b-4e67-ba79-df68f6e35469
+:END:
+#+TITLE: FMV-Biblo NPVII
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-30
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NPVII* -- модель потребительских [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки NP марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с августа 1998 г. и пришла на смену модели [[id:9d4c23ba-0e83-45f5-af60-67ab82ea21f9][NPV]]. Модель оснащалась док-станцией с CD-проигрывателем и дополнительными портами (USB x 2).
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]
+- Чипсет: Intel [[id:153f1f1d-74ef-4861-b83a-aaa72a59660f][430TX]]
+- Память:
+  - максимальный объём: 96 Мб
+- Видеокарта: NeoMagic MagicGraph128ZV+ (P-200 или) MagicGraph128XD (P-233)
+- Дисплей: 12.1" HPA (с индексом D) или TFT SVGA 800x600
+- CD-проигрыватель: CD-ROM (на док-станции)
+- Дисковод FDD
+- Сеть: модем 56K
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2 + 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], MIDI, IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 98
+- Размеры: 297 x 232 x 31 мм (без док-станции)
+- Вес: 2.1 кг (без док-станции)
+
+* Модели
+
+| Название | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|          |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|----------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| NPVII20D | FMVNP720D1 | Pentium MMX, 200      |       32 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |      1998-08 |
+| NPVII20D | FMVNP720D3 | Pentium MMX, 200      |       32 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |      1998-08 |
+| NPVII23  | FMVNP7231  | Pentium MMX, 233      |       64 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |      1998-08 |
+| NPVII23  | FMVNP7232  | Pentium MMX, 233      |       64 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |      1998-08 |
+| NPVII23  | FMVNP7233  | Pentium MMX, 233      |       64 |      3.2 |  12.1 | Windows 98   |  1998-07-16 |      1998-08 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNP720D1.html][FMV-BIBLO NPVII20D FMVNP720D1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNP720D3.html][FMV-BIBLO NPVII20D FMVNP720D3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNP7231.html][FMV-BIBLO NPVII23 FMVNP7231 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNP7232.html][FMV-BIBLO NPVII23 FMVNP7232 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNP7233.html][FMV-BIBLO NPVII23 FMVNP7233 // INVERSENET]]

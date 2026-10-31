@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       83f58124-35f9-4b2a-97f3-be647f2ff004
+:END:
+#+TITLE: FMV-LifeBook E8x10
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-30
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook E8x10* -- первое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Модель родственна модели E8020 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]]. Выпускалась с ноября 2005 г. и пришла на смену моделям линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:8ca59fb2-28e9-4b14-b7d3-e31c4606d86f][Celeron M]] или [[id:094550ce-5282-4eaf-8f39-92e28359030e][Pentium M]]
+- Чипсет: Intel 910GML с Celeron M или [[id:3045d739-7651-49fb-a3d1-6dce48686042][915GM]] с Pentium M
+- Память:
+  - тип: PC2-3200 с Celeron M или PC2-4200 с Pentium M
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 14.1" или 15.1" XGA 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows XP Home SP2, XP Prof. SP2
+- Размеры: 333 x 285 x 32.8 мм
+- Вес: 2.7 кг с 14.1" или 2.9 кг с 15.1"
+
+* Модели
+
+| Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|-----------+-----------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| FMV-E8110 | FMVNE2GA3 | Celeron M 360, 1400   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-10-18 |      2005-11 |
+| FMV-E8110 | FMVNE2GA8 | Celeron M 360, 1400   |      256 |       40 |  14.1 | Windows XP Home  |  2005-10-18 |      2005-11 |
+| FMV-E8110 | FMVNE2GC3 | Celeron M 360, 1400   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-10-18 |      2005-11 |
+| FMV-E8110 | FMVNE2GC8 | Celeron M 360, 1400   |      256 |       40 |  14.1 | Windows XP Home  |  2005-10-18 |      2005-11 |
+| FMV-E8210 | FMVNE2EA3 | Pentium M 740, 1733   |      256 |       40 |  15.1 | Windows XP Prof. |  2005-10-18 |      2005-11 |
+| FMV-E8210 | FMVNE2EC3 | Pentium M 740, 1733   |      256 |       40 |  15.1 | Windows XP Prof. |  2005-10-18 |      2005-11 |
+|           |           |                       |          |          |       |                  |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE2GA3.html][FMV-LIFEBOOK E FMV-E8110 FMVNE2GA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE2GA8.html][FMV-LIFEBOOK E FMV-E8110 FMVNE2GA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE2GC3.html][FMV-LIFEBOOK E FMV-E8110 FMVNE2GC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE2GC8.html][FMV-LIFEBOOK E FMV-E8110 FMVNE2GC8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE2EA3.html][FMV-LIFEBOOK E FMV-E8210 FMVNE2EA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE2EC3.html][FMV-LIFEBOOK E FMV-E8210 FMVNE2EC3 // INVERSENET]]

@@ -8,7 +8,7 @@
 #+DATE: 2026-09-20
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook FMV-820NAL* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-LifeBook FMV-820NAL* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Модель родственна моделям C1211D и E8020 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
 
 * Характеристики
 

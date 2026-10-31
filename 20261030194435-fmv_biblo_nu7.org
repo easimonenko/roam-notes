@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       0fb1af84-af62-41f6-9ce5-ea7beea01131
+:END:
+#+TITLE: FMV-Biblo NU7
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-30
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NU7* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:cb879849-3fbe-497f-882f-afc9816da79d][NU]] марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с ноября 1997 г. и пришла на смену модели NU6.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]
+- Чипсет: Intel [[id:153f1f1d-74ef-4861-b83a-aaa72a59660f][430TX]]
+- Память:
+  - максимальный объём: 96 Мб
+- Видеокарта: Trident Cyber 9382-1
+- Дисплей: 12.1" SVGA 800x600 или DSTN (с индексом Y)
+- CD-проигрыватель: отсутствовал
+- Дисковод FDD
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 1, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95
+- Размеры: 294 x 240 x 54 мм
+- Вес: 3.3 кг
+
+* Модификации
+
+| Название      | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|               |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-5133NU7/Y | FMV53NU7Y5 | Pentium MMX, 133      |       32 |      1.6 |  12.1 | Windows 95   |  1997-11-04 |   1997-11-07 |
+| FMV-5133NU7/W | FMV53NU7W5 | Pentium MMX, 133      |       32 |      1.6 |  12.1 | Windows 95   |  1997-11-04 |   1997-11-07 |
+|               |            |                       |          |          |       |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NU7Y5.html][FMV-BIBLO FMV-5133NU7/Y FMV53NU7Y5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NU7W5.html][FMV-BIBLO FMV-5133NU7/W FMV53NU7W5 // INVERSENET]]

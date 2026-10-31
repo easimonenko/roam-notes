@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       c111f67a-f9d8-4b14-804c-f754ecf11649
+:END:
+#+TITLE: FMV-Biblo LifeBook NU7
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-30
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-Biblo LifeBook NU7* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с июня 2000 г. и пришла на смену модели [[id:20473ba0-47ba-47ce-bffd-4911d1a4ad40][NU6]] с сохранением дизайна и конструкции. В октябре 2000 г. была заменена на модель [[id:288ed115-359d-40b2-91c9-35adf9fe8d72][NU8]] с сохранением дизайна и конструкции.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] или [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]]
+- Память:
+  - тип: SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
+  - максимальный объём: 256 Мб
+- Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][RAGE Mobility-P]]
+- Дисплей: 12.1" TFT SVGA 800x600 (с индеком W) или 14.1" XGA 1024x768
+- HDD: Ultra ATA
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95 OSR2.1, NT 4.0 SP6a, 98 SE, ME, 2000 Prof.
+- Размеры: 308 x 266 x 42 мм
+- Вес: 3.2 кг
+
+* Модели
+
+| Название      | P/N        | Процессор:              |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)   | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+------------+-------------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-650NU7C/W | FMV7NUHWC5 | Mobile Celeron, 500     |       64 |        6 |  12.1 | Windows 95   |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/L | FMV7NUHLC5 | Mobile Celeron, 500     |       64 |        6 |  14.1 | Windows 95   |  2000-05-10 |      2000-05 |
+| FMV-6600NU7/L | FMV7NU8LC5 | Mobile Pentium III, 600 |       64 |        6 |  14.1 | Windows 95   |  2000-05-10 |      2000-06 |
+| FMV-6650NU7/L | FMV7NU9LC2 | Mobile Pentium III, 650 |       64 |        6 |  14.1 | Windows 2000 |  2000-05-10 |      2000-06 |
+|               |            |                         |          |          |       |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU9LC2.html][FMV-BIBLO LIFEBOOK FMV-6650NU7/L FMV7NU9LC2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHWC5.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/W FMV7NUHWC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHLC5.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/L FMV7NUHLC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU8LC5.html][FMV-BIBLO LIFEBOOK FMV-6600NU7/L FMV7NU8LC5 // INVERSENET]]

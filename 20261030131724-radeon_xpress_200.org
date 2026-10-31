@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b2ee5ecc-ab98-4eb0-842a-4d10c3c136d9
+:END:
+#+TITLE: Radeon Xpress 200
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-30
+#+FILETAGS: :ati:radeon:integrated-graphics:
+
+*Radeon Xpress 200* -- семейство [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсетов]] компании [[id:1d99df1d-1ccf-46eb-aeb3-ee77a80b85e5][ATI]] со [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенной]] видеокартой с архитектурой R300, выпускавшихся с 2005 г.
+
+* Resources
+
+- [[https://ru.wikipedia.org/wiki/ATI_Xpress_200][Wikipedia [RU]​]]
+- [[https://en.wikipedia.org/wiki/Xpress_200][Wikipedia [EN]​]]
+- [[https://www.techpowerup.com/gpu-specs/radeon-xpress-200m-igp.c2479][ATI Radeon Xpress 200M IGP // TechPowerUp]]

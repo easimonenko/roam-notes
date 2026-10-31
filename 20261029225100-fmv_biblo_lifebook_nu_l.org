@@ -30,13 +30,17 @@
 
 * Модели
 
-| Название     | P/N        | Процессор:              | Объём    | Объём    | Диаг. | Операционная | Дата        | Дата начала  |
+| Название     | P/N        | Процессор:              |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
 |              |            | модель, частота (МГц)   | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
 |--------------+------------+-------------------------+----------+----------+-------+--------------+-------------+--------------|
-| FMV-6000NU/L | FMVNU1L2A6 | Mobile Pentium III, 750 | 64       | 10       | 14.1  | Windows 98   | 2001-04-16  | 2001-05      |
+| FMV-6000NU/L | FMVNU1L216 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 98   |  2001-04-16 |      2001-05 |
+| FMV-6000NU/L | FMVNU1L236 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 98   |  2001-04-16 |      2001-05 |
+| FMV-6000NU/L | FMVNU1L2A6 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 98   |  2001-04-16 |      2001-05 |
 |              |            |                         |          |          |       |              |             |              |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L216.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L216 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L236.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L236 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2A6.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2A6 // INVERSENET]]
 
