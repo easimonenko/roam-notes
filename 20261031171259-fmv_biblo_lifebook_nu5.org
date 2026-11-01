@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       4c73f5fc-0a50-4b36-8c96-18564022d1b6
+:END:
+#+TITLE: FMV-Biblo LifeBook NU5
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-31
+#+FILETAGS: :fujitsu:fmv-biblo:lifebook:
+
+*FMV-Biblo LifeBook NU5* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с ноября 1999 г. и пришла на смену модели [[id:91b016ff-a73c-4678-b3e1-5735a60ed27e][NU4]]. В феврале 2000 г. была заменена на модель [[id:20473ba0-47ba-47ce-bffd-4911d1a4ad40][NU6]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]] или [[id:d1f5835c-1cab-4641-b9a8-5ff2f3561619][Mobile Celeron (Mendocino)]]
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 32 или 64 Мб
+  - максимальный объём: 256 Мб
+- Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][RAGE Mobility-P]]
+- Дисплей: 13.0" HPA (с индексом Y) или 13.3" TFT (с индексом X) или 14.1" XGA 1024x768 (с индексом L)
+- HDD: Ultra ATA
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 100BASE-TX/10-BASE-T
+- Внешние интерфейсы: 2 x USB, COM, LPT, VGA, IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95 OSR2.1 или Windows 98 SE, Windows NT 4.0 SP4
+- Размеры: 308 x 266 x 42
+- Вес: 3.1-3.2 кг
+
+* Модели
+
+| Название      | P/N        | Процессор:             |    Объём |    Объём | Диаг. | Операционная   |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
+|---------------+------------+------------------------+----------+----------+-------+----------------+-------------+--------------|
+| FMV-640NU5C/W | FMV5NUDWC0 | Mobile Celeron, 400    |       64 |        6 |  12.1 | Windows NT 4.0 |  1999-10-26 |      1999-11 |
+| FMV-640NU5C/W | FMV5NUDWC5 | Mobile Celeron, 400    |       64 |        6 |  12.1 | Windows 95     |  1999-10-26 |      1999-11 |
+| FMV-640NU5C/W | FMV5NUDWC6 | Mobile Celeron, 400    |       64 |        6 |  12.1 | Windows 98     |  1999-10-26 |      1999-11 |
+| FMV-640NU5C/Y | FMV5NUDYC0 | Mobile Celeron, 400    |       64 |        6 |  13.0 | Windows NT 4.0 |  1999-10-26 |      1999-11 |
+| FMV-640NU5C/Y | FMV5NUDYC5 | Mobile Celeron, 400    |       64 |        6 |  13.0 | Windows 95     |  1999-10-26 |      1999-11 |
+| FMV-640NU5C/Y | FMV5NUDYC6 | Mobile Celeron, 400    |       64 |        6 |  13.0 | Windows 98     |  1999-10-26 |      1999-11 |
+| FMV-643NU5C/X | FMV5NUEXC0 | Mobile Celeron, 433    |       64 |        6 |  13.3 | Windows NT 4.0 |  1999-10-26 |      1999-11 |
+| FMV-643NU5C/X | FMV5NUEXC5 | Mobile Celeron, 433    |       64 |        6 |  13.3 | Windows 95     |  1999-10-26 |      1999-11 |
+| FMV-643NU5C/X | FMV5NUEXC6 | Mobile Celeron, 433    |       64 |        6 |  13.3 | Windows 98     |  1999-10-26 |      1999-11 |
+| FMV-643NU5C/L | FMV5NUELC0 | Mobile Celeron, 433    |       64 |        6 |  14.1 | Windows NT 4.0 |  1999-10-26 |      1999-11 |
+| FMV-643NU5C/L | FMV5NUELC5 | Mobile Celeron, 433    |       64 |        6 |  14.1 | Windows 95     |  1999-10-26 |      1999-11 |
+| FMV-643NU5C/L | FMV5NUELC6 | Mobile Celeron, 433    |       64 |        6 |  14.1 | Windows 98     |  1999-10-26 |      1999-11 |
+| FMV-6450NU5/L | FMV5NU5LC0 | Mobile Pantium II, 450 |       64 |        6 |  14.1 | Windows NT 4.0 |  1999-10-26 |      1999-11 |
+| FMV-6450NU5/L | FMV5NU5LC5 | Mobile Pantium II, 450 |       64 |        6 |  14.1 | Windows 95     |  1999-10-26 |      1999-11 |
+| FMV-6450NU5/L | FMV5NU5LC6 | Mobile Pantium II, 450 |       64 |        6 |  14.1 | Windows 98     |  1999-10-26 |      1999-11 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUDWC0.html][FMV-BIBLO LIFEBOOK FMV-640NU5C/W FMV5NUDWC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUDWC5.html][FMV-BIBLO LIFEBOOK FMV-640NU5C/W FMV5NUDWC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUDWC6.html][FMV-BIBLO LIFEBOOK FMV-640NU5C/W FMV5NUDWC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUDYC0.html][FMV-BIBLO LIFEBOOK FMV-640NU5C/Y FMV5NUDYC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUDYC5.html][FMV-BIBLO LIFEBOOK FMV-640NU5C/Y FMV5NUDYC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUDYC6.html][FMV-BIBLO LIFEBOOK FMV-640NU5C/Y FMV5NUDYC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUEXC0.html][FMV-BIBLO LIFEBOOK FMV-643NU5C/X FMV5NUEXC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUEXC5.html][FMV-BIBLO LIFEBOOK FMV-643NU5C/X FMV5NUEXC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUEXC6.html][FMV-BIBLO LIFEBOOK FMV-643NU5C/X FMV5NUEXC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUELC0.html][FMV-BIBLO LIFEBOOK FMV-643NU5C/L FMV5NUELC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUELC5.html][FMV-BIBLO LIFEBOOK FMV-643NU5C/L FMV5NUELC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUELC6.html][FMV-BIBLO LIFEBOOK FMV-643NU5C/L FMV5NUELC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NU5LC0.html][FMV-BIBLO LIFEBOOK FMV-6450NU5/L FMV5NU5LC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NU5LC5.html][FMV-BIBLO LIFEBOOK FMV-6450NU5/L FMV5NU5LC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NU5LC6.html][FMV-BIBLO LIFEBOOK FMV-6450NU5/L FMV5NU5LC6 // INVERSENET]]

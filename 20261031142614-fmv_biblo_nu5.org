@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       a96e1bee-aa18-4271-954b-cbcd132a9c9a
+:END:
+#+TITLE: FMV-Biblo NU5
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-31
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NU5* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:cb879849-3fbe-497f-882f-afc9816da79d][NU]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с февраля 1997 г. и пришла на смену модели NU4. Была заменена на модель [[id:131df2ea-32ff-4db1-a9d3-d63d50a02cd5][NU6]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]
+- Память:
+  - максимальный объём: 48 Мб
+- Видеокарта: CT65550
+- Дисплей: 11.3" TFT
+- CD-проигрыватель: CD-ROM
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95
+- Размеры: 296 x 240 x 48 мм
+- Вес: 3.3 кг
+
+* Модификации
+
+| Название      | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная | Дата        |  Дата начала |
+|               |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-5133NU5/W | FMV53NU5S1 | Pentium, 133          |       32 |      1.0 |  11.3 | Windows 95   |             |   1997-02-06 |
+| FMV-5133NU5/W | FMV53NU5S3 | Pentium, 133          |       32 |      1.0 |  11.3 | Windows 95   |             |   1997-02-06 |
+| FMV-5133NU5/W | FMV53NU5S4 | Pentium, 133          |       32 |      1.0 |  11.3 | Windows 95   |             |   1997-02-06 |
+| FMV-5133NU5/W | FMV53NU5S6 | Pentium, 133          |       32 |      1.0 |  11.3 | Windows 95   |             |   1997-02-06 |
+|               |            |                       |          |          |       |              |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NU5S1.html][FMV-BIBLO FMV-5133NU5/W S FMV53NU5S1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NU5S3.html][FMV-BIBLO FMV-5133NU5/W S FMV53NU5S3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NU5S4.html][FMV-BIBLO FMV-5133NU5/W S FMV53NU5S4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV53NU5S6.html][FMV-BIBLO FMV-5133NU5/W S FMV53NU5S6 // INVERSENET]]

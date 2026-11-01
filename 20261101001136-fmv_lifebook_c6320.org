@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       b2bb3d06-93f3-4879-80b8-2dd76e4e5bd6
+:END:
+#+TITLE: FMV-LifeBook C6320
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-01
+#+FILETAGS: :fujitsu:fmv-lifebook:lifebook:
+
+*FMV-LifeBook C6320* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:5c53c456-83d4-46bf-843f-aab714f42d29][C]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Модель родственна модели [[id:263bb4e7-385a-438c-a85c-111f7971e005][C1320]] марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]]. Модель выпускалась с апреля 2006 г. одновременно с моделью [[id:85d4bab0-ab4e-4ed7-80a6-e334ddb70ae4][C6220]] с таким же дизайном и конструкцией и пришла на смену модели [[id:c7dd47e0-bb7a-4763-b67f-5dbcb54a474b][C6310]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:8ca59fb2-28e9-4b14-b7d3-e31c4606d86f][Celeron M]] или [[id:094550ce-5282-4eaf-8f39-92e28359030e][Pentium M]] платформы [[id:cbe111c8-0567-48e1-912e-0f6c9a248549][Sonoma]]
+- Чипсет: Intel [[id:7b385105-e66e-437a-8523-b393eb9c907a][910GML]]
+- Память:
+  - тип: PC2-3200 DDR2-400
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 2048 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.4" WXGA 1280x800
+- HDD: Ultra ATA/100
+- CD-проигрыватель: DVD-ROM + CD-RW
+- Дисковод FDD
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, COM, LPT, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], FireWire
+- Слоты расширения: PCMCIA 1 x Type I/II, ExpressCard x 1
+- Card Reader: SD
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Prof. SP2, XP Home SP2
+- Размеры: 360 x 272 x 34.4 мм
+- Вес: 2.8 кг
+
+* Модели
+
+| Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|-----------+-----------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| FMV-C6320 | FMVXN4201 | Celeron M 380, 1600   |      256 |       40 |  15.4 | Windows XP Home  |  2006-04-13 |      2006-04 |
+| FMV-C6320 | FMVXN0201 | Celeron M 380, 1600   |      256 |       40 |  15.4 | Windows XP Prof  |  2006-04-13 |      2006-04 |
+| FMV-C6320 | FMVXN0101 | Pentium M 740, 1733   |      256 |       40 |  15.4 | Windows XP Prof. |  2006-04-13 |      2006-04 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXN4201.html][FMV-LIFEBOOK FMV-C6320 FMVXN4201 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXN0201.html][FMV-LIFEBOOK FMV-C6320 FMVXN0201 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXN0101.html][FMV-LIFEBOOK FMV-C6320 FMVXN0101 // INVERSENET]]
+
+

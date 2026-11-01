@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4abceb0a-9cec-44ee-a3aa-def9112ba3dd
+:END:
+#+TITLE: Mobile Pentium 4 HT
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-31
+#+FILETAGS: :intel:pentium-4:
+
+*Mobile Pentium 4 HT* -- [[id:f213cd3c-1d54-44cd-89aa-c582c7e93c16][мобильный]] [[id:cf8e77c1-1b45-44ad-9682-8f2fc7c52792][процессор]] линейки [[id:a1741b66-49c2-4265-9556-f27e0ba5aa6c][Pentium 4]] с поддержкой [[id:f7941f2e-b151-4728-af45-fb5ba82cb997][Hyper-Threading]] с ядром Prescott компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]]. Выпускался с июня 2004 г. Устанавливался в [[id:e1cb2e2a-883d-4b4c-97ad-d4d218caa364][Socket 478]].
+
+* Resources
+
+- [[https://www.techpowerup.com/cpu-specs/mobile-pentium-4-ht-532.c1258][Intel Mobile Pentium 4 HT 532 // TechPowerUp]]
+- [[https://www.cpu-world.com/CPUs/Pentium_4/Intel-Mobile%20Pentium%204%20532%203%20GHz%20-%20RK80546HE0831M.html][Intel Mobile Pentium 4 532 specifications // CPU-World]]

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7b385105-e66e-437a-8523-b393eb9c907a
+:END:
+#+TITLE: Intel 910GML
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-31
+#+FILETAGS: :intel:mobile-chipsets:
+
+*Intel 910GML* -- [[id:70fa2d7d-d61f-46c1-9e8d-cfc1d640d10e][мобильный]] [[id:f6c2f375-228c-445b-9369-2568eda457ac][чипсет]] компании [[id:c35725ad-4116-4d60-b2e3-85395fde2747][Intel]] с поддержкой шины [[id:89ccfaeb-766e-44ac-8db3-459ab12b6ceb][PCI Express]]. Пришёл на смену чипсету [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]]. Использовался с процессорами [[id:8ca59fb2-28e9-4b14-b7d3-e31c4606d86f][Celeron M]] платформы [[id:cbe111c8-0567-48e1-912e-0f6c9a248549][Sonoma]].
+
+* Resources
+
+- [[https://www.cpu-upgrade.com/mb-Intel_%28chipsets%29/910GML_Express.html][Intel 910GML Express chipset processor support // CPU-Upgrade]]

@@ -18,7 +18,7 @@
   - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
   - максимальный объём: 256 Мб
 - Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][RAGE Mobility-P]]
-- Дисплей: 12.1" TFT SVGA 800x600 (с индеком W) или 14.1" XGA 1024x768
+- Дисплей: 12.1" TFT SVGA 800x600 (с индеком W) или 14.1" XGA 1024x768 (с индексом L)
 - HDD: Ultra ATA
 - CD-проигрыватель: CD-ROM
 - Дисковод FDD
@@ -26,23 +26,44 @@
 - Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Операционная система: Windows 95 OSR2.1, NT 4.0 SP6a, 98 SE, ME, 2000 Prof.
-- Размеры: 308 x 266 x 42 мм
-- Вес: 3.2 кг
+- Размеры: 308 x 266 x 42-43 мм
+- Вес: 3.1-3.2 кг
 
 * Модели
 
-| Название      | P/N        | Процессор:              |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
-|               |            | модель, частота (МГц)   | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
-|---------------+------------+-------------------------+----------+----------+-------+--------------+-------------+--------------|
-| FMV-650NU7C/W | FMV7NUHWC5 | Mobile Celeron, 500     |       64 |        6 |  12.1 | Windows 95   |  2000-05-10 |      2000-05 |
-| FMV-650NU7C/L | FMV7NUHLC5 | Mobile Celeron, 500     |       64 |        6 |  14.1 | Windows 95   |  2000-05-10 |      2000-05 |
-| FMV-6600NU7/L | FMV7NU8LC5 | Mobile Pentium III, 600 |       64 |        6 |  14.1 | Windows 95   |  2000-05-10 |      2000-06 |
-| FMV-6650NU7/L | FMV7NU9LC2 | Mobile Pentium III, 650 |       64 |        6 |  14.1 | Windows 2000 |  2000-05-10 |      2000-06 |
-|               |            |                         |          |          |       |              |             |              |
+| Название      | P/N        | Процессор:              |    Объём |    Объём | Диаг. | Операционная   |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)   | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
+|---------------+------------+-------------------------+----------+----------+-------+----------------+-------------+--------------|
+| FMV-650NU7C/W | FMV7NUHWC0 | Mobile Celeron, 500     |       64 |        6 |  12.1 | Windows NT 4.0 |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/W | FMV7NUHWC2 | Mobile Celeron, 500     |       64 |        6 |  12.1 | Windows 2000   |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/W | FMV7NUHWC5 | Mobile Celeron, 500     |       64 |        6 |  12.1 | Windows 95     |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/W | FMV7NUHWC6 | Mobile Celeron, 500     |       64 |        6 |  12.1 | Windows 98     |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/L | FMV7NUHLC0 | Mobile Celeron, 500     |       64 |        6 |  14.1 | Windows NT 4.0 |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/L | FMV7NUHLC2 | Mobile Celeron, 500     |       64 |        6 |  14.1 | Windows 2000   |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/L | FMV7NUHLC5 | Mobile Celeron, 500     |       64 |        6 |  14.1 | Windows 95     |  2000-05-10 |      2000-05 |
+| FMV-650NU7C/L | FMV7NUHLC6 | Mobile Celeron, 500     |       64 |        6 |  14.1 | Windows 98     |  2000-05-10 |      2000-05 |
+| FMV-6600NU7/L | FMV7NU8LC0 | Mobile Pentium III, 600 |       64 |        6 |  14.1 | Windows NT 4.0 |  2000-05-10 |      2000-06 |
+| FMV-6600NU7/L | FMV7NU8LC2 | Mobile Pentium III, 600 |       64 |        6 |  14.1 | Windows 2000   |  2000-05-10 |      2000-06 |
+| FMV-6600NU7/L | FMV7NU8LC5 | Mobile Pentium III, 600 |       64 |        6 |  14.1 | Windows 95     |  2000-05-10 |      2000-06 |
+| FMV-6600NU7/L | FMV7NU8LC6 | Mobile Pentium III, 600 |       64 |        6 |  14.1 | Windows 98     |  2000-05-10 |      2000-06 |
+| FMV-6650NU7/L | FMV7NU9LC0 | Mobile Pentium III, 650 |       64 |        6 |  14.1 | Windows NT 4.0 |  2000-05-10 |      2000-06 |
+| FMV-6650NU7/L | FMV7NU9LC2 | Mobile Pentium III, 650 |       64 |        6 |  14.1 | Windows 2000   |  2000-05-10 |      2000-06 |
+| FMV-6650NU7/L | FMV7NU9LC6 | Mobile Pentium III, 650 |       64 |        6 |  14.1 | Windows 98     |  2000-05-10 |      2000-06 |
 
 * Resources
 
-- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU9LC2.html][FMV-BIBLO LIFEBOOK FMV-6650NU7/L FMV7NU9LC2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHWC0.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/W FMV7NUHWC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHWC2.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/W FMV7NUHWC2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHWC5.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/W FMV7NUHWC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHWC6.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/W FMV7NUHWC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHLC0.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/L FMV7NUHLC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHLC2.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/L FMV7NUHLC2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHLC5.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/L FMV7NUHLC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NUHLC6.html][FMV-BIBLO LIFEBOOK FMV-650NU7C/L FMV7NUHLC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU8LC0.html][FMV-BIBLO LIFEBOOK FMV-6600NU7/L FMV7NU8LC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU8LC2.html][FMV-BIBLO LIFEBOOK FMV-6600NU7/L FMV7NU8LC2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU8LC5.html][FMV-BIBLO LIFEBOOK FMV-6600NU7/L FMV7NU8LC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU8LC6.html][FMV-BIBLO LIFEBOOK FMV-6600NU7/L FMV7NU8LC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU9LC0.html][FMV-BIBLO LIFEBOOK FMV-6650NU7/L FMV7NU9LC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU9LC2.html][FMV-BIBLO LIFEBOOK FMV-6650NU7/L FMV7NU9LC2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV7NU9LC6.html][FMV-BIBLO LIFEBOOK FMV-6650NU7/L FMV7NU9LC6 // INVERSENET]]

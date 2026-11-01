@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       a982a593-654f-49f7-beb8-bb47f0c4f696
+:END:
+#+TITLE: FMV-Biblo NU8
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-10-31
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NU8* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:cb879849-3fbe-497f-882f-afc9816da79d][NU]] марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с февраля 1998 г. и пришла на смену модели [[id:0fb1af84-af62-41f6-9ce5-ea7beea01131][NU7]] с сохранением дизайна и конструкции.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:e8a54c2a-7f05-4c04-ad12-e4f151544b3c][Pentium MMX]]
+- Чипсет: Intel [[id:153f1f1d-74ef-4861-b83a-aaa72a59660f][430TX]]
+- Память:
+  - максимальный объём: 96 Мб
+- Видеокарта: Trident Cyber 9382-1
+- Дисплей: 12.1" TFT SVGA 800x600 (с индексом W) или DSTN (с индексом Y)
+- CD-проигрыватель: отсутствовал
+- Дисковод FDD
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 1, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95
+- Размеры: 294 x 240 x 54 мм
+- Вес: 3.3 кг
+
+* Модификации
+
+| Название      | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная |        Дата |  Дата начала |
+|               |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|---------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-5166NU8/Y | FMV56NU8Y5 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| FMV-5166NU8/Y | FMV56NUDC4 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| FMV-5166NU8/W | FMV56NUDC2 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| FMV-5166NU8/W | FMV56NUDC3 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+| FMV-5166NU8/W | FMV56NU8W5 | Pentium MMX, 166      |       32 |      2.1 |  12.1 | Windows 95   |  1998-02-05 |      1998-02 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV56NU8Y5.html][FMV-BIBLO FMV-5166NU8/Y FMV56NU8Y5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV56NUDC4.html][FMV-BIBLO FMV-5166NU8/Y FMV56NUDC4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV56NUDC2.html][FMV-BIBLO FMV-5166NU8/W FMV56NUDC2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV56NUDC3.html][FMV-BIBLO FMV-5166NU8/W FMV56NUDC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV56NU8W5.html][FMV-BIBLO FMV-5166NU8/W FMV56NU8W5 // INVERSENET]]

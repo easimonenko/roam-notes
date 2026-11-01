@@ -8,7 +8,7 @@
 #+DATE: 2026-10-03
 #+FILETAGS: :fujitsu:fmv-biblo:lifebook:
 
-*FMV-Biblo LifeBook NU4* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-Biblo LifeBook NU4* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с июня 1999 г. и пришла на смену модели NU3. В ноябре 1999 г. была заменена на модель [[id:4c73f5fc-0a50-4b36-8c96-18564022d1b6][NU5]].
 
 * Общая спецификация
 

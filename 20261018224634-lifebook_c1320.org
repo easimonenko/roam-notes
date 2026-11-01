@@ -13,14 +13,14 @@
 * Общая спецификация
 
 - Процессор: Intel [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
-- Чипсет: Intel 915 GM
+- Чипсет: Intel [[id:3045d739-7651-49fb-a3d1-6dce48686042][915GM]]
 - Память:
   - тип: PC2-4200 DDR2-533
   - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
   - максимальный объём: 2048 Мб
 - Дисплей: 15.4 WXGA 1280x800 или 15.1 XGA 1024x768
 - HDD: Ultra ATA/100
-- Проигрыватель компакт-дисков: DVD-ROM + CD-RW
+- CD-роигрыватель: DVD-ROM + CD-RW
 - Сеть:
   - Ethernet 1000BAS-T/100BASE-TX/10BASE-T
   - WiFi a/b/g
