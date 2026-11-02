@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       77cd6b1c-7b48-48f6-8744-2c52f808a2c4
+:END:
+#+TITLE: FMV-Biblo MGxxL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-01
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MGxxL* -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:0831976b-d826-4419-9adf-87f29561092f][MG]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Включала в себя две разных модели: с дисплеем 13.3" и 14.1". Выпускалась с апреля 2005 г. и пришла на смену серии [[id:ccc939ff-ffca-46aa-b27e-411f8d514f3b][MGxxK]]. В сентябре 2005 г. была заменена на серию MGxxM.
+
+* Общая спецификация
+
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][интегрированная]]
+- HDD: Ultra ATA/100
+- Сеть:
+  - модем V.92 56K
+  - WiFi a/b/g
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 3, FireWire S400
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP2
+
+** С процессором Celeron M
+
+- Процессор: Intel [[id:8ca59fb2-28e9-4b14-b7d3-e31c4606d86f][Celeron M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Чипсет: Intel [[id:e64007f8-4600-4ff6-ae37-b192789a5393][852GME]]
+- Память:
+  - тип: [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]]
+  - объём: 256 Мб
+  - расширение: два слота [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 1024 Мб
+- Дисплей: 13.3" XGA
+- CD-проигрыватель: DVD-R + CD-RW
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Размеры: 293 x 236.5 x 30.5 мм
+- Вес: 1.65 кг
+
+** С процессором Pentium M
+
+- Процессор: Intel [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Чипсет: Intel [[id:3045d739-7651-49fb-a3d1-6dce48686042][915GM]]
+- Память:
+  - тип: PC2-4200
+  - объём: 512 Мб
+  - расширение: два слота [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]]
+  - максимальный объём: 2048 Мб
+- Дисплей: 14.1" XGA
+- CD-проигрыватель: DVD-RAM/RW + CD-RW или DVD-R + CD-RW
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Слоты расширения: PCMCIA 1 x Type I/II и 1 x [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Размеры: 306 x 248 x 25.4
+- Вес: 1.78 кг
+
+* Модели
+
+| Название | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная    |        Дата |  Дата начала |
+| модели   |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система         | презентации | производства |
+|----------+-----------+-----------------------+----------+----------+-------+-----------------+-------------+--------------|
+| MG50L    | FMVMG50L  | Celeron M 350, 1300   |      256 |       80 |  13.3 | Windows XP Home |  2005-04-19 |   2005-04-23 |
+| MG50L/T  | FMVMG50LT | Celeron M 350, 1300   |      256 |      100 |  13.3 | Windows XP Home |  2005-04-19 |   2005-04-23 |
+| MG70L    | FMVMG70L  | Pentium M 740, 1733   |      512 |      100 |  14.1 | Windows XP Home |  2005-04-19 |   2005-04-23 |
+| MG70L/T  | FMVMG70LT | Pentium M 740, 1733   |      512 |      100 |  14.1 | Windows XP Home |  2005-04-19 |   2005-04-23 |
+
+Модификация с индексом T оснащалась поддержкой телевидения.
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50L.html][FMV-BIBLO MG MG50L FMVMG50L // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50LT.html][FMV-BIBLO MG MG50L/T FMVMG50LT // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70L.html][FMV-BIBLO MG MG70L FMVMG70L // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70LT.html][FMV-BIBLO MG MG70L/T FMVMG70LT // INVERSENET]]

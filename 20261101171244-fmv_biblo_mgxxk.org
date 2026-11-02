@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       ccc939ff-ffca-46aa-b27e-411f8d514f3b
+:END:
+#+TITLE: FMV-Biblo MGxxK
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-01
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MGxxK* -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:0831976b-d826-4419-9adf-87f29561092f][MG]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Включала в себя две разных модели: с дисплеем 13.3" и 14.1". Выпускалась с января 2005 г. и пришла на смену модели [[id:d7187a47-63b6-41e9-9185-33f98f7a53f7][MGxxJ]]. В апреле 2005 г. была заменена на модель [[id:77cd6b1c-7b48-48f6-8744-2c52f808a2c4][MGxxL]].
+
+* Общая спецификация
+
+- Память:
+  - тип: DDR SDRAM [[id:db3a6db0-2ba5-4fc1-9eb0-cb973c72a581][PC-2700]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][интегрированная]]
+- HDD: Ultra ATA/100
+- CD-проигрыватель: DVD-RAM/RW + CD-RW или DVD-R
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+  - модем V.92 56K
+  - WiFi b/g или a/b/g
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 3, FireWire S400
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP2 или Windows XP Prof. SP2
+
+** С дисплеем 13.3" и процессором Celeron M
+
+- Процессор: Intel [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]]
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]]
+
+** С дисплеем 13.3" и процессором Pentium M
+
+- Процессор: Intel [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Чипсет: Intel [[id:c857707c-9d0c-4a6e-a539-4de4df1daa31][855GME]]
+
+** С дисплеем 13.3"
+
+- Дисплей: 13.3" XGA
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Размеры: 293 x 236.5 x 30.5 мм
+- Вес: 1.65 кг
+
+** С дисплеем 14.1" и процессором Pentium M
+
+- Дисплей: 14.1" XGA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Размеры: 306 x 247 x 25.4
+- Вес: 1.77 кг
+
+* Модели
+
+| Название | P/N         | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+| модели   |             | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|----------+-------------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| MG50KN   | FMVMG50KN8C | Celeron M 340, 1500   |          |          |  13.3 | Windows XP Home  |  2005-01-05 |   2005-01-08 |
+| MG50K/T  | FMVMG50KT   | Celeron M 340, 1500   |      256 |       80 |  13.3 | Windows XP Home  |  2005-01-05 |   2005-01-08 |
+| MG50KN   | FMVMG50KN8P | Pentium M 735, 1700   |          |          |  13.3 | Windows XP Home  |  2005-01-05 |   2005-01-08 |
+| MG70K    | FMVMG70K    | Pentium M 735, 1700   |      256 |       80 |  14.1 | Windows XP Home  |  2005-01-05 |   2005-01-08 |
+| MG70KN   | FMVMG70KN8  | Pentium M 735, 1700   |          |          |  14.1 | Windows XP Home  |  2005-01-05 |   2005-01-08 |
+| MG70K/T  | FMVMG70KT   | Pentium M 735, 1700   |      256 |      100 |  14.1 | Windows XP Home  |  2005-01-05 |   2005-01-08 |
+| MG70KN   | FMVMG70KN3  | Pentium M 735, 1700   |          |          |  14.1 | Windows XP Prof. |  2005-01-05 |   2005-01-08 |
+| MG75K    | FMVMG75K    | Pentium M 735, 1700   |      512 |      100 |  14.1 | Windows XP Prof. |  2005-01-05 |   2005-01-08 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50KN8C.html][FMV-BIBLO MG MG50KN FMVMG50KN8C // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50KT.html][FMV-BIBLO MG MG50K/T FMVMG50KT // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50KN8P.html][FMV-BIBLO MG MG50KN FMVMG50KN8P // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70K.html][FMV-BIBLO MG MG70K FMVMG70K // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70KN8.html][FMV-BIBLO MG MG70KN FMVMG70KN8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70KT.html][FMV-BIBLO MG MG70K/T FMVMG70KT // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70KN3.html][FMV-BIBLO MG MG70KN FMVMG70KN3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG75K.html][FMV-BIBLO MG MG75K FMVMG75K // INVERSENET]]

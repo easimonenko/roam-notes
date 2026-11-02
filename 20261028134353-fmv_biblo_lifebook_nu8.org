@@ -8,7 +8,7 @@
 #+DATE: 2026-10-28
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-Biblo LifeBook NU8* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с октября 2000 г. и пришла на смену модели NU7. В мае 2001 г. была заменена на модель [[id:df361bb5-ec1f-4334-aa98-49d5865b66ca][NU9/L]].
+*FMV-Biblo LifeBook NU8* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с октября 2000 г. и пришла на смену модели [[id:c111f67a-f9d8-4b14-804c-f754ecf11649][NU7]]. В мае 2001 г. была заменена на модель [[id:df361bb5-ec1f-4334-aa98-49d5865b66ca][NU9/L]].
 
 * Общая спецификация
 
@@ -36,24 +36,34 @@
 |---------------+------------+-------------------------+----------+----------+-------+----------------+-------------+--------------|
 | FMV-655NU8C/W | FMV8NUJWC0 | Mobile Celeron, 550     |       64 |       10 |  12.1 | Windows NT 4.0 |  2000-10-16 |      2000-10 |
 | FMV-655NU8C/W | FMV8NUJWC2 | Mobile Celeron, 550     |       64 |       10 |  12.1 | Windows 2000   |  2000-10-16 |      2000-10 |
+| FMV-655NU8C/W | FMV8NUJWC5 | Mobile Celeron, 550     |       64 |       10 |  12.1 | Windows 95     |  2000-10-16 |      2000-10 |
 | FMV-655NU8C/W | FMV8NUJWC6 | Mobile Celeron, 550     |       64 |       10 |  12.1 | Windows 98 SE  |  2000-10-16 |      2000-10 |
 | FMV-655NU8C/W | FMV8NUJWC7 | Mobile Celeron, 550     |       64 |       10 |  12.1 | Windows ME     |  2000-10-16 |      2000-11 |
 | FMV-655NU8C/L | FMV8NUJLC0 | Mobile Celeron, 550     |       64 |       10 |  14.1 | Windows NT 4.0 |  2000-10-16 |      2000-10 |
+| FMV-655NU8C/L | FMV8NUJLC2 | Mobile Celeron, 550     |       64 |       10 |  14.1 | Windows 2000   |  2000-10-16 |      2000-10 |
 | FMV-655NU8C/L | FMV8NUJLC5 | Mobile Celeron, 550     |       64 |       10 |  14.1 | Windows 95     |  2000-10-16 |      2000-10 |
 | FMV-655NU8C/L | FMV8NUJLC6 | Mobile Celeron, 550     |       64 |       10 |  14.1 | Windows 98 SE  |  2000-10-16 |      2000-10 |
 | FMV-655NU8C/L | FMV8NUJLC7 | Mobile Celeron, 550     |       64 |       10 |  14.1 | Windows ME     |  2000-10-16 |      2000-10 |
+| FMV-6700NU8/L | FMV8NU1LC0 | Mobile Pentium III, 700 |       64 |       10 |  14.1 | Windows NT 4.0 |  2000-10-16 |      2000-10 |
+| FMV-6700NU8/L | FMV8NU1LC2 | Mobile Pentium III, 700 |       64 |       10 |  14.1 | Windows 2000   |  2000-10-16 |      2000-10 |
 | FMV-6700NU8/L | FMV8NU1LC5 | Mobile Pentium III, 700 |       64 |       10 |  14.1 | Windows 95     |  2000-10-16 |      2000-10 |
-|               |            |                         |          |          |       |                |             |              |
+| FMV-6700NU8/L | FMV8NU1LC6 | Mobile Pentium III, 700 |       64 |       10 |  14.1 | Windows 98 SE  |  2000-10-16 |      2000-10 |
+| FMV-6700NU8/L | FMV8NU1LC7 | Mobile Pentium III, 700 |       64 |       10 |  14.1 | Windows ME     |  2000-10-16 |      2000-11 |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJWC0.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/W FMV8NUJWC0 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJWC2.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/W FMV8NUJWC2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJWC5.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/W FMV8NUJWC5 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJWC6.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/W FMV8NUJWC6 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJWC7.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/W FMV8NUJWC7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJLC0.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/L FMV8NUJLC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJLC2.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/L FMV8NUJLC2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJLC5.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/L FMV8NUJLC5 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJLC6.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/L FMV8NUJLC6 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NUJLC7.html][FMV-BIBLO LIFEBOOK FMV-655NU8C/L FMV8NUJLC7 // INVERSENET]]
-
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NU1LC0.html][FMV-BIBLO LIFEBOOK FMV-6700NU8/L FMV8NU1LC0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NU1LC2.html][FMV-BIBLO LIFEBOOK FMV-6700NU8/L FMV8NU1LC2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NU1LC5.html][FMV-BIBLO LIFEBOOK FMV-6700NU8/L FMV8NU1LC5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NU1LC6.html][FMV-BIBLO LIFEBOOK FMV-6700NU8/L FMV8NU1LC6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV8NU1LC7.html][FMV-BIBLO LIFEBOOK FMV-6700NU8/L FMV8NU1LC7 // INVERSENET]]

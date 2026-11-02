@@ -20,7 +20,7 @@
   - максимальный объём: 2048 Мб
 - Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
 - Дисплей: 14.1" XGA 1024x768
-- HDD: Ultra ATA/100, RAID1
+- HDD: Ultra ATA/100, RAID1 (у части модификаций)
 - CD-проигрыватель: CD-ROM
 - Дисковод FDD
 - Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
@@ -38,15 +38,20 @@
 |---------------+------------+--------------------------+-------------+----------+--------------+-------------+--------------|
 | FMV-7000NA5/H | FMVNAH57AA | Mobile Pentium 4-M, 2666 |         128 |       20 | Windows 2000 |             |      2004-02 |
 | FMV-7000NA5/H | FMVNAH57AB | Mobile Pentium 4-M, 2666 |         128 |       20 | Windows 2000 |             |      2004-02 |
+| FMV-7000NA5/H | FMVNAH57CA | Mobile Pentium 4-M, 2666 |         128 |       20 | Windows 2000 |             |      2004-02 |
 | FMV-7000NA5/H | FMVNAH57CB | Mobile Pentium 4-M, 2666 |         128 |       20 | Windows 2000 |             |      2004-02 |
+| FMV-7000NA5/H | FMVNAH57FA | Mobile Pentium 4-M, 2666 |         128 |  20 + 20 | Windows 2000 |             |      2004-02 |
 | FMV-7000NA5/H | FMVNAH57FB | Mobile Pentium 4-M, 2666 |         128 |       20 | Windows 2000 |             |      2004-02 |
+| FMV-7000NA5/H | FMVNAH57GA | Mobile Pentium 4-M, 2666 |         128 |  20 + 20 | Windows 2000 |             |      2004-02 |
 | FMV-7000NA5/H | FMVNAH57GB | Mobile Pentium 4-M, 2666 |         128 |       20 | Windows 2000 |             |      2004-02 |
-|               |            |                          |             |          |              |             |              |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57AA.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57AA // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57AB.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57AB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57CA.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57CA // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57CB.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57CB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57FA.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57FA // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57GB.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57GB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57GA.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57GA // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH57FB.html][FMV-LIFEBOOK FMV-7000NA5/H FMVNAH57FB // INVERSENET]]
