@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       e86c7043-97fd-48d1-ab52-90b01b518510
+:END:
+#+TITLE: FMV-LifeBook NU/E
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-02
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook NU/E* -- модель корпоративных ноутбуков линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с ноября 2001 г. одновременно с другой моделью [[id:9e845bba-116c-4cab-9daf-2cbd8c5c732a][NU]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Чипсет: Intel 440ZX
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+- Видеокарта: ATI [[id:697e1375-5072-49b6-8c17-e05ba06ea29e][RAGE Mobility-M]]
+- Дисплей: 12.1" TFT SVGA 800x600
+- HDD: Ultra ATA
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Внешние интерфесы: 1 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 98 SE, ME, XP Home, XP Prof.
+- Размеры: 308 x 274 x 40 мм
+- Вес: 3.4 кг
+
+* Модификации
+
+| Название    | P/N       | Процессор:            |    Объём |    Объём | Операционная     |        Дата |  Дата начала |
+| модели      |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
+|-------------+-----------+-----------------------+----------+----------+------------------+-------------+--------------|
+| FMV-685NU/E | FMVNUETH2 | Mobile Celeron, 850   |      128 |       15 | Windows 2000     |  2001-10-25 |      2001-11 |
+| FMV-685NU/E | FMVNUETH3 | Mobile Celeron, 850   |      128 |       15 | Windows XP Prof. |  2001-10-25 |      2001-11 |
+| FMV-685NU/E | FMVNUETH6 | Mobile Celeron, 850   |       64 |       15 | Windows 98 SE    |  2001-10-25 |      2001-11 |
+| FMV-685NU/E | FMVNUETH7 | Mobile Celeron, 850   |       64 |       15 | Windows ME       |  2001-10-25 |      2001-11 |
+| FMV-685NU/E | FMVNUETH8 | Mobile Celeron, 850   |      128 |       15 | Windows XP Home  |  2001-10-25 |      2001-11 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUETH2.html][FMV-LIFEBOOK FMV-685NU/E FMVNUETH2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUETH3.html][FMV-LIFEBOOK FMV-685NU/E FMVNUETH3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUETH6.html][FMV-LIFEBOOK FMV-685NU/E FMVNUETH6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUETH7.html][FMV-LIFEBOOK FMV-685NU/E FMVNUETH7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUETH8.html][FMV-LIFEBOOK FMV-685NU/E FMVNUETH8 // INVERSENET]]

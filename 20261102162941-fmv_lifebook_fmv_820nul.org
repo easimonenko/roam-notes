@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       feca17bc-7a34-42ef-b2e2-79ffc546a9c2
+:END:
+#+TITLE: FMV-LifeBook FMV-820NUL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-02
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook FMV-820NUL* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. модель выпускалась с июня 2004 г. В октябре 2004 г. была заменена на модель [[id:4fab3394-8b85-4449-8f46-a436e919d820][FMV-830NU]] с сохранением дизайна и конструкции. Не следует путать с моделью FMV-820NUB, выпускавшейся в то же время и отличавшейся дизайном и конструкцией.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:2a12c165-0e20-47c2-b071-abb467de6bd0][Celeron M]] или [[id:492cb082-d057-4860-bf1f-22275dbb8816][Pentium M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]]
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 1024 Мб
+- Дисплей: 14.1" XGA TFT 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Внешний интерфейс: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, IrDA, PS/2
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Слоты расширения: 2 x PCMCIA Type I или II или 1 x Type III
+- Звук: AC97
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP1a, Prof. SP1a, 2000 Prof. SP4
+- Размеры: 333 x 285 x 33.2
+- Вес: 3.2 кг
+
+* Модификации
+
+| Название    | P/N        | Процессор:            |       Объём |    Объём | Операционная     |        Дата |  Дата начала |
+|             |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
+|-------------+------------+-----------------------+-------------+----------+------------------+-------------+--------------|
+| FMV-820NUL  | FMVNUL2BC3 | Celeron M 310, 1200   |         256 |       20 | Windows XP Prof. |  2004-05-10 |      2004-06 |
+| FMV-820NUL  | FMVNUL2BC8 | Celeron M 310, 1200   |         256 |       20 | Windows XP Home  |  2004-05-10 |      2004-06 |
+| FMV-820NUL  | FMVNUL2BCA | Celeron M 310, 1200   |         256 |       20 | Windows 2000     |  2004-05-10 |      2004-06 |
+| FMV-820NUL  | FMVNUL2BCB | Celeron M 310, 1200   |         256 |       20 | Windows 2000     |  2004-05-10 |      2004-06 |
+| FMV-820NULX | FMVXN2N00  | Pentium M 1.5, 1500   |         256 |       20 | Windows 2000     |  2004-05-10 |      2004-06 |
+| FMV-820NULX | FMVXN0N00  | Pentium M 1.5, 1500   |         256 |       20 | Windows XP Prof. |  2004-05-10 |      2004-06 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUL2BC3.html][FMV-LIFEBOOK NU FMV-820NUL FMVNUL2BC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUL2BC8.html][FMV-LIFEBOOK NU FMV-820NUL FMVNUL2BC8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUL2BCA.html][FMV-LIFEBOOK NU FMV-820NUL FMVNUL2BCA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUL2BCB.html][FMV-LIFEBOOK NU FMV-820NUL FMVNUL2BCB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXN2N00.html][FMV-LIFEBOOK FMV-820NULX FMVXN2N00 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXN0N00.html][FMV-LIFEBOOK FMV-820NULX FMVXN0N00 // INVERSENET]]

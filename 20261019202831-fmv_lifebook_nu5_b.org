@@ -8,7 +8,7 @@
 #+DATE: 2026-10-19
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook NU5/B* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с февраля 2004 г. и пришла на смену серии [[id:68c2919c-5e45-4de6-a0da-3a8cf2503d75][NU4/B]].
+*FMV-LifeBook NU5/B* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с февраля 2004 г. и пришла на смену модели [[id:68c2919c-5e45-4de6-a0da-3a8cf2503d75][NU4/B]] с сохранением дизайна и конструкции.
 
 * Общая спецификация
 
@@ -36,21 +36,34 @@
 
 * Модели
 
-| Название      | P/N        | Процессор:            |    Объём |    Объём | Операционная     | Дата        |  Дата начала |
-|               |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
-|---------------+------------+-----------------------+----------+----------+------------------+-------------+--------------|
-| FMV-722NU5/B  | FMV5NUBKH2 | Mobile Celeron, 2200  |      128 |       20 | Windows 2000     |             |              |
-| FMV-722NU5/B  | FMV5NUBKH3 | Mobile Celeron, 2200  |      128 |       20 | Windows XP Prof. |             |              |
-| FMV-722NU5/B  | FMV5NUBKHB | Mobile Celeron, 2200  |      128 |       20 | Windows 2000     |             |      2004-02 |
-| FMV-720NU5/BX | FMVXNC004  | Mobile Celeron, 2000  |      256 |       20 | Windows XP Home  | 2004-01-13  |   2004-01-13 |
-| FMV-722NU5/BX | FMVXND000  | Mobile Celeron, 2200  |      256 |       20 | Windows 2000     |             |              |
-| FMV-722NU5/BX | FMVXND002  | Mobile Celeron, 2200  |      256 |       20 | Windows XP Prof. |             |              |
+| Название       | P/N        | Процессор:               |    Объём |    Объём | Операционная     | Дата        |  Дата начала |
+|                |            | модель, частота (МГц)    | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
+|----------------+------------+--------------------------+----------+----------+------------------+-------------+--------------|
+| FMV-722NU5/B   | FMV5NUBKH2 | Mobile Celeron, 2200     |      128 |       20 | Windows 2000     |             |              |
+| FMV-722NU5/B   | FMV5NUBKH3 | Mobile Celeron, 2200     |      128 |       20 | Windows XP Prof. |             |              |
+| FMV-722NU5/B   | FMV5NUBKH8 | Mobile Celeron, 2200     |      128 |       20 | Windows XP Home  |             |              |
+| FMV-722NU5/B   | FMV5NUBKHA | Mobile Celeron, 2200     |      128 |       20 | Windows 2000     |             |      2004-02 |
+| FMV-722NU5/B   | FMV5NUBKHB | Mobile Celeron, 2200     |      128 |       20 | Windows 2000     |             |      2004-02 |
+| FMV-7220NU5/B  | FMV5NUB6HA | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows 2000     |             |      2004-02 |
+| FMV-7220NU5/B  | FMV5NUB6HB | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows 2000     |             |      2004-02 |
+| FMV-720NU5/BX  | FMVXNC004  | Mobile Celeron, 2000     |      256 |       20 | Windows XP Home  | 2004-01-13  |   2004-01-13 |
+| FMV-722NU5/BX  | FMVXND000  | Mobile Celeron, 2200     |      256 |       20 | Windows 2000     |             |              |
+| FMV-722NU5/BX  | FMVXND002  | Mobile Celeron, 2200     |      256 |       20 | Windows XP Prof. |             |              |
+| FMV-722NU5/BX  | FMVXND006  | Mobile Celeron, 2200     |      256 |       20 | Windows 2000     |             |      2004-02 |
+| FMV-7220NU5/BX | FMVXNM006  | Mobile Pentium 4-M, 2200 |      256 |       20 | Windows 2000     |             |      2004-02 |
+|                |            |                          |          |          |                  |             |              |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUBKH2.html][FMV-LIFEBOOK FMV-722NU5/B FMV5NUBKH2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUBKH3.html][FMV-LIFEBOOK FMV-722NU5/B FMV5NUBKH3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUBKH8.html][FMV-LIFEBOOK FMV-722NU5/B FMV5NUBKH8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUBKHA.html][FMV-LIFEBOOK FMV-722NU5/B FMV5NUBKHA // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUBKHB.html][FMV-LIFEBOOK FMV-722NU5/B FMV5NUBKHB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUB6HA.html][FMV-LIFEBOOK FMV-7220NU5/B FMV5NUB6HA // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV5NUB6HB.html][FMV-LIFEBOOK FMV-7220NU5/B FMV5NUB6HB // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNC004.html][FMV-LIFEBOOK FMV-720NU5/BX FMVXNC004 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXND000.html][FMV-LIFEBOOK FMV-722NU5/BX FMVXND000 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXND002.html][FMV-LIFEBOOK FMV-722NU5/BX FMVXND002 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXND006.html][FMV-LIFEBOOK FMV-722NU5/BX FMVXND006 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNM006.html][FMV-LIFEBOOK FMV-7220NU5/BX FMVXNM006 // INVERSENET]]

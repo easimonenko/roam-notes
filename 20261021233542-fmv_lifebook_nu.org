@@ -8,7 +8,7 @@
 #+DATE: 2026-10-21
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook NU* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия выпускалась с ноября 2001 г. и пришла на смену серии NU/L. В апреле 2002 г. была заменена на серию [[id:c68a0033-4ed7-421b-ad65-4db06a818c95][NU2]].
+*FMV-LifeBook NU* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с ноября 2001 г. и пришла на смену модели [[id:8e6ec035-722e-4e81-a610-3d2285cf094c][NU/L]], сохранив дизайн и конструкцию. В апреле 2002 г. была заменена на модель [[id:c68a0033-4ed7-421b-ad65-4db06a818c95][NU2]].
 
 * Общая спецификация
 
@@ -34,6 +34,7 @@
 | модели     |          | модель, частота (МГц)      | памяти (Мб) | HDD (Гб) | система            | презентации | производства |
 |------------+----------+----------------------------+-------------+----------+--------------------+-------------+--------------|
 | FMV-686NU  | FMVNUU16 | Mobile Celeron, 866        |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
+| FMV-686NU  | FMVNUU17 | Mobile Celeron, 866        |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
 | FMV-686NU  | FMVNUUA6 | Mobile Celeron, 866        |          64 |       15 | Windows 98 SE      |  2001-10-25 |      2001-11 |
 | FMV-686NU  | FMVNUUA7 | Mobile Celeron, 866        |          64 |       15 | Windows ME         |  2001-10-25 |      2001-11 |
 | FMV-686NU  | FMVNUUC3 | Mobile Celeron, 866        |         128 |       15 | Windows XP Prof.   |  2001-10-25 |      2001-11 |
@@ -78,6 +79,7 @@
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUU16.html][FMV-LIFEBOOK FMV-686NU FMVNUU16 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUU17.html][FMV-LIFEBOOK FMV-686NU FMVNUU17 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUUA6.html][FMV-LIFEBOOK FMV-686NU FMVNUUA6 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUUA7.html][FMV-LIFEBOOK FMV-686NU FMVNUUA7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNUUC3.html][FMV-LIFEBOOK FMV-686NU FMVNUUC3 // INVERSENET]]
