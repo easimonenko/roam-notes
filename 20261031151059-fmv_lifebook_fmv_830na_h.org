@@ -24,23 +24,28 @@
 - Дисковод FDD
 - Сеть: Ethernet 1000BASE-T/100BASE-TX/10-BASE-T
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
-- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, COM, LPT, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], PS/2, IrDA
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, COM, LPT, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], PS/2, IrDA
 - Операционная система: Windows 2000 Prof. SP4, XP Prof.
 - Размеры: 329 x 299 x 44.5 мм
 - Вес: 3.9 кг
 
 * Модели
 
-| Название    | P/N        | Процессор:                 |    Объём |    Объём | Операционная     |        Дата |  Дата начала |
+| Название    | P/N        | Процессор:                 |    Объём | Объём    | Операционная     |        Дата |  Дата начала |
 |             |            | модель, частота (МГц)      | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
 |-------------+------------+----------------------------+----------+----------+------------------+-------------+--------------|
-| FMV-830NA/H | FMVNAH32CB | Mobile Pentium 4 532, 3066 |      256 |       40 | Windows 2000     |  2004-10-14 |      2004-10 |
-| FMV-830NA/H | FMVNAH32GB | Mobile Pentium 4 532, 3066 |      256 |       40 | Windows 2000     |  2004-10-14 |      2004-10 |
-| FMV-830NA/H | FMVNAH32C3 | Mobile Pentium 4 532, 3066 |      256 |       40 | Windows XP Prof. |  2004-10-14 |      2004-10 |
-|             |            |                            |          |          |                  |             |              |
+| FMV-830NA/H | FMVNAH32A3 | Mobile Pentium 4 532, 3066 |      256 | 40 x 2   | Windows XP Prof. |  2004-10-14 |      2004-10 |
+| FMV-830NA/H | FMVNAH32AB | Mobile Pentium 4 532, 3066 |      256 | 40       | Windows 2000     |  2004-10-14 |      2004-10 |
+| FMV-830NA/H | FMVNAH32C3 | Mobile Pentium 4 532, 3066 |      256 | 40 x 2   | Windows XP Prof. |  2004-10-14 |      2004-10 |
+| FMV-830NA/H | FMVNAH32CB | Mobile Pentium 4 532, 3066 |      256 | 40       | Windows 2000     |  2004-10-14 |      2004-10 |
+| FMV-830NA/H | FMVNAH32G3 | Mobile Pentium 4 532, 3066 |      256 | 40 x 2   | Windows XP Prof. |  2004-10-14 |      2004-10 |
+| FMV-830NA/H | FMVNAH32GB | Mobile Pentium 4 532, 3066 |      256 | 40       | Windows 2000     |  2004-10-14 |      2004-10 |
 
 * Resources
 
-- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32CB.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32CB // INVERSENET]]
-- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32GB.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32GB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32A3.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32A3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32AB.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32AB // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32C3.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32C3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32CB.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32CB // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32G3.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32G3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNAH32GB.html][FMV-LIFEBOOK FMV-830NA/H FMVNAH32GB // INVERSENET]]

@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       92bbf454-48b0-46c9-ade3-b25f9d69c63a
+:END:
+#+TITLE: FMV-LifeBook E8x20
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-03
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook E8x20* -- второе поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Модель родственна модели E8020 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]]. Выпускалась с мая 2006 г. и пришла на смену моделям [[id:83f58124-35f9-4b2a-97f3-be647f2ff004][E8x10]] с сохранением дизайна и конструкции.
+
+* Общая спецификация
+
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows XP Home SP2, XP Prof. SP2
+- Размеры: 333 x 285 x 32.8 мм
+
+** С процессором Celeron M
+
+- Процессор: Intel [[id:8ca59fb2-28e9-4b14-b7d3-e31c4606d86f][Celeron M]]
+- Чипсет: Intel [[id:7b385105-e66e-437a-8523-b393eb9c907a][910GML]] с Celeron M
+- Память:
+  - тип: PC2-3200
+  - максимальный объём: 2048 Мб
+- Дисплей: 14.1" XGA 1024x768
+- Вес: 2.7 кг
+
+** С процессором Core Duo
+
+- Процессор: Intel [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]]
+- Чипсет: Intel 945GM с Core Duo
+- Память:
+  - тип: PC2-5300
+  - максимальный объём: 4096 Мб
+- Дисплей: 15.1" XGA 1024x768
+- Вес: 2.9 кг
+
+* Модели
+
+| Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|-----------+-----------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| FMV-E8120 | FMVNE3XA3 | Celeron M 380, 1600   |      256 |       40 |  14.1 | Windows XP Prof. |  2006-04-13 |      2006-05 |
+| FMV-E8120 | FMVNE3XA8 | Celeron M 380, 1600   |      256 |       40 |  14.1 | Windows XP Home  |  2006-04-13 |      2006-05 |
+| FMV-E8120 | FMVNE3XC3 | Celeron M 380, 1600   |      256 |       40 |  14.1 | Windows XP Prof. |  2006-04-13 |      2006-05 |
+| FMV-E8120 | FMVNE3XC8 | Celeron M 380, 1600   |      256 |       40 |  14.1 | Windows XP Home  |  2006-04-13 |      2006-05 |
+| FMV-E8220 | FMVNE3KD3 | Core Duo T2300, 1667  |      256 |       40 |  15.1 | Windows XP Prof. |  2006-04-13 |      2006-05 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE3XA3.html][FMV-LIFEBOOK E FMV-E8120 FMVNE3XA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE3XA8.html][FMV-LIFEBOOK E FMV-E8120 FMVNE3XA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE3XC3.html][FMV-LIFEBOOK E FMV-E8120 FMVNE3XC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE3XC8.html][FMV-LIFEBOOK E FMV-E8120 FMVNE3XC8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE3KD3.html][FMV-LIFEBOOK E FMV-E8220 FMVNE3KD3 // INVERSENET]]

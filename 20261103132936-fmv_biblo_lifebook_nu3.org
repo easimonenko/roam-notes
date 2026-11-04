@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       cbd1d5c4-3d36-40d9-925a-1768001857d9
+:END:
+#+TITLE: FMV-Biblo LifeBook NU3
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-03
+#+FILETAGS: :fujitsu:fmv-biblo-lifebook:
+
+*FMV-Biblo LifeBook NU3* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:67e60873-aba2-4579-af12-ce880dcd5843][NU]] марки [[id:2f6553a9-c192-44dd-b8cb-55f5ca05bec4][FMV-Biblo LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с февраля 1999 г. и пришла на смену модели [[id:04663a34-f567-4823-8ef4-ccf69e26e146][NU2]] с сохранением дизайна и конструкции. В июне 1999 г. была заменена на модель [[id:91b016ff-a73c-4678-b3e1-5735a60ed27e][NU4]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:f6fc2fe4-f485-4921-b3c5-f2a8f9a16c3a][Mobile Pentium II]]
+- Чипсет: Intel [[id:c166c17b-66d0-4b1b-88ce-46a3254771b3][440DX]]
+- Память:
+  - тип: SDRAM ECC
+  - максимальный объём: 96 Мб
+- Видеокарта: Trident Cyber 9388
+- Дисплей: 13.3" XGA (с буквой X) или 12.1" SVGA (с буквой W)
+- HDD: Ultra ATA
+- CD-проигрыватель: отсутствовал
+- Дисковод FDD
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 1, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: Windows 95, 98, NT 4.0
+- Размеры: 309 (с индексом X) / 310 (с индексом W) x 248 x 49 мм
+- Вес: 3.1 кг
+
+* Модификации
+
+| Название      | P/N        | Процессор:                |    Объём |    Объём | Диаг. | Операционная   |        Дата |  Дата начала |
+|               |            | модель, частота (МГц)     | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
+|---------------+------------+---------------------------+----------+----------+-------+----------------+-------------+--------------|
+| FMV-6266NU3/W | FMV3NU7WB0 | Mobile Pentium II PE, 266 |       32 |      3.2 |  12.1 | Windows NT 4.0 |  1999-01-27 |      1999-02 |
+| FMV-6266NU3/W | FMV3NU7WB5 | Mobile Pentium II PE, 266 |       32 |      3.2 |  12.1 | Windows 95     |  1999-01-27 |      1999-02 |
+| FMV-6266NU3/W | FMV3NU7WB6 | Mobile Pentium II PE, 266 |       32 |      3.2 |  12.1 | Windows 98     |  1999-01-27 |      1999-02 |
+| FMV-6266NU3/X | FMV3NU7XB5 | Mobile Pentium II PE, 266 |       32 |      4.3 |  13.3 | Windows 95     |  1999-01-27 |      1999-02 |
+| FMV-6266NU3/X | FMV3NU7XB6 | Mobile Pentium II PE, 266 |       32 |      4.3 |  13.3 | Windows 98     |  1999-01-27 |      1999-02 |
+| FMV-6300NU3/X | FMV3NU8XB5 | Mobile Pentium II PE, 300 |       32 |      4.3 |  13.3 | Windows 95     |  1999-01-27 |      1999-02 |
+| FMV-6300NU3/X | FMV3NU8XB6 | Mobile Pentium II PE, 300 |       32 |      4.3 |  13.3 | Windows 98     |  1999-01-27 |      1999-02 |
+|               |            |                           |          |          |       |                |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU7WB0.html][FMV-BIBLO LIFEBOOK FMV-6266NU3/W FMV3NU7WB0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU7WB5.html][FMV-BIBLO LIFEBOOK FMV-6266NU3/W FMV3NU7WB5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU7WB6.html][FMV-BIBLO LIFEBOOK FMV-6266NU3/W FMV3NU7WB6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU7XB5.html][FMV-BIBLO LIFEBOOK FMV-6266NU3/X FMV3NU7XB5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU7XB6.html][FMV-BIBLO LIFEBOOK FMV-6266NU3/X FMV3NU7XB6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU8XB5.html][FMV-BIBLO LIFEBOOK FMV-6300NU3/X FMV3NU8XB5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU8XB6.html][FMV-BIBLO LIFEBOOK FMV-6300NU3/X FMV3NU8XB6 // INVERSENET]]
