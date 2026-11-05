@@ -35,26 +35,49 @@
 
 * Модели
 
-| Название    | P/N       | Процессор:               |    Объём |    Объём | Операционная    |        Дата |  Дата начала |
-| модели      |           | модель, частота (МГц)    | RAM (Мб) | HDD (Гб) | система         | презентации | производства |
-|-------------+-----------+--------------------------+----------+----------+-----------------+-------------+--------------|
-| FMV-7160NU3 | FMV3NU1C8 | Mobile Pentium 4-M, 1600 |      128 |       20 | Windows XP Home |  2002-10-09 |      2002-10 |
-| FMV-7170NU3 | FMV3NU317 | Mobile Pentium 4-M, 1700 |      128 |       20 | Windows ME      |  2003-01-15 |      2003-01 |
-| FMV-716NU3  | FMV3NUF12 | Mobile Celeron, 1600     |      128 |       20 | Windows 2000    |  2003-01-15 |      2003-01 |
-| FMV-716NU3  | FMV3NUF17 | Mobile Celeron, 1600     |      128 |       20 | Windows ME      |  2003-01-15 |      2003-01 |
-| FMV-716NU3  | FMV3NUF18 | Mobile Celeron, 1600     |      128 |       20 | Windows XP Home |  2003-01-15 |      2003-01 |
-| FMV-716NU3  | FMV3NUFA2 | Mobile Celeron, 1600     |      128 |       20 | Windows 2000    |  2003-01-15 |      2003-01 |
-| FMV-716NU3  | FMV3NUFA7 | Mobile Celeron, 1600     |      128 |       20 | Windows ME      |  2003-01-15 |      2003-01 |
-| FMV-716NU3  | FMV3NUFA8 | Mobile Celeron, 1600     |      128 |       20 | Windows XP Home |  2003-01-15 |      2003-01 |
-|             |           |                          |          |          |                 |             |              |
+| Название    | P/N       | Процессор:               |    Объём |    Объём | Операционная     |        Дата |  Дата начала |
+| модели      |           | модель, частота (МГц)    | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
+|-------------+-----------+--------------------------+----------+----------+------------------+-------------+--------------|
+| FMV-7160NU3 | FMV3NU117 | Mobile Pentium 4-M, 1600 |      128 |       20 | Windows ME       |  2002-10-09 |      2002-10 |
+| FMV-7160NU3 | FMV3NU118 | Mobile Pentium 4-M, 1600 |      128 |       20 | Windows XP Home  |  2002-10-09 |      2002-10 |
+| FMV-7160NU3 | FMV3NU1C8 | Mobile Pentium 4-M, 1600 |      128 |       20 | Windows XP Home  |  2002-10-09 |      2002-10 |
+| FMV-7160NU3 | FMV3NU1A7 | Mobile Pentium 4-M, 1600 |      128 |       20 | Windows ME       |  2002-10-09 |      2002-10 |
+| FMV-715NU3  | FMV3NUE33 | Mobile Celeron, 1500     |      128 |       20 | Windows XP Prof. |  2002-10-09 |      2002-10 |
+| FMV-715NU3  | FMV3NUEC2 | Mobile Celeron, 1500     |      128 |       20 | Windows 2000     |  2002-10-09 |      2002-10 |
+| FMV-715NU3  | FMV3NUEC3 | Mobile Celeron, 1500     |      128 |       20 | Windows XP Prof. |  2002-10-09 |      2002-10 |
+| FMV-7170NU3 | FMV3NU317 | Mobile Pentium 4-M, 1700 |      128 |       20 | Windows ME       |  2003-01-15 |      2003-01 |
+| FMV-7170NU3 | FMV3NU318 | Mobile Pentium 4-M, 1700 |      128 |       20 | Windows XP Home  |  2003-01-15 |      2003-01 |
+| FMV-7170NU3 | FMV3NU3A7 | Mobile Pentium 4-M, 1700 |      128 |       20 | Windows ME       |  2003-01-15 |      2003-01 |
+| FMV-7170NU3 | FMV3NU3A8 | Mobile Pentium 4-M, 1700 |      128 |       20 | Windows XP Home  |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUF12 | Mobile Celeron, 1600     |      128 |       20 | Windows 2000     |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUF17 | Mobile Celeron, 1600     |      128 |       20 | Windows ME       |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUF18 | Mobile Celeron, 1600     |      128 |       20 | Windows XP Home  |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUF33 | Mobile Celeron, 1600     |      128 |       20 | Windows XP Prof. |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUFA2 | Mobile Celeron, 1600     |      128 |       20 | Windows 2000     |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUFA7 | Mobile Celeron, 1600     |      128 |       20 | Windows ME       |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUFA8 | Mobile Celeron, 1600     |      128 |       20 | Windows XP Home  |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUFC2 | Mobile Celeron, 1600     |      128 |       20 | Windows 2000     |  2003-01-15 |      2003-01 |
+| FMV-716NU3  | FMV3NUFC3 | Mobile Celeron, 1600     |      128 |       20 | Windows XP Prof. |  2003-01-15 |      2003-01 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU117.html][FMV-LIFEBOOK FMV-7160NU3 FMV3NU117 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU118.html][FMV-LIFEBOOK FMV-7160NU3 FMV3NU118 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU1C8.html][FMV-LIFEBOOK FMV-7160NU3 FMV3NU1C8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU1A7.html][FMV-LIFEBOOK FMV-7160NU3 FMV3NU1A7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUE33.html][FMV-LIFEBOOK FMV-715NU3 FMV3NUE33 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUEC2.html][FMV-LIFEBOOK FMV-715NU3 FMV3NUEC2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUEC3.html][FMV-LIFEBOOK FMV-715NU3 FMV3NUEC3 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU317.html][FMV-LIFEBOOK FMV-7170NU3 FMV3NU317 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU318.html][FMV-LIFEBOOK FMV-7170NU3 FMV3NU318 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU3A7.html][FMV-LIFEBOOK FMV-7170NU3 FMV3NU3A7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NU3A8.html][FMV-LIFEBOOK FMV-7170NU3 FMV3NU3A8 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUF12.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUF12 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUF17.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUF17 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUF18.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUF18 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUF33.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUF33 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUFA2.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUFA2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUFA7.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUFA7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUFA8.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUFA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUFC2.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUFC2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV3NUFC3.html][FMV-LIFEBOOK FMV-716NU3 FMV3NUFC3 // INVERSENET]]

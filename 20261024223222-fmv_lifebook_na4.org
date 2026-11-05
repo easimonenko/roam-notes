@@ -8,7 +8,7 @@
 #+DATE: 2026-10-24
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook NA4* -- серия корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с апреля 2003 г. и пришла на смену серии [[id:9994f281-1416-40ca-87ca-dd5b46946327][NA3]].
+*FMV-LifeBook NA4* -- модель корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:b186ff6d-e8ad-4482-bd5f-aed61254d22b][NA]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с апреля 2003 г. и пришла на смену серии [[id:9994f281-1416-40ca-87ca-dd5b46946327][NA3]]. В феврале 2004 г. была заменена на модель [[id:f13c0748-eee0-49bc-8b2e-674d7066f62f][NA5]].
 
 * Общая спецификация
 
@@ -26,20 +26,30 @@
 - CD-проигрыватель: CD-ROM
 - Дисковод FDD
 - Сеть: Ethernet 100BASE-TX/10BASE-T
-- Внешние интерфесы: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]], [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Внешние интерфесы: 4 x [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Внешний дисплей: UXGA 1600x1200
-- Операционная система: Windows ME, 2000 Prof.
+- Операционная система: Windows ME, 2000 Prof. SP3, XP Prof. SP1a
 - Размеры: 318 x 269.5 x 45.1 мм
 - Вес: 3.0 кг
 
 * Модели
 
-| Название    | P/N       | Процессор:               | Объём       | Объём    | Операционная     | Дата        | Дата начала  |
-| модели      |           | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
-|-------------+-----------+--------------------------+-------------+----------+------------------+-------------+--------------|
-| FMV-7000NA4 | FMVNA46C3 | Mobile Pentium 4-M, 2200 | 128         | 20       | Windows XP Prof. | 2003-04-17  | 2003-04      |
+| Название    | P/N       | Процессор:               |    Объём |    Объём | Операционная     |        Дата |  Дата начала |
+| модели      |           | модель, частота (МГц)    | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
+|-------------+-----------+--------------------------+----------+----------+------------------+-------------+--------------|
+| FMV-7000NA4 | FMVNA46A2 | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows 2000     |  2003-04-17 |      2003-04 |
+| FMV-7000NA4 | FMVNA46A3 | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
+| FMV-7000NA4 | FMVNA46A7 | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows ME       |  2003-04-17 |      2003-05 |
+| FMV-7000NA4 | FMVNA46C2 | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows 2000     |  2003-04-17 |      2003-04 |
+| FMV-7000NA4 | FMVNA46C3 | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
+| FMV-7000NA4 | FMVNA46C7 | Mobile Pentium 4-M, 2200 |      128 |       20 | Windows ME       |  2003-04-17 |      2003-05 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA46A2.html][FMV-LIFEBOOK FMV-7000NA4 FMVNA46A2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA46A3.html][FMV-LIFEBOOK FMV-7000NA4 FMVNA46A3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA46A7.html][FMV-LIFEBOOK FMV-7000NA4 FMVNA46A7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA46C2.html][FMV-LIFEBOOK FMV-7000NA4 FMVNA46C2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA46C3.html][FMV-LIFEBOOK FMV-7000NA4 FMVNA46C3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNA46C7.html][FMV-LIFEBOOK FMV-7000NA4 FMVNA46C7 // INVERSENET]]

@@ -39,28 +39,37 @@
 | модели      |           | модель, частота (МГц)    | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
 |-------------+-----------+--------------------------+-------------+----------+------------------+-------------+--------------|
 | FMV-718NU4  | FMV4NUHA2 | Mobile Celeron, 1800     |         128 |       20 | Windows 2000     |  2003-04-17 |      2003-04 |
+| FMV-718NU4  | FMV4NUHA3 | Mobile Celeron, 1800     |         128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
+| FMV-718NU4  | FMV4NUHA7 | Mobile Celeron, 1800     |         128 |       20 | Windows ME       |  2003-04-17 |      2003-05 |
 | FMV-718NU4  | FMV4NUHA8 | Mobile Celeron, 1800     |         128 |       20 | Windows XP Home  |  2003-04-17 |      2003-04 |
+| FMV-718NU4  | FMV4NUHC2 | Mobile Celeron, 1800     |         128 |       20 | Windows 2000     |  2003-04-17 |      2003-04 |
 | FMV-718NU4  | FMV4NUHC3 | Mobile Celeron, 1800     |         128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
 | FMV-718NU4  | FMV4NUHC7 | Mobile Celeron, 1800     |         128 |       20 | Windows ME       |  2003-04-17 |      2003-05 |
 | FMV-718NU4  | FMV4NUHC8 | Mobile Celeron, 1800     |         128 |       20 | Windows XP Home  |  2003-04-17 |      2003-04 |
 | FMV-7190NU4 | FMV4NU4A2 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows 2000     |  2003-04-17 |      2003-04 |
 | FMV-7190NU4 | FMV4NU4A3 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
+| FMV-7190NU4 | FMV4NU4A7 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows ME       |  2003-04-17 |      2003-05 |
 | FMV-7190NU4 | FMV4NU4A8 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows XP Home  |  2003-04-17 |      2003-04 |
 | FMV-7190NU4 | FMV4NU4C2 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows 2000     |  2003-04-17 |      2003-04 |
 | FMV-7190NU4 | FMV4NU4C3 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows XP Prof. |  2003-04-17 |      2003-04 |
+| FMV-7190NU4 | FMV4NU4C7 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows ME       |  2003-04-17 |      2003-05 |
 | FMV-7190NU4 | FMV4NU4C8 | Mobile Pentium 4-M, 1900 |         128 |       20 | Windows XP Home  |  2003-04-17 |      2003-04 |
-|             |           |                          |             |          |                  |             |              |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHA2.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHA2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHA3.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHA7.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHA7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHA8.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHC2.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHC2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHC3.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHC3 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHC7.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHC7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NUHC8.html][FMV-LIFEBOOK FMV-718NU4 FMV4NUHC8 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4A2.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4A2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4A3.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4A3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4A7.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4A7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4A8.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4A8 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4C2.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4C2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4C3.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4C3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4C7.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4C7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV4NU4C8.html][FMV-LIFEBOOK FMV-7190NU4 FMV4NU4C8 // INVERSENET]]

@@ -25,7 +25,7 @@
 - Сеть: Ethernet 100BASE-TX/10BASE-T
 - Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
 - Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
-- Операционная система: Windows ME или 98 SE
+- Операционная система: Windows ME, 98 SE, NT 4.0, 2000 Prof.
 - Размеры: 318 x 268 x 46 мм
 - Вес: 3.3 кг
 
@@ -35,30 +35,37 @@
 |              |            | модель, частота (МГц)   | RAM (Мб) | HDD (Гб) | дисп. | система        | презентации | производства |
 |--------------+------------+-------------------------+----------+----------+-------+----------------+-------------+--------------|
 | FMV-6000NU/L | FMVNU1L210 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows NT 4.0 |  2001-04-16 |      2001-05 |
+| FMV-6000NU/L | FMVNU1L212 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 2000   |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L216 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 98     |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L217 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows ME     |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L230 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows NT 4.0 |  2001-04-16 |      2001-05 |
+| FMV-6000NU/L | FMVNU1L232 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 2000   |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L236 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 98     |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L237 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows ME     |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L2A0 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows NT 4.0 |  2001-04-16 |      2001-05 |
+| FMV-6000NU/L | FMVNU1L2A2 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 2000   |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L2A6 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 98     |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L2A7 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows ME     |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L2C0 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows NT 4.0 |  2001-04-16 |      2001-05 |
+| FMV-6000NU/L | FMVNU1L2C2 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 2000   |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L2C6 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows 98     |  2001-04-16 |      2001-05 |
 | FMV-6000NU/L | FMVNU1L2C7 | Mobile Pentium III, 750 |       64 |       10 |  14.1 | Windows ME     |  2001-04-16 |      2001-05 |
-|              |            |                         |          |          |       |                |             |              |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L210.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L210 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L212.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L212 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L216.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L216 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L217.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L217 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L230.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L230 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L232.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L232 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L236.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L236 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L237.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L237 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2A0.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2A0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2A2.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2A2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2A6.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2A6 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2A7.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2A7 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2C0.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2C0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2C2.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2C2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2C6.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2C6 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNU1L2C7.html][FMV-BIBLO LIFEBOOK FMV-6000NU/L FMVNU1L2C7 // INVERSENET]]

@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       93c62230-d541-430a-aa00-26276bd2e806
+:END:
+#+TITLE: FMV-Biblo MGxxE
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-04
+#+FILETAGS:  :fujitsu:fmv-biblo:
+
+*FMV-Biblo MGxxE*  -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:0831976b-d826-4419-9adf-87f29561092f][MG]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с сентября 2003 г. и пришла на смену модели [[id:5797c10c-507c-4807-a9f0-e21406b4bb27][MGxxD]]. Включала в себя две модели: с 13.3" и 15.1" дисплеем. Модель с 15.1" дисплеем родственна модели C1110 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
+
+* Общая спецификация
+
+- Память:
+  - объём: 256 Мб
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+- HDD: Ultra ATA/100
+- CD-проигрыватель: DVD-ROM + CD-RW или DVD-RAM/RW
+- FDD: внешний (опционально)
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+  - модем V.92 56K
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 2, IrDA, FireWire S400
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Card Reader: SD
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP1a, XP Prof. SP1a
+
+** С процессором Intel Mobile Celeron
+
+- Процессор: Intel [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
+- Память:
+  - тип: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]]
+  - максимальный объём: 1024 Мб
+- Чипсет:
+  - северный мост: Intel [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]]
+- Дисплей: 13.3" XGA TFT 1024x768
+- Размеры: 293 x 236.5 x 29.5
+- Вес: 1.7 кг
+
+** С процессором Intel Pentium M
+
+- Процессор: Intel [[id:492cb082-d057-4860-bf1f-22275dbb8816][Pentium M]] с ядром [[id:2839dd25-6e6f-4df9-91b0-76c42860f8db][Banias]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]]
+  - максимальный объём: 2048 Мб
+- Чипсет:
+  - северный мост: Intel [[id:881ef932-4626-4621-a2cd-0ba8264996eb][855GM]]
+- Сеть:
+  - WiFi b/g
+
+*** С дисплеем 13.3"
+
+- Дисплей: 13.3" XGA TFT 1024x768
+- Размеры: 293 x 236.5 x 31.5
+- Вес: 1.75 кг
+
+*** С дисплеем 15.1"
+
+- Дисплей: 15.1" XGA 1024x768
+- Сеть:
+  - WiFi b
+- Размеры: 325.5 x 272.5 x 36.5 мм
+- Вес: 2.75 кг
+
+* Модели
+
+| Название | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+| модели   |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|----------+------------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| MG50E    | FMVMG50E   | Mobile Celeron, 1333  |      256 |       40 |  13.3 | Windows XP Home  |  2003-09-24 |   2003-09-27 |
+| MG55E    | FMVMG55E   | Pentium M 1.4, 1400   |      256 |       40 |  13.3 | Windows XP Home  |  2003-09-24 |   2003-10-04 |
+| MG70E    | FMVMG70E   | Pentium M 1.4, 1400   |      512 |       60 |  13.3 | Windows XP Prof. |  2003-09-24 |   2003-10-04 |
+| MG70E/ST | FMVMG70EST | Pentium M 1.4, 1400   |      512 |       60 |  13.3 | Windows XP Prof. |  2003-09-24 |   2003-10-18 |
+| MG75E    | FMVMG75E   | Pentium M 1.4, 1400   |      256 |       60 |  15.1 | Windows XP Prof. |  2003-09-24 |   2003-10-11 |
+
+Модификация с суффиксом T оснащана поддержкой телевидения.
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50E.html][FMV-BIBLO MG50E FMVMG50E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG55E.html][FMV-BIBLO MG55E FMVMG55E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70E.html][FMV-BIBLO MG70E FMVMG70E // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG70EST.html][FMV-BIBLO MG70E/ST FMVMG70EST // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG75E.html][FMV-BIBLO MG75E FMVMG75E // INVERSENET]]

@@ -8,23 +8,48 @@
 #+DATE: 2026-10-04
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo NBxxC* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:fb5cfdea-19ea-4467-a4c7-7587daaf67c2][NB]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену серии [[id:17077953-9cb5-46b0-b843-89abb83fb3fe][NBxxB]] и предшествовала серии [[id:c760d8c1-0ea1-404c-b8e1-7e35d88a0538][NBxxD]].
+*FMV-Biblo NBxxC* -- серия домашних [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:fb5cfdea-19ea-4467-a4c7-7587daaf67c2][NB]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с января 2003 г. и пришла на смену серии [[id:17077953-9cb5-46b0-b843-89abb83fb3fe][NBxxB]]. В мае 2003 г. была заменена на модель [[id:c760d8c1-0ea1-404c-b8e1-7e35d88a0538][NBxxD]].
 
 * Общая спецификация
 
 - Процессор: Intel [[id:99901151-0933-415d-98a1-925c29b13522][Mobile Celeron]] с ядром [[id:c6654eb1-2f7b-4331-a714-be146bc90e39][Northwood]]
+- Чипсет:
+  - северный мост:  ATI [[id:26fa508f-ecf7-4f3f-bb4d-3ce2bfe29107][Radeon IGP]]
+  - южный мост:  ALi [[id:eef07e5c-e936-4430-9535-c7b046238a79][M1535+]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]]
+  - объём: 256 Мб на плате
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1 до 512 Мб
+  - максимальный объём: 768 Мб
+- Видеокарта: ATI Radeon IGP [[id:4ee034cb-e18c-4c8b-b3b6-a6ddddc1909f][340M]]
+- Дисплей: 14" XGA или 15" XGA 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-RW или DVD-ROM + CD-RW
+- Дисковод FDD
+- Сеть:
+  - Ethernet: 100BASE-TX/10BASE-T
+  - Модем: V.92 56K
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], LPT, FireWire S400
+- Слоты расширения: PCMCIA 2 x Type I или II или 1 x Type III
+- Card Reader: SD
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Prof.
 - Размеры: 325.3 x 282 x 39.1
 - Вес: 3.5 кг
 
 * Модели
 
-| Название | P/N        | Процессор:            |       Объём |    Объём |        Дата |  Дата начала |
-| модели   |            | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | презентации | производства |
-|----------+------------+-----------------------+-------------+----------+-------------+--------------|
-| NB16C/T  | FMVNB16CT  | Mobile Celeron, 1600  |         256 |       40 |  2003-01-15 |   2003-01-18 |
-| NB16C/ST | FMVNB16CST | Mobile Celeron, 1600  |         256 |       40 |  2003-01-15 |   2003-02-22 |
+| Название | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+| модели   |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|----------+------------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| NB16C/R  | FMVNB16CR  | Mobile Celeron, 1600  |      256 |       30 |  14.1 | Windows XP Home  |  2003-01-15 |   2003-01-18 |
+| NB16C/R  | FMVNB16CRP | Mobile Celeron, 1600  |      256 |       30 |  14.1 | Windows XP Prof. |  2003-01-15 |   2003-01-25 |
+| NB16C/T  | FMVNB16CT  | Mobile Celeron, 1600  |      256 |       40 |  15.1 | Windows XP Home  |  2003-01-15 |   2003-01-18 |
+| NB16C/ST | FMVNB16CST | Mobile Celeron, 1600  |      256 |       40 |  15.1 | Windows XP Home  |  2003-01-15 |   2003-02-22 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB16CR.html][FMV-BIBLO NB16C/R FMVNB16CR // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB16CRP.html][FMV-BIBLO NB16C/R FMVNB16CRP // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB16CT.html][FMV-BIBLO NB16C/T FMVNB16CT // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB16CST.html][FMV-BIBLO NB16C/ST FMVNB16CST // INVERSENET]]

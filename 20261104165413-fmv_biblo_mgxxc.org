@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       cbb575cc-8002-4efc-8608-2391272a7959
+:END:
+#+TITLE: FMV-Biblo MGxxC
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-04
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MGxxC* -- модель компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:0831976b-d826-4419-9adf-87f29561092f][MG]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с января 2003 г. и пришла на смену модели [[id:5bdbf187-a237-4635-a65c-94eb57c9895a][MGxxB]]. В мае 2003 г. была заменена на модель [[id:5797c10c-507c-4807-a9f0-e21406b4bb27][MGxxD]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] или [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
+- Чипсет: Intel [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]]
+- Память:
+  - тип: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]]
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 1024 Мб
+- Дисплей: 13.3" XGA 1024x768
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][интегрированная]]
+- HDD: Ultra ATA/100
+- CD-проигрыватель: DVD-RAM/RW или DVD-ROM + CD-RW
+- FDD: внешний (опционально)
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+  - модем V.92 56K
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 3, FireWire S400
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP1 или Windows XP Prof. SP1
+- Размеры: 293 x 236.5 x 29.5-31.5 мм
+- Вес: 1.7 кг
+
+* Модификации
+
+| Название | P/N        | Процессор:                 |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+| модели   |            | модель, частота (МГц)      | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|----------+------------+----------------------------+----------+----------+-------+------------------+-------------+--------------|
+| MG12C    | FMVMG12C   | Mobile Celeron, 1200       |      256 |       30 |  13.3 | Windows XP Home  |  2003-01-15 |   2003-01-18 |
+| MG12C/M  | FMVMG12CMP | Mobile Pentium III-M, 1200 |      256 |       60 |  13.3 | Windows XP Prof. |  2003-01-15 |   2003-01-25 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG12C.html][FMV-BIBLO MG12C FMVMG12C // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG12CMP.html][FMV-BIBLO MG12C/M FMVMG12CMP // INVERSENET]]
