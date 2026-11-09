@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ID:       5f34e97d-ff93-4c13-80d2-b0bf2ad88766
+:END:
+#+TITLE: FMV-Biblo NL
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-07
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NL* -- серия [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки NL марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с ноября 1995 г. и сменила несколько поколений при сохранении дизайна и конструкции.
+
+* Общая спецификация
+
+- Процессор: AMD Am486DX4 или Intel [[id:b86d5077-03d9-4705-ba92-192ea6f4064e][Pentium]]
+- Память:
+  - максимальный объём: 24 или 32 Мб
+- Видеокарта: CT65545 или CT65548
+- Дисплей: 10.4 " TFT или DSTN
+- CD-проигрыватель: отсутствовал
+- Дисковод FDD
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Операционная система: MS-DOS 6.2 + Windows 3.1 или Windows 95
+- Размеры: 260 x  210 x 48 мм
+- Вес: 2.1-2.2 кг
+
+* Модели
+
+| Название     | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная | Дата        |  Дата начала |
+|              |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система      | презентации | производства |
+|--------------+------------+-----------------------+----------+----------+-------+--------------+-------------+--------------|
+| FMV-4100NL/S | FMV41NLSS1 | Am486DX4, 100         |        8 |      540 |  10.4 | Windows 95   |             |      1995-11 |
+| FMV-4100NL/S | FMV41NLSS2 | Am486DX4, 100         |        8 |      540 |  10.4 | Windows 95   |             |      1995-11 |
+| FMV-4100NL/S | FMV41NLSS3 | Am486DX4, 100         |        8 |      540 |  10.4 | Windows 95   |             |      1995-11 |
+| FMV-4100NL/T | FMV41NLTS1 | Am486DX4, 100         |        8 |      540 |  10.4 | Windows 95   |             |      1995-11 |
+| FMV-4100NL/T | FMV41NLTS2 | Am486DX4, 100         |        8 |      540 |  10.4 | Windows 95   |             |      1995-11 |
+| FMV-4100NL/T | FMV41NLTS3 | Am486DX4, 100         |        8 |      540 |  10.4 | Windows 95   |             |      1995-11 |
+| FMV-575NL/S  | FMV57NLSH1 | Pentium, 75           |        8 |      810 |  10.4 | Windows 3.1  |             |      1996-02 |
+| FMV-575NL/S  | FMV57NLSH5 | Pentium, 75           |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-575NL/S  | FMV57NLSS1 | Pentium, 75           |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-575NL/S  | FMV57NLSS2 | Pentium, 75           |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-575NL/S  | FMV57NLSS3 | Pentium, 75           |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-5100NL/T | FMV50NLTH1 | Pentium, 100          |        8 |      810 |  10.4 | Windows 3.1  |             |      1996-02 |
+| FMV-5100NL/T | FMV50NLTH5 | Pentium, 100          |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-5100NL/T | FMV50NLTS1 | Pentium, 100          |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-5100NL/T | FMV50NLTS2 | Pentium, 100          |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-5100NL/T | FMV50NLTS3 | Pentium, 100          |        8 |      810 |  10.4 | Windows 95   |             |      1996-02 |
+| FMV-5100NL/Y | FMV50NLYH1 | Pentium, 100          |       16 |      810 |  10.4 | Windows 3.1  |             |      1996-06 |
+| FMV-5100NL/Y | FMV50NLYH5 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+| FMV-5100NL/Y | FMV50NLYS1 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+| FMV-5100NL/Y | FMV50NLYS2 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+| FMV-5100NL/Y | FMV50NLYS3 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+| FMV-5100NL/W | FMV50NLWH1 | Pentium, 100          |       16 |      810 |  10.4 | Windows 3.1  |             |      1996-06 |
+| FMV-5100NL/W | FMV50NLWH5 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+| FMV-5100NL/W | FMV50NLWS1 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+| FMV-5100NL/W | FMV50NLWS2 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+| FMV-5100NL/W | FMV50NLWS3 | Pentium, 100          |       16 |      810 |  10.4 | Windows 95   |             |      1996-06 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV41NLSS1.html][FMV-BIBLO FMV-4100NL/S FMV41NLSS1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV41NLSS2.html][FMV-BIBLO FMV-4100NL/S FMV41NLSS2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV41NLSS3.html][FMV-BIBLO FMV-4100NL/S FMV41NLSS3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV41NLTS1.html][FMV-BIBLO FMV-4100NL/T FMV41NLTS1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV41NLTS2.html][FMV-BIBLO FMV-4100NL/T FMV41NLTS2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV41NLTS3.html][FMV-BIBLO FMV-4100NL/T FMV41NLTS3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV57NLSH1.html][FMV-BIBLO FMV-575NL/S FMV57NLSH1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV57NLSH5.html][FMV-BIBLO FMV-575NL/S FMV57NLSH5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV57NLSS1.html][FMV-BIBLO FMV-575NL/S FMV57NLSS1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV57NLSS2.html][FMV-BIBLO FMV-575NL/S FMV57NLSS2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV57NLSS3.html][FMV-BIBLO FMV-575NL/S FMV57NLSS3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLTH1.html][FMV-BIBLO FMV-5100NL/T FMV50NLTH1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLTH5.html][FMV-BIBLO FMV-5100NL/T FMV50NLTH5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLTS1.html][FMV-BIBLO FMV-5100NL/T FMV50NLTS1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLTS2.html][FMV-BIBLO FMV-5100NL/T FMV50NLTS2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLTS3.html][FMV-BIBLO FMV-5100NL/T FMV50NLTS3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLYH1.html][FMV-BIBLO FMV-5100NL/Y FMV50NLYH1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLYH5.html][FMV-BIBLO FMV-5100NL/Y FMV50NLYH5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLYS1.html][FMV-BIBLO FMV-5100NL/Y FMV50NLYS1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLYS2.html][FMV-BIBLO FMV-5100NL/Y FMV50NLYS2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLYS3.html][FMV-BIBLO FMV-5100NL/Y FMV50NLYS3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLWH1.html][FMV-BIBLO FMV-5100NL/W FMV50NLWH1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLWH5.html][FMV-BIBLO FMV-5100NL/W FMV50NLWH5 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLWS1.html][FMV-BIBLO FMV-5100NL/W FMV50NLWS1 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLWS2.html][FMV-BIBLO FMV-5100NL/W FMV50NLWS2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV50NLWS3.html][FMV-BIBLO FMV-5100NL/W FMV50NLWS3 // INVERSENET]]

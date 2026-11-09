@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       18e824b4-6a6a-4d1f-b94b-2ab34e16e534
+:END:
+#+TITLE: FMV-LifeBook E8x30
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-07
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook E8x30* -- четвёртое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с ноября 2006 г. и пришло на смену поколению [[id:92bbf454-48b0-46c9-ade3-b25f9d69c63a][E8x20]]. В мае 2007 г. было заменено на поколение [[id:98157822-147f-4c69-8455-978b50f0e429][E8x40]]. Модели были родственны модели E8210 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
+
+* Общая спецификация
+
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.4" WXGA 1280x800
+- HDD: Serial ATA/150
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Card Reader: SD
+- Операционная система: Windows Vista Business, XP Prof. SP2, XP Home SP2
+- Размеры: 360 x 259 x 28.2 мм
+- Вес: 2.3 кг
+
+** С процессором Celeron M
+
+- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]
+- Чипсет: Intel 940GML
+- Память:
+  - тип: PC2-4200
+  - максимальный объём: 2048 Мб
+
+** С процессором Core 2 Duo
+
+- Процессор: Intel [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]
+- Чипсет: Intel 945GM
+- Память:
+  - тип: PC2-5300
+  - максимальный объём: 4096 Мб
+
+* Модели
+
+| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-E8230 | FMVNE4DE3 | Celeron M 410, 1466    |      512 |       40 |  15.4 | Windows XP Prof.   |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4DE8 | Celeron M 410, 1466    |      512 |       40 |  15.4 | Windows XP Home    |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4DD8 | Celeron M 410, 1466    |      512 |       40 |  15.4 | Windows XP Home    |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4DD3 | Celeron M 410, 1466    |      512 |       40 |  15.4 | Windows XP Prof.   |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4BD3 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.4 | Windows XP Prof.   |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4BD8 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.4 | Windows XP Home    |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4BE3 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.4 | Windows XP Prof.   |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4BE8 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.4 | Windows XP Home    |  2006-10-13 |      2006-11 |
+| FMV-E8230 | FMVNE4DD4 | Celeron M 410, 1466    |      512 |       40 |  15.4 | Windows Vista Bus. |  2007-01-15 |      2007-01 |
+| FMV-E8230 | FMVNE4BD4 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.4 | Windows Vista Bus. |  2007-01-15 |      2007-01 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4DE3.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4DE3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4DE8.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4DE8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4DD8.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4DD8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4DD3.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4DD3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4BD3.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4BD3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4BD8.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4BD8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4BE3.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4BE3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4BE8.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4BE8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4DD4.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4DD4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE4BD4.html][FMV-LIFEBOOK E FMV-E8230 FMVNE4BD4 // INVERSENET]]
