@@ -16,9 +16,10 @@
 - Дисплей: 14.1" XGA 1024x768
 - HDD: Ultra ATA/100
 - CD-проигрыватель: CD-ROM
+- Дисковод FDD
 - Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
 - Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
-- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний дисплей: UXGA 1600x1200
 - Операционная система: Windows XP Home SP2, XP Prof. SP2
 - Размеры: 333 x 285 x 33.2 мм
 
@@ -29,7 +30,8 @@
 - Память:
   - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
   - максимальный объём: 1024 Мб
-- Вес: 3.0 кг
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Вес: 3.0-3.2 кг
 
 ** С процессором Pentium M
 
@@ -38,18 +40,26 @@
 - Память:
   - тип: PC2-4200
   - максимальный объём: 2048 Мб
-- Вес: 2.8 кг
+- Слоты расширения: PCMCIA 2 x Type I/II и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Вес: 2.8-3.0 кг
 
 * Модели
 
 | Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
 |           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
 |-----------+-----------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| FMV-E8200 | FMVNE1BA3 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
 | FMV-E8200 | FMVNE1BA8 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Home  |  2005-04-12 |      2005-05 |
+| FMV-E8200 | FMVNE1BC3 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
+| FMV-E8200 | FMVNE1BC8 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Home  |  2005-04-12 |      2005-05 |
 | FMV-E8300 | FMVNE1EA3 | Pentium M 740, 1733   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
-|           |           |                       |          |          |       |                  |             |              |
+| FMV-E8300 | FMVNE1EC3 | Pentium M 740, 1733   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1BA3.html][FMV-LIFEBOOK E FMV-E8200 FMVNE1BA3 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1BA8.html][FMV-LIFEBOOK E FMV-E8200 FMVNE1BA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1BC3.html][FMV-LIFEBOOK E FMV-E8200 FMVNE1BC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1BC8.html][FMV-LIFEBOOK E FMV-E8200 FMVNE1BC8 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1EA3.html][FMV-LIFEBOOK E FMV-E8300 FMVNE1EA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1EC3.html][FMV-LIFEBOOK E FMV-E8300 FMVNE1EC3 // INVERSENET]]

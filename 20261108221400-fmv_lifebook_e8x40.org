@@ -8,7 +8,7 @@
 #+DATE: 2026-11-08
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook E8x40*  -- пятое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с мая 2007 г. и пришло на смену поколению [[id:18e824b4-6a6a-4d1f-b94b-2ab34e16e534][E8x30]]. В октябре 2007 г. было заменено на поколение E8x50. Модели были родственны модели E8210 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]].
+*FMV-LifeBook E8x40*  -- пятое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с мая 2007 г. и пришло на смену поколению [[id:18e824b4-6a6a-4d1f-b94b-2ab34e16e534][E8x30]]. Поколение включало в себя две разных по дизайну и конструкции модели. Модель E8140 была родственна модели E8210, модель E8240 -- модели E8410 марки [[id:7a41a232-5c85-4f23-a9d3-03da18120b26][LifeBook]]. В октябре 2007 г. было заменено на поколение [[id:0f23bcf9-f5e1-4ad3-8205-231b101cb1bd][E8250]].
 
 * Общая спецификация
 
@@ -21,8 +21,6 @@
 - Слоты расширения: PCMCIA 2 x Type I/II и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
 - Card Reader: SD
 - Операционная система: Windows Vista Business, XP Prof. SP2, XP Home SP2
-- Размеры: 360 x 259 x 28.2 мм
-- Вес: 2.3-2.4 кг
 
 ** С процессором Celeron M
 
@@ -31,6 +29,8 @@
 - Память:
   - тип: PC2-4200
   - максимальный объём: 2048 Мб
+- Размеры: 360 x 259 x 28.2 мм
+- Вес: 2.3-2.5 кг
 
 ** С процессором Core 2 Duo
 
@@ -39,17 +39,38 @@
 - Память:
   - тип: PC2-5300
   - максимальный объём: 4096 Мб
+- Размеры: 357 x 257 x 33.3 мм
+- Вес: 2.4 кг
 
 * Модели
 
-| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная    |        Дата |  Дата начала |
-|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система         | презентации | производства |
-|-----------+-----------+------------------------+----------+----------+-------+-----------------+-------------+--------------|
-| FMV-E8140 | FMVNE5CE8 | Celeron M 430, 1733    |      512 |       40 |  15.4 | Windows XP Home |  2007-04-12 |      2007-05 |
-| FMV-E8240 | FMVNE5FE8 | Core 2 Duo T7100, 1800 |      512 |       40 |  15.4 | Windows XP Home |  2007-04-12 |      2007-05 |
-|           |           |                        |          |          |       |                 |             |              |
+| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-E8140 | FMVNE5CD3 | Celeron M 430, 1733    |      512 |       40 |  15.4 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-E8140 | FMVNE5CD4 | Celeron M 430, 1733    |     1024 |       40 |  15.4 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
+| FMV-E8140 | FMVNE5CD8 | Celeron M 430, 1733    |      512 |       40 |  15.4 | Windows XP Home    |  2007-04-12 |      2007-05 |
+| FMV-E8140 | FMVNE5CE3 | Celeron M 430, 1733    |      512 |       40 |  15.4 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-E8140 | FMVNE5CE4 | Celeron M 430, 1733    |     1024 |       40 |  15.4 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
+| FMV-E8140 | FMVNE5CE8 | Celeron M 430, 1733    |      512 |       40 |  15.4 | Windows XP Home    |  2007-04-12 |      2007-05 |
+| FMV-E8240 | FMVNE5FD3 | Core 2 Duo T7100, 1800 |      512 |       40 |  15.4 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-E8240 | FMVNE5FD4 | Core 2 Duo T7100, 1800 |     1024 |       40 |  15.4 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
+| FMV-E8240 | FMVNE5FD8 | Core 2 Duo T7100, 1800 |      512 |       40 |  15.4 | Windows XP Home    |  2007-04-12 |      2007-05 |
+| FMV-E8240 | FMVNE5FE3 | Core 2 Duo T7100, 1800 |      512 |       40 |  15.4 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-E8240 | FMVNE5FE4 | Core 2 Duo T7100, 1800 |     1024 |       40 |  15.4 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
+| FMV-E8240 | FMVNE5FE8 | Core 2 Duo T7100, 1800 |      512 |       40 |  15.4 | Windows XP Home    |  2007-04-12 |      2007-05 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5CD3.html][FMV-LIFEBOOK E FMV-E8140 FMVNE5CD3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5CD4.html][FMV-LIFEBOOK E FMV-E8140 FMVNE5CD4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5CD8.html][FMV-LIFEBOOK E FMV-E8140 FMVNE5CD8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5CE3.html][FMV-LIFEBOOK E FMV-E8140 FMVNE5CE3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5CE4.html][FMV-LIFEBOOK E FMV-E8140 FMVNE5CE4 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5CE8.html][FMV-LIFEBOOK E FMV-E8140 FMVNE5CE8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5FD3.html][FMV-LIFEBOOK E FMV-E8240 FMVNE5FD3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5FD4.html][FMV-LIFEBOOK E FMV-E8240 FMVNE5FD4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5FD8.html][FMV-LIFEBOOK E FMV-E8240 FMVNE5FD8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5FE3.html][FMV-LIFEBOOK E FMV-E8240 FMVNE5FE3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5FE4.html][FMV-LIFEBOOK E FMV-E8240 FMVNE5FE4 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE5FE8.html][FMV-LIFEBOOK E FMV-E8240 FMVNE5FE8 // INVERSENET]]

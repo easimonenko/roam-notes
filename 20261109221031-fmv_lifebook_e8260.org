@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       3f67de2b-5316-4d0e-8456-70be5eeef7d5
+:END:
+#+TITLE: FMV-LifeBook E8260
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-09
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook E8260* -- седьмое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с мая 2008 г. и пришло на смену поколению [[id:0f23bcf9-f5e1-4ad3-8205-231b101cb1bd][E8250]], сохранив дизайн и конструкцию. В ноябре 2008 г. было заменено на поколение E8270.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:7d84721a-36d4-4976-99bd-074f8ba7a4cd][Celeron M]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]] или [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]]
+- Чипсет: Intel 965GM
+- Память:
+  - тип: PC2-5300
+  - максимальный объём: 4096 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.4" WXGA 1280x800
+- HDD: Serial ATA/150
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Card Reader: SD
+- Внешний дисплей: 1920x1200
+- Операционная система: Windows Vista Business, XP Prof. SP2, XP Home SP2
+- Размеры: 357 x 257 x 33.3 мм
+- Вес: 2.4 кг
+
+* Модификации
+
+| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-E8260 | FMVNE7DEC | Celeron M 540, 1866    |     1024 |       80 |  15.4 | Windows XP Prof.   |  2008-04-16 |      2008-05 |
+| FMV-E8260 | FMVNE7DE4 | Celeron M 540, 1866    |     1024 |       80 |  15.4 | Windows Vista Bus. |  2008-04-16 |      2008-05 |
+| FMV-E8260 | FMVNE7BEC | Core 2 Duo T8100, 2100 |     1024 |       80 |  15.4 | Windows XP Prof.   |  2008-04-16 |      2008-05 |
+| FMV-E8260 | FMVNE7BE4 | Core 2 Duo T8100, 2100 |     1024 |       80 |  15.4 | Windows Vista Bus. |  2008-04-16 |      2008-05 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7DEC.html][FMV-LIFEBOOK E FMV-E8260 FMVNE7DEC // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7DE4.html][FMV-LIFEBOOK E FMV-E8260 FMVNE7DE4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7BEC.html][FMV-LIFEBOOK E FMV-E8260 FMVNE7BEC // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE7BE4.html][FMV-LIFEBOOK E FMV-E8260 FMVNE7BE4 // INVERSENET]]

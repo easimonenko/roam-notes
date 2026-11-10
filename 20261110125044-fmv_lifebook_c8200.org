@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       9c715f38-3f66-4dbe-975c-e36630a4f943
+:END:
+#+TITLE: FMV-LifeBook C8200
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-10
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook C8200* -- первое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:5c53c456-83d4-46bf-843f-aab714f42d29][C]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с мая 2005 г. и пришло на смену модели [[id:4fab3394-8b85-4449-8f46-a436e919d820][FMV-830NU]]. В ноябре 2005 г. было заменено на поколение C8210. Модель родственна одновременно выпускавшейся модели [[id:ba8a8e06-1c3b-4653-9cf6-be5b84f9287b][FMV-E8x00]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:8ca59fb2-28e9-4b14-b7d3-e31c4606d86f][Celeron M]] или [[id:e342841c-6e11-41b4-a0dc-22caaaf20d50][Pentium M]] с ядром [[id:864ab0cd-859b-48b0-a0d4-1bb37fdf7b79][Dothan]]
+- Чипсет: Intel [[id:be888717-f7fe-49bb-b981-6464b3bbff9d][852GM]]
+- Память:
+  - тип: [[id:38c450a6-173c-42b4-bbdc-11d63302f8b7][PC-2100]] [[id:adbf71d1-0cdd-43c0-b705-5124d84882c5][DDR-266]]
+  - максимальный объём: 1024 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 14.1" XGA 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Дисковод FDD
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP2, XP Prof. SP2
+- Размеры: 333 x 285 x 33.2 мм
+- Вес: 3.2 кг
+
+* Модификации
+
+| Название  | P/N        | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
+|           |            | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
+|-----------+------------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
+| FMV-C8200 | FMVNC1BC13 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
+| FMV-C8200 | FMVNC1BC18 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Home  |  2005-04-12 |      2005-05 |
+| FMV-C8200 | FMVNC1BC23 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
+| FMV-C8200 | FMVNC1BC28 | Celeron M 350, 1300   |      256 |       40 |  14.1 | Windows XP Home  |  2005-04-12 |      2005-05 |
+| FMV-C8200 | FMVNC1DC13 | Pentium M 725, 1600   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
+| FMV-C8200 | FMVNC1DC18 | Pentium M 725, 1600   |      256 |       40 |  14.1 | Windows XP Home  |  2005-04-12 |      2005-05 |
+| FMV-C8200 | FMVNC1DC23 | Pentium M 725, 1600   |      256 |       40 |  14.1 | Windows XP Prof. |  2005-04-12 |      2005-05 |
+| FMV-C8200 | FMVNC1DC28 | Pentium M 725, 1600   |      256 |       40 |  14.1 | Windows XP Home  |  2005-04-12 |      2005-05 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1BC13.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1BC13 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1BC18.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1BC18 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1BC23.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1BC23 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1BC28.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1BC28 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1DC13.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1DC13 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1DC18.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1DC18 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1DC23.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1DC23 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC1DC28.html][FMV-LIFEBOOK C FMV-C8200 FMVNC1DC28 // INVERSENET]]

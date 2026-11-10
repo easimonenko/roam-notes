@@ -8,4 +8,4 @@
 #+DATE: 2026-10-18
 #+FILETAGS: :fujitsu:fmv-lifebook:lifebook:
 
-*FMV-LifeBook C Line* -- линейка бюджетных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену линейке NU. Линейка родственна линейке [[id:41810a60-7f93-479e-b5cc-2a41d3cf26ff][C]] марки LifeBook.
+*FMV-LifeBook C Line* -- линейка бюджетных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Пришла на смену линейке [[id:33a740b3-4934-4c67-8ee9-da8631c108cb][NU]]. Линейка родственна линейке [[id:41810a60-7f93-479e-b5cc-2a41d3cf26ff][C]] марки LifeBook.

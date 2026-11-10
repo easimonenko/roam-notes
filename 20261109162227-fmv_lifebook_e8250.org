@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       0f23bcf9-f5e1-4ad3-8205-231b101cb1bd
+:END:
+#+TITLE: FMV-LifeBook E8250
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-09
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook E8250* -- шестое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с октября 2007 г. и пришло на смену поколению [[id:98157822-147f-4c69-8455-978b50f0e429][E8x40]], сохранив дизайн и конструкцию модели E8240. В мае 2008 г. было заменено на поколение E8260.
+
+* Общая спецификация
+
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.4" WXGA 1280x800
+- HDD: Serial ATA/150
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Card Reader: SD
+- Операционная система: Windows Vista Business, XP Prof. SP2, XP Home SP2
+- Размеры: 357 x 257 x 33.3 мм
+- Вес: 2.4 кг
+
+** С процессором Core 2 Duo
+
+- Процессор: Intel [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]
+- Чипсет: Intel 965GM
+- Память:
+  - тип: PC2-5300
+  - максимальный объём: 4096 Мб
+
+* Модификации
+
+| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-E8250 | FMVNE6CE3 | Core 2 Duo T7250, 2000 |      512 |       40 |  15.4 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-E8250 | FMVNE6CE4 | Core 2 Duo T7250, 2000 |     1024 |       40 |  15.4 | Windows Vista Bus. |  2007-10-12 |      2007-10 |
+| FMV-E8250 | FMVNE6CE8 | Core 2 Duo T7250, 2000 |      512 |       40 |  15.4 | Windows XP Home    |  2007-10-12 |      2007-10 |
+| FMV-E8250 | FMVNE6CEC | Core 2 Duo T7250, 2000 |      512 |       40 |  15.4 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE6CE3.html][FMV-LIFEBOOK E FMV-E8250 FMVNE6CE3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE6CE4.html][FMV-LIFEBOOK E FMV-E8250 FMVNE6CE4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE6CE8.html][FMV-LIFEBOOK E FMV-E8250 FMVNE6CE8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE6CEC.html][FMV-LIFEBOOK E FMV-E8250 FMVNE6CEC // INVERSENET]]
