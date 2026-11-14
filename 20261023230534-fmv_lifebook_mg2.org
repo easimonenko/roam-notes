@@ -8,31 +8,56 @@
 #+DATE: 2026-10-23
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook MG2* -- серия компактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия была выпущена в мае 2002 г. В октябре 2002 г. была заменена на серию [[id:cde535f0-a004-4c89-9a45-e6f20167cc29][MG3]].
+*FMV-LifeBook MG2* -- модель компактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с мая 2002 г. и пришла на смену модели [[id:813f6579-5b3e-4aa2-a27f-8edd81345b8c][MG]]. В октябре 2002 г. была заменена на модель [[id:cde535f0-a004-4c89-9a45-e6f20167cc29][MG3]].
 
 * Общая спецификация
 
-Процессор: Intel [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] или [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
-Память: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]], 128 Мб
-Чипсет: Intel [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]] с частотой [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 133 МГц
-Дисплей: 13.3" XGA TFT 1024x768
-HDD: Ultra ATA/100
-Проигрыватель компакт-дисков: CD-ROM
-Карты расширения: один слот PCMCIA Type I или II
-Внешний дисплей: UXGA 1600x1200
-Сеть: Ethernet 100BASE-TX/10BASE-T
-Коннекторы: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, IrDA
-Размеры: 293 x 236.5 x 29.5 мм
-Вес: 1.7 кг
+- Процессор: Intel [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] или [[id:a06f9adf-37b1-424f-8709-fc407dfa7373][Mobile Celeron]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
+- Чипсет: Intel [[id:a513312d-9c5f-4c44-b236-a8a1baf46aa3][830MG]]
+- Память:
+  - тип: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]]
+  - максимальный объём: 1024 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 13.3" XGA TFT 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 100BASE-TX/10BASE-T
+- Коннекторы: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, IrDA
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows 98 SE, NT 4.0, XP Prof.
+- Размеры: 293 x 236 x 24.5 мм
+- Вес: 1.7 кг
 
 * Модели
 
-| Название   | P/N       | Процессор:            | Объём       | Объём    | Операционная     | Дата        | Дата начала  |
-| модели     |           | модель, частота (МГц) | памяти (Мб) | HDD (Гб) | система          | презентации | производства |
-|------------+-----------+-----------------------+-------------+----------+------------------+-------------+--------------|
-| FMV-610MG2 | FMV2MGAL3 | Mobile Celeron, 1000  | 128         | 20       | Windows XP Prof. | 2002-04-24  | 2002-05      |
-|            |           |                       |             |          |                  |             |              |
+| Название    | P/N       | Процессор:                 |    Объём |    Объём | Операционная     |        Дата |  Дата начала |
+| модели      |           | модель, частота (МГц)      | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
+|-------------+-----------+----------------------------+----------+----------+------------------+-------------+--------------|
+| FMV-610MG2  | FMV2MGAL0 | Mobile Celeron, 1000       |      128 |       20 | Windows NT 4.0   |  2002-04-24 |      2002-05 |
+| FMV-610MG2  | FMV2MGAL2 | Mobile Celeron, 1000       |      128 |       20 | Windows 2000     |  2002-04-24 |      2002-05 |
+| FMV-610MG2  | FMV2MGAL3 | Mobile Celeron, 1000       |      128 |       20 | Windows XP Prof. |  2002-04-24 |      2002-05 |
+| FMV-610MG2  | FMV2MGAL6 | Mobile Celeron, 1000       |       64 |       20 | Windows 98 SE    |  2002-04-24 |      2002-05 |
+| FMV-610MG2  | FMV2MGAL7 | Mobile Celeron, 1000       |       64 |       20 | Windows ME       |  2002-04-24 |      2002-05 |
+| FMV-6100MG2 | FMV2MG6L0 | Mobile Pentium III-M, 1000 |      128 |       20 | Windows NT 4.0   |  2002-04-24 |      2002-05 |
+| FMV-6100MG2 | FMV2MG6L2 | Mobile Pentium III-M, 1000 |      128 |       20 | Windows 2000     |  2002-04-24 |      2002-05 |
+| FMV-6100MG2 | FMV2MG6L3 | Mobile Pentium III-M, 1000 |      128 |       20 | Windows XP Prof. |  2002-04-24 |      2002-05 |
+| FMV-6100MG2 | FMV2MG6L6 | Mobile Pentium III-M, 1000 |       64 |       20 | Windows 98 SE    |  2002-04-24 |      2002-05 |
+| FMV-6100MG2 | FMV2MG6L7 | Mobile Pentium III-M, 1000 |       64 |       20 | Windows ME       |  2002-04-24 |      2002-05 |
+| FMV-6100MG2 | FMV2MG612 | Mobile Pentium III-M, 1000 |      128 |       20 | Windows 2000     |  2002-04-24 |      2002-05 |
+| FMV-6100MG2 | FMV2MG613 | Mobile Pentium III-M, 1000 |      128 |       20 | Windows XP Prof. |  2002-04-24 |      2002-05 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MGAL0.html][FMV-LIFEBOOK FMV-610MG2 FMV2MGAL0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MGAL2.html][FMV-LIFEBOOK FMV-610MG2 FMV2MGAL2 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MGAL3.html][FMV-LIFEBOOK FMV-610MG2 FMV2MGAL3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MGAL6.html][FMV-LIFEBOOK FMV-610MG2 FMV2MGAL6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MGAL7.html][FMV-LIFEBOOK FMV-610MG2 FMV2MGAL7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MG6L0.html][FMV-LIFEBOOK FMV-6100MG2 FMV2MG6L0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MG6L2.html][FMV-LIFEBOOK FMV-6100MG2 FMV2MG6L2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MG6L3.html][FMV-LIFEBOOK FMV-6100MG2 FMV2MG6L3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MG6L6.html][FMV-LIFEBOOK FMV-6100MG2 FMV2MG6L6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MG6L7.html][FMV-LIFEBOOK FMV-6100MG2 FMV2MG6L7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MG612.html][FMV-LIFEBOOK FMV-6100MG2 FMV2MG612 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMV2MG613.html][FMV-LIFEBOOK FMV-6100MG2 FMV2MG613 // INVERSENET]]

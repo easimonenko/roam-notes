@@ -8,30 +8,85 @@
 #+DATE: 2026-10-08
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook MG* -- серия компактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Серия была выпущена в конце 2001 г. и явилась родоначальницей линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]], в которой на протяжении нескольких лет сохранялись конструкция и дизайн.
+*FMV-LifeBook MG* -- модель компактных корпоративных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с октября 2001 г. и явилась родоначальницей линейки [[id:7ed6868c-f570-4019-adc1-ba19a7ad9de3][MG]], в которой на протяжении нескольких лет сохранялись конструкция и дизайн. Модель родственна одновременно выпускавшейся модели [[id:1e952cef-a481-4518-b9be-b70cc1b29b50][MG8]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]]. В мае 2002 г. была заменена на модель [[id:a1a89741-6fcb-429f-9dd0-28223c72600d][MG2]].
 
 * Общая спецификация
 
-Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
-Память: [[id:104a11ae-36fb-4c0d-b784-ba80ba8934d8][PC133]], 128 Мб
-Чипсет: Intel [[id:74003cec-13de-4cd8-acfa-331f1f08cf0b][440MX]] с частотой [[id:e3bfae31-1078-48f4-8c2a-6f66c93ebe9d][FSB]] 100 МГц
-Видеокарта: ATI RAGE Mobility-M1
-Дисплей: 13.3" XGA TFT 1024x768
-Карты расширения: один слот PCMCIA Type I или II
-Проигрыватель компакт-дисков: CD-ROM
-Внешний дисплей: UXGA 1600x1200
-Сеть: Ethernet 100BASE-TX/10BASE-T
-Коннекторы: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, IrDA
-Размеры: 293x236.5x29.5
-Вес: 1.7 кг
+- Процессор: Intel [[id:359d2c36-dc7d-45ec-970a-a5ce90f183fe][Mobile Celeron]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]] или [[id:8f30407a-9dfc-4e15-aa96-49f58d684bab][Mobile Pentium III-M]] [[id:0d9d2821-5a8d-477c-9791-5cdb4b9ccd91][LV]] с ядром [[id:5f24b9fb-220d-4131-92f0-b2b6a94e826e][Tualatin]]
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+- Чипсет: Intel [[id:74003cec-13de-4cd8-acfa-331f1f08cf0b][440MX]]
+- Видеокарта: ATI [[id:ba7ac842-ac70-43e4-9e3a-2a52331337fd][RAGE Mobility-M1]]
+- Дисплей: 13.3" XGA TFT 1024x768
+- HDD: Ultra ATA
+- CD-проигрыватель: CD-ROM
+- Сеть:
+  - Ethernet 100BASE-TX/10BASE-T
+  - WiFi b (с индексом WL)
+- Слоты расширения: PCMCIA 1 x Type I/II (с индексом WL) или 2 x Type I/II или Type III
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 2, IrDA
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows 98 SE, ME, NT 4.0, 2000 Prof., XP Prof.
+- Размеры: 293 x 236.5 x 24 (29.5 с индексом WL) мм
+- Вес: 1.69 (1.7 с индексом WL) кг
 
 * Модели
 
-| Название   | P/N      | Процессор:                | Объём       | Объём    | Операционная    | Дата        | Дата начала  |
-| модели     |          | модель, частота (МГц)     | памяти (Мб) | HDD (Гб) | система         | презентации | производства |
-|------------+----------+---------------------------+-------------+----------+-----------------+-------------+--------------|
-| FMV-6800MG | FMVMG313 | Mobile Pentium III-M, 800 | 128         | 15       | Windows XP Pro. | 2001-10-25  | 2001-11      |
+| Название      | P/N      | Процессор:                |    Объём |    Объём | Операционная     |        Дата |  Дата начала |
+| модели        |          | модель, частота (МГц)     | RAM (Мб) | HDD (Гб) | система          | презентации | производства |
+|---------------+----------+---------------------------+----------+----------+------------------+-------------+--------------|
+| FMV-675MG     | FMVMGRM0 | Mobile Celeron, 750       |      128 |       15 | Windows NT 4.0   |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRM2 | Mobile Celeron, 750       |      128 |       15 | Windows 2000     |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRM3 | Mobile Celeron, 750       |      128 |       15 | Windows XP Prof. |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRM6 | Mobile Celeron, 750       |       64 |       15 | Windows 98 SE    |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRM7 | Mobile Celeron, 750       |       64 |       15 | Windows ME       |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRL0 | Mobile Celeron, 750       |      128 |       15 | Windows NT 4.0   |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRL2 | Mobile Celeron, 750       |      128 |       15 | Windows 2000     |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRL3 | Mobile Celeron, 750       |      128 |       15 | Windows XP Prof. |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRL6 | Mobile Celeron, 750       |       64 |       15 | Windows 98 SE    |  2001-10-25 |      2001-11 |
+| FMV-675MG     | FMVMGRL7 | Mobile Celeron, 750       |       64 |       15 | Windows ME       |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG312 | Mobile Pentium III-M, 800 |      128 |       15 | Windows 2000     |  2001-10-25 |      2001-12 |
+| FMV-6800MG    | FMVMG313 | Mobile Pentium III-M, 800 |      128 |       15 | Windows XP Prof. |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3M0 | Mobile Pentium III-M, 800 |      128 |       15 | Windows NT 4.0   |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3M2 | Mobile Pentium III-M, 800 |      128 |       15 | Windows 2000     |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3M3 | Mobile Pentium III-M, 800 |      128 |       15 | Windows XP Prof. |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3M6 | Mobile Pentium III-M, 800 |       64 |       15 | Windows 98 SE    |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3M7 | Mobile Pentium III-M, 800 |       64 |       15 | Windows ME       |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3L0 | Mobile Pentium III-M, 800 |      128 |       15 | Windows NT 4.0   |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3L2 | Mobile Pentium III-M, 800 |      128 |       15 | Windows 2000     |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3L3 | Mobile Pentium III-M, 800 |      128 |       15 | Windows XP Prof. |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3L6 | Mobile Pentium III-M, 800 |       64 |       15 | Windows 98 SE    |  2001-10-25 |      2001-11 |
+| FMV-6800MG    | FMVMG3L7 | Mobile Pentium III-M, 800 |       64 |       15 | Windows ME       |  2001-10-25 |      2001-11 |
+| FMV-6800MG/WL | FMVMG3W2 | Mobile Pentium III-M, 800 |      128 |       15 | Windows 2000     |  2001-10-25 |      2002-03 |
+| FMV-6800MG/WL | FMVMG3W3 | Mobile Pentium III-M, 800 |      128 |       15 | Windows XP Prof. |  2001-10-25 |      2002-03 |
+| FMV-6800MG/WL | FMVMG3W6 | Mobile Pentium III-M, 800 |       64 |       15 | Windows 98 SE    |  2001-10-25 |      2002-03 |
+
+Модификации с индексом WL оснащались модулем WiFi.
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRM0.html][FMV-LIFEBOOK FMV-675MG FMVMGRM0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRM2.html][FMV-LIFEBOOK FMV-675MG FMVMGRM2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRM3.html][FMV-LIFEBOOK FMV-675MG FMVMGRM3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRM6.html][FMV-LIFEBOOK FMV-675MG FMVMGRM6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRM7.html][FMV-LIFEBOOK FMV-675MG FMVMGRM7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRL0.html][FMV-LIFEBOOK FMV-675MG FMVMGRL0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRL2.html][FMV-LIFEBOOK FMV-675MG FMVMGRL2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRL3.html][FMV-LIFEBOOK FMV-675MG FMVMGRL3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRL6.html][FMV-LIFEBOOK FMV-675MG FMVMGRL6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMGRL7.html][FMV-LIFEBOOK FMV-675MG FMVMGRL7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG312.html][FMV-LIFEBOOK FMV-6800MG FMVMG312 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG313.html][FMV-LIFEBOOK FMV-6800MG FMVMG313 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3M0.html][FMV-LIFEBOOK FMV-6800MG FMVMG3M0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3M2.html][FMV-LIFEBOOK FMV-6800MG FMVMG3M2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3M3.html][FMV-LIFEBOOK FMV-6800MG FMVMG3M3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3M6.html][FMV-LIFEBOOK FMV-6800MG FMVMG3M6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3M7.html][FMV-LIFEBOOK FMV-6800MG FMVMG3M7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3L0.html][FMV-LIFEBOOK FMV-6800MG FMVMG3L0 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3L2.html][FMV-LIFEBOOK FMV-6800MG FMVMG3L2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3L3.html][FMV-LIFEBOOK FMV-6800MG FMVMG3L3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3L6.html][FMV-LIFEBOOK FMV-6800MG FMVMG3L6 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3L7.html][FMV-LIFEBOOK FMV-6800MG FMVMG3L7 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3W2.html][FMV-LIFEBOOK FMV-6800MG/WL FMVMG3W2 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3W3.html][FMV-LIFEBOOK FMV-6800MG/WL FMVMG3W3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG3W6.html][FMV-LIFEBOOK FMV-6800MG/WL FMVMG3W6 // INVERSENET]]

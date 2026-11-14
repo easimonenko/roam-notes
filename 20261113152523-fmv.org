@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2f4d173f-37e7-4f2c-89f4-9c92b3632fee
+:END:
+#+TITLE: FMV
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-13
+#+FILETAGS: :fujitsu:fmv:
+
+*FMV* -- марка [[id:ec161921-6122-40b8-865d-9d3eb795f7b0][IBM PC]] совместимых компьютеров компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. FMV расшифровывается как Fujitsu Multimedia Vision. Появилась в 1993 г. В 1994 г. вышла первая модель ноутбуков под маркой [[id:a04fac53-3da9-400e-bcd3-f9e25d966837][FMV-NoteBook]]. В 1995 г. ноутбуки стали выпускаться под маркой [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]].
+
+* Resources
+
+- [[https://ja.wikipedia.org/wiki/FMV][Wikipedia [JA]​]]

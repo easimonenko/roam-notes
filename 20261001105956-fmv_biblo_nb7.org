@@ -8,45 +8,56 @@
 #+DATE: 2026-10-01
 #+FILETAGS: :fujitsu:fmv-biblo:
 
-*FMV-Biblo NB7* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] потребительского класса марки FMV-Biblo компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии.
+*FMV-Biblo NB7* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] потребительского класса марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с мая 2001 г. В октябре 2001 г. была заменена на модель NB8.
 
 * Общая спецификация
 
-- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] или AMD Duron
-- Объём оперативной памяти:
-  - 128 Мб, распаяна на плате
-  - один слот расширения для [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] максимум 128 Мб с Intel и 256 Мб с AMD
-  - итого максимальный объём: 256 Мб или 384 Мб
-- Тип памяти: SDR SDRAM [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
-- [[id:221836c2-47cc-4b7d-9287-7c63c41b8d1f][Видеокарта]]:
-  - ATI RAGE Mobility-P с видеопамятью 8 Мб (с процессором Intel)
-  - ATI RAGE Mobility-EC AGP с видеопамятью 4 Мб (с процессором AMD)
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 128 Мб, распаяна на плате
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
 - Дисплей: 14.1" TFT XGA (1024x768)
-- Объём жёсткого диска:
-  - 20 Гб Ultra DMA/33 (с процессором Intel)
-  - 20 Гб Ultra DMA/66 (с процессором AMD)
-- Разрешение внешнего дисплея: UXGA (1600x1200)
-- Проигрыватель компакт-дисков: CD-RW, CD-R, CD-ROM
-- Дисковод FDD.
-- Слоты PCMCIA: два Type-I или Type-II, или один Type-III
+- CD-проигрыватель: CD-RW/R/ROM или CD-ROM
+- Дисковод FDD
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
 - Сетевые устройства:
   - Ethernet 100BASE-TX/10BASE-T
   - Модем V.90 56K
 - Внешние интерфесы: 4 x USB, FireWire S400, VGA, LPT
-- Операционная система: Microsoft Windows Millenium или Windows 2000 Professional
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Операционная система: Windows ME
 - Программное обеспечение: Microsoft Office XP
-- Размеры: 308 x 268 x 36.2-44.8
+- Размеры: 308 x 268 x 36.2-44.8 мм
 - Вес: 3.2 кг
+
+** С процессором Intel
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Память:
+    - максимальный объём: 256 Мб
+- Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][RAGE Mobility-P]], 8 Мб
+- HDD: Ultra DMA/33
+
+** С процессором AMD
+
+- Процессор: AMD Mobile Duron
+- Память:
+    - максимальный объём: 384 Мб
+- Видеокарта: ATI RAGE Mobility-EC AGP, 4 Мб
+- HDD: Ultra DMA/66
 
 * Модификации
 
-| Название | P/N        | Процессор:              |
-|          |            | модель, частота         |
-|----------+------------+-------------------------|
-| NB7/750R | FMVNB775R3 | Mobile Pentium III, 750 |
-| NB7/80R  | FMVNB780R3 | AMD Duron, 800          |
-| NB7/80C  | FMVNB780C3 | AMD Duron, 800          |
+| Название | P/N        | Процессор:              |    Объём |    Объём | Операционная |        Дата |  Дата начала |
+|          |            | модель, частота         | RAM (Мб) | HDD (Гб) | система      | презентации | производства |
+|----------+------------+-------------------------+----------+----------+--------------+-------------+--------------|
+| NB7/750R | FMVNB775R3 | Mobile Pentium III, 750 |      128 |       20 | Windows ME   |  2001-05-23 |   2001-05-26 |
+| NB7/80C  | FMVNB780C3 | Mobile Duron, 800       |      128 |       20 | Windows ME   |  2001-05-23 |   2001-05-26 |
+| NB7/80R  | FMVNB780R3 | Mobile Duron, 800       |      128 |       20 | Windows ME   |  2001-05-23 |   2001-05-26 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB775R3.html][FMV-BIBLO NB7/750R FMVNB775R3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB780C3.html][FMV-BIBLO NB7/80C FMVNB780C3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB780R3.html][FMV-BIBLO NB7/80R FMVNB780R3 // INVERSENET]]
 - [[https://www.fmworld.net/product/hard/bi0105/biblo_nb.html][FMV-Biblo NB Series // FMVWorld]]
