@@ -24,6 +24,7 @@
 - Сеть:
   - Ethernet 100BASE-TX/10BASE-T
   - модем V.90 56K
+  - WiFi b (с индексом M)
 - Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 2, FireWire S400
 - Слоты расширения: PCMCIA 1 x Type I/II
 - Внешний дисплей: UXGA 1600x1200

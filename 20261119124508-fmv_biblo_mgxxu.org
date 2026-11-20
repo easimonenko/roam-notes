@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       6218062c-9d36-46eb-a199-fc2cf8cbc3b8
+:END:
+#+TITLE: FMV-Biblo MGxxU
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-19
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo MGxxU* -- серия компактных [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:0831976b-d826-4419-9adf-87f29561092f][MG]] марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Включала в себя две разных модели: с дисплеем 13.3" и 14.1". Выпускалась с января 2007 г. и пришла на смену серии [[id:d90739fd-89f8-4a69-a6d1-3b987c4e8542][MGxxT]]. В мае 2007 г. была заменена на серию [[id:a45124ca-6185-4a97-9e92-1939beefa05f][MGxxW]].
+
+* Общая спецификация
+
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][интегрированная]]
+- HDD: Serial ATA/150
+- CD-проигрыватель: DVD-RAM/RW/R + CD-RW/R
+- Сеть:
+  - Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+  - модем V.92 56K
+  - WiFi a/b/g
+- Внешний интерфейс: [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 3, FireWire S400
+- Card Reader: SD
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows Vista Home
+
+** С процессором Celeron M
+
+- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]
+- Чипсет: Intel 943GML
+- Память:
+  - тип: PC2-4200
+  - объём: 512 Мб
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 2048 Мб
+
+** С процессором Core
+
+- Процессор: Intel [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]
+- Чипсет: Intel 945GM
+- Память:
+  - тип: PC2-5300
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 4096 Мб
+
+** С дисплеем 13.3"
+
+- Дисплей: 13.3" XGA
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Размеры: 295 x 238.5 x 30.7 мм
+- Вес: 1.68 кг
+
+** С дисплеем 14.1"
+
+- Дисплей: 14.1" XGA
+- Слоты расширения: PCMCIA 1 x Type I/II и 1 x [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Размеры: 307 x 248 x 26.4 мм
+- Вес: 1.81 кг
+
+* Модели
+
+| Название | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+| модели   |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| MG50U    | FMVMG50U  | Celeron M 430, 1733    |      512 |      100 |  13.3 | Windows Vista Home |  2007-01-15 |   2007-01-30 |
+| MG50U/V  | FMVMG50UV | Celeron M 430, 1733    |      512 |      100 |  13.3 | Windows Vista Home |  2007-01-15 |   2007-01-30 |
+| MG55U    | FMVMG55U  | Core 2 Duo T5500, 1667 |      512 |      100 |  13.3 | Windows Vista Home |  2007-01-15 |   2007-01-30 |
+| MG75U    | FMVMG75U  | Core 2 Duo T5600, 1833 |     1024 |      120 |  14.1 | Windows Vista Home |  2007-01-15 |   2007-01-30 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50U.html][FMV-BIBLO MG MG50U FMVMG50U // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG50UV.html][FMV-BIBLO MG MG50U/V FMVMG50UV // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG55U.html][FMV-BIBLO MG MG55U FMVMG55U // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVMG75U.html][FMV-BIBLO MG MG75U FMVMG75U // INVERSENET]]
