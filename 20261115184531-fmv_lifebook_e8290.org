@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       ac0e74f8-a350-4ab4-992c-4e84de27094b
+:END:
+#+TITLE: FMV-LifeBook E8290
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-15
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook E8290* -- десятое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:3fa9d0f9-1c08-442f-8f87-e6cf538f7fba][E]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с ноября 2009 г. и пришло на смену поколению [[id:7bc12234-0003-4c99-b4a8-9d918414b671][E8280]], сохранив дизайн и конструкцию и став последней моделью в серии E8xxx.
+
+* Общая спецификация
+
+- Процессор: Intel [[id:7d84721a-36d4-4976-99bd-074f8ba7a4cd][Celeron M]] или [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:6479e41e-97f9-474f-a6ef-aa0bb6b67786][Penryn]]
+- Чипсет: Intel GM45
+- Память:
+  - тип: PC3-8500
+  - максимальный объём: 4096 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.4" WXGA 1280x800
+- HDD: Serial ATA/150
+- CD-проигрыватель: CD-ROM
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II и [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]]
+- Card Reader: SD
+- Внешний дисплей: 1920x1200
+- Операционная система: Windows Vista Business, XP Prof. SP2
+- Размеры: 357 x 257 x 33.3 мм
+- Вес: 2.3 кг
+
+* Модификации
+
+| Название  | P/N      | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |          | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-E8290 | FMVNE1SC | Celeron M 900, 2200    |     1024 |      160 |  15.4 | Windows XP Prof.   |  2009-10-14 |      2009-11 |
+| FMV-E8290 | FMVNE1SG | Celeron M 900, 2200    |     1024 |      160 |  15.4 | Windows XP Prof.   |  2009-10-14 |      2009-11 |
+| FMV-E8290 | FMVNE1SH | Celeron M 900, 2200    |     1024 |      160 |  15.4 | Windows Vista Bus. |  2009-10-14 |      2009-11 |
+| FMV-E8290 | FMVNE1SE | Celeron M 900, 2200    |     1024 |      160 |  15.4 | Windows 7 Prof.    |  2009-10-14 |      2009-11 |
+| FMV-E8290 | FMVNE1CC | Core 2 Duo P8700, 2533 |     1024 |      160 |  15.4 | Windows XP Prof.   |  2009-10-14 |      2009-11 |
+| FMV-E8290 | FMVNE1CG | Core 2 Duo P8700, 2533 |     1024 |      160 |  15.4 | Windows XP Prof.   |  2009-10-14 |      2009-11 |
+| FMV-E8290 | FMVNE1CH | Core 2 Duo P8700, 2533 |     1024 |      160 |  15.4 | Windows Vista Bus. |  2009-10-14 |      2009-11 |
+| FMV-E8290 | FMVNE1CE | Core 2 Duo P8700, 2533 |     1024 |      160 |  15.4 | Windows 7 Prof.    |  2009-10-14 |      2009-11 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1SC.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1SC // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1SG.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1SG // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1SH.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1SH // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1SE.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1SE // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1CC.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1CC // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1CG.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1CG // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1CH.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1CH // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNE1CE.html][FMV-LIFEBOOK E FMV-E8290 FMVNE1CE // INVERSENET]]

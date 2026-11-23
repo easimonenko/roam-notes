@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       fc4aadb5-63bc-44c0-89a1-15cc60b9f044
+:END:
+#+TITLE: FMV-LifeBook C8240
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-15
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook C8240* -- пятое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:5c53c456-83d4-46bf-843f-aab714f42d29][C]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с мая 2007 г. и пришло на смену поколению [[id:5a170107-cc3c-4f8d-9ef7-a2657fbb632d][C8230]], представляя собой фактически немного улучшенного предшественника. В октябре 2007 г. было заменено на поколение C8250.
+
+* Общая спецификация
+
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.1" XGA 1024x768
+- HDD: Serial ATA/150
+- CD-проигрыватель: CD-ROM (у части модификаций)
+- Дисковод FDD
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] 2.0 x 4, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], COM, LPT, [[id:649ca2ab-2c5b-4960-8cd7-436152c7f077][PS/2]], IrDA
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Home SP2, XP Prof. SP2, Vista Bus.
+- Размеры: 333 x 285 x 32.6 мм
+- Вес: 3.0-3.2 кг
+
+** С процессором Celeron M
+
+- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]
+- Чипсет: Intel 943GML
+- Память:
+  - тип: PC2-4200
+  - максимальный объём: 2048 Мб
+
+* Модификации
+
+| Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная    |        Дата |  Дата начала |
+|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система         | презентации | производства |
+|-----------+-----------+-----------------------+----------+----------+-------+-----------------+-------------+--------------|
+| FMV-C8240 | FMVNC5CA8 | Celeron M 430, 1733   |      256 |       40 |  15.1 | Windows XP Home |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5CC8 | Celeron M 430, 1733   |      256 |       40 |  15.1 | Windows XP Home |  2007-04-12 |      2007-05 |
+|           |           |                       |          |          |       |                 |             |              |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CA8.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CC8.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CC8 // INVERSENET]]
