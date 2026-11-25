@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       2ae1c154-3865-4ffa-8feb-94a544741ec1
+:END:
+#+TITLE: FMV-LifeBook C6250
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-24
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook C6250* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:5c53c456-83d4-46bf-843f-aab714f42d29][C]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Модель выпускалась с октября 2007 г., пришла на смену модели [[id:ac538eaa-0541-4761-bd6d-ce4a909a2b43][C6240]] и стала последним поколением в серии C6xxx.
+
+* Общая спецификация
+
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.1" XGA 1024x768
+- HDD: Serial ATA/150
+- CD-проигрыватель: CD-ROM или DVD-ROM + CD-RW
+- Дисковод FDD
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 4, COM, LPT, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], FireWire
+- Слоты расширения: PCMCIA 1 x Type I/II
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Prof. SP2, Windows Vista Bus. или Home
+- Размеры: 333 x 285 x 32.6 мм
+- Вес: 3.2 кг
+
+** С процессором Celeron M
+
+- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]
+- Чипсет: Intel 943GML
+- Память:
+  - тип: PC2-5300 DDR2-533
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 2048 Мб
+
+** С процессором Core 2 Duo
+
+- Процессор: Intel [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]
+- Чипсет: Intel 945GM
+- Память:
+  - тип: PC2-5300 DDR2-667
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 4096 Мб
+
+* Модели
+
+| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-C6250 | FMVXNVR50 | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C6250 | FMVXNGR50 | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows Vista Home |  2007-10-12 |      2007-10 |
+| FMV-C6250 | FMVXNAR51 | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows Vista Bus. |  2007-10-12 |      2007-10 |
+| FMV-C6250 | FMVXNVS51 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C6250 | FMVXNAS71 | Core 2 Duo T5500, 1667 |      512 |       80 |  15.1 | Windows Vista Bus. |  2007-10-12 |      2007-10 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNVR50.html][FMV-LIFEBOOK FMV-C6250 FMVXNVR50 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNGR50.html][FMV-LIFEBOOK FMV-C6250 FMVXNGR50 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNAR51.html][FMV-LIFEBOOK FMV-C6250 FMVXNAR51 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNVS51.html][FMV-LIFEBOOK FMV-C6250 FMVXNVS51 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNAS71.html][FMV-LIFEBOOK FMV-C6250 FMVXNAS71 // INVERSENET]]

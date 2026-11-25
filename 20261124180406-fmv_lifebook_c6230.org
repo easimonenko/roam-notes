@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       441f6043-bd0e-411a-a133-a824774f7ac3
+:END:
+#+TITLE: FMV-LifeBook C6230
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-24
+#+FILETAGS: :fujitsu:fmv-lifebook:
+
+*FMV-LifeBook C6230* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] линейки [[id:5c53c456-83d4-46bf-843f-aab714f42d29][C]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Модель выпускалась с февраля 2007 г. и пришла на смену модели [[id:85d4bab0-ab4e-4ed7-80a6-e334ddb70ae4][C6220]]. В апреле 2007 г. была заменена на поколение [[id:ac538eaa-0541-4761-bd6d-ce4a909a2b43][C6240]].
+
+* Общая спецификация
+
+- Процессор: Intel [[id:b9b708f2-008c-4cfb-839f-868b34cb0909][Celeron M]] или [[id:b801f19a-fe50-4216-bcae-b4beb468254e][Core Duo]] с ядром [[id:902f9a72-debc-4854-bf14-fdb0ca8c9b67][Yonah]]
+- Чипсет: ATI [[roam:Radeon Xpress 200M]]
+- Память:
+  - тип: PC2-4200 DDR2-533
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 2
+  - максимальный объём: 2048 Мб
+- Видеокарта: [[id:b72bea55-0946-40f8-bbe8-09d38dd2e666][встроенная]]
+- Дисплей: 15.1" XGA 1024x768
+- HDD: Ultra ATA/100
+- CD-проигрыватель: DVD-ROM + CD-RW
+- Дисковод FDD
+- Сеть: Ethernet 1000BASE-T/100BASE-TX/10BASE-T
+- Внешний интерфейс: [[id:9678b4c3-012a-497d-b353-afd57d7f7780][USB]] x 3, COM, LPT, [[id:8ae452fc-0da3-4599-8f8f-5d6c57a5f931][VGA]], FireWire
+- Слоты расширения: PCMCIA 1 x Type I/II, [[id:7e852c3b-1fc1-451d-a592-8614f922b8e0][ExpressCard]] x 1
+- Card Reader: SD
+- Внешний дисплей: UXGA 1600x1200
+- Операционная система: Windows XP Prof. SP2, Windows Vista Bus.
+- Размеры: 329 x 283 x 40 мм
+- Вес: 3.6 кг
+
+* Модели
+
+| Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+-----------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-C6230 | FMVXNND51 | Celeron M 430, 1733   |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-01-16 |      2007-02 |
+| FMV-C6230 | FMVXNAD71 | Celeron M 430, 1733   |      512 |       80 |  15.1 | Windows Vista Bus. |  2007-01-16 |      2007-02 |
+| FMV-C6230 | FMVXNNC51 | Core Duo T2300, 1667  |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-01-16 |      2007-02 |
+| FMV-C6230 | FMVXNAC71 | Core Duo T2300, 1667  |      512 |       80 |  15.1 | Windows Vista Bus. |  2007-01-16 |      2007-02 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNND51.html][FMV-LIFEBOOK FMV-C6230 FMVXNND51 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNAD71.html][FMV-LIFEBOOK FMV-C6230 FMVXNAD71 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNNC51.html][FMV-LIFEBOOK FMV-C6230 FMVXNNC51 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVXNAC71.html][FMV-LIFEBOOK FMV-C6230 FMVXNAC71 // INVERSENET]]

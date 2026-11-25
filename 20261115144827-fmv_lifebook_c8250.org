@@ -23,7 +23,7 @@
 - Внешний дисплей: UXGA 1600x1200
 - Операционная система: Windows XP Home SP2, XP Prof. SP2, Vista Bus.
 - Размеры: 333 x 285 x 32.6 мм
-- Вес: 2.9 кг
+- Вес: 2.9-3.0 кг
 
 ** С процессором Celeron M
 
@@ -33,16 +33,51 @@
   - тип: PC2-5300
   - максимальный объём: 2048 Мб
 
+** С процессором Core 2 Duo
+
+- Процессор: Intel [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]
+- Чипсет: Intel 945GM
+- Память:
+  - тип: PC2-5300
+  - максимальный объём: 4096 Мб
+
 * Модификации
 
-| Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная     |        Дата |  Дата начала |
-|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система          | презентации | производства |
-|-----------+-----------+-----------------------+----------+----------+-------+------------------+-------------+--------------|
-| FMV-C8250 | FMVNC6DE8 | Celeron M 530, 1733   |      512 |       40 |  15.1 | Windows XP Home  |  2007-10-12 |      2007-10 |
-| FMV-C8250 | FMVNC6DEC | Celeron M 530, 1733   |      512 |       40 |  15.1 | Windows XP Prof. |  2007-10-12 |      2007-10 |
-|           |           |                       |          |          |       |                  |             |              |
+| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-C8250 | FMVNC6DA8 | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows XP Home    |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6DA3 | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6DA4 | Celeron M 530, 1733    |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6DAC | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6DE8 | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows XP Home    |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6DE3 | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6DE4 | Celeron M 530, 1733    |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6DEC | Celeron M 530, 1733    |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BA8 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.1 | Windows XP Home    |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BA3 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BA4 | Core 2 Duo T5500, 1667 |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BAC | Core 2 Duo T5500, 1667 |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BE8 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.1 | Windows XP Home    |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BE3 | Core 2 Duo T5500, 1667 |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BE4 | Core 2 Duo T5500, 1667 |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-10-12 |      2007-10 |
+| FMV-C8250 | FMVNC6BEC | Core 2 Duo T5500, 1667 |      512 |       40 |  15.1 | Windows XP Prof.   |  2007-10-12 |      2007-10 |
 
 * Resources
 
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DA8.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DA3.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DA4.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DA4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DAC.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DAC // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DE8.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DE8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DE3.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DE3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DE4.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DE4 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6DEC.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6DEC // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BA8.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BA3.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BA4.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BA4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BAC.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BAC // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BE8.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BE8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BE3.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BE3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BE4.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BE4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC6BEC.html][FMV-LIFEBOOK C FMV-C8250 FMVNC6BEC // INVERSENET]]

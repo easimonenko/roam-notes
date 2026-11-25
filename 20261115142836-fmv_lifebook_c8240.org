@@ -8,7 +8,7 @@
 #+DATE: 2026-11-15
 #+FILETAGS: :fujitsu:fmv-lifebook:
 
-*FMV-LifeBook C8240* -- пятое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:5c53c456-83d4-46bf-843f-aab714f42d29][C]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с мая 2007 г. и пришло на смену поколению [[id:5a170107-cc3c-4f8d-9ef7-a2657fbb632d][C8230]], представляя собой фактически немного улучшенного предшественника. В октябре 2007 г. было заменено на поколение C8250.
+*FMV-LifeBook C8240* -- пятое поколение моделей [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбуков]] в линейке [[id:5c53c456-83d4-46bf-843f-aab714f42d29][C]] марки [[id:b173be87-25da-4469-8cda-7d0fe6b4e364][FMV-LifeBook]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалось с мая 2007 г. и пришло на смену поколению [[id:5a170107-cc3c-4f8d-9ef7-a2657fbb632d][C8230]], представляя собой фактически немного улучшенного предшественника. В октябре 2007 г. было заменено на поколение [[id:b56cd94b-6f4e-4c31-a474-a3958c137a4d][C8250]].
 
 * Общая спецификация
 
@@ -33,16 +33,43 @@
   - тип: PC2-4200
   - максимальный объём: 2048 Мб
 
+** С процессором Core 2 Duo
+
+- Процессор: Intel [[id:4c108661-3bc5-4b44-84b1-f6cead6499ab][Core 2 Duo]] с ядром [[id:21bb4e7b-81ef-4b75-971a-d058b3421f42][Merom]]
+- Чипсет: Intel 945GM
+- Память:
+  - тип: PC2-5300
+  - максимальный объём: 4096 Мб
+
 * Модификации
 
-| Название  | P/N       | Процессор:            |    Объём |    Объём | Диаг. | Операционная    |        Дата |  Дата начала |
-|           |           | модель, частота (МГц) | RAM (Мб) | HDD (Гб) | дисп. | система         | презентации | производства |
-|-----------+-----------+-----------------------+----------+----------+-------+-----------------+-------------+--------------|
-| FMV-C8240 | FMVNC5CA8 | Celeron M 430, 1733   |      256 |       40 |  15.1 | Windows XP Home |  2007-04-12 |      2007-05 |
-| FMV-C8240 | FMVNC5CC8 | Celeron M 430, 1733   |      256 |       40 |  15.1 | Windows XP Home |  2007-04-12 |      2007-05 |
-|           |           |                       |          |          |       |                 |             |              |
+| Название  | P/N       | Процессор:             |    Объём |    Объём | Диаг. | Операционная       |        Дата |  Дата начала |
+|           |           | модель, частота (МГц)  | RAM (Мб) | HDD (Гб) | дисп. | система            | презентации | производства |
+|-----------+-----------+------------------------+----------+----------+-------+--------------------+-------------+--------------|
+| FMV-C8240 | FMVNC5CA8 | Celeron M 430, 1733    |      256 |       40 |  15.1 | Windows XP Home    |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5CA3 | Celeron M 430, 1733    |      256 |       40 |  15.1 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5CA4 | Celeron M 430, 1733    |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5CC8 | Celeron M 430, 1733    |      256 |       40 |  15.1 | Windows XP Home    |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5CC3 | Celeron M 430, 1733    |      256 |       40 |  15.1 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5CC4 | Celeron M 430, 1733    |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5BA8 | Core 2 Duo T5500, 1667 |      256 |       40 |  15.1 | Windows XP Home    |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5BA3 | Core 2 Duo T5500, 1667 |      256 |       40 |  15.1 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5BA4 | Core 2 Duo T5500, 1667 |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5BC8 | Core 2 Duo T5500, 1667 |      256 |       40 |  15.1 | Windows XP Home    |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5BC3 | Core 2 Duo T5500, 1667 |      256 |       40 |  15.1 | Windows XP Prof.   |  2007-04-12 |      2007-05 |
+| FMV-C8240 | FMVNC5BC4 | Core 2 Duo T5500, 1667 |     1024 |       40 |  15.1 | Windows Vista Bus. |  2007-04-12 |      2007-05 |
 
 * Resources
 
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CA8.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CA3.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CA4.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CA4 // INVERSENET]]
 - [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CC8.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CC8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CC3.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5CC4.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5CC4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5BA8.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5BA8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5BA3.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5BA3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5BA4.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5BA4 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5BC8.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5BC8 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5BC3.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5BC3 // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNC5BC4.html][FMV-LIFEBOOK C FMV-C8240 FMVNC5BC4 // INVERSENET]]
