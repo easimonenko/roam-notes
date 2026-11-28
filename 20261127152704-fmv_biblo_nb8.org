@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       55069418-8241-490c-a76c-40e936761133
+:END:
+#+TITLE: FMV-Biblo NB8
+#+AUTHOR: Evgeny Simonenko
+#+LANGUAGE: Russian
+#+LICENSE: CC BY-SA 4.0
+#+DATE: 2026-11-27
+#+FILETAGS: :fujitsu:fmv-biblo:
+
+*FMV-Biblo NB8* -- модель [[id:7b82dbec-e75c-41dc-ab47-185def5e980e][ноутбука]] потребительского класса марки [[id:b3ad9890-6f4f-45f3-9719-8767dc462ab3][FMV-Biblo]] компании [[id:6d3573f6-82f2-40ec-9d81-4212810cb937][Fujitsu]] для внутреннего рынка Японии. Выпускалась с октября 2001 г. и пришла на смену модели [[id:3510fbc5-9390-41b0-8145-3affde3ec1ad][NB7]]. В феврале 2002 г. была заменена на модель [[id:929b5609-96d7-454b-934b-15aec2c5810f][NB9]].
+
+* Общая спецификация
+
+- Память:
+  - тип: [[id:97913e30-bd96-47d4-acbe-fd047c1c5135][PC100]]
+  - объём: 256 Мб, распаяна на плате
+  - расширение: [[id:700f6cb8-8388-4b20-a53e-06a3f2ac01ba][SO-DIMM]] x 1
+- CD-проигрыватель: CD-RW/R/ROM или DVD-ROM + CD-RW
+- Дисковод FDD
+- Слоты расширения: PCMCIA 2 x Type I/II или 1 x Type III
+- Сетевые устройства:
+  - Ethernet 100BASE-TX/10BASE-T
+  - Модем V.90 56K
+- Внешние интерфесы: 4 x USB, FireWire S400, VGA, LPT
+- Разрешение внешнего дисплея: UXGA (1600x1200)
+- Операционная система: Windows XP Home
+- Программное обеспечение: Microsoft Office XP
+
+** С процессором Intel
+
+- Процессор: Intel [[id:e711ba12-cea4-4eae-9c34-984d09634718][Mobile Pentium III]] с ядром [[id:aa99089a-efe9-4c17-91aa-313334a264eb][Coppermine]]
+- Память:
+    - максимальный объём: 256 Мб
+- Видеокарта: ATI [[id:ae591f16-48c6-4da0-bbd8-a1fb3028a56b][RAGE Mobility-P]], 8 Мб
+- HDD: Ultra DMA/33
+
+** С процессором AMD
+
+- Процессор: AMD Mobile Duron
+- Память:
+    - максимальный объём: 384 Мб
+- Видеокарта: ATI RAGE Mobility-EC AGP, 4 Мб
+- HDD: Ultra DMA/66
+
+** С дисплеем 14.1"
+
+- Дисплей: 14.1" TFT XGA (1024x768)
+- Размеры: 308 x 268 x 36 мм
+- Вес: 3.2 кг
+
+** С дисплеем 15.0"
+
+- Дисплей: 15.0" TFT XGA (1024x768)
+- Размеры: 326 x 282 x 36 мм
+- Вес: 3.3 кг
+
+* Модификации
+
+| Название  | P/N       | Процессор:               |    Объём |    Объём | Диаг. | Операционная    |        Дата |  Дата начала |
+|           |           | модель, частота          | RAM (Мб) | HDD (Гб) | дисп. | система         | презентации | производства |
+|-----------+-----------+--------------------------+----------+----------+-------+-----------------+-------------+--------------|
+| NB8/900L  | FMVNB890L | Mobile Pentium III, 900  |      256 |       30 |  15.0 | Windows XP Home |  2001-10-23 |   2001-10-27 |
+| NB8/1000L | FMVNB810L | Mobile Pentium III, 1000 |      256 |       40 |  15.0 | Windows XP Home |  2001-10-23 |   2001-10-27 |
+| NB8/90DR  | FMVNB89DR | Mobile Duron, 900        |      256 |       30 |  14.1 | Windows XP Home |  2001-10-23 |   2001-10-27 |
+| NB8/90D   | FMVNB89D  | Mobile Duron, 900        |      256 |       30 |  14.1 | Windows XP Home |  2001-10-23 |   2001-10-27 |
+
+* Resources
+
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB890L.html][FMV-BIBLO NB8/900L FMVNB890L // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB810L.html][FMV-BIBLO NB8/1000L FMVNB810L // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB89DR.html][FMV-BIBLO NB8/90DR FMVNB89DR // INVERSENET]]
+- [[https://www.inversenet.co.jp/pclist/product/FUJITSU-note/FMVNB89D.html][FMV-BIBLO NB8/90D FMVNB89D // INVERSENET]]
